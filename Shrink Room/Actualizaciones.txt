@@ -1,0 +1,28 @@
+- Toggles were added to activate or deactivate the Scaling system.
+- A "Grab System" toggle was added (enabled by default, allowing other users to grab you).
+- A "Pick Escape" toggle was added (enabled by default, allowing you to escape if another player has grabbed you).
+- A "TP Elevators" toggle was added (enabled by default, providing access to teleporters).
+- A "Collision" toggle was added (enabled by default, activating collisions for certain objects).
+- A "Chair" toggle was added (enabled by default, granting access to all chairs from pickups).
+- Some lightgroups were adjusted (some users appeared too dark).
+- Some objects were removed and replaced.
+- More mirrors were added to the world.
+Other updates:
+- Work is ongoing to implement the climbing system.
+- Some toggles are being analyzed for convenience (some toggles may change to disabled by default in the future).
+- Chairs are still being tested.
+
+-----------------------------Spanish-----------------------------
+- Se añadieron toggles para activar o desactivar el sistema de escalado.
+- Se añadió un toggle "Grab System" (activado por defecto, permite que otros usuarios te puedan agarrar).
+- Se añadió un toggle "Pick Escape" (activado por defecto, puedes escapar en caso de que otro jugador te haya agarrado).
+- Se añadió un toggle "TP Elevators" (activado por defecto, puedes tener disponibles los TP).
+- Se añadió un toggle "Collision" (activado por defecto, las colisiones de algunos objetos están activas).
+- Se añadió un toggle "Chair" (activado por defecto, tienes todas las sillas de todos los pickups).
+- Se arreglaron algunos lightgroups (algunos usuarios se veían muy oscuros).
+- Se eliminaron y cambiaron algunos objetos.
+- Se añadieron más espejos en el mundo.
+Otras noticias:
+- Aún se sigue trabajando para agregar el sistema de trepar.
+- Se sigue analizando algunos toggles en búsqueda de comodidad (en el futuro algunos toggles pueden cambiar a por desactivados por defecto).
+- Se sigue testeando las sillas.
