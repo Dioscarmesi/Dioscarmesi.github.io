@@ -1,19 +1,14 @@
 Gracias por su retroalimentación. Hemos realizado varios cambios en el proyecto:
 
-- Se ajustó el rango de los elementos recolectables (Pickups).
-- Se modificó el área de activación de las sillas.
-- Se añadió la Raygun Shrink, que permite ajustar el tamaño.
-- Se incorporaron dos botones funcionales en la primera columna a la izquierda, los cuales desactivan correctamente las funciones del sistema de agarre (Grab system). También se está probando un tercer botón.
-- Se realizaron ajustes en las colisiones del menú de opciones.
+- Se ha implementado un sistema para trepar superficies y jugadores.
+- Además, se ha añadido un nuevo botón que desactiva la capacidad de agarrar a otros usuarios.
+- También se ha incluido un botón para desactivar el sistema de trepar.
 
-Continuamos trabajando en un sistema de escalada (Climbing system) totalmente funcional para PC y Quest.
 ---------------------------------------English---------------------------------------
 Thank you for your feedback. We have made several changes to the project:
 
-- The range of Pickups has been adjusted.
-- The trigger area of the chairs has been modified.
-- The Raygun Shrink has been added (to grow or shrink in size).
-- Two functional buttons have been added (the first column from the left) that correctly turn off the functions of the Grab system. There is a third button, but it is still being tested.
-- Collisions of the options menu have been modified.
+- A climbing system for surfaces and players has been added.
+- A new button has been added to disable grabbing users.
+- A button to deactivate the climbing system has been added.
 
 We are continuing to work on a Climbing system that is fully functional for both PC and Quest.
