@@ -1,2 +1,16 @@
-inauguration of the map on March 21
-inauguración del mapa el 21 de marzo
+Important update: "The Midnight Luxury" is a map constantly undergoing updates. We continue to work to provide a great experience.
+
+In this update, the following features have been added to "The Midnight Luxury":
+- Audiolink.
+- Colliders.
+- Toggles.
+- Collars.
+- Keypad.
+- Some visual corrections.
+
+In the future, we plan to add the following:
+- Minigames.
+- Arcades.
+- Cinema.
+
+If you have any suggestions or want to report a bug in the map, you can do so through our official Discord.
