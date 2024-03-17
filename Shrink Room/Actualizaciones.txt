@@ -10,4 +10,4 @@ Thank you for your feedback. We have made several changes to the project:
 - Increased the rendering field for far and near distances.
 - Shoes were added.
 
-We are continuing to work on a Climbing system that is fully functional for both PC and Quest.
+I will continue working on the map, I know there are more bugs now but I promise to fix it. I hope to have this map ready in May
