@@ -1,13 +1,15 @@
 Gracias por su retroalimentación. Hemos realizado varios cambios en el proyecto:
 
-- se cambio la escala de un 15% a un 50%.
-- se aumento el campo de renderizado para distancias lejanas y cercanas.
-- Se agrego zapatos.
+- se agrego botones directos para Discord, Patreon y el VRCgroup.
+- Proxima actualizacion nueva AREA para mas informacion accedan al Discord.
+- se agrego Toggles para el espejo principal para tinys y Giantess.
+- Mundo NSFW disponible para usuarios VIPS.
 ---------------------------------------English---------------------------------------
 Thank you for your feedback. We have made several changes to the project:
 
-- The scale was changed from 15% to 50%.
-- Increased the rendering field for far and near distances.
-- Shoes were added.
+- Added direct buttons for Discord, Patreon and VRCgroup.
+- Next update new AREA for more information access the Discord.
+- Added toggles for the main mirror for small and giant.
+- NSFW world available for VIPS users.
 
 I will continue working on the map, I know there are more bugs now but I promise to fix it. I hope to have this map ready in May
