@@ -1,10 +1,6 @@
 Important update: "The Midnight Luxury" is a map constantly undergoing updates. We continue to work to provide a great experience.
-
-In future updates we will bring to the map
-- The vip zone
-- A pool
-- A karaoke
-- Games for arcade machines
-- Some visual corrections.
-
+- A new VIP Zone and exclusive rooms with individual Videoplayer have been added.
+- Videoplayers have been removed from public rooms.
+- The free VIP code has been removed.
+- A DJ ROLE has been created where users who want to throw parties can exclusively use the DJ Stage on the public map, (contact the map owners to obtain the ROLE).
 The map is updated every thursday if you have any suggestions for the map let us know through the official discord group.
