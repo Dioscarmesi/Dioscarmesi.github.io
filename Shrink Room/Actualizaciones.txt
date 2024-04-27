@@ -1,15 +1,13 @@
 Gracias por su retroalimentación. Hemos realizado varios cambios en el proyecto:
 
-- se agrego botones directos para Discord, Patreon y el VRCgroup.
-- Proxima actualizacion nueva AREA para mas informacion accedan al Discord.
-- se agrego Toggles para el espejo principal para tinys y Giantess.
-- Mundo NSFW disponible para usuarios VIPS.
+- se ha cambiado el sistema de scaling.
+- el sistema de climbing se pasa por defecto desactivado.
+- se agregaron 2 botones que uno habilita las sillas y el otro habilita los pikucps
 ---------------------------------------English---------------------------------------
 Thank you for your feedback. We have made several changes to the project:
 
-- Added direct buttons for Discord, Patreon and VRCgroup.
-- Next update new AREA for more information access the Discord.
-- Added toggles for the main mirror for small and giant.
-- NSFW world available for VIPS users.
+- The scaling system has been changed.
+- The climbing system is disabled by default.
+- 2 buttons were added that one enables the chairs and the other enables the pickups
 
 I will continue working on the map, I know there are more bugs now but I promise to fix it. I hope to have this map ready in May
