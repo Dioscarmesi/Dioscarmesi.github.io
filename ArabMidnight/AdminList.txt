@@ -8,5 +8,4 @@ SN8R
 --LIST_2_END--
 Kirai Chan!
 xKirai Chan
-Kirai Chan!!
 --LIST_3_END--
