@@ -108,7 +108,7 @@ URL Ranks by DiscoPeligro.
 		"zulay",
 		"Tokyo_cecil",
 	],
-	"VIPCari": [
+	"VIP": [
 		"--------------------------BAR------------------------------------",
 		"El_CADEJO_SV",
 		"Null",
