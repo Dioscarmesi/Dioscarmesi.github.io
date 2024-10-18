@@ -59,8 +59,14 @@ URL Ranks by DiscoPeligro.
 		"Kittybodyart c9db",
 		"shoyu_irezumi",
 		"Lûçî",
-		"Dobermoon"],
-	"Exclusive": ["ESPACIODISPONIBLE"],
+		"Dobermoon"
+		],
+	"DancerGuest":[
+		"ESPACIODISPONIBLE"
+		],
+	"Exclusive": [
+		"ESPACIODISPONIBLE"
+		],
 	"Partner": [
 		"--------------------------USAGI------------------------------------",
 		"ᴜѕᴀɢɪᴠʀ",
