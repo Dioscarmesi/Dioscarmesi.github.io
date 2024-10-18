@@ -22,7 +22,7 @@ URL Ranks by DiscoPeligro.
 		"Drech301",
 		"Angela Angelika",
 		"SgtoChera",
-		Rofnyk,
+		"Rofnyk",
 		],
 	"DJ": [
 		"Ryuk0",
@@ -59,13 +59,13 @@ URL Ranks by DiscoPeligro.
 		"Dobermoon"],
 	"Exclusive": [""],
 	"Partner": [
-		"--------------------------USAGI------------------------------------"
+		"--------------------------USAGI------------------------------------",
 		"ᴜѕᴀɢɪᴠʀ",
 		"innari",
-		"Fer VR ඞ"
-		"Null"
-		"Null"
-		"--------------------------Alucines------------------------------------"
+		"Fer VR ඞ",
+		"Null",
+		"Null",
+		"--------------------------Alucines------------------------------------",
 		"๛ザビエル",
 		"E-risz",
 		"Αητοηειια",
@@ -79,14 +79,14 @@ URL Ranks by DiscoPeligro.
 		"XionWolf V",
 		"Fluffy_kiwi",
 		"SymphonyOwU",
-		"Null"
+		"Null",
 		"--------------------------GohanVR------------------------------------",
 		"Gohan_Beatbox",
 		"shoyu_irezumi",
 		"Luzbel_Star1",
 		"Mimi_8w8",
 		"Null",
-		"฿Ɇ₭Ø 忠",
+		"฿Ɇ₭Ø 忠"
 		],
 	"Friends":[
 		"Jevead",
@@ -106,7 +106,7 @@ URL Ranks by DiscoPeligro.
 		"NellyNou",
 		"ҜatherineThiler",
 		"zulay",
-		"Tokyo_cecil",
+		"Tokyo_cecil"
 	],
 	"VIP": [
 		"--------------------------BAR------------------------------------",
