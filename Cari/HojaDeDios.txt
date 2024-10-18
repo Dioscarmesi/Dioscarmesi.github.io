@@ -28,6 +28,9 @@ URL Ranks by DiscoPeligro.
 		"Ryuk0",
 		"venadoparlante․"
 		],
+	"DancerCapitan": [
+		"DakYng"
+		],
 	"Dancer": [
 		"BLValkyrie",
 		"Jeffsito7u7VR",
