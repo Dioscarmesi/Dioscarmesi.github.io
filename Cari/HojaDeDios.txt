@@ -232,6 +232,5 @@
 		"GabrielaZeroTwo",
 		"G H Ø S T Y",
 		"ʙᴀʙʏ ᴛᴀɪᴄʜᴜ",
-		"Martguzz",
-		"ESP
+		"Martguzz"
 ]
