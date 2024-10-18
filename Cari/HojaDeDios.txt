@@ -1,3 +1,4 @@
+URL Ranks by DiscoPeligro.
 {
 	"Admin": ["Peligroso",
 		"UnHada",
