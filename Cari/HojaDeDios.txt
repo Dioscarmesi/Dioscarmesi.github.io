@@ -1,0 +1,12 @@
+URL Ranks by DiscoPeligro.
+{
+	"Admin": ["Peligroso",
+		"UnHada",
+		"NosticChop"],
+	"Mod": ["ElTio"],
+	"DJ": ["LaJuana",
+		"DiscoPeligro"],
+	"Dancer": ["Benito"],
+	"Exclusive": ["LaVtuber"],
+	"VIP": ["ʚ˚․ ᴀʀɪ ․˚ɞ","~вαмвαм~","Dante願望","『 Lobo 』","G H Ø S T Y"]
+}
