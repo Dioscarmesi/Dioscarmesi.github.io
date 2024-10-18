@@ -7,10 +7,6 @@ URL Ranks by DiscoPeligro.
 		"Strikkеrz",
 		"FoxSteel",
 		"M4R_quitos 123",
-		],
-	"DJ": [
-		"Ryuk0",
-		"venadoparlante․",
 		"Ledo0187",
 		"Warline10",
 		"MarlonQC",
@@ -27,6 +23,10 @@ URL Ranks by DiscoPeligro.
 		"Angela Angelika",
 		"SgtoChera",
 		Rofnyk,
+		],
+	"DJ": [
+		"Ryuk0",
+		"venadoparlante․",
 		],
 	"Dancer": [
 		"BLValkyrie",
