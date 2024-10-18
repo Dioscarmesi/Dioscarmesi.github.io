@@ -179,5 +179,5 @@ URL Ranks by DiscoPeligro.
 		"BeckaBeth",
 		"JavierESP01",
 		"--------------------------Parejas Extras--------------------------------",
-		"кαι-"],
+		"кαι-"]
 }
