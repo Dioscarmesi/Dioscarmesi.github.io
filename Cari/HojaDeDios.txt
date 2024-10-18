@@ -242,6 +242,22 @@ URL Ranks by DiscoPeligro.
 		"GabrielaZeroTwo",
 		"G H Ø S T Y",
 		"ʙᴀʙʏ ᴛᴀɪᴄʜᴜ",
-		"Martguzz"
+		"Martguzz",
+		"ESPACIODISPONIBLE",
+		"Chubas18",
+		"lapatronah",
+		"ZuriMC",
+		"ESPACIODISPONIBLE",
+		"xyurixx",
+		"huenuvt",
+		"Deıssʏ",
+		"ESPACIODISPONIBLE",
+		"MartianKnown".
+		"Shοka",
+		"ESPACIODISPONIBLE",
+		"RED_LION",
+		"BeckaBeth",
+		"JavierESP01",
+		"ESPACIODISPONIBLE"
 		]
 }
