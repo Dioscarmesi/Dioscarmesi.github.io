@@ -57,7 +57,7 @@ URL Ranks by DiscoPeligro.
 		"shoyu_irezumi",
 		"Lûçî",
 		"Dobermoon"],
-	"Exclusive": [""],
+	"Exclusive": ["Null"],
 	"Partner": [
 		"--------------------------USAGI------------------------------------",
 		"ᴜѕᴀɢɪᴠʀ",
