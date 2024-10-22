@@ -179,7 +179,10 @@ URL Ranks by DiscoPeligro.
 		"ShadyBelca",
 		"Chasito Furry",
 		"GreyScratch",
-		"ESPACIODISPONIBLE",
+		"Albert-0129",
+		"BannedWolf_",
+		"_Mayoneso_",
+		"【Kemono】",
 		"ESPACIODISPONIBLE"
 		]
 }
