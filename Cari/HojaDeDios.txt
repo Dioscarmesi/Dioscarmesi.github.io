@@ -116,7 +116,6 @@ URL Ranks by DiscoPeligro.
 		"zulay",
 		"Tokyo_cecil"
 		"Naiiky",
-		"NellyNou",
 		"ESPACIODISPONIBLE"
 	],
 	"VIP": [
