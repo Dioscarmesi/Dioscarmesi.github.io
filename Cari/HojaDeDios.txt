@@ -182,6 +182,7 @@ URL Ranks by DiscoPeligro.
 		"K EN",
 		"Danisho",
 		"Lilith~E",
+		"xtimidosv",
 		"ecokun",
 		"Jxap",
 		"Yariimarie",
