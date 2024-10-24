@@ -115,6 +115,7 @@ URL Ranks by DiscoPeligro.
 		"ҜatherineThiler",
 		"zulay",
 		"Tokyo_cecil"
+		"Naiiky",
 	],
 	"VIP": [
 		"--------------------------BAR------------------------------------",
