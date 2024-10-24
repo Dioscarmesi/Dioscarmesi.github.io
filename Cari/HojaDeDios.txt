@@ -256,7 +256,7 @@ URL Ranks by DiscoPeligro.
 		"Deıssʏ",
 		"ESPACIODISPONIBLE",
 		"MartianKnown".
-		"xJAVI87x c72b",
+		"JAVI87",
 		"Shοka",
 		"ESPACIODISPONIBLE",
 		"RED_LION",
