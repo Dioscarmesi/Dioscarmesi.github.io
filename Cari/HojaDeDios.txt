@@ -149,7 +149,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"EragonMarPR",
 		"ESPACIODISPONIBLE",
-		"B-Rabbit兎",
+		"Beezzum",
 		"ESPACIODISPONIBLE",
 		"bonilla_VRX",
 		"Michi_VRX",
