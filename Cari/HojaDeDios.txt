@@ -190,7 +190,7 @@ URL Ranks by DiscoPeligro.
 		"Danisho",
 		"Lilith~E",
 		"xtimidosv",
-		"Lonshin Nocod",
+		"LonshinNocod",
 		"ESPACIODISPONIBLE",
 		"Yariimarie",
 		"ESPACIODISPONIBLE",
