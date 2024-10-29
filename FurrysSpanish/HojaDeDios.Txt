@@ -3,6 +3,9 @@ URL Ranks by DiscoPeligro.
 	"Admin": ["Peligroso",
 		"UnHada",
 		"NosticChop"],
+	"VipManager": [
+		"Naiiky"
+		],
 	"Mod": [
 		"Strikkеrz",
 		"FoxSteel",
@@ -27,6 +30,10 @@ URL Ranks by DiscoPeligro.
 	"DJ": [
 		"Ryuk0",
 		"venadoparlante․"
+		],
+	"VRCPlayers": [
+		"Ξｚｚｚ 欧え",
+		"༒ Anónimo ༒"
 		],
 	"DancerCapitan": [
 		"DakYng"
