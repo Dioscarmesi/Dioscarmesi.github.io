@@ -247,7 +247,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"Akino Happy",
 		"chamwis300",
-		"Krustier",
+		"キャリーSurprise",
 		"GabrielaZeroTwo",
 		"Violet Himiko",
 		"YAN_A",
