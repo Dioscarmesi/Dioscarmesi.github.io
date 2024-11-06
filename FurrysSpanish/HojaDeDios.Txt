@@ -29,6 +29,7 @@ URL Ranks by DiscoPeligro.
 		],
 	"DJ": [
 		"Ryuk0",
+		"kevtauri_kick",
 		"venadoparlante․"
 		],
 	"VRCPlayers": [
@@ -182,7 +183,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"Daiki-ito9751",
 		"ESPACIODISPONIBLE",
-		"kevtauri_kick",
+		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"Joaquin_2013",
 		"ShadyBelca",
