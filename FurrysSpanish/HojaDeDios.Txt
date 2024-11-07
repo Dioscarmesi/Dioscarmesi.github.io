@@ -190,9 +190,7 @@ URL Ranks by DiscoPeligro.
 		"ShadyBelca",
 		"Chasito Furry",
 		"GreyScratch",
-		"_Mayoneso_",
-		"【Kemono】",
-		"ESPACIODISPONIBLE"
+		"ESPACIODISPONIBLE",
 		"-------------------------------------------------------------SegundoPiso -------------------------------------",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
@@ -212,6 +210,8 @@ URL Ranks by DiscoPeligro.
 		"Achiu",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
+		"_Mayoneso_",
+		"【Kemono】",
 		"ESPACIODISPONIBLE"
 		]
 }
