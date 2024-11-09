@@ -130,9 +130,7 @@ URL Ranks by DiscoPeligro.
 		"Chaos Spectrum",
 		"yuniジ",
 		"NellyNou",
-		"ҜatherineThiler",
-		"zulay",
-		"Tokyo_cecil"
+		"zulay"
 	],
 	"VIPFurrys": [
 		"-------------------------------------------------------------Spawn------------------------------------------",
