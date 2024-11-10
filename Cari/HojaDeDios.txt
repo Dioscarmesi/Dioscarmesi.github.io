@@ -112,7 +112,6 @@ URL Ranks by DiscoPeligro.
 		"NYADETH",
 		"yuniジ",
 		"NellyNou",
-		"ҜatherineThiler",
 		"zulay",
 		"Tokyo_cecil"
 		"Naiiky",
@@ -157,7 +156,7 @@ URL Ranks by DiscoPeligro.
 		"Inyels",
 		"Shoツ",
 		"--------------------------Stage----------------------------------",
-		"Marii․Juana 2203",
+		"Marii~Juana",
 		"PinkxSweeetxx",
 		"Chubas18",
 		"ESPACIODISPONIBLE",
@@ -259,7 +258,7 @@ URL Ranks by DiscoPeligro.
 		"xyurixx",
 		"huenuvt",
 		"Deıssʏ",
-		"ESPACIODISPONIBLE",
+		"shoyo__3",
 		"MartianKnown",
 		"JAVI87",
 		"natalia․lee․pr",
@@ -269,6 +268,6 @@ URL Ranks by DiscoPeligro.
 		"RED_LION",
 		"BeckaBeth",
 		"JavierESP01",
-		"ESPACIODISPONIBLE"
+		"Jordisito"
 		]
 }

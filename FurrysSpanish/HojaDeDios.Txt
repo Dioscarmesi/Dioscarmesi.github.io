@@ -130,9 +130,7 @@ URL Ranks by DiscoPeligro.
 		"Chaos Spectrum",
 		"yuniジ",
 		"NellyNou",
-		"ҜatherineThiler",
-		"zulay",
-		"Tokyo_cecil"
+		"zulay"
 	],
 	"VIPFurrys": [
 		"-------------------------------------------------------------Spawn------------------------------------------",
@@ -148,7 +146,7 @@ URL Ranks by DiscoPeligro.
 		"-------------------------------------------------------------PasilloSpawn------------------------------------",
 		"Mili_VRx",
 		"Dante願望",
-		"ESPACIODISPONIBLE",
+		"GloomyFurry",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
@@ -156,7 +154,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"N y x ღ",
 		"SilverFenris",
-		"DiegoFox e21f",
+		"NekuhFox",
 		"ESPACIODISPONIBLE",
 		"Crepcy_UltraEpc",
 		"Deyler Rackzon",
