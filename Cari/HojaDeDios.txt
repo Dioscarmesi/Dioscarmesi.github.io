@@ -265,9 +265,9 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"Shοka",
 		"ESPACIODISPONIBLE",
-		"RED_LION",
-		"BeckaBeth",
 		"JavierESP01",
+		"WeritaLinda_98",
+		"papiandyking",
 		"Jordisito"
 		]
 }
