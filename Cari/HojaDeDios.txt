@@ -177,7 +177,7 @@ URL Ranks by DiscoPeligro.
 		"ᴿᴬᵛᴱᴺᴺ",
 		"『 Lobo 』",
 		"'Setty'",
-		"Morubax",
+		"NIGHTM4R3_uwu",
 		"--------------------------PasilloVip--------------------------------",
 		"SpiderJossi",
 		"ʚCLASSISTɞ",
@@ -268,6 +268,7 @@ URL Ranks by DiscoPeligro.
 		"JavierESP01",
 		"WeritaLinda_98",
 		"papiandyking",
+		"MKIINANO",
 		"Jordisito"
 		]
 }
