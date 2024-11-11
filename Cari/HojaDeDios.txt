@@ -266,6 +266,8 @@ URL Ranks by DiscoPeligro.
 		"Shοka",
 		"ESPACIODISPONIBLE",
 		"JavierESP01",
+		"WeritaLinda_98",
+		"papiandyking",
 		"Jordisito"
 		]
 }
