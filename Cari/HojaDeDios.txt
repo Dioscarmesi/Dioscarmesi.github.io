@@ -273,6 +273,7 @@ URL Ranks by DiscoPeligro.
 		"Shiinzo_e",
 		"BebesitaShey 680e",
 		"Rayo_95 d812",
+		"Akino Happy",
 		"Jordisito"
 		]
 }
