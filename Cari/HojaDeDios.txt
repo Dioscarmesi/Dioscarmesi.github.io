@@ -269,6 +269,8 @@ URL Ranks by DiscoPeligro.
 		"WeritaLinda_98",
 		"papiandyking",
 		"MKIINANO",
+		"DrakkX12",
+		"Shiinzo_e",
 		"Jordisito"
 		]
 }
