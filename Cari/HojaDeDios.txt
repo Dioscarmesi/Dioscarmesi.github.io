@@ -271,6 +271,8 @@ URL Ranks by DiscoPeligro.
 		"MKIINANO",
 		"DrakkX12",
 		"Shiinzo_e",
+		"BebesitaShey 680e",
+		"Rayo_95 d812",
 		"Jordisito"
 		]
 }
