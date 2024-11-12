@@ -136,7 +136,7 @@ URL Ranks by DiscoPeligro.
 		"ItsAverageRukah",
 		"ESPACIODISPONIBLE",
 		"HERACLES742",
-		"wolfy03",
+		"Mamiwolfy",
 		"mikuhat",
 		"Ezer_",
 		"༄Leveling࿐",
@@ -269,6 +269,11 @@ URL Ranks by DiscoPeligro.
 		"WeritaLinda_98",
 		"papiandyking",
 		"MKIINANO",
+		"DrakkX12",
+		"Shiinzo_e",
+		"BebesitaShey 680e",
+		"Rayo_95 d812",
+		"Akino Happy",
 		"Jordisito"
 		]
 }
