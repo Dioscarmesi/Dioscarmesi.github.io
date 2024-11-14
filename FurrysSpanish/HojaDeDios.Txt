@@ -25,11 +25,11 @@ URL Ranks by DiscoPeligro.
 		"Drech301",
 		"Angela Angelika",
 		"SgtoChera",
+		"kevtauri_kick",
 		"Rofnyk"
 		],
 	"DJ": [
 		"Ryuk0",
-		"kevtauri_kick",
 		"venadoparlante․"
 		],
 	"VRCPlayers": [
