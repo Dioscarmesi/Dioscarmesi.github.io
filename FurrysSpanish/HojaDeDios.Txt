@@ -25,11 +25,11 @@ URL Ranks by DiscoPeligro.
 		"Drech301",
 		"Angela Angelika",
 		"SgtoChera",
+		"kevtauri_kick",
 		"Rofnyk"
 		],
 	"DJ": [
 		"Ryuk0",
-		"kevtauri_kick",
 		"venadoparlante․"
 		],
 	"VRCPlayers": [
@@ -137,7 +137,7 @@ URL Ranks by DiscoPeligro.
 		"ZeroNinetales",
 		"Bludrian",
 		"Drech301",
-		"ESPACIODISPONIBLE",
+		"edithhbonita",
 		"Sanssha",
 		"ESPACIODISPONIBLE",
 		"GUILEAS",
@@ -150,7 +150,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"Flerz55",
 		"JHONWICK077",
-		"ESPACIODISPONIBLE",
+		"_Gato",
 		"ESPACIODISPONIBLE",
 		"N y x ღ",
 		"SilverFenris",
