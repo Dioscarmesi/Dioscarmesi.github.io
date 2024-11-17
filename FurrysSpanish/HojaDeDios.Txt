@@ -173,7 +173,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"-------------------------------------------------------------SalonPrincipal-------------------------------------",
 		"Tenko1747 191a",
-		"ESPACIODISPONIBLE",
+		"WildPaws",
 		"Yellow titan0918 8284",
 		"ESPACIODISPONIBLE",
 		"_Viscochin_",
