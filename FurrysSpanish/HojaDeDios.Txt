@@ -188,7 +188,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"-------------------------------------------------------------SegundoPiso -------------------------------------",
-		"ESPACIODISPONIBLE",
+		"koburo",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
