@@ -275,6 +275,8 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"Akino Happy",
 		"_Gato",
+		"Brenda~",
+		"ESPACIODISPONIBLE",
 		"Jordisito"
 		]
 }
