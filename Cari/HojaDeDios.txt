@@ -270,11 +270,13 @@ URL Ranks by DiscoPeligro.
 		"papiandyking",
 		"MKIINANO",
 		"DrakkX12",
-		"Shiinzo_e",
+		"Legendryfo",
 		"BebesitaShey 680e",
-		"Rayo_95 d812",
+		"ESPACIODISPONIBLE",
 		"Akino Happy",
 		"_Gato",
+		"Brenda~",
+		"eduarx",
 		"Jordisito"
 		]
 }
