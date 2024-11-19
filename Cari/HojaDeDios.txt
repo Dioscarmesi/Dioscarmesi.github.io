@@ -31,6 +31,9 @@ URL Ranks by DiscoPeligro.
 	"DancerCapitan": [
 		"DakYng"
 		],
+	"DancerCari": [
+		"ESPACIODISPONIBLE"
+		],
 	"Dancer": [
 		"BLValkyrie",
 		"Jeffsito7u7VR",
@@ -62,6 +65,9 @@ URL Ranks by DiscoPeligro.
 		"Dobermoon"
 		],
 	"DancerGuest":[
+		"Ezer_",
+		"Tadashi_24",
+		"RensellaVT",
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
@@ -106,16 +112,14 @@ URL Ranks by DiscoPeligro.
 		"yuni~little",
 		"CHERNOBYLVT",
 		"Uni ウサギ",
-		"RensellaVT",
 		"Nuniˎ星ˊ˗",
 		"SrKiller",
 		"NYADETH",
 		"yuniジ",
 		"NellyNou",
 		"zulay",
-		"Tokyo_cecil"
 		"Naiiky",
-		"ƝƛƓȺ★ƑʘɌȾ"
+		"ƝƛƓȺ★ƑʘɌȾ",
 		"ESPACIODISPONIBLE"
 	],
 	"VIP": [
