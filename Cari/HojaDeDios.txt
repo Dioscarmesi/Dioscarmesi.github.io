@@ -29,7 +29,8 @@ URL Ranks by DiscoPeligro.
 		"venadoparlante․"
 		],
 	"DancerCapitan": [
-		"DakYng"
+		"DakYng",
+		"ღItzAkaneღ"
 		],
 	"DancerCari": [
 		"ESPACIODISPONIBLE"
