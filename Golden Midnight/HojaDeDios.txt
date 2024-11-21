@@ -1,8 +1,6 @@
 URL Ranks by DiscoPeligro.
 {
-"Admin": ["Peligroso",
-	"DiosCarmesі",
-	"DakYng",
+"Admin": ["DakYng",
         "》Akali《",
         "Dios Carmesi",
         "RensellaVT",
