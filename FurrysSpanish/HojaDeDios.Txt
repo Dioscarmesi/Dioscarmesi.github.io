@@ -4,7 +4,8 @@ URL Ranks by DiscoPeligro.
 		"UnHada",
 		"NosticChop"],
 	"VipManager": [
-		"Naiiky"
+		"Naiiky",
+		"Silly meow"
 		],
 	"Mod": [
 		"Strikkеrz",
