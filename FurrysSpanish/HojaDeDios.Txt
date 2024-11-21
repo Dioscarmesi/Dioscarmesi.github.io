@@ -131,6 +131,7 @@ URL Ranks by DiscoPeligro.
 		"Chaos Spectrum",
 		"yuniジ",
 		"NellyNou",
+		"WolfDaver",
 		"zulay"
 	],
 	"VIPFurrys": [
