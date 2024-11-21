@@ -1,6 +1,6 @@
 URL Ranks by DiscoPeligro.
 {
-	"Admin": ["Peligroso",
+"Admin": ["Peligroso",
 		        "DiosCarmesі",
 		        "DakYng",
             "》Akali《",
@@ -9,7 +9,7 @@ URL Ranks by DiscoPeligro.
             "Chaos Spectrum",
             "Lilyytuwu"
            ],
-	"StaffMayor": ["Strikkеrz",
+"StaffMayor": ["Strikkеrz",
                  "NordicWDS",
                  "Noble-kun",
                  "Angela_Renamon"],
