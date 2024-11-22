@@ -29,7 +29,8 @@ URL Ranks by DiscoPeligro.
 		"venadoparlante․"
 		],
 	"DancerCapitan": [
-		"DakYng"
+		"DakYng",
+		"ღItzAkaneღ"
 		],
 	"DancerCari": [
 		"ESPACIODISPONIBLE"
@@ -68,6 +69,8 @@ URL Ranks by DiscoPeligro.
 		"Ezer_",
 		"Tadashi_24",
 		"RensellaVT",
+		"༆ DRAY ఌ",
+		"ঔৣ EvilღRubyঔৣ",
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
@@ -152,7 +155,7 @@ URL Ranks by DiscoPeligro.
 		"Alejandro_00",
 		"ESPACIODISPONIBLE",
 		"EragonMarPR",
-		"ESPACIODISPONIBLE",
+		"Prototipo0121",
 		"San_LUCIFER",
 		"ESPACIODISPONIBLE",
 		"bonilla_VRX",
@@ -279,7 +282,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"X_Benjas7",
 		"Denidenmi",
-		"ESPACIODISPONIBLE",
+		"ϯ๓ϴrrαϼῖͼαภϯє",
 		"Akino Happy",
 		"_Gato",
 		"Brenda~",

@@ -85,7 +85,7 @@ URL Ranks by DiscoPeligro.
 		"MrNekros",
 		"--------------------------Lugar 03 Publicitario------------------------------------",
 		"lostkookie",
-		"lugavi",
+		"LuviR",
 		"Alexuwu212",
 		"Richard_HM",
 		"SebaMc",
@@ -131,6 +131,7 @@ URL Ranks by DiscoPeligro.
 		"Chaos Spectrum",
 		"yuniジ",
 		"NellyNou",
+		"WolfDaver",
 		"zulay"
 	],
 	"VIPFurrys": [
@@ -222,7 +223,7 @@ URL Ranks by DiscoPeligro.
 		"_Mayoneso_",
 		"【Kemono】",
 		"yamato_yokozuky",
-		"ESPACIODISPONIBLE",
+		"Thespartan978",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
