@@ -205,15 +205,12 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
-		"Publicidadquepertenecealostkoookie",
-		"publicidadqueperteneceausagi",
 		"Tenko1747 191a",
 		"ZephyrPaws",
 		"FoxyCV",
 		"NotteCF",
 		"mudoXqX",
 		"Scp 956",
-		"Publicidaddehoganbeabox",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"Albert-0129",
@@ -229,9 +226,9 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"Mentor Kyos ac77",
 		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE",
+		"EmiTheCyan",
 		"DIP-Mexico 1734",
-		"Elisabeth-Shato",
+		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		]
 }
