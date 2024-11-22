@@ -159,6 +159,7 @@ URL Ranks by DiscoPeligro.
 		"San_LUCIFER",
 		"ESPACIODISPONIBLE",
 		"bonilla_VRX",
+		"kyomi․",
 		"Michi_VRX",
 		"Inyels",
 		"Shoツ",
