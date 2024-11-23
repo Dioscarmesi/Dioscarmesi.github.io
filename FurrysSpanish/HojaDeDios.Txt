@@ -19,6 +19,7 @@ URL Ranks by DiscoPeligro.
 		"×͜× Ｓｌａｄｅｘ ×͜×",
 		"Strikkеrz",
 		"Angela_Renamon",
+		"GUILEAS",
 		"Angela Angelika"
 		],
 	"DJ": [
