@@ -17,17 +17,9 @@ URL Ranks by DiscoPeligro.
 		"DeiZeer23",
 		"ReikoSaori",
 		"×͜× Ｓｌａｄｅｘ ×͜×",
-		"GUILEAS",
-		"SolaryWolfy",
 		"Strikkеrz",
 		"Angela_Renamon",
-		"Mr․Inmo",
-		"★Denki★",
-		"Drech301",
-		"Angela Angelika",
-		"SgtoChera",
-		"kevtauri_kick",
-		"Rofnyk"
+		"Angela Angelika"
 		],
 	"DJ": [
 		"Ryuk0",
