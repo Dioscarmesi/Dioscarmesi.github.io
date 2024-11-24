@@ -295,5 +295,9 @@ URL Ranks by DiscoPeligro.
 		"Brenda~",
 		"eduarx",
 		"Jordisito"
+		"TheDoctorSnake",
+		"aperta",
+		"Littlebunnyy19",
+		"ESPACIODISPONIBLE",
 		]
 }
