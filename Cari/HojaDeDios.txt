@@ -294,10 +294,10 @@ URL Ranks by DiscoPeligro.
 		"_Gato",
 		"Brenda~",
 		"eduarx",
-		"Jordisito"
+		"Jordisito",
 		"TheDoctorSnake",
 		"aperta",
 		"Littlebunnyy19",
-		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE"
 		]
 }
