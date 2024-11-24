@@ -125,7 +125,8 @@ URL Ranks by DiscoPeligro.
 		"yuniジ",
 		"NellyNou",
 		"WolfDaver",
-		"zulay"
+		"zulay".
+		"Mr.Inmo"
 	],
 	"VIPFurrys": [
 		"-------------------------------------------------------------Spawn------------------------------------------",
