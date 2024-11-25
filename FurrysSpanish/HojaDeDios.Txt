@@ -20,7 +20,8 @@ URL Ranks by DiscoPeligro.
 		"Strikkеrz",
 		"Angela_Renamon",
 		"GUILEAS",
-		"Angela Angelika"
+		"Angela Angelika",
+		"★Denki★"
 		],
 	"DJ": [
 		"Ryuk0",
