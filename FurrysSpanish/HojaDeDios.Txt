@@ -127,7 +127,7 @@ URL Ranks by DiscoPeligro.
 		"NellyNou",
 		"WolfDaver",
 		"zulay",
-		"Mr.Inmo",
+		"Mr․Inmo",
 		"ZephyrPaws"
 	],
 	"VIPFurrys": [
