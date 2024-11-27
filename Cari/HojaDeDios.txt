@@ -68,7 +68,7 @@ URL Ranks by DiscoPeligro.
 		"¢яιιѕѕ",
 		"shoyo__3",
 		"×Miko×",
-		"ESPACIODISPONIBLE",
+		"Beiker07",
 		"ESPACIODISPONIBLE"
 		],
 	"DancerGuest":[
@@ -77,6 +77,8 @@ URL Ranks by DiscoPeligro.
 		"RensellaVT",
 		"༆ DRAY ఌ",
 		"ঔৣ EvilღRubyঔৣ",
+		"Areck_demon"
+		"YourEclipse"
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
