@@ -3,6 +3,12 @@ URL Ranks by DiscoPeligro.
 	"Admin": ["Peligroso",
 		"UnHada",
 		"NosticChop"],
+	"Icon":["Icоn4500",
+		"lcon4500",
+		"ICΩN4500",
+		"Icon4500L̵̐̔",
+		"Icоn4500-"
+	],
 	"Mod": [
 		"Strikkеrz",
 		"FoxSteel",
