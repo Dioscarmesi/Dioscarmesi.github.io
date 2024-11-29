@@ -186,7 +186,7 @@ URL Ranks by DiscoPeligro.
 		"Lilyytuwu",
 		"Chaos Spectrum",
 		"Roxytooty",
-		"Ryushiroドラゴン",
+		"Milenkoドラゴン",
 		"Kaelh",
 		"MeowJugarVT",
 		"Soy Gio",
