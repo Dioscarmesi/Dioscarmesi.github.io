@@ -3,6 +3,12 @@ URL Ranks by DiscoPeligro.
 	"Admin": ["Peligroso",
 		"UnHada",
 		"NosticChop"],
+	"Icon":["Icоn4500",
+		"lcon4500",
+		"ICΩN4500",
+		"Icon4500L̵̐̔",
+		"Icоn4500-"
+	],
 	"Mod": [
 		"Strikkеrz",
 		"FoxSteel",
@@ -77,8 +83,8 @@ URL Ranks by DiscoPeligro.
 		"RensellaVT",
 		"༆ DRAY ఌ",
 		"ঔৣ EvilღRubyঔৣ",
-		"Areck_demon"
-		"YourEclipse"
+		"Areck_demon",
+		"YourEclipse",
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
