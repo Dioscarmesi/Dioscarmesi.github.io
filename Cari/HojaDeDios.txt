@@ -83,8 +83,8 @@ URL Ranks by DiscoPeligro.
 		"RensellaVT",
 		"༆ DRAY ఌ",
 		"ঔৣ EvilღRubyঔৣ",
-		"Areck_demon"
-		"YourEclipse"
+		"Areck_demon",
+		"YourEclipse",
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
