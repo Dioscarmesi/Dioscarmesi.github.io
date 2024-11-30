@@ -288,7 +288,6 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"Shοka",
 		"Moonreitheta",
-		"JavierESP01",
 		"WeritaLinda_98",
 		"papiandyking",
 		"MKIINANO",
