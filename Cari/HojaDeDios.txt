@@ -309,7 +309,7 @@ URL Ranks by DiscoPeligro.
 		"Littlebunnyy19",
 		"Beezzum",
 		"trinyvip",
-		"K0PUIM",
+		"K0PIUM",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		]
