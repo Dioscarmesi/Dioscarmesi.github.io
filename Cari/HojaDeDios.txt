@@ -75,7 +75,7 @@ URL Ranks by DiscoPeligro.
 		"shoyo__3",
 		"×Miko×",
 		"Beiker07",
-		"ESPACIODISPONIBLE"
+		"Jɸker®"
 		],
 	"DancerGuest":[
 		"Ezer_",
