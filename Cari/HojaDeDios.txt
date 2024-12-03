@@ -300,7 +300,7 @@ URL Ranks by DiscoPeligro.
 		"ϯ๓ϴrrαϼῖͼαภϯє",
 		"Akino Happy",
 		"_Gato",
-		"Brenda~",
+		"TAINO cbcf",
 		"eduarx",
 		"Jordisito",
 		"TheDoctorSnake",
@@ -309,7 +309,7 @@ URL Ranks by DiscoPeligro.
 		"Beezzum",
 		"trinyvip",
 		"K0PIUM",
-		"ESPACIODISPONIBLE",
+		"Hikato",
 		"ESPACIODISPONIBLE"
 		]
 }
