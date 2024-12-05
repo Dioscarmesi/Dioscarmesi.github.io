@@ -276,7 +276,7 @@ URL Ranks by DiscoPeligro.
 		"YAN_A",
 		"Martguzz",
 		"DIEGOMEX",
-		"IshOreo 55ed",
+		"ESPACIODISPONIBLE",
 		"ZuriMC",
 		"Charly_jph b993",
 		"xyurixx",
