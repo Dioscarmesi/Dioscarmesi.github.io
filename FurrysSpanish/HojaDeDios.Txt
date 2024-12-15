@@ -222,8 +222,6 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"Mentor Kyos ac77",
 		"ESPACIODISPONIBLE",
-		"EmiTheCyan",
-		"DIP-Mexico 1734",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		]
