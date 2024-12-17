@@ -78,18 +78,22 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"×Miko×",
 		"Beiker07",
-		"Jɸker®"
+		"Jɸker®",
+		"Shirou1711",
+		"Tadashi_24",
+		"Malin11",
+		"ASTAABOYY99"
 		],
 	"DancerGuest":[
 		"Ezer_",
-		"Tadashi_24",
 		"RensellaVT",
 		"༆ DRAY ఌ",
 		"ঔৣ EvilღRubyঔৣ",
 		"Areck_demon",
 		"YourEclipse",
 		"ღEquiღ",
-		"sbunnya"
+		"sbunnya",
+		"bonilla_VRX"
 		],
 	"Exclusive": [
 		"ESPACIODISPONIBLE"
