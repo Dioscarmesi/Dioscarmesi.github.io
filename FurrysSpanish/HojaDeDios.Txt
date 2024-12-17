@@ -23,6 +23,13 @@ URL Ranks by DiscoPeligro.
 		"Angela Angelika",
 		"★Denki★"
 		],
+	"ModPracticantes": [
+		"Lιʅιƚԋ®",
+		"ShadyBelca",
+		"SHOTGUN_KIROZ",
+		"leitoxs",
+		"mudoXqX"
+		],
 	"DJ": [
 		"Ryuk0",
 		"venadoparlante․"
