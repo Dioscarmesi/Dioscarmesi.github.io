@@ -28,8 +28,8 @@ URL Ranks by DiscoPeligro.
 		"ShadyBelca",
 		"SHOTGUN_KIROZ",
 		"leitoxs",
-		"mudoXqX",
-		""],
+		"mudoXqX"
+		],
 	"DJ": [
 		"Ryuk0",
 		"venadoparlante․"
