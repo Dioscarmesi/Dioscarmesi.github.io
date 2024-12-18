@@ -30,6 +30,7 @@ URL Ranks by DiscoPeligro.
 		"leitoxs",
 		"mudoXqX",
 		"_Denki_Kitsune_"
+		"Elisabeth-Shato"
 		],
 	"DJ": [
 		"Ryuk0",
