@@ -7,8 +7,12 @@ URL Ranks by DiscoPeligro.
 		"Naiiky",
 		"movement data"
 		],
-	"Mod": [
+	"ModJefe": [
 		"Strikkеrz",
+		"Angela_Renamon",
+		"GUILEAS"
+	],
+	"Mod": [
 		"FoxSteel",
 		"M4R_quitos 123",
 		"Ledo0187",
@@ -17,10 +21,6 @@ URL Ranks by DiscoPeligro.
 		"DeiZeer23",
 		"ReikoSaori",
 		"×͜× Ｓｌａｄｅｘ ×͜×",
-		"Strikkеrz",
-		"Angela_Renamon",
-		"GUILEAS",
-		"Angela Angelika",
 		"★Denki★"
 		],
 	"ModPracticantes": [
