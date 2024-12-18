@@ -5,7 +5,7 @@ URL Ranks by DiscoPeligro.
 		"NosticChop"],
 	"VipManager": [
 		"Naiiky",
-		"Silly meow"
+		"movement data"
 		],
 	"Mod": [
 		"Strikkеrz",
