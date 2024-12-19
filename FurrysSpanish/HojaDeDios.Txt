@@ -175,7 +175,7 @@ URL Ranks by DiscoPeligro.
 		"WGLegends",
 		"D O E L",
 		"×REX×",
-		"ESPACIODISPONIBLE",
+		"Aiza_",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
