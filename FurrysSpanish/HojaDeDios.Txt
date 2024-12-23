@@ -54,7 +54,7 @@ URL Ranks by DiscoPeligro.
 		"Mikama",
 		"Bizcochit0",
 		"Arliethღ",
-		"ΣЦPΉӨЯIIΛ",
+		"乇ひｱんの尺ﾉﾉﾑ",
 		"༒LuXxX༒",
 		"KeRoN Di Carto",
 		"Daddy EROO",
@@ -71,7 +71,20 @@ URL Ranks by DiscoPeligro.
 		"Kittybodyart c9db",
 		"shoyu_irezumi",
 		"Lûçî",
-		"Dobermoon"
+		"Dobermoon",
+		"Numbaaat",
+		"¢яιιѕѕ",
+		"shoyo__3",
+		"papiandyking",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"×Miko×",
+		"Beiker07",
+		"Jɸker®",
+		"Shirou1711",
+		"Tadashi_24",
+		"Malin11",
+		"ASTAABOYY99"
 		],
 	"DancerGuest":[
 		"ESPACIODISPONIBLE"
