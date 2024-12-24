@@ -36,6 +36,7 @@ URL Ranks by DiscoPeligro.
 		],
 	"DancerCapitan": [
 		"DakYng",
+		"C A Z E",
 		"ღItzAkaneღ"
 		],
 	"DancerCari": [
