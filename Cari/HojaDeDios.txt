@@ -93,6 +93,7 @@ URL Ranks by DiscoPeligro.
 		"YourEclipse",
 		"ღEquiღ",
 		"sbunnya",
+		"RED_XONA",
 		"bonilla_VRX"
 		],
 	"Exclusive": [
