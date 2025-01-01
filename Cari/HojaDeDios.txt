@@ -87,6 +87,12 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE"
 		],
 	"Partner": [
+		"--------------------------Taino Inversor------------------------------------",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
 		"--------------------------USAGI------------------------------------",
 		"ᴜѕᴀɢɪᴠʀ",
 		"innari",
