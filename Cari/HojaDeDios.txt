@@ -14,8 +14,7 @@ URL Ranks by DiscoPeligro.
 		"Dryo Andromeda",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE",
-		"Rofnyk"
+		"ESPACIODISPONIBLE"
 		],
 	"DJ": [
 		"Ryuk0",
