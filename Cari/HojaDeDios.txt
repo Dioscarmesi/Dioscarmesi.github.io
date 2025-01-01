@@ -12,7 +12,7 @@ URL Ranks by DiscoPeligro.
 	"Mod": [
 		"Strikkеrz",
 		"Dryo Andromeda",
-		"ESPACIODISPONIBLE",
+		"ƝƛƓȺ★ƑʘɌȾ",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		],
@@ -132,7 +132,6 @@ URL Ranks by DiscoPeligro.
 		"NellyNou",
 		"zulay",
 		"Naiiky",
-		"ƝƛƓȺ★ƑʘɌȾ",
 		"ESPACIODISPONIBLE"
 	],
 	"VIP": [
@@ -140,6 +139,11 @@ URL Ranks by DiscoPeligro.
 		"El_CADEJO_SV",
 		"ESPACIODISPONIBLE",
 		"Mayne Amaury",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
 		"SrCrossxD",
 		"ʚ˚․ ᴀʀɪ ․˚ɞ",
 		"goldenskylo",
