@@ -13,7 +13,7 @@ URL Ranks by DiscoPeligro.
 		"Strikkеrz",
 		"Dryo Andromeda",
 		"ƝƛƓȺ★ƑʘɌȾ",
-		"ESPACIODISPONIBLE",
+		"Pärzival",
 		"ESPACIODISPONIBLE"
 		],
 	"DJ": [
