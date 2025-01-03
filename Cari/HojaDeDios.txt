@@ -81,6 +81,7 @@ URL Ranks by DiscoPeligro.
 		"ღEquiღ",
 		"sbunnya",
 		"RED_XONA",
+		"Spider_Criko",
 		"bonilla_VRX"
 		],
 	"Exclusive": [
