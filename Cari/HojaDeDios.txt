@@ -168,7 +168,7 @@ URL Ranks by DiscoPeligro.
 		"リジーズ",
 		"--------------------------Stage----------------------------------",
 		"Marii~Juana",
-		"Chiquilin_Q",
+		"ESPACIODISPONIBLE",
 		"Chubas18",
 		"ESPACIODISPONIBLE",
 		"Roxytooty",
