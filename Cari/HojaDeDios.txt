@@ -19,7 +19,7 @@ URL Ranks by DiscoPeligro.
 		],
 	"DJ": [
 		"Ryuk0",
-		"venadoparlante․"
+		"Brandynauta"
 		],
 	"DancerCapitan": [
 		"DakYng",
