@@ -19,7 +19,7 @@ URL Ranks by DiscoPeligro.
 		],
 	"DJ": [
 		"Ryuk0",
-		"venadoparlante․"
+		"Brandynauta"
 		],
 	"DancerCapitan": [
 		"DakYng",
@@ -171,10 +171,10 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"_Gato",
 		"HeyJulie",
-		"ESPACIODISPONIBLE",
+		"herzon16tb",
 		"ESPACIODISPONIBLE",
 		"Trushz",
-		"ESPACIODISPONIBLE",
+		"SHMITTENN",
 		"Inyels",
 		"Shoツ",
 		"EragonMarPR",
