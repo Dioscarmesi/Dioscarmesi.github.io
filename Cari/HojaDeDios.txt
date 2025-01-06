@@ -71,7 +71,6 @@ URL Ranks by DiscoPeligro.
 		],
 	"DancerGuest":[
 		"NotMythical",
-		"Bonilla_vrx",
 		"royalty",
 		"equi",
 		"Pichurris",
