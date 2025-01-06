@@ -70,19 +70,21 @@ URL Ranks by DiscoPeligro.
 		"ASTAABOYY99"
 		],
 	"DancerGuest":[
-		"Ezer_",
-		"RensellaVT",
-		"༆ DRAY ఌ",
-		"ঔৣ EvilღRubyঔৣ",
-		"Areck_demon",
-		"ɴᴏᴛᴍʏᴛʜɪᴄᴀʟ",
+		"NotMythical",
+		"Bonilla_vrx",
+		"royalty",
+		"equi",
+		"Pichurris",
+		"Honeyyi",
+		"Ezer",
+		"EvilRubi",
+		"AreckDemon",
 		"YourEclipse",
-		"Royaltу",
-		"ღEquiღ",
-		"sbunnya",
-		"RED_XONA",
-		"Spider_Criko",
-		"bonilla_VRX"
+		"Bunnya",
+		"Redxona",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
 		"ESPACIODISPONIBLE"
