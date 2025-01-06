@@ -17,10 +17,22 @@ URL Ranks by DiscoPeligro.
 		"Ledo0187",
 		"ESPACIODISPONIBLE"
 		],
+	"JokerCircus": [
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE"
+	],
 	"DJ": [
 		"Ryuk0",
 		"Brandynauta"
 		],
+	"VRCPlayers": [
+		"Ξｚｚｚ 欧え",
+		"༒ Anónimo ༒"
+	]
+	"Bonice": [
+		"EspacioDisponible",
+		"EspacioDisponible"
+	]
 	"DancerCapitan": [
 		"DakYng",
 		"C A Z E",
