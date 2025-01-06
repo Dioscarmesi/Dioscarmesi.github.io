@@ -83,7 +83,7 @@ URL Ranks by DiscoPeligro.
 		"Bunnya",
 		"Redxona",
 		"Spider_Criko",
-		"ESPACIODISPONIBLE",
+		"bonilla_VRX",
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
