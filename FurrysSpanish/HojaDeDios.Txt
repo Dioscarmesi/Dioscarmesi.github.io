@@ -29,7 +29,7 @@ URL Ranks by DiscoPeligro.
 		"SHOTGUN_KIROZ",
 		"leitoxs",
 		"mudoXqX",
-		"DenkiKitsune"
+		"DenkiKitsune",
 		"Elisabeth-Shato"
 		],
 	"DJ": [
