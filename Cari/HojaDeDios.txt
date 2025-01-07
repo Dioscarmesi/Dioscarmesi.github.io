@@ -31,11 +31,11 @@ URL Ranks by DiscoPeligro.
 	"VRCPlayers": [
 		"Ξｚｚｚ 欧え",
 		"༒ Anónimo ༒"
-	]
+	],
 	"Bonice": [
 		"EspacioDisponible",
 		"EspacioDisponible"
-	]
+	],
 	"DancerCapitan": [
 		"DakYng",
 		"C A Z E",
