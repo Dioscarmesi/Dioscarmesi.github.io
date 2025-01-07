@@ -146,6 +146,7 @@ URL Ranks by DiscoPeligro.
 		"NellyNou",
 		"zulay",
 		"Naiiky",
+		"Ｎｅｉｔ シ",
 		"ESPACIODISPONIBLE"
 	],
 	"VIP": [
