@@ -26,7 +26,6 @@ URL Ranks by DiscoPeligro.
 	"ModPracticantes": [
 		"Lιʅιƚԋ®",
 		"ShadyBelca",
-		"SHOTGUN_KIROZ",
 		"leitoxs",
 		"mudoXqX",
 		"DenkiKitsune"

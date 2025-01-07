@@ -9,6 +9,9 @@ URL Ranks by DiscoPeligro.
 		"Icon4500L̵̐̔",
 		"Icоn4500-"
 	],
+	"Taino": [
+		"ElTaino"
+	],
 	"Mod": [
 		"Strikkеrz",
 		"Dryo Andromeda",
@@ -17,10 +20,27 @@ URL Ranks by DiscoPeligro.
 		"Ledo0187",
 		"ESPACIODISPONIBLE"
 		],
+	"JokerCircus": [
+		"JokerStein",
+		"FXSCAR",
+		"MarlonQC",
+		"XionWolf V",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE"
+	],
 	"DJ": [
 		"Ryuk0",
-		"Brandynauta"
+		"ESPACIODISPONIBLE"
 		],
+	"VRCPlayers": [
+		"Ξｚｚｚ 欧え",
+		"༒ Anónimo ༒"
+	],
+	"Bonice": [
+		"EspacioDisponible",
+		"Brandynauta",
+		"EspacioDisponible"
+	],
 	"DancerCapitan": [
 		"DakYng",
 		"C A Z E",
@@ -70,19 +90,17 @@ URL Ranks by DiscoPeligro.
 		"ASTAABOYY99"
 		],
 	"DancerGuest":[
-		"NotMythical",
-		"royalty",
-		"equi",
-		"Pichurris",
-		"Honeyyi",
-		"Ezer",
-		"EvilRubi",
-		"AreckDemon",
-		"YourEclipse",
-		"Bunnya",
-		"Redxona",
-		"Spider_Criko",
+		"ɴᴏᴛᴍʏᴛʜɪᴄᴀʟ",
 		"bonilla_VRX",
+		"Royaltу",
+		"ღEquiღ",
+		"YourEclipse",
+		"Spider_Criko",
+		"YourEclipse",
+		"Ezer_",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
