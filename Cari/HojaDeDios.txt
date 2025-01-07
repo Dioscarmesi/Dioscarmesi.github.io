@@ -10,7 +10,7 @@ URL Ranks by DiscoPeligro.
 		"Icоn4500-"
 	],
 	"Taino": [
-		"ESPACIODISPONIBLE"
+		"ElTaino"
 	],
 	"Mod": [
 		"Strikkеrz",
@@ -30,7 +30,7 @@ URL Ranks by DiscoPeligro.
 	],
 	"DJ": [
 		"Ryuk0",
-		"Brandynauta"
+		"ESPACIODISPONIBLE"
 		],
 	"VRCPlayers": [
 		"Ξｚｚｚ 欧え",
@@ -38,6 +38,7 @@ URL Ranks by DiscoPeligro.
 	],
 	"Bonice": [
 		"EspacioDisponible",
+		"Brandynauta",
 		"EspacioDisponible"
 	],
 	"DancerCapitan": [
