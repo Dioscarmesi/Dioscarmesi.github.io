@@ -21,6 +21,10 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE"
 		],
 	"JokerCircus": [
+		"JokerStein",
+		"FXSCAR",
+		"MarlonQC",
+		"XionWolf V",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 	],
