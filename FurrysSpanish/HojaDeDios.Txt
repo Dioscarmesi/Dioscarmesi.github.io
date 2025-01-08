@@ -134,7 +134,7 @@ URL Ranks by DiscoPeligro.
 		"NellyNou",
 		"WolfDaver",
 		"zulay",
-		"ZephyrPaws"
+		"ESPACIODISPONIBLE"
 	],
 	"VIPFurrys": [
 		"-------------------------------------------------------------Spawn------------------------------------------",
