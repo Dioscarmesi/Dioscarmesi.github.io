@@ -178,8 +178,6 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE",
 		"-------------------------------------------------------------SalonPrincipal-------------------------------------",
 		"DenkiPeroEsStaff",
 		"WattsonNeko",
