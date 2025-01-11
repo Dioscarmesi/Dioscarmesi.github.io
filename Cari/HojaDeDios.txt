@@ -100,6 +100,7 @@ URL Ranks by DiscoPeligro.
 		"Ezer_",
 		"RensellaVT",
 		"Bunny_bu",
+		"δαηικα fεηδγr",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		],
@@ -165,6 +166,7 @@ URL Ranks by DiscoPeligro.
 		"zulay",
 		"Naiiky",
 		"Ｎｅｉｔ シ",
+		"Dere Limon",
 		"ESPACIODISPONIBLE"
 	],
 	"VIP": [
