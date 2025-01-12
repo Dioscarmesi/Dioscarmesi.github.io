@@ -326,7 +326,7 @@ URL Ranks by DiscoPeligro.
 		"--------------------------picina--------------------------------",
 		"lilithrose_17 3e6d",
 		"jasonmonus",
-		"glendairis",
+		"Majestad",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		]
