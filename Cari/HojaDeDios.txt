@@ -328,6 +328,10 @@ URL Ranks by DiscoPeligro.
 		"jasonmonus",
 		"Majestad",
 		"EmjanV2",
+		"Rexlthuzz",
+		"DStroperXbbd8",
+		"YESTER38",
+		"ESPACIODISPONIBLE",
 		"Atenas21"
 		]
 }
