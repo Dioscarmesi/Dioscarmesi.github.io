@@ -331,6 +331,8 @@ URL Ranks by DiscoPeligro.
 		"DStroperXbbd8",
 		"YESTER38",
 		"AzraelSoul",
+		"×͜×KALI×͜×",
+		"ESPACIODISPONIBLE",
 		"I_tzel",
 		"Atenas21"
 		]
