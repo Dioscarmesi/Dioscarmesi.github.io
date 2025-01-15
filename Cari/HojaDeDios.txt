@@ -330,8 +330,8 @@ URL Ranks by DiscoPeligro.
 		"Rexlthuzz",
 		"DStroperXbbd8",
 		"YESTER38",
-		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE",
+		"AzraelSoul",
+		"I_tzel",
 		"Atenas21"
 		]
 }
