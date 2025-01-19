@@ -342,6 +342,8 @@ URL Ranks by DiscoPeligro.
 		"I_tzel",
 		"KaosKynG",
 		"Becca 9bbe",
+		"Korvax Leviatán",
+		"sammyvase",
 		"ESPACIODISPONIBLE",
 		"Atenas21"
 		]
