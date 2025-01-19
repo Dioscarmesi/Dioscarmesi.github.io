@@ -16,7 +16,7 @@ URL Ranks by DiscoPeligro.
 		"Strikkеrz",
 		"Dryo Andromeda",
 		"ƝƛƓȺ★ƑʘɌȾ",
-		"Pärzival",
+		"ParzivalOkazaki",
 		"Ledo0187",
 		"ESPACIODISPONIBLE"
 		],
