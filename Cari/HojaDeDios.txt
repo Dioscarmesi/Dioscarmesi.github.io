@@ -169,6 +169,8 @@ URL Ranks by DiscoPeligro.
 		"Naiiky",
 		"Ｎｅｉｔ シ",
 		"Dere Limon",
+		"ᴛᴊx'",
+		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 	],
 	"VIP": [
