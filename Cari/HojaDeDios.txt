@@ -335,7 +335,6 @@ URL Ranks by DiscoPeligro.
 		"Rexlthuzz",
 		"DStroperXbbd8",
 		"YESTER38",
-		"AzraelSoul",
 		"FusionDrive",
 		"Alien_mistic",
 		"Kanaegaming",
@@ -350,6 +349,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"༒ kaida༒",
 		"Kasperk",
+		"AzraelSoul",
 		"ESPACIODISPONIBLE",
 		"Atenas21"
 		]
