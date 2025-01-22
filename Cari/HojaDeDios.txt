@@ -314,7 +314,7 @@ URL Ranks by DiscoPeligro.
 		"X_Benjas7",
 		"ESPACIODISPONIBLE",
 		"--------------------------picina--------------------------------",
-		"Papamiguel1280",
+		"PAPAMIGUEL",
 		"godlara",
 		"_ΛVΛ_",
 		"Angel_Of_Death4",
