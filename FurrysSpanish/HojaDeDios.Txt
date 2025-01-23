@@ -28,7 +28,7 @@ URL Ranks by DiscoPeligro.
 		"ShadyBelca",
 		"leitoxs",
 		"mudoXqX",
-		"Denkikitsune"
+		"DenkiKitsune"
 		],
 	"DJ": [
 		"Ryuk0",
