@@ -104,6 +104,8 @@ URL Ranks by DiscoPeligro.
 		"Bunny_bu",
 		"δαηικα fεηδγr",
 		"ɴᴇʏ 愛",
+		"RED_XONA",
+		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
