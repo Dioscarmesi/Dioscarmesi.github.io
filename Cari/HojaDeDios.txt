@@ -103,6 +103,8 @@ URL Ranks by DiscoPeligro.
 		"RensellaVT",
 		"Bunny_bu",
 		"δαηικα fεηδγr",
+		"ɴᴇʏ 愛",
+		"RED_XONA",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		],
@@ -171,6 +173,9 @@ URL Ranks by DiscoPeligro.
 		"Dere Limon",
 		"ᴛᴊx'",
 		"Annie AA",
+		"SpaceGalaxy‘sPET",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 	],
 	"VIP": [
@@ -182,7 +187,7 @@ URL Ranks by DiscoPeligro.
 		"goldenskylo",
 		"Bananorat",
 		"BebesitaShey 680e",
-		"ESPACIODISPONIBLE",
+		"xaorher2306",
 		"xTAINOx",
 		"ESPACIODISPONIBLE",
 		"Deıssʏ",
@@ -314,7 +319,7 @@ URL Ranks by DiscoPeligro.
 		"X_Benjas7",
 		"ESPACIODISPONIBLE",
 		"--------------------------picina--------------------------------",
-		"Papamiguel1280",
+		"PAPAMIGUEL",
 		"godlara",
 		"_ΛVΛ_",
 		"Angel_Of_Death4",
@@ -335,7 +340,6 @@ URL Ranks by DiscoPeligro.
 		"Rexlthuzz",
 		"DStroperXbbd8",
 		"YESTER38",
-		"AzraelSoul",
 		"FusionDrive",
 		"Alien_mistic",
 		"Kanaegaming",
@@ -347,9 +351,10 @@ URL Ranks by DiscoPeligro.
 		"Korvax Leviatán",
 		"sammyvase",
 		"Acissej9520",
+		"ESPACIODISPONIBLE",
 		"༒ kaida༒",
 		"Kasperk",
-		"ESPACIODISPONIBLE",
+		"AzraelSoul",
 		"ESPACIODISPONIBLE",
 		"Atenas21"
 		]

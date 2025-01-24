@@ -28,7 +28,7 @@ URL Ranks by DiscoPeligro.
 		"ShadyBelca",
 		"leitoxs",
 		"mudoXqX",
-		"Denkikitsune"
+		"DenkiKitsune"
 		],
 	"DJ": [
 		"Ryuk0",
@@ -214,7 +214,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE",
+		"The_Nomadic_Angel 2f08",
 		"ESPACIODISPONIBLE"
 		]
 }
