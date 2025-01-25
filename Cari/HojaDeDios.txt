@@ -355,6 +355,8 @@ URL Ranks by DiscoPeligro.
 		"༒ kaida༒",
 		"Kasperk",
 		"AzraelSoul",
+		"KUNIGAMII",
+		"Denidenmi",
 		"ESPACIODISPONIBLE",
 		"Atenas21"
 		]
