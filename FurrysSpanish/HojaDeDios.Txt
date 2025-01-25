@@ -212,8 +212,8 @@ URL Ranks by DiscoPeligro.
 		"yamato_yokozuky",
 		"Thespartan978",
 		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE",
+		"drakenvrfurry",
+		"Igris_4773",
 		"The_Nomadic_Angel 2f08",
 		"ESPACIODISPONIBLE"
 		]
