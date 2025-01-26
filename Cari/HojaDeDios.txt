@@ -355,7 +355,7 @@ URL Ranks by DiscoPeligro.
 		"Kasperk",
 		"AzraelSoul",
 		"KUNIGAMII",
-		"Denidenmi",
+		"Frutyloopyes",
 		"Atenas21"
 		]
 }
