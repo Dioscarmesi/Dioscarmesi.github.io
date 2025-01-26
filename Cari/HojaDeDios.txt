@@ -351,13 +351,11 @@ URL Ranks by DiscoPeligro.
 		"Korvax Leviatán",
 		"sammyvase",
 		"Acissej9520",
-		"ESPACIODISPONIBLE",
 		"༒ kaida༒",
 		"Kasperk",
 		"AzraelSoul",
 		"KUNIGAMII",
 		"Denidenmi",
-		"ESPACIODISPONIBLE",
 		"Atenas21"
 		]
 }
