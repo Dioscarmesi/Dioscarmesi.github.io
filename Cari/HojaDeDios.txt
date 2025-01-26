@@ -275,7 +275,7 @@ URL Ranks by DiscoPeligro.
 		"ఌMissNeonఌ",
 		"Koizumi3456",
 		"DRACOFTH",
-		"AkumaRF9 8808",
+		"AkumaRH9",
 		"MrCein",
 		"YuuCaliente19°",
 		"დNaye_mp3音楽დ",
@@ -351,13 +351,14 @@ URL Ranks by DiscoPeligro.
 		"Korvax Leviatán",
 		"sammyvase",
 		"Acissej9520",
-		"ESPACIODISPONIBLE",
 		"༒ kaida༒",
 		"Kasperk",
 		"AzraelSoul",
 		"KUNIGAMII",
-		"Denidenmi",
+		"Karlozz",
 		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"Frutyloopyes",
 		"Atenas21"
 		]
 }
