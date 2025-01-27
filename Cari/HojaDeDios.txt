@@ -85,7 +85,6 @@ URL Ranks by DiscoPeligro.
 		"papiandyking",
 		"Spider_Criko",
 		"ESPACIODISPONIBLE",
-		"Niko Pollito",
 		"Beiker07",
 		"Jɸker®",
 		"Shirou1711",
@@ -175,7 +174,7 @@ URL Ranks by DiscoPeligro.
 		"ᴛᴊx'",
 		"Annie AA",
 		"SpaceGalaxy‘sPET",
-		"ESPACIODISPONIBLE",
+		"Niko Pollito",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 	],
