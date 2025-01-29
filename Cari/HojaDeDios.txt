@@ -174,7 +174,7 @@ URL Ranks by DiscoPeligro.
 		"ᴛᴊx'",
 		"Annie AA",
 		"SpaceGalaxy‘sPET",
-		"ESPACIODISPONIBLE",
+		"Niko Pollito",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 	],
@@ -187,7 +187,7 @@ URL Ranks by DiscoPeligro.
 		"goldenskylo",
 		"Bananorat",
 		"BebesitaShey 680e",
-		"xaorher2306",
+		"ESPACIODISPONIBLE",
 		"xTAINOx",
 		"ESPACIODISPONIBLE",
 		"Deıssʏ",
@@ -231,7 +231,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"ᴿᴬᵛᴱᴺᴺ",
 		"『 Lobo 』",
-		"'Setty'",
+		"'Sҽƚƚყ'",
 		"NIGHTM4R3_uwu",
 		"--------------------------PasilloVip--------------------------------",
 		"SpiderJossi",
@@ -356,8 +356,8 @@ URL Ranks by DiscoPeligro.
 		"AzraelSoul",
 		"KUNIGAMII",
 		"Karlozz",
-		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE",
+		"7̆̈5͓̽2͓̽5DƠma",
+		"Tĥê_Gĥǿşţ6430",
 		"Frutyloopyes",
 		"Atenas21"
 		]
