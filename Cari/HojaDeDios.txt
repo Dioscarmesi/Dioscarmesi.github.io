@@ -50,6 +50,13 @@ URL Ranks by DiscoPeligro.
 		"ღItzAkaneღ"
 		],
 	"DancerCari": [
+		"ღEquiღ",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		],
 	"Dancer": [
