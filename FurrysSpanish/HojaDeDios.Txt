@@ -39,39 +39,15 @@ URL Ranks by DiscoPeligro.
 		"༒ Anónimo ༒"
 		],
 	"DancerCapitan": [
-		"DakYng"
+		"ESPACIODISPONIBLE"
 		],
 	"Dancer": [
-		"BLValkyrie",
-		"Jeffsito7u7VR",
-		"Kittybodyart",
-		"ღItzAkaneღ",
-		"Seruly",
-		"TaiRayl",
-		"Faaka_vr",
-		"Mikama",
-		"Bizcochit0",
-		"Arliethღ",
-		"ΣЦPΉӨЯIIΛ",
-		"༒LuXxX༒",
-		"KeRoN Di Carto",
-		"Daddy EROO",
-		"canito_PR",
-		"Soy Gio",
-		"ɴᴏᴛᴍʏᴛʜɪᴄᴀʟ",
-		"》Akali《",
-		"Αύrα",
-		"Esteymineitor88",
-		"로Grācē",
-		"Prilover",
-		"Giia․",
-		"KatheKatt",
-		"Kittybodyart c9db",
-		"shoyu_irezumi",
-		"Lûçî",
-		"Dobermoon"
+		"ESPACIODISPONIBLE"
 		],
 	"DancerGuest":[
+		"DakYng",
+		"Tadashi_24",
+		"RensellaVT",
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
