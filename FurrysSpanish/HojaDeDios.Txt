@@ -190,7 +190,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"drakenvrfurry",
 		"Igris_4773",
-		"The_Nomadic_Angel 2f08",
+		"Nomadic Angel",
 		"ESPACIODISPONIBLE"
 		]
 }
