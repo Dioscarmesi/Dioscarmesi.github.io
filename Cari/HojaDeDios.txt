@@ -112,6 +112,7 @@ URL Ranks by DiscoPeligro.
 		"RED_XONA",
 		"VelasquezPai",
 		"flaka02"
+		"ᴴᵃʳᵐˡᵉˢˢ"
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
