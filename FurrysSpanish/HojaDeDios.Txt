@@ -88,7 +88,7 @@ URL Ranks by DiscoPeligro.
 		"Gohan_Beatbox",
 		"Shoyu_irezumi",
 		"Luzbel_Star1",
-		"Mimi_8w8",
+		"Bolillos",
 		"ESPACIODISPONIBLE"
 	],
 	"Friends":[
