@@ -157,7 +157,7 @@ URL Ranks by DiscoPeligro.
 		"--------------------------GohanVR------------------------------------",
 		"Gohan_Beatbox",
 		"shoyu_irezumi",
-		"Luzbel_Star1",
+		"Luzbel_Star",
 		"Bolillos",
 		"ESPACIODISPONIBLE",
 		"฿Ɇ₭Ø 忠"
