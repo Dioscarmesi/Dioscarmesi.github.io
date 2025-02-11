@@ -16,6 +16,7 @@ URL Ranks by DiscoPeligro.
 		"Strikkеrz",
 		"Dryo Andromeda",
 		"ƝƛƓȺ★ƑʘɌȾ",
+		"Dere Limon",
 		"ParzivalOkazaki",
 		"Ledo0187",
 		"Demons_616"
@@ -179,7 +180,6 @@ URL Ranks by DiscoPeligro.
 		"zulay",
 		"Naiiky",
 		"Ｎｅｉｔ シ",
-		"Dere Limon",
 		"ᴛᴊx'",
 		"ESPACIODISPONIBLE",
 		"SpaceGalaxy‘sPET",
