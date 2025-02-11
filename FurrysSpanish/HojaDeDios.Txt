@@ -110,6 +110,7 @@ URL Ranks by DiscoPeligro.
 		"NellyNou",
 		"WolfDaver",
 		"zulay",
+                "PandoraBarks",
 		"ESPACIODISPONIBLE"
 	],
 	"VIPFurrys": [
