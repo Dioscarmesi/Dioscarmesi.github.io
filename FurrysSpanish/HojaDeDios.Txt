@@ -5,7 +5,7 @@ URL Ranks by DiscoPeligro.
 		"NosticChop"],
 	"VipManager": [
 		"Naiiky",
-		"movement data"
+		"Dere Limon"
 		],
 	"ModJefe": [
 		"Strikkеrz",
@@ -110,6 +110,7 @@ URL Ranks by DiscoPeligro.
 		"NellyNou",
 		"WolfDaver",
 		"zulay",
+                "PandoraBarks",
 		"ESPACIODISPONIBLE"
 	],
 	"VIPFurrys": [
@@ -172,7 +173,7 @@ URL Ranks by DiscoPeligro.
 		"Zíchi",
 		"SoyMapachito",
 		"BlakyUmbreon",
-		"ESPACIODISPONIBLE",
+		"Neylin",
 		"Tenko Nikiforov",
 		"ZephyrPaws",
 		"FoxyCV",
