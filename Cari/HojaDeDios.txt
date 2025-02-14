@@ -97,7 +97,9 @@ URL Ranks by DiscoPeligro.
 		"Shirou1711",
 		"Tadashi_24",
 		"Malin11",
-		"ASTAABOYY99"
+		"ASTAABOYY99",
+		"ɴᴇʏ 愛",
+		"Kanaegaming"
 		],
 	"DancerGuest":[
 		"ɴᴏᴛᴍʏᴛʜɪᴄᴀʟ",
@@ -116,6 +118,7 @@ URL Ranks by DiscoPeligro.
 		"ᴴᵃʳᵐˡᵉˢˢ",
 		"BunnyLonely4k",
 		"Elmiguelitovr",
+		"MatthewQ123",
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
