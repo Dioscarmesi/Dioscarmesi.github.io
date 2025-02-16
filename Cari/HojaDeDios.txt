@@ -383,6 +383,7 @@ URL Ranks by DiscoPeligro.
 		"7̆̈5͓̽2͓̽5DƠma",
 		"Tĥê_Gĥǿşţ6430",
 		"Homehell",
+		"MimiPR",
 		"Atenas21"
 		]
 }
