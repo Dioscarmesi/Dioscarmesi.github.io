@@ -33,10 +33,6 @@ URL Ranks by DiscoPeligro.
 		"Ryuk0",
 		"ESPACIODISPONIBLE"
 		],
-	"VRCPlayers": [
-		"Ξｚｚｚ 欧え",
-		"༒ Anónimo ༒"
-	],
 	"Bonice": [
 		"EspacioDisponible",
 		"EspacioDisponible",
