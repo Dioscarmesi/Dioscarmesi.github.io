@@ -347,6 +347,8 @@ URL Ranks by DiscoPeligro.
 		"DeiZeer23",
 		"EmjanV2",
 		"Rexlthuzz",
+		"ChrissVencha",
+		"RataConThinner_",
 		"DStroperXbbd8",
 		"YESTER38",
 		"NanamiChk02",
