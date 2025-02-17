@@ -116,6 +116,7 @@ URL Ranks by DiscoPeligro.
 		"Elmiguelitovr",
 		"MatthewQ123",
 		"sammyvase",
+		"ʚ星Daiya赤ɞ",
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
