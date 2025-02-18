@@ -121,7 +121,7 @@ URL Ranks by DiscoPeligro.
 		"SolaryWolfy",
 		"Sanssha",
 		"ESPACIODISPONIBLE",
-		"MARK MORA 9614",
+		"MARK MORA",
 		"ESPACIODISPONIBLE",
 		"-------------------------------------------------------------PasilloSpawn------------------------------------",
 		"Aiza_",
