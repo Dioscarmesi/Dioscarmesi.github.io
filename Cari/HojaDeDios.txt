@@ -17,9 +17,7 @@ URL Ranks by DiscoPeligro.
 		"Dryo Andromeda",
 		"ƝƛƓȺ★ƑʘɌȾ",
 		"Dere Limon",
-		"ParzivalOkazaki",
-		"Ledo0187",
-		"Demons_616"
+		"ParzivalOkazaki"
 		],
 	"JokerCircus": [
 		"JokerStein",
