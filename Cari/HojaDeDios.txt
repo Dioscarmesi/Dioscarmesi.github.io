@@ -366,6 +366,8 @@ URL Ranks by DiscoPeligro.
 		"goki3",
 		"I_tzel",
 		"Korvax Leviatán",
+		"Ｓａｒａｈ",
+		"Madara409",
 		"sammyvase",
 		"Acissej9520",
 		"AzraelSoul",
