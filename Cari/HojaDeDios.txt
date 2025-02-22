@@ -44,15 +44,16 @@ URL Ranks by DiscoPeligro.
 	],
 	"DancerCapitan": [
 		"DakYng",
-		"C A Z E",
 		"ღItzAkaneღ"
 		],
 	"DancerCari": [
 		"ღEquiღ",
 		"KatheKatt",
 		"Mikama",
+		"C A Z E",
 		"Faaka_vr",
 		"Seruly",
+		"flaka02",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
@@ -108,7 +109,6 @@ URL Ranks by DiscoPeligro.
 		"ɴᴇʏ 愛",
 		"RED_XONA",
 		"VelasquezPai",
-		"flaka02",
 		"ᴴᵃʳᵐˡᵉˢˢ",
 		"BunnyLonely4k",
 		"Elmiguelitovr",
