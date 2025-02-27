@@ -367,6 +367,8 @@ URL Ranks by DiscoPeligro.
 		"Korvax Leviatán",
 		"Ｓａｒａｈ",
 		"Madara409",
+		"Nolan_Shot14",
+		"iiMeth",
 		"sammyvase",
 		"Acissej9520",
 		"AzraelSoul",
