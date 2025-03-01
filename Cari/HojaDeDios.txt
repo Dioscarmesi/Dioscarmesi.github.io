@@ -24,7 +24,7 @@ URL Ranks by DiscoPeligro.
 		"FXSCAR",
 		"MarlonQC",
 		"XionWolf V",
-		"ESPACIODISPONIBLE",
+		"Brandynauta",
 		"ESPACIODISPONIBLE"
 	],
 	"DJ": [
@@ -34,7 +34,6 @@ URL Ranks by DiscoPeligro.
 	"Bonice": [
 		"EspacioDisponible",
 		"Cuervito_",
-		"Brandynauta",
 		"EspacioDisponible"
 	],
 	"LiderDancer":[
