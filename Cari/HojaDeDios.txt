@@ -380,6 +380,7 @@ URL Ranks by DiscoPeligro.
 		"Tĥê_Gĥǿşţ6430",
 		"Tokyo愛",
 		"Aliヅ",
+		"Lucy_Ross",
 		"mexicalike",
 		"inniedum",
 		"Homehell",
