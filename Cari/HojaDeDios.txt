@@ -387,6 +387,8 @@ URL Ranks by DiscoPeligro.
 		"inniedum",
 		"Homehell",
 		"MimiPR",
+		"ilimusa",
+		"༒ DaViD LuIsC༒",
 		"Atenas21"
 		]
 }
