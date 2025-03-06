@@ -4,8 +4,7 @@ URL Ranks by DiscoPeligro.
 		"UnHada",
 		"NosticChop"],
 	"VipManager": [
-		"Naiiky",
-		"Dere Limon"
+		"Naiiky"
 		],
 	"ModJefe": [
 		"Strikkеrz",
@@ -13,14 +12,6 @@ URL Ranks by DiscoPeligro.
 		"GUILEAS"
 	],
 	"Mod": [
-		"FoxSteel",
-		"M4R_quitos 123",
-		"Ledo0187",
-		"Warline10",
-		"MarlonQC",
-		"DeiZeer23",
-		"ReikoSaori",
-		"×͜× Ｓｌａｄｅｘ ×͜×",
 		"★Denki★"
 		],
 	"ModPracticantes": [
@@ -45,9 +36,6 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE"
 		],
 	"DancerGuest":[
-		"DakYng",
-		"Tadashi_24",
-		"RensellaVT",
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
@@ -93,14 +81,11 @@ URL Ranks by DiscoPeligro.
 	],
 	"Friends":[
 		"Jevead",
-		"Matiusito",
-		"ZorroBlanco9",
 		"iyatsu",
 		"vittalLyric",
 		"yuni~little",
 		"CHERNOBYLVT",
 		"Uni ウサギ",
-		"RensellaVT",
 		"Nuniˎ星ˊ˗",
 		"SrKiller",
 		"NYADETH",
@@ -111,6 +96,9 @@ URL Ranks by DiscoPeligro.
 		"WolfDaver",
 		"zulay",
                 "PandoraBarks",
+		"DakYng",
+		"Tadashi_24",
+		"RensellaVT",
 		"ESPACIODISPONIBLE"
 	],
 	"VIPFurrys": [
