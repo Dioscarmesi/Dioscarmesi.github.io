@@ -68,7 +68,7 @@ URL Ranks by DiscoPeligro.
 		"Αύrα",
 		"Esteymineitor88",
 		"Prilover",
-		"shoyu_irezumi",
+		"ESPACIODISPONIBLE",
 		"Lûçî",
 		"Dobermoon",
 		"Numbaaat",
@@ -77,7 +77,7 @@ URL Ranks by DiscoPeligro.
 		"ᴘᴀᴘɪᴀɴᴅʏᴋɪɴɢ®",
 		"Spider_Criko",
 		"Ezer_",
-		"ESPACIODISPONIBLE",
+		"OsitoPauPau",
 		"Beiker07",
 		"Jɸker®",
 		"Shirou1711",
@@ -85,6 +85,9 @@ URL Ranks by DiscoPeligro.
 		"Malin11",
 		"ASTAABOYY99",
 		"ɴᴇʏ 愛",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
 		"Kanaegaming"
 		],
 	"DancerGuest":[
@@ -109,6 +112,9 @@ URL Ranks by DiscoPeligro.
 		"DemonSenpaii",
 		"_Angel_18_",
 		"ᴀsтᴀʀoтн",
+		"Roxytooty",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
