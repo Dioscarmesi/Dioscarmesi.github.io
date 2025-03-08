@@ -393,7 +393,6 @@ URL Ranks by DiscoPeligro.
 		"mexicalike",
 		"inniedum",
 		"Homehell",
-		"MimiPR",
-		"Atenas21"
+		"MimiPR"
 		]
 }
