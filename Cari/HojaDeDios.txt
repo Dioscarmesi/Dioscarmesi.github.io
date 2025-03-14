@@ -361,7 +361,6 @@ URL Ranks by DiscoPeligro.
 		"0omeEga4 cec6",
 		"goki3",
 		"I_tzel",
-		"Korvax Leviatán",
 		"Ｓａｒａｈ",
 		"Madara409",
 		"Nolan_Shot14",
@@ -381,7 +380,6 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"Aliヅ",
 		"AlastorRng",
-		"mexicalike",
 		"Homehell",
 		"MimiPR"
 		]
