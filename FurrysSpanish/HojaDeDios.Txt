@@ -129,7 +129,7 @@ URL Ranks by DiscoPeligro.
 		"Salsito",
 		"Jossrobles",
 		"-------------------------------------------------------------TerrazaSpawn--------------------------------------",
-		"ESPACIODISPONIBLE",
+		"FoxyCV",
 		"ESPACIODISPONIBLE",
 		"Mr․Inmo",
 		"ESPACIODISPONIBLE",
