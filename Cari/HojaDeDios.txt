@@ -283,6 +283,8 @@ URL Ranks by DiscoPeligro.
 		"carslayer13",
 		"MexSpartan03",
 		"ESPACIODISPONIBLE",
+		"Lucy_Ross",
+		"ESPACIODISPONIBLE",
 		"YuuCaliente19°",
 		"დNaye_mp3音楽დ",
 		"Kanaegaming",
