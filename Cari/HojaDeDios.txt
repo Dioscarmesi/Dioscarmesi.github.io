@@ -204,7 +204,6 @@ URL Ranks by DiscoPeligro.
 		"Tomakoide",
 		"_Gato",
 		"HeyJulie",
-		"Korvax Leviatán",
 		"xWason 5d45",
 		"Wichi爱",
 		"Trushz",
