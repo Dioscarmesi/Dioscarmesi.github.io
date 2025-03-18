@@ -53,6 +53,7 @@ URL Ranks by DiscoPeligro.
 		"Seruly",
 		"flaka02",
 		"-¿Meow?-",
+		"Tadashi_24",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		],
@@ -81,7 +82,6 @@ URL Ranks by DiscoPeligro.
 		"Beiker07",
 		"Jɸker®",
 		"Shirou1711",
-		"Tadashi_24",
 		"Malin11",
 		"ASTAABOYY99",
 		"ɴᴇʏ 愛",
