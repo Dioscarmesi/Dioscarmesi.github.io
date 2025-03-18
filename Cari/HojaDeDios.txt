@@ -14,7 +14,7 @@ URL Ranks by DiscoPeligro.
 	],
 	"Mod": [
 		"Strikkеrz",
-		"Dryo Andromeda",
+		"Andrömeda",
 		"ƝƛƓȺ★ƑʘɌȾ",
 		"Dere Limon",
 		"ReikoSaori",
