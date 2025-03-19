@@ -55,6 +55,7 @@ URL Ranks by DiscoPeligro.
 		"-¿Meow?-",
 		"Tadashi_24",
 		"Numbaaat",
+		"Αύrα",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		],
@@ -67,7 +68,6 @@ URL Ranks by DiscoPeligro.
 		"乇ひｱんの尺ﾉﾉﾑ",
 		"canito_PR",
 		"Soy Gio",
-		"Αύrα",
 		"Esteymineitor88",
 		"Prilover",
 		"ESPACIODISPONIBLE",
