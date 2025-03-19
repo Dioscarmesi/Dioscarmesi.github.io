@@ -56,7 +56,7 @@ URL Ranks by DiscoPeligro.
 		"Tadashi_24",
 		"Numbaaat",
 		"Αύrα",
-		"ESPACIODISPONIBLE",
+		"raycrash",
 		"ESPACIODISPONIBLE"
 		],
 	"Dancer": [
@@ -108,7 +108,6 @@ URL Ranks by DiscoPeligro.
 		"MatthewQ123",
 		"sammyvase",
 		"ʚ星Daiya赤ɞ",
-		"raycrash",
 		"DemonSenpaii",
 		"_Angel_18_",
 		"ᴀsтᴀʀoтн",
