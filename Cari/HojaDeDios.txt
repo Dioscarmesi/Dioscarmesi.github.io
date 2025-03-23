@@ -42,11 +42,11 @@ URL Ranks by DiscoPeligro.
 	],
 	"DancerCapitan": [
 		"DakYng",
+		"KatheKatt",
 		"ღItzAkaneღ"
 		],
 	"DancerCari": [
 		"ღEquiღ",
-		"KatheKatt",
 		"Mikama",
 		"C A Z E",
 		"Faaka_vr",
