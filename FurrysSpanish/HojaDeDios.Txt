@@ -122,8 +122,6 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"N y x ღ",
 		"SilverFenris",
-		"KOSAKOUWU_1",
-		"ssuika",
 		"Achiu",
 		"aguadecate",
 		"Salsito",
