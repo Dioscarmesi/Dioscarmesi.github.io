@@ -8,7 +8,7 @@ URL Ranks by DiscoPeligro.
 		],
 	"ModJefe": [
 		"Strikkеrz",
-		"Angela_Renamon",
+		"Alegnamon",
 		"GUILEAS"
 	],
 	"Mod": [
