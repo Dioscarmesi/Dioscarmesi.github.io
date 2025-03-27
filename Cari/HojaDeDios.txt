@@ -380,6 +380,9 @@ URL Ranks by DiscoPeligro.
 		"Aliヅ",
 		"AlastorRng",
 		"Homehell",
+		"IG OnealGaming",
+		"Zionnz",
+		"victxr_sg0",
 		"MimiPR"
 		]
 }
