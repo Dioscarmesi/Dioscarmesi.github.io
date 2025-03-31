@@ -89,13 +89,13 @@ URL Ranks by DiscoPeligro.
 		"marixxa",
 		"RensellaVT",
 		"¿? ᴋᴇɴ ¿?",
-		"ESPACIODISPONIBLE",
+		"bonilla_VRX",
 		"ESPACIODISPONIBLE",
 		"Kanaegaming"
 		],
 	"DancerGuest":[
 		"ɴᴏᴛᴍʏᴛʜɪᴄᴀʟ",
-		"bonilla_VRX",
+		"ESPACIODISPONIBLE",
 		"Royaltу",
 		"ᴇᴄʟɪᴘsᴇ®",
 		"Ezer_",
