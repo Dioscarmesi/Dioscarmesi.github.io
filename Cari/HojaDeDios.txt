@@ -181,6 +181,7 @@ URL Ranks by DiscoPeligro.
 		"ᴛᴊx'",
 		"Nioxu_",
 		"SpaceGalaxy‘sPET",
+		"XairiPR",
 		"Niko Pollito",
 		"Nevadi",
 		"Sainthe",
