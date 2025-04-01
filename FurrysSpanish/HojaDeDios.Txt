@@ -145,7 +145,7 @@ URL Ranks by DiscoPeligro.
 		"HoniiChan",
 		"ESPACIODISPONIBLE",
 		"_Viscochin_",
-		"ryū_vr",
+		"ESPACIODISPONIBLE",
 		"Daiki-ito9751",
 		"KOSAKOUWU_1",
 		"ssuika",
