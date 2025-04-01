@@ -385,6 +385,7 @@ URL Ranks by DiscoPeligro.
 		"Zionnz",
 		"victxr_sg0",
 		"Aki_sf",
+		"༒z̴u̴o̴༒",
 		"MimiPR"
 		]
 }
