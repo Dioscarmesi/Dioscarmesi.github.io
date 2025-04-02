@@ -4,7 +4,7 @@ URL Ranks by DiscoPeligro.
 		"UnHada",
 		"NosticChop"],
 	"VipManager": [
-		"Naiiky"
+		"Andrömeda"
 		],
 	"ModJefe": [
 		"Strikkеrz",
@@ -12,7 +12,6 @@ URL Ranks by DiscoPeligro.
 		"GUILEAS"
 	],
 	"Mod": [
-		"Andrömeda",
 		"★Denki★"
 		],
 	"ModPracticantes": [
