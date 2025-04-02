@@ -8,11 +8,11 @@ URL Ranks by DiscoPeligro.
 		],
 	"ModJefe": [
 		"Strikkеrz",
-		"Andrömeda",
 		"Alegnamon",
 		"GUILEAS"
 	],
 	"Mod": [
+		"Andrömeda",
 		"★Denki★"
 		],
 	"ModPracticantes": [
