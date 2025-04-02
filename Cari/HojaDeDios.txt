@@ -20,6 +20,9 @@ URL Ranks by DiscoPeligro.
 		"ReikoSaori",
 		"ParzivalOkazaki"
 		],
+	"VipManager":[
+		"Sainthe"
+	],
 	"JokerCircus": [
 		"JokerStein",
 		"FXSCAR",
