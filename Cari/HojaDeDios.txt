@@ -225,9 +225,7 @@ URL Ranks by DiscoPeligro.
 		"TʀɨֆTɛֆʊƈʊɮօ",
 		"expertroolnoob2",
 		"--------------------------Stage----------------------------------",
-		"IG OnealGaming",
-		"Zionnz",
-		"victxr_sg0",
+		"Marii~Juana",
 		"ilimusa",
 		"༒ DaViD LuIsC༒",
 		"JustNovaa",
@@ -372,6 +370,9 @@ URL Ranks by DiscoPeligro.
 		"Homehell",
 		"GideonToffu",
 		"Scrollplay",
+		"IG OnealGaming",
+		"Zionnz",
+		"victxr_sg0",
 		"MimiPR"
 		]
 }
