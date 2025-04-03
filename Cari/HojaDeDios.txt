@@ -373,6 +373,7 @@ URL Ranks by DiscoPeligro.
 		"IG OnealGaming",
 		"Zionnz",
 		"victxr_sg0",
+		"_Zafiro_",
 		"MimiPR"
 		]
 }
