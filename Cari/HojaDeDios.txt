@@ -17,7 +17,7 @@ URL Ranks by DiscoPeligro.
 		"Andrömeda",
 		"ƝƛƓȺ★ƑʘɌȾ",
 		"Dere Limon",
-		"ReikoSaori",
+		"Bolita De Nieve",
 		"ParzivalOkazaki"
 		],
 	"VipManager":[
