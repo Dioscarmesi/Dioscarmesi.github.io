@@ -200,7 +200,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"IG OnealGaming",
 		"Zionnz",
-		"victxr_sg0",
+		"Skyvv",
 		"ShadowN01",
 		"MsCozy21 a21b",
 		"Prototipo0121",
