@@ -121,6 +121,7 @@ URL Ranks by DiscoPeligro.
 		"velgromax",
 		"Yukiji_Nerd",
 		"Astillaa",
+		"_Zafiro_",
 		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
