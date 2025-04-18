@@ -112,7 +112,7 @@ URL Ranks by DiscoPeligro.
 		"MARK MORA",
 		"ESPACIODISPONIBLE",
 		"-------------------------------------------------------------PasilloSpawn------------------------------------",
-		"Aiza_",
+		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"Potato21_12",
 		"Afredyy101 3a9b",
