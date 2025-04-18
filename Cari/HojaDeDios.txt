@@ -188,6 +188,7 @@ URL Ranks by DiscoPeligro.
 		"Nevadi",
 		"Sainthe",
 		"MurakamiJin",
+		"969King",
 		"ESPACIODISPONIBLE"
 	],
 	"VIP": [
@@ -231,8 +232,8 @@ URL Ranks by DiscoPeligro.
 		"༒ DaViD LuIsC༒",
 		"JustNovaa",
 		"ESPACIODISPONIBLE",
-		"Roxytooty",
-		"Milenkoドラゴン",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
 		"nxgr1too",
 		"Yvndel",
 		"༒N̷A̷N̷O̷༒",
