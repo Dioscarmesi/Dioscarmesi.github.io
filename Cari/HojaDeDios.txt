@@ -92,6 +92,7 @@ URL Ranks by DiscoPeligro.
 		"¿? ᴋᴇɴ ¿?",
 		"bonilla_VRX",
 		"Roxytooty",
+		"Boloぷ",
 		"Kanaegaming"
 		],
 	"DancerGuest":[
@@ -123,7 +124,7 @@ URL Ranks by DiscoPeligro.
 		"Yukiji_Nerd",
 		"Astillaa",
 		"_Zafiro_",
-		"ESPACIODISPONIBLE"
+		"iMyn cx"
 		],
 	"Exclusive": [
 		"ESPACIODISPONIBLE"
