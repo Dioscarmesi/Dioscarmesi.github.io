@@ -93,6 +93,8 @@ URL Ranks by DiscoPeligro.
 		"bonilla_VRX",
 		"Roxytooty",
 		"Boloぷ",
+		"MatthewQ123",
+		"Astillaa",
 		"Kanaegaming"
 		],
 	"DancerGuest":[
