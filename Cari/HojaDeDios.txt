@@ -126,6 +126,7 @@ URL Ranks by DiscoPeligro.
 		"Yukiji_Nerd",
 		"Astillaa",
 		"_Zafiro_",
+		"sِِِx",
 		"iMyn cx"
 		],
 	"Exclusive": [
