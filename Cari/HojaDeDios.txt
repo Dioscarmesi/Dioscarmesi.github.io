@@ -45,13 +45,13 @@ URL Ranks by DiscoPeligro.
 	"Mikama"
 	],
 	"DancerCapitan": [
-		"DakYng",
 		"KatheKatt",
 		"ღItzAkaneღ"
 		],
 	"DancerCari": [
 		"ღEquiღ",
 		"Mikama",
+		"DakYng",
 		"C A Z E",
 		"Faaka_vr",
 		"Seruly",
