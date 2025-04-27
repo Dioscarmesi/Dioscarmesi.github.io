@@ -125,7 +125,7 @@ URL Ranks by DiscoPeligro.
 		"velgromax",
 		"Yukiji_Nerd",
 		"Astillaa",
-		"_Zafiro_",
+		"ESPACIODISPONIBLE",
 		"sِِِx",
 		"iMyn cx"
 		],
@@ -307,7 +307,7 @@ URL Ranks by DiscoPeligro.
 		"Scrollplay",
 		"ChaoticLust",
 		"poRRyy",
-		"_Zafiro_",
+		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"Kanaegaming",
 		"lilithrose_17 3",
