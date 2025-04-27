@@ -127,7 +127,7 @@ URL Ranks by DiscoPeligro.
 		"Astillaa",
 		"ESPACIODISPONIBLE",
 		"sِِِx",
-		"iMyn cx"
+		"ESPACIODISPONIBLE"
 		],
 	"Exclusive": [
 		"ESPACIODISPONIBLE"
