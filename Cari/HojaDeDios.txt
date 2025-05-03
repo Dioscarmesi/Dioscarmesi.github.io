@@ -95,6 +95,7 @@ URL Ranks by DiscoPeligro.
 		"Boloぷ",
 		"MatthewQ123",
 		"Astillaa",
+		"Ｅｕｐｈｏｒｉｉａ",
 		"Kanaegaming"
 		],
 	"DancerGuest":[
@@ -270,8 +271,8 @@ URL Ranks by DiscoPeligro.
 		"︶ M i t s u ︶",
 		"Nilein",
 		"K EN",
-		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE",
+		"JINZZY1",
+		"GERMAN002",
 		"Morubax",
 		"ESPACIODISPONIBLE",
 		"Yariimarie",
@@ -345,7 +346,7 @@ URL Ranks by DiscoPeligro.
 		"--------------------------Sotano Stage--------------------------------",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
-		"Shοka",
+		"Νagi",
 		"ESPACIODISPONIBLE",
 		"ryū_vr",
 		"Ludovita",
