@@ -176,7 +176,7 @@ URL Ranks by DiscoPeligro.
 		"฿Ɇ₭Ø 忠"
 	],
 	"Friends":[
-		"Jevead",
+		"Miizuho-",
 		"Matiusito",
 		"ZorroBlanco9",
 		"iyatsu",
