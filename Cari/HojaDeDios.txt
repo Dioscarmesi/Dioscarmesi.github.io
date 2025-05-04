@@ -19,6 +19,7 @@ URL Ranks by DiscoPeligro.
 		"ƝƛƓȺ★ƑʘɌȾ",
 		"Dere Limon",
 		"Bolita De Nieve",
+		"Mαятιиツᴹᵡ",
 		"ParzivalOkazaki"
 		],
 	"VipManager":[
