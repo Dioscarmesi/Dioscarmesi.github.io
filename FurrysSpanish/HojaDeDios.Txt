@@ -82,7 +82,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE"
 	],
 	"Friends":[
-		"Jevead",
+		"Miizuho-",
 		"iyatsu",
 		"vittalLyric",
 		"yuni~little",
