@@ -7,19 +7,21 @@ URL Ranks by DiscoPeligro.
 		"Andrömeda"
 		],
 	"ModJefe": [
-		"Strikkеrz",
-		"Alegnamon",
-		"GUILEAS"
+		"Vacio"
 	],
 	"Mod": [
-		"★Denki★"
-		],
-	"ModPracticantes": [
+		"★Denki★",
+		"Strikkеrz",
+		"Alegnamon",
+		"GUILEAS",
 		"_LilithVr_",
 		"ShadyBelca",
 		"leitoxs",
 		"mudoXqX",
 		"DenkiKitsune"
+		],
+	"ModPracticantes": [
+		"Vacio"
 		],
 	"DJ": [
 		"Ryuk0",
