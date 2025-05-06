@@ -380,6 +380,8 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"Zerosurī",
 		"Jhonnystein",
+		"Ashura6612",
+		"Yaelimar1 b393",
 		"--------------------------Premios Evento--------------------------------",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
