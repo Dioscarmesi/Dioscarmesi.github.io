@@ -116,7 +116,7 @@ URL Ranks by DiscoPeligro.
 		"GERMAN002",
 		"ESPACIODISPONIBLE",
 		"ASTRIDXHORNYX",
-		"Emanuel87",
+		"Kamgris",
 		"-------------------------------------------------------------PasilloSpawn------------------------------------",
 		"Gali~",
 		"AriaCatt",
