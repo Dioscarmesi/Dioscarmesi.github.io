@@ -333,6 +333,8 @@ URL Ranks by DiscoPeligro.
 		"Warm®",
 		"HexGama",
 		"MackMoonlight",
+		"ChaoticLust",
+		"poRRyy",
 		"Skyvv",
 		"victxr_sg0",
 		"MochiiBunny737",
