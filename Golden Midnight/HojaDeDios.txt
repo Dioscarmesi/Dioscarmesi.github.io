@@ -1,7 +1,6 @@
 URL Ranks by DiscoPeligro.
 {
 "Admin": ["DakYng",
-        "》Akali《",
         "Dios Carmesi",
         "RensellaVT",
         "Chaos Spectrum",
