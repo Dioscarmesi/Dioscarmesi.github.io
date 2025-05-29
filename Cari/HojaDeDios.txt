@@ -169,13 +169,13 @@ URL Ranks by DiscoPeligro.
 		"Fluffy_kiwi",
 		"GreyGrace",
 		"ESPACIODISPONIBLE",
-		"--------------------------GohanVR------------------------------------",
-		"Gohan_Beatbox",
-		"shoyu_irezumi",
-		"Luzbel_Star",
-		"Bolillos",
+		"--------------------------ESPACIODISPONIBLE------------------------------------",
 		"ESPACIODISPONIBLE",
-		"฿Ɇ₭Ø 忠"
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE"
 	],
 	"Friends":[
 		"Miizuho-",
