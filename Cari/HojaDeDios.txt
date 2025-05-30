@@ -20,7 +20,8 @@ URL Ranks by DiscoPeligro.
 		"Dere Limon",
 		"Bolita De Nieve",
 		"Mαятιиツᴹᵡ",
-		"ParzivalOkazaki"
+		"ParzivalOkazaki",
+		"graygrace"
 		],
 	"VipManager":[
 		"Sainthe"
