@@ -13,10 +13,36 @@ URL Ranks by DiscoPeligro.
 	"ShyLio°",
         "Angela_Renamon"],
   "Dancer": [
-            "ESPACIOVACIO"],
-	"DJ": ["ESPACIOVACIO"],
-  "Photographer": ["ESPACIOVACIO"],
-  "Host": ["ESPACIOVACIO"], 
+	"ikerreki231",
+    	"нσѕнι",
+    	"Ezer_",
+    	"Jeffsito7u7VR",
+   	"TheWolfKenji",
+    	"sammyvase",
+    	"ღEquiღ",
+    	"XairiPR"
+	],
+	"DJ": [
+	"RAFAOwO",
+    	"Jamirdg",
+    	"Gamer7777702026",
+    	"ALVAR0ZZZZZZZZZ"
+	],
+  "Photographer": [
+	"Roxytooty",
+    	"Daniel.n.v",
+    	"Rubeko",
+    	"AndrewSant",
+	"Cartlos5137",
+    	"٠Lady Berry٠"
+  	],
+  "Host": [
+	"Amurysse",
+    	"ʚCLASSISTɞ",
+    	"julioskrats",
+    	"Prototipo0121",
+    	"RocketSaul"
+	], 
   "StaffInvitado": ["ESPACIOVACIO"],
   "StaffMenor": ["ESPACIOVACIO"],
 	"VIP": ["ESPACIOVACIO"]
