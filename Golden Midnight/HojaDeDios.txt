@@ -12,6 +12,10 @@ URL Ranks by DiscoPeligro.
         "Noble-kun",
 	"ShyLio°",
         "Angela_Renamon"],
+"StaffSecurity": [
+	"Fulano",
+	"Fulano2"
+	]
   "Dancer": [
 	"ikerreki231",
     	"нσѕнι",
