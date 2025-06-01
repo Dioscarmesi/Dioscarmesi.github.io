@@ -204,6 +204,7 @@ URL Ranks by DiscoPeligro.
 		"MurakamiJin",
 		"969King",
 		"Deıssʏ",
+		"CopycatPortal",
 		"ESPACIODISPONIBLE"
 	],
 	"VIP": [
