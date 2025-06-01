@@ -362,6 +362,8 @@ URL Ranks by DiscoPeligro.
 		"Jhonnystein",
 		"Νagi",
 		"ESPACIODISPONIBLE",
+		"capitan_uron",
+		"MoonSerein",
 		"Ashura6612",
 		"ESPACIODISPONIBLE",
 		"AndreaAlejandra",
