@@ -131,7 +131,7 @@ URL Ranks by DiscoPeligro.
 		"MεḯμPґüїṧAøηC",
 		"sِِِx",
 		"Se Miya",
-		"ESPACIODISPONIBLE"
+		"ᴍ ɪ ᴄ ʜ ʏ"
 		],
 	"Exclusive": [
 		"ESPACIODISPONIBLE"
