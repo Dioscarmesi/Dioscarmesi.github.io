@@ -12,6 +12,9 @@ URL Ranks by DiscoPeligro.
 	"Taino": [
 		"ElTaino"
 	],
+	"ᴇᴛᴀᴅɪʟᴀᴠ":[
+		"ᴇᴛᴀᴅɪʟᴀᴠ"
+	],
 	"Mod": [
 		"Uni ウサギ",
 		"Strikkеrz",
