@@ -135,6 +135,7 @@ URL Ranks by DiscoPeligro.
 		"sِِِx",
 		"Se Miya",
 		"be nice ˸）",
+		"Nagixrz",
 		"ᴍ ɪ ᴄ ʜ ʏ"
 		],
 	"Exclusive": [
