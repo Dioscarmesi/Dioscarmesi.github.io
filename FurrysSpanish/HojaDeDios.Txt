@@ -116,7 +116,7 @@ URL Ranks by DiscoPeligro.
 		"GERMAN002",
 		"ESPACIODISPONIBLE",
 		"ASTRID LA FURRA",
-		"ESPACIODISPONIBLE",
+		"Yukii Dec3",
 		"-------------------------------------------------------------PasilloSpawn------------------------------------",
 		"Gali~",
 		"AriaCatt",
