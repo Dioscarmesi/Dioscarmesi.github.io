@@ -232,7 +232,6 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 	],
-
 	"VIP": [
 		"--------------------------BAR------------------------------------",
 		"El_CADEJO_SV",
