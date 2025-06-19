@@ -66,6 +66,7 @@ URL Ranks by DiscoPeligro.
 		"Numbaaat",
 		"Αύrα",
 		"raycrash",
+		"Malin11",
 		"ESPACIODISPONIBLE"
 		],
 	"Dancer": [
@@ -89,7 +90,6 @@ URL Ranks by DiscoPeligro.
 		"Beiker07",
 		"Jɸker®",
 		"Shirou1711",
-		"Malin11",
 		"ASTAABOYY99",
 		"DemonSenpaii",
 		"Мариша ¿?",
