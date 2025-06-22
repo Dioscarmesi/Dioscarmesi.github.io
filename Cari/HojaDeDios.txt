@@ -212,7 +212,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"-------------Pareja Dancers--------------",
 		"969King",
-		"XairiPR",
+		"-Tai",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
