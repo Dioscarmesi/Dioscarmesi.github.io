@@ -108,6 +108,7 @@ URL Ranks by DiscoPeligro.
 		"Tadashi_24",
 		"RensellaVT",
 		"Mikunita",
+		"El Torino",
 		"ESPACIODISPONIBLE"
 	],
 	"VIPFurrys": [
