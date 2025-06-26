@@ -143,6 +143,9 @@ URL Ranks by DiscoPeligro.
 		"Nuria_Kawaii",
 		"M7ًًً",
 		"Hypophrenia",
+		"godlara",
+		"BeSaidClt",
+		"LunaUmbra037",
 		"ᴍ ɪ ᴄ ʜ ʏ"
 		],
 	"Exclusive": [
