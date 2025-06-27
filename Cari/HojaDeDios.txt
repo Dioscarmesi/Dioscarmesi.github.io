@@ -145,6 +145,7 @@ URL Ranks by DiscoPeligro.
 		"godlara",
 		"BeSaidClt",
 		"LunaUmbra037",
+		"Minicraftin",
 		"ᴍ ɪ ᴄ ʜ ʏ"
 		],
 	"Exclusive": [
