@@ -9,11 +9,14 @@ URL Ranks by DiscoPeligro.
 		"Icon4500L̵̐̔",
 		"Icоn4500-"
 	],
-	"Taino": [
+	"InversorA": [
 		"ElTaino"
 	],
-	"ᴇᴛᴀᴅɪʟᴀᴠ":[
+	"InversorB":[
 		"ᴇᴛᴀᴅɪʟᴀᴠ"
+	],
+	"InversorC":[
+		"ＴＯＫＡＹＯ"
 	],
 	"Mod": [
 		"Uni ウサギ",
