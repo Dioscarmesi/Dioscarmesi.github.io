@@ -149,6 +149,7 @@ URL Ranks by DiscoPeligro.
 		"BeSaidClt",
 		"LunaUmbra037",
 		"Minicraftin",
+		"Nosfet",
 		"ᴍ ɪ ᴄ ʜ ʏ"
 		],
 	"Exclusive": [
