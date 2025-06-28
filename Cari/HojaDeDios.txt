@@ -98,6 +98,9 @@ URL Ranks by DiscoPeligro.
 		"Ｅｕｐｈｏｒｉｉａ",
 		"VelasquezPai",
 		"DakYng",
+		"ღᴋᴀᴍɪᴍɪ",
+		"Erill․♥",
+		"sabaxius",
 		"Kanaegaming"
 		],
 	"DancerGuest":[
