@@ -27,6 +27,7 @@ URL Ranks by DiscoPeligro.
 		"ReikoSaori",
 		"Mαятιи_MxVr",
 		"ParzivalOkazaki",
+		"RohandrileVR",
 		"graygrace"
 		],
 	"VipManager":[
@@ -201,7 +202,7 @@ URL Ranks by DiscoPeligro.
 		"konflakes_",
 		"GERMAN002",
 		"mrbb88",
-		"RohandrileVR",
+		"c1geerzs",
 	],
 	"Friends":[
 		"NYADETH",
