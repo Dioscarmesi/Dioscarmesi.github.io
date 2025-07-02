@@ -24,21 +24,13 @@ URL Ranks by DiscoPeligro.
 		"Vacio"
 		],
 	"DJ": [
-		"Ryuk0",
-		"venadoparlante․"
-		],
-	"VRCPlayers": [
-		"Ξｚｚｚ 欧え",
-		"༒ Anónimo ༒"
-		],
-	"DancerCapitan": [
-		"ESPACIODISPONIBLE"
+		"VACIO"
 		],
 	"Dancer": [
-		"ESPACIODISPONIBLE"
-		],
-	"DancerGuest":[
-		"ESPACIODISPONIBLE"
+		"RensellaVT",
+		"Tadashi_24",
+		"StephVr_",
+		"Shirou1711"
 		],
 	"Exclusive": [
 		"ESPACIODISPONIBLE"
@@ -105,10 +97,11 @@ URL Ranks by DiscoPeligro.
 		"zulay",
 		"PandoraBarks",
 		"DakYng",
-		"Tadashi_24",
-		"RensellaVT",
 		"Mikunita",
 		"El Torino",
+		"VaKass",
+		"Mephystopheles",
+		"izayoiiiisan",
 		"ESPACIODISPONIBLE"
 	],
 	"VIPFurrys": [
