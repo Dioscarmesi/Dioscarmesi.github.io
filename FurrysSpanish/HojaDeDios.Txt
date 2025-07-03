@@ -138,7 +138,7 @@ URL Ranks by DiscoPeligro.
 		"-------------------------------------------------------------TerrazaSpawn--------------------------------------",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
-		"Mr․Inmo",
+		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"LuzaGunner",
 		"ESPACIODISPONIBLE",
