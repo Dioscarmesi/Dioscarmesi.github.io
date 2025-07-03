@@ -1,0 +1,9 @@
+URL Ranks by DiscoPeligro.
+{
+  "Co-Owner":["WolfDaver"],
+	"Mod": ["Vacio"],
+	"DJ": ["Vacio"],
+	"Dancer": ["Vacio"],
+	"Exclusive": ["Vacio"],
+	"VIP": ["Vacio"]
+}
