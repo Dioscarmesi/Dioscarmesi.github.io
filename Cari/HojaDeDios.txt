@@ -102,6 +102,7 @@ URL Ranks by DiscoPeligro.
 		"Erill․♥",
 		"sabaxius",
 		"Areck_demon",
+		"Bboy_Miguel 仮想",
 		"Kanaegaming"
 		],
 	"DancerGuest":[
