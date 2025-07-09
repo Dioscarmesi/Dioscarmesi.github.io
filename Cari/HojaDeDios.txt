@@ -104,6 +104,7 @@ URL Ranks by DiscoPeligro.
 		"Areck_demon",
 		"Bboy_Miguel 仮想",
 		"ღItzkanaeღ",
+		"_Braixen_",
 		"Kanaegaming"
 		],
 	"DancerGuest":[
