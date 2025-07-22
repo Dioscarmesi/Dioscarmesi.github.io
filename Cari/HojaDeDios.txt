@@ -225,6 +225,8 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"ＴＯＫＡＹＯ",
 		"CAROL_RM",
+		"konflakes_",
+		"୨୧ April ୨୧",
 		"vagget",
 		"Lisy27",
 		"Lord_Zonuax",
