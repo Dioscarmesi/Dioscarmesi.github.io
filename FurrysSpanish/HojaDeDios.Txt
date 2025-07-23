@@ -130,7 +130,7 @@ URL Ranks by DiscoPeligro.
 		"GERMAN002",
 		"ESPACIODISPONIBLE",
 		"ASTRID LA FURRA",
-		"Yukii Dec3",
+		"Flµffy · NYXUS",
 		"-------------------------------------------------------------PasilloSpawn------------------------------------",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
