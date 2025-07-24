@@ -280,7 +280,7 @@ URL Ranks by DiscoPeligro.
 		"Majestad",
 		"ESPACIODISPONIBLE",
 		"--------------------------Exterior--------------------------------",
-		"ESPACIODISPONIBLE",
+		"DEVILZOO_",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
