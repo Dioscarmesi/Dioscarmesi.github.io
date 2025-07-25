@@ -86,8 +86,8 @@ URL Ranks by DiscoPeligro.
 		"Beiker07",
 		"Deıssʏ",
 		"raycrash",
-		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE",
+		"MochiiBunny737",
+		"°lothario°",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		],
