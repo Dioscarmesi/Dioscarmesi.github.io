@@ -86,7 +86,6 @@ URL Ranks by DiscoPeligro.
 		"Beiker07",
 		"Deıssʏ",
 		"raycrash",
-		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 		],
 	"DancerGuest":[
@@ -191,7 +190,7 @@ URL Ranks by DiscoPeligro.
 		"GTRαιzєr-ѕαмαஜ",
 		"xDeadlyElinX",
 		"StarrEEknight 6653",
-		"Cachuvi 4a53",
+		"Cachuvi",
 		"ShadowN01",
 		"JINZZY1",
 		"Prototipo0121",
