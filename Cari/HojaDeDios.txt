@@ -156,6 +156,10 @@ URL Ranks by DiscoPeligro.
 	"Friends":[
 		"NYADETH",
 		"Ｎͥｅͫａｔツ",
+		"Alegnamon",
+		"Miizuho-",
+		"Chaos Spectrum",
+		"VaKass",
 		"SpaceGalaxy‘sPET",
 		"Nevadi",
 		"MurakamiJin",
