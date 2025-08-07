@@ -116,6 +116,7 @@ URL Ranks by DiscoPeligro.
 		"Mephystopheles",
 		"izayoiiiisan",
 		"marixxa",
+		"ＴＯＫＡＹＯ",
 		"ESPACIODISPONIBLE"
 	],
 	"VIPFurrys": [
