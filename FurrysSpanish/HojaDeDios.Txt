@@ -9,6 +9,9 @@ URL Ranks by DiscoPeligro.
 	"ModJefe": [
 		"Vacio"
 	],
+	"Angelika": [
+		"Angelika"
+	],
 	"Mod": [
 		"★Denki★",
 		"Strikkеrz",
