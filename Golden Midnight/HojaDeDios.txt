@@ -1,53 +1,77 @@
 URL Ranks by DiscoPeligro.
 {
-"Admin": ["DakYng",
-        "Dios Carmesi",
-        "RensellaVT",
-        "Chaos Spectrum",
-        "Tadashi_24",
-        "Lilyytuwu"],
-"StaffMayor": ["Strikkеrz",
-        "NordicWDS",
-        "WolfDaver",
-        "Noble-kun",
-	"ShyLio°",
-        "Angela_Renamon"],
+"Admin": [
+        "RensellaVT"
+	],
+"StaffMayor": [
+	"Vacio"],
 "StaffSecurity": [
-	"Fulano",
-	"Fulano2"
-	]
-  "Dancer": [
-	"ikerreki231",
+	"D4rkfox",
+	"Gonzalo_vr",
+	"Yísus",
+	"Jeffsito7u7VR"
+    ],
+"Dancer": [
+		"ikerreki231",
     	"нσѕнι",
     	"Ezer_",
-    	"Jeffsito7u7VR",
-   	"TheWolfKenji",
+    	"EspacioVacio",
+   		"TheWolfKenji",
     	"sammyvase",
     	"ღEquiღ",
-    	"XairiPR"
+    	"XairiPR",
+		"OsitoPauPau",
+		"RED_XONA",
+		"Мариша ¿?",
+		"Onlydevil",
+		"StephVr_",
+		"ღToxicKittenღ"
 	],
-	"DJ": [
+"DJ": [
 	"RAFAOwO",
     	"Jamirdg",
     	"Gamer7777702026",
-    	"ALVAR0ZZZZZZZZZ"
+    	"ALVAR0ZZZZZZZZZ",
+	"ZEDAnime"
 	],
   "Photographer": [
-	"Roxytooty",
-    	"Daniel.n.v",
-    	"Rubeko",
-    	"AndrewSant",
-	"Cartlos5137",
-    	"٠Lady Berry٠"
+    	"vacio"
   	],
   "Host": [
 	"Amurysse",
     	"ʚCLASSISTɞ",
     	"julioskrats",
     	"Prototipo0121",
-    	"RocketSaul"
+    	"RocketSaul",
+	"Gaaratan",
+	"XionyxS",
+	"Lᴀᴅʏ Rᴇᴅღ",
+	"MurakamiJin"
 	], 
-  "StaffInvitado": ["ESPACIOVACIO"],
-  "StaffMenor": ["ESPACIOVACIO"],
-	"VIP": ["ESPACIOVACIO"]
+"Barman": [
+	"Cartlos5137",
+	"vacio",
+	"vacio",
+	"vacio",
+	"vacio"
+],
+"Artista": [
+	"Roxytooty",
+	"Daniel.n.v",
+	"Rubeko",
+	"AndrewSant",
+	"vacio",
+	"vacio",
+	"vacio"
+],
+  "StaffInvitado": [
+	"ESPACIOVACIO"
+],
+  "StaffMenor": [
+	"ESPACIOVACIO"
+	],
+	"VIP": [
+	"ᴇᴛᴀᴅɪʟᴀᴠ",
+	"tgfgggg"
+	]
 }
