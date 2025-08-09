@@ -3,6 +3,9 @@ URL Ranks by DiscoPeligro.
 "Admin": [
         "RensellaVT"
 	],
+"Co-Owner": [
+        "Dios Carmesi"
+	],
 "StaffMayor": [
 	"Vacio"],
 "StaffSecurity": [
