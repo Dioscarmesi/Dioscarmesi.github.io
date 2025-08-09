@@ -10,7 +10,7 @@ URL Ranks by DiscoPeligro.
 		"Icоn4500-"
 	],
 	"NoviaIcon": [
-		"No se como se llama"
+		"Dulcecоmocandy"
 	],
 	"InversorA": [
 		"ElTaino"
