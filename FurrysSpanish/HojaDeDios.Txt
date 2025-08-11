@@ -10,7 +10,7 @@ URL Ranks by DiscoPeligro.
 		"Vacio"
 	],
 	"Angelika": [
-		"Angelika"
+		"Alegnamon"
 	],
 	"Mod": [
 		"★Denki★",
