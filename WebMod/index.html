@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Moderación VRChat — Panel</title>
+  <style>
+    :root{
+      --bg: #0b0f14; --card:#121821; --muted:#7c8aa5; --text:#e9eef7; --accent:#6ee7ff; --accent2:#a78bfa; --danger:#ff6b6b; --ok:#22c55e; --warn:#f59e0b;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica Neue, Arial; background:linear-gradient(180deg, #0b0f14, #0b0f14 200px, #0e141d); color:var(--text)}
+    a{color:var(--accent)}
+    .wrap{max-width:1100px;margin:0 auto;padding:24px}
+    .card{background:var(--card);border:1px solid #1d2430;border-radius:16px;padding:20px;box-shadow:0 10px 30px rgba(0,0,0,.3)}
+    .row{display:flex;gap:12px;flex-wrap:wrap}
+    .col{flex:1 1 250px}
+    h1{font-size:28px;margin:.2rem 0}
+    h2{font-size:20px;margin:1rem 0 .5rem}
+    .muted{color:var(--muted)}
+    input,select,button,textarea{background:#0e1520;color:var(--text);border:1px solid #223047;border-radius:10px;padding:10px 12px}
+    input::placeholder, textarea::placeholder{color:#8aa0bf}
+    button{cursor:pointer}
+    .btn{background:linear-gradient(135deg, var(--accent), var(--accent2));border:none;color:#0a0f16;font-weight:700}
+    .btn.secondary{background:#0e1520;color:var(--text);border:1px solid #2c3b55}
+    .btn.danger{background:var(--danger);color:#0a0f16}
+    .tag{font-size:12px;padding:4px 8px;border-radius:999px;border:1px solid #263346}
+    .tag.ok{border-color:var(--ok);color:var(--ok)}
+    .tag.warn{border-color:var(--warn);color:var(--warn)}
+    .tag.danger{border-color:var(--danger);color:var(--danger)}
+    table{width:100%;border-collapse:separate;border-spacing:0 8px}
+    th,td{text-align:left;padding:10px 12px}
+    thead th{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#a6b2c8}
+    tbody tr{background:#0e1520;border:1px solid #1f2a3d}
+    tbody tr td:first-child{border-top-left-radius:10px;border-bottom-left-radius:10px}
+    tbody tr td:last-child{border-top-right-radius:10px;border-bottom-right-radius:10px}
+    .toolbar{display:flex;gap:10px;align-items:center;justify-content:space-between;margin:12px 0}
+    .hidden{display:none!important}
+    .right{margin-left:auto}
+    .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:12px}
+    .grid > *{grid-column:span 12}
+    @media(min-width:800px){.grid .span-6{grid-column:span 6}.grid .span-4{grid-column:span 4}}
+    .foot{margin-top:24px;color:#8aa0bf;font-size:12px;text-align:center}
+    .pill{padding:4px 8px;border-radius:999px;border:1px solid #2b364a}
+    .kbd{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;background:#0b111b;border:1px solid #223047;border-radius:6px;padding:2px 6px}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="toolbar">
+      <div>
+        <h1>Moderación VRChat</h1>
+        <div class="muted">GitHub Pages + Firebase Auth & Firestore</div>
+      </div>
+      <div id="userBox" class="hidden">
+        <span id="userEmail" class="pill"></span>
+        <span id="userRole" class="pill"></span>
+        <button id="btnLogout" class="btn secondary">Cerrar sesión</button>
+      </div>
+    </header>
+
+    <!-- Login / Signup Card -->
+    <section id="authCard" class="card">
+      <div class="grid">
+        <div class="span-6">
+          <h2>Acceso</h2>
+          <div class="muted">Entra con email/contraseña o con Google.</div>
+          <div class="row" style="margin-top:10px">
+            <input id="email" type="email" placeholder="correo@ejemplo.com" class="col" />
+            <input id="password" type="password" placeholder="Contraseña" class="col" />
+          </div>
+          <div class="row" style="margin-top:10px">
+            <button id="btnLogin" class="btn">Iniciar sesión</button>
+            <button id="btnSignup" class="btn secondary">Crear cuenta</button>
+            <button id="btnGoogle" class="btn secondary">Google</button>
+          </div>
+          <p class="muted" style="margin-top:10px">
+            Nota: Para permisos de moderación, crea el documento <span class="kbd">roles/{uid}</span> con <span class="kbd">role = 'admin' | 'moderator'</span>.
+          </p>
+        </div>
+        <div class="span-6">
+          <h2>Estado del proyecto</h2>
+          <ul>
+            <li>CRUD de usuarios de VRChat</li>
+            <li>Campos: <span class="kbd">username</span>, <span class="kbd">userId</span>, <span class="kbd">status</span>, <span class="kbd">evidences</span>, <span class="kbd">notes</span>, <span class="kbd">createdBy</span>, timestamps</li>
+            <li>Filtros / búsqueda básicos</li>
+            <li>Reglas de seguridad sugeridas (ver al final del archivo)</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main App Card -->
+    <section id="app" class="card hidden">
+      <div class="toolbar">
+        <div class="row">
+          <input id="search" placeholder="Buscar por username o userId" />
+          <select id="filterStatus">
+            <option value="">Todos</option>
+            <option value="active">Activo</option>
+            <option value="warned">Advertido</option>
+            <option value="banned">Baneado</option>
+          </select>
+          <button id="btnRefresh" class="btn secondary">Actualizar</button>
+        </div>
+        <div class="right">
+          <button id="btnOpenCreate" class="btn">Nuevo usuario VRChat</button>
+        </div>
+      </div>
+
+      <div class="muted">Solo <span class="kbd">admin</span> y <span class="kbd">moderator</span> pueden crear/editar/eliminar. Los demás: solo lectura.</div>
+
+      <div style="overflow:auto;margin-top:10px">
+        <table>
+          <thead>
+            <tr>
+              <th>Username</th>
+              <th>UserID</th>
+              <th>Estado</th>
+              <th>Evidencias</th>
+              <th>Notas</th>
+              <th>Creado por</th>
+              <th>Actualizado</th>
+              <th>Acciones</th>
+            </tr>
+          </thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Create / Edit Modal (simple) -->
+    <section id="modal" class="card hidden">
+      <h2 id="modalTitle">Nuevo usuario VRChat</h2>
+      <div class="grid">
+        <div class="span-6">
+          <label>Username</label>
+          <input id="f_username" placeholder="Ej. DiosCarmesi" />
+        </div>
+        <div class="span-6">
+          <label>UserID</label>
+          <input id="f_userId" placeholder="UUID o ID de VRChat" />
+        </div>
+        <div class="span-6">
+          <label>Estado</label>
+          <select id="f_status">
+            <option value="active">active</option>
+            <option value="warned">warned</option>
+            <option value="banned">banned</option>
+          </select>
+        </div>
+        <div class="span-6">
+          <label>Enlaces de evidencia (coma separada)</label>
+          <input id="f_evidences" placeholder="https://... , https://..." />
+        </div>
+        <div class="span-12">
+          <label>Notas</label>
+          <textarea id="f_notes" rows="4" placeholder="Resumen del caso, contexto, etc."></textarea>
+        </div>
+      </div>
+      <div class="toolbar">
+        <button id="btnSave" class="btn">Guardar</button>
+        <button id="btnCancel" class="btn secondary right">Cancelar</button>
+      </div>
+    </section>
+
+    <p class="foot">Hecho para GitHub Pages (solo frontend) — Asegura las Reglas de Firestore antes de publicar.</p>
+  </div>
+
+  <!-- Firebase SDKs (v10+ modular via CDN) -->
+  <script type="module">
+    // 1) Configura tu proyecto Firebase aquí
+    // 👉 Reemplaza estos valores por tu configuración real
+    const firebaseConfig = {
+      apiKey: "YOUR_API_KEY",
+      authDomain: "YOUR_PROJECT.firebaseapp.com",
+      projectId: "YOUR_PROJECT",
+      storageBucket: "YOUR_PROJECT.appspot.com",
+      messagingSenderId: "000000000000",
+      appId: "1:000000000000:web:xxxxxxxxxxxxxxxxxxxx"
+    };
+
+    // 2) Carga SDKs
+    import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.4/firebase-app.js';
+    import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword, GoogleAuthProvider, signInWithPopup, onAuthStateChanged, signOut } from 'https://www.gstatic.com/firebasejs/10.12.4/firebase-auth.js';
+    import { getFirestore, collection, addDoc, getDocs, query, where, orderBy, serverTimestamp, updateDoc, deleteDoc, doc, getDoc, limit } from 'https://www.gstatic.com/firebasejs/10.12.4/firebase-firestore.js';
+
+    const app = initializeApp(firebaseConfig);
+    const auth = getAuth(app);
+    const db = getFirestore(app);
+
+    // --- UI refs ---
+    const authCard = document.getElementById('authCard');
+    const appCard = document.getElementById('app');
+    const modal = document.getElementById('modal');
+
+    const email = document.getElementById('email');
+    const password = document.getElementById('password');
+    const btnLogin = document.getElementById('btnLogin');
+    const btnSignup = document.getElementById('btnSignup');
+    const btnGoogle = document.getElementById('btnGoogle');
+    const btnLogout = document.getElementById('btnLogout');
+
+    const userBox = document.getElementById('userBox');
+    const userEmail = document.getElementById('userEmail');
+    const userRole = document.getElementById('userRole');
+
+    const rows = document.getElementById('rows');
+    const search = document.getElementById('search');
+    const filterStatus = document.getElementById('filterStatus');
+    const btnRefresh = document.getElementById('btnRefresh');
+    const btnOpenCreate = document.getElementById('btnOpenCreate');
+
+    const f_username = document.getElementById('f_username');
+    const f_userId = document.getElementById('f_userId');
+    const f_status = document.getElementById('f_status');
+    const f_evidences = document.getElementById('f_evidences');
+    const f_notes = document.getElementById('f_notes');
+    const btnSave = document.getElementById('btnSave');
+    const btnCancel = document.getElementById('btnCancel');
+    const modalTitle = document.getElementById('modalTitle');
+
+    let currentRole = 'viewer';
+    let editDocId = null;
+
+    // --- Auth handlers ---
+    btnLogin.addEventListener('click', async () => {
+      try {
+        await signInWithEmailAndPassword(auth, email.value.trim(), password.value);
+      } catch (e){ alert('Error al iniciar sesión: '+e.message) }
+    });
+    btnSignup.addEventListener('click', async () => {
+      try {
+        await createUserWithEmailAndPassword(auth, email.value.trim(), password.value);
+        alert('Cuenta creada. Pide a un admin que te asigne rol en roles/{uid}.');
+      } catch (e){ alert('Error al crear cuenta: '+e.message) }
+    });
+    btnGoogle.addEventListener('click', async () => {
+      try {
+        const provider = new GoogleAuthProvider();
+        await signInWithPopup(auth, provider);
+      } catch (e){ alert('Error con Google: '+e.message) }
+    });
+    btnLogout.addEventListener('click', () => signOut(auth));
+
+    onAuthStateChanged(auth, async (user) => {
+      if (user){
+        authCard.classList.add('hidden');
+        appCard.classList.remove('hidden');
+        userBox.classList.remove('hidden');
+        userEmail.textContent = user.email || user.uid;
+        // Lee rol desde /roles/{uid}
+        currentRole = await fetchRole(user.uid);
+        userRole.textContent = 'rol: '+currentRole;
+        await loadTable();
+      } else {
+        authCard.classList.remove('hidden');
+        appCard.classList.add('hidden');
+        userBox.classList.add('hidden');
+        rows.innerHTML = '';
+      }
+    });
+
+    async function fetchRole(uid){
+      try {
+        const ref = doc(db, 'roles', uid);
+        const snap = await getDoc(ref);
+        return snap.exists() ? (snap.data().role || 'viewer') : 'viewer';
+      } catch(_){ return 'viewer' }
+    }
+
+    // --- Query & render ---
+    async function loadTable(){
+      rows.innerHTML = '<tr><td colspan="8" class="muted">Cargando...</td></tr>';
+      const col = collection(db, 'vrchatUsers');
+
+      // cliente filtra, pero podría moverse a server con índices y queries compuestos
+      const q = query(col, orderBy('updatedAt', 'desc'), limit(200));
+      const qs = await getDocs(q);
+      const terms = search.value.trim().toLowerCase();
+      const status = filterStatus.value;
+
+      const items = [];
+      qs.forEach(d => {
+        const data = d.data();
+        // filtros en cliente
+        if (status && data.status !== status) return;
+        if (terms && !((data.username||'').toLowerCase().includes(terms) || (data.userId||'').toLowerCase().includes(terms))) return;
+        items.push({ id:d.id, ...data });
+      });
+
+      renderRows(items);
+    }
+
+    function renderRows(items){
+      if (!items.length){
+        rows.innerHTML = '<tr><td colspan="8" class="muted">Sin resultados</td></tr>';
+        return;
+      }
+      rows.innerHTML = '';
+      for (const it of items){
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td><strong>${escapeHtml(it.username||'')}</strong></td>
+          <td><span class="pill">${escapeHtml(it.userId||'')}</span></td>
+          <td>${statusTag(it.status||'active')}</td>
+          <td>${(it.evidences||[]).map(u=>`<a href="${escapeAttr(u)}" target="_blank">link</a>`).join(', ')}</td>
+          <td>${escapeHtml((it.notes||'').slice(0,120))}${(it.notes||'').length>120?'…':''}</td>
+          <td>${escapeHtml(it.createdByEmail||it.createdBy||'')}</td>
+          <td>${it.updatedAt?.toDate ? it.updatedAt.toDate().toLocaleString() : ''}</td>
+          <td>
+            <button data-id="${it.id}" class="btn secondary btn-edit" ${canEdit()?'':'disabled'}>Editar</button>
+            <button data-id="${it.id}" class="btn danger btn-del" ${canEdit()?'':'disabled'}>Eliminar</button>
+          </td>
+        `;
+        rows.appendChild(tr);
+      }
+      // bind actions
+      rows.querySelectorAll('.btn-edit').forEach(b=>b.addEventListener('click',()=>openEdit(b.dataset.id)));
+      rows.querySelectorAll('.btn-del').forEach(b=>b.addEventListener('click',()=>doDelete(b.dataset.id)));
+    }
+
+    function statusTag(s){
+      const map = { active:'ok', warned:'warn', banned:'danger' };
+      const cls = map[s]||'ok';
+      return `<span class="tag ${cls}">${escapeHtml(s)}</span>`;
+    }
+    function canEdit(){ return currentRole==='admin' || currentRole==='moderator'; }
+
+    // --- Create / Edit ---
+    btnOpenCreate.addEventListener('click', ()=>{
+      if (!canEdit()) return alert('No tienes permisos para crear.');
+      editDocId = null;
+      modalTitle.textContent = 'Nuevo usuario VRChat';
+      f_username.value=''; f_userId.value=''; f_status.value='active'; f_evidences.value=''; f_notes.value='';
+      modal.classList.remove('hidden');
+      window.scrollTo({top:0,behavior:'smooth'});
+    });
+
+    btnCancel.addEventListener('click', ()=>{
+      modal.classList.add('hidden');
+    });
+
+    btnSave.addEventListener('click', async ()=>{
+      if (!canEdit()) return alert('No tienes permisos para guardar.');
+      const user = auth.currentUser;
+      if (!user) return alert('Sesión expirada.');
+
+      const payload = {
+        username: f_username.value.trim(),
+        userId: f_userId.value.trim(),
+        status: f_status.value,
+        evidences: csvToArray(f_evidences.value),
+        notes: f_notes.value.trim(),
+        createdBy: user.uid,
+        createdByEmail: user.email || null,
+        updatedAt: serverTimestamp(),
+        createdAt: editDocId? undefined : serverTimestamp(),
+      };
+      try{
+        if (editDocId){
+          await updateDoc(doc(db,'vrchatUsers', editDocId), payload);
+        } else {
+          await addDoc(collection(db,'vrchatUsers'), payload);
+        }
+        modal.classList.add('hidden');
+        await loadTable();
+      }catch(e){ alert('Error guardando: '+e.message)}
+    });
+
+    async function openEdit(id){
+      if (!canEdit()) return alert('No tienes permisos para editar.');
+      const dref = doc(db,'vrchatUsers', id);
+      const snap = await getDoc(dref);
+      if (!snap.exists()) return alert('Documento no existe');
+      const data = snap.data();
+      editDocId = id;
+      modalTitle.textContent = 'Editar usuario VRChat';
+      f_username.value = data.username || '';
+      f_userId.value = data.userId || '';
+      f_status.value = data.status || 'active';
+      f_evidences.value = (data.evidences||[]).join(', ');
+      f_notes.value = data.notes || '';
+      modal.classList.remove('hidden');
+      window.scrollTo({top:0,behavior:'smooth'});
+    }
+
+    async function doDelete(id){
+      if (!canEdit()) return alert('No tienes permisos para eliminar.');
+      if (!confirm('¿Eliminar este registro?')) return;
+      try{ await deleteDoc(doc(db,'vrchatUsers', id)); await loadTable(); }
+      catch(e){ alert('Error eliminando: '+e.message) }
+    }
+
+    // --- helpers ---
+    btnRefresh.addEventListener('click', loadTable);
+    search.addEventListener('input', debounce(loadTable, 250));
+    filterStatus.addEventListener('change', loadTable);
+
+    function csvToArray(str){
+      return str.split(',').map(s=>s.trim()).filter(Boolean);
+    }
+    function escapeHtml(s){
+      return (s||'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;','\'':'&#39;'}[c]));
+    }
+    function escapeAttr(s){ return escapeHtml(s); }
+    function debounce(fn,ms){ let t; return (...a)=>{ clearTimeout(t); t=setTimeout(()=>fn(...a),ms)} }
+  </script>
+
+  <!-- ===================== FIRESTORE SECURITY RULES (copiar en Firebase Console) =====================
+
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Colección de roles: /roles/{uid} con campo { role: 'admin' | 'moderator' | 'viewer' }
+    match /roles/{userId} {
+      allow read: if request.auth != null && request.auth.uid == userId; // cada usuario ve su rol
+      allow write: if isAdmin(); // solo admin puede asignar roles
+    }
+
+    // Colección principal: usuarios moderados de VRChat
+    match /vrchatUsers/{docId} {
+      allow read: if isSignedIn(); // todos los autenticados pueden leer
+      allow create, update, delete: if hasModPerms(); // admin y moderator
+    }
+
+    function isSignedIn(){ return request.auth != null; }
+
+    // Lee el rol desde /roles/{uid}
+    function roleOf(uid){
+      return get(/databases/$(database)/documents/roles/$(uid)).data.role;
+    }
+
+    function hasModPerms(){
+      return isSignedIn() && (roleOf(request.auth.uid) in ['admin','moderator']);
+    }
+
+    function isAdmin(){
+      return isSignedIn() && roleOf(request.auth.uid) == 'admin';
+    }
+  }
+}
+
+  -->
+
+  <!-- ===================== PASOS RÁPIDOS =====================
+  1) Crea proyecto en Firebase, habilita Authentication (Email/Password + Google) y Firestore (modo producción).
+  2) Agrega tu dominio de GitHub Pages en Authentication > Settings > Authorized domains (ej. tuusuario.github.io).
+  3) En Firestore, crea documento en /roles/{TU_UID} con { role: 'admin' } para darte permisos.
+  4) Pega estas reglas en Firestore Rules y Publica.
+  5) Reemplaza firebaseConfig arriba y sube este archivo como index.html a tu repo (branch main) y activa GitHub Pages.
+  6) ¡Listo! Comparte el enlace y comienza a registrar casos.
+  -->
+</body>
+</html>
