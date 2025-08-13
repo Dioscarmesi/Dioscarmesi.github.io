@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Moderación VRChat — Panel</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="wrap">
+    <!-- Header -->
+    <header class="toolbar">
+      <div>
+        <h1>Moderación VRChat</h1>
+        <div class="muted">GitHub Pages + Firebase Auth & Firestore</div>
+      </div>
+      <div id="userBox" class="hidden">
+        <span id="userEmail" class="pill"></span>
+        <span id="userRole" class="pill"></span>
+        <button id="btnLogout" class="btn secondary">Cerrar sesión</button>
+      </div>
+    </header>
+
+    <!-- Login / Signup Card -->
+    <section id="authCard" class="card">
+      <!-- Contenido del login -->
+      <div class="grid">
+        <div class="span-6">
+          <h2>Acceso</h2>
+          <div class="muted">Entra con email/contraseña o con Google.</div>
+          <div class="row" style="margin-top:10px">
+            <input id="email" type="email" placeholder="correo@ejemplo.com" class="col" />
+            <input id="password" type="password" placeholder="Contraseña" class="col" />
+          </div>
+          <div class="row" style="margin-top:10px">
+            <button id="btnLogin" class="btn">Iniciar sesión</button>
+            <button id="btnSignup" class="btn secondary">Crear cuenta</button>
+            <button id="btnGoogle" class="btn secondary">Google</button>
+          </div>
+          <p class="muted" style="margin-top:10px">
+            Nota: Para permisos de moderación, crea el documento <span class="kbd">roles/{uid}</span> con <span class="kbd">role = 'admin' | 'moderator'</span>.
+          </p>
+        </div>
+        <div class="span-6">
+          <h2>Estado del proyecto</h2>
+          <ul>
+            <li>CRUD de usuarios de VRChat</li>
+            <li>Campos: <span class="kbd">username</span>, <span class="kbd">userId</span>, <span class="kbd">status</span>, <span class="kbd">evidences</span>, <span class="kbd">notes</span>, <span class="kbd">createdBy</span>, timestamps</li>
+            <li>Filtros / búsqueda básicos</li>
+            <li>Reglas de seguridad sugeridas (ver al final del archivo JS)</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main App Card -->
+    <section id="app" class="card hidden">
+      <div class="toolbar">
+        <div class="row">
+          <input id="search" placeholder="Buscar por username o userId" />
+          <select id="filterStatus">
+            <option value="">Todos</option>
+            <option value="active">Activo</option>
+            <option value="warned">Advertido</option>
+            <option value="banned">Baneado</option>
+          </select>
+          <button id="btnRefresh" class="btn secondary">Actualizar</button>
+        </div>
+        <div class="right">
+          <button id="btnOpenCreate" class="btn">Nuevo usuario VRChat</button>
+        </div>
+      </div>
+
+      <div class="muted">Solo <span class="kbd">admin</span> y <span class="kbd">moderator</span> pueden crear/editar/eliminar. Los demás: solo lectura.</div>
+
+      <div style="overflow:auto;margin-top:10px">
+        <table>
+          <thead>
+            <tr>
+              <th>Username</th>
+              <th>UserID</th>
+              <th>Estado</th>
+              <th>Evidencias</th>
+              <th>Notas</th>
+              <th>Creado por</th>
+              <th>Actualizado</th>
+              <th>Acciones</th>
+            </tr>
+          </thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Modal Crear / Editar -->
+    <section id="modal" class="card hidden">
+      <h2 id="modalTitle">Nuevo usuario VRChat</h2>
+      <div class="grid">
+        <div class="span-6">
+          <label>Username</label>
+          <input id="f_username" placeholder="Ej. DiosCarmesi" />
+        </div>
+        <div class="span-6">
+          <label>UserID</label>
+          <input id="f_userId" placeholder="UUID o ID de VRChat" />
+        </div>
+        <div class="span-6">
+          <label>Estado</label>
+          <select id="f_status">
+            <option value="active">active</option>
+            <option value="warned">warned</option>
+            <option value="banned">banned</option>
+          </select>
+        </div>
+        <div class="span-6">
+          <label>Enlaces de evidencia (coma separada)</label>
+          <input id="f_evidences" placeholder="https://... , https://..." />
+        </div>
+        <div class="span-12">
+          <label>Notas</label>
+          <textarea id="f_notes" rows="4" placeholder="Resumen del caso, contexto, etc."></textarea>
+        </div>
+      </div>
+      <div class="toolbar">
+        <button id="btnSave" class="btn">Guardar</button>
+        <button id="btnCancel" class="btn secondary right">Cancelar</button>
+      </div>
+    </section>
+
+    <p class="foot">Hecho para GitHub Pages (solo frontend) — Asegura las Reglas de Firestore antes de publicar.</p>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
