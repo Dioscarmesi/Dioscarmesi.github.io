@@ -28,7 +28,7 @@ URL Ranks by DiscoPeligro.
 	"DJ": [
 		"VACIO"
 		],
-	"Dancer": [
+	"Guest Dancer": [
 		"RensellaVT",
 		"Tadashi_24",
 		"StephVr_",
