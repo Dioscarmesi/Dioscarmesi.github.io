@@ -12,7 +12,9 @@ URL Ranks by DiscoPeligro.
 	"D4rkfox",
 	"Gonzalo_vr",
 	"Yísus",
-	"Jeffsito7u7VR"
+	"Jeffsito7u7VR",
+	"Tardock Kamitsu",
+	"Yîşûş"
     ],
 "Dancer": [
 		"ikerreki231",
@@ -28,7 +30,8 @@ URL Ranks by DiscoPeligro.
 		"Мариша ¿?",
 		"Onlydevil",
 		"StephVr_",
-		"ღToxicKittenღ"
+		"ღToxicKittenღ",
+		"Αύrα"
 	],
 "DJ": [
 	"RAFAOwO",
@@ -46,14 +49,16 @@ URL Ranks by DiscoPeligro.
     	"julioskrats",
     	"Prototipo0121",
     	"RocketSaul",
-	"Gaaratan",
-	"XionyxS",
-	"Lᴀᴅʏ Rᴇᴅღ",
-	"MurakamiJin"
+		"InfortuniiVT",
+		"CoronelShephard",
+		"Gaaratan",
+		"XionyxS",
+		"Lᴀᴅʏ Rᴇᴅღ",
+		"MurakamiJin"
 	], 
 "Barman": [
 	"Cartlos5137",
-	"vacio",
+	"Tardock Kamitsu",
 	"vacio",
 	"vacio",
 	"vacio"
@@ -63,7 +68,7 @@ URL Ranks by DiscoPeligro.
 	"Daniel.n.v",
 	"Rubeko",
 	"AndrewSant",
-	"vacio",
+	"haru_kobayashi_",
 	"vacio",
 	"vacio"
 ],
