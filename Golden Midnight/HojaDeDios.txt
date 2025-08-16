@@ -28,7 +28,8 @@ URL Ranks by DiscoPeligro.
 		"Мариша ¿?",
 		"Onlydevil",
 		"StephVr_",
-		"ღToxicKittenღ"
+		"ღToxicKittenღ",
+		"Αύrα"
 	],
 "DJ": [
 	"RAFAOwO",
