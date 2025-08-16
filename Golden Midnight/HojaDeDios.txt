@@ -47,11 +47,11 @@ URL Ranks by DiscoPeligro.
     	"Prototipo0121",
     	"RocketSaul",
 		"InfortuniiVT",
-		"CoronelShephard"
-	"Gaaratan",
-	"XionyxS",
-	"Lᴀᴅʏ Rᴇᴅღ",
-	"MurakamiJin"
+		"CoronelShephard",
+		"Gaaratan",
+		"XionyxS",
+		"Lᴀᴅʏ Rᴇᴅღ",
+		"MurakamiJin"
 	], 
 "Barman": [
 	"Cartlos5137",
