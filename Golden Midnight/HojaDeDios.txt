@@ -12,7 +12,8 @@ URL Ranks by DiscoPeligro.
 	"D4rkfox",
 	"Gonzalo_vr",
 	"Yísus",
-	"Jeffsito7u7VR"
+	"Jeffsito7u7VR",
+	"Tardock Kamitsu"
     ],
 "Dancer": [
 		"ikerreki231",
