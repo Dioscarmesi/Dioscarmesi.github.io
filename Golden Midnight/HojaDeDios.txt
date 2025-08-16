@@ -46,6 +46,8 @@ URL Ranks by DiscoPeligro.
     	"julioskrats",
     	"Prototipo0121",
     	"RocketSaul",
+		"InfortuniiVT",
+		"CoronelShephard"
 	"Gaaratan",
 	"XionyxS",
 	"Lᴀᴅʏ Rᴇᴅღ",
@@ -63,7 +65,7 @@ URL Ranks by DiscoPeligro.
 	"Daniel.n.v",
 	"Rubeko",
 	"AndrewSant",
-	"vacio",
+	"haru_kobayashi_",
 	"vacio",
 	"vacio"
 ],
