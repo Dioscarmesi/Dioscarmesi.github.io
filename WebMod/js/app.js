@@ -1,6 +1,10 @@
 import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.4/firebase-app.js';
 import {
   getAuth,
+  signInWithEmailAndPassword,
+  createUserWithEmailAndPassword,
+  GoogleAuthProvider,
+  signInWithPopup,
   onAuthStateChanged,
   signOut
 } from 'https://www.gstatic.com/firebasejs/10.12.4/firebase-auth.js';
@@ -19,7 +23,7 @@ import {
   serverTimestamp
 } from 'https://www.gstatic.com/firebasejs/10.12.4/firebase-firestore.js';
 
-// Configuración de Firebase
+// Configuración de Firebase (sustituye por la tuya si fuese necesario)
 const firebaseConfig = {
   apiKey: "AIzaSyD252QV0ZYnrLD6vuWRbztX5Vz2rP2BcNY",
   authDomain: "moderacionvrchat.firebaseapp.com",
@@ -30,22 +34,38 @@ const firebaseConfig = {
   measurementId: "G-9NYG6M2TDB"
 };
 
+// Inicializa Firebase
 const app  = initializeApp(firebaseConfig);
 const auth = getAuth(app);
 const db   = getFirestore(app);
 
-// Referencias de elementos
+// Referencias de la interfaz
+const authCard   = document.getElementById('authCard');
+const appCard    = document.getElementById('app');
 const userBox    = document.getElementById('userBox');
 const userEmail  = document.getElementById('userEmail');
 const userRole   = document.getElementById('userRole');
 const btnLogout  = document.getElementById('btnLogout');
 
+// Campos de registro e inicio de sesión
+const nameInput         = document.getElementById('name');
+const emailInput        = document.getElementById('email');
+const passInput         = document.getElementById('password');
+const confirmPassInput  = document.getElementById('confirmPassword');
+const vrchatIdReg       = document.getElementById('vrchatIdReg');
+const discordInput      = document.getElementById('discord');
+const btnLogin          = document.getElementById('btnLogin');
+const btnSignup         = document.getElementById('btnSignup');
+const btnGoogle         = document.getElementById('btnGoogle');
+
+// Controles de la tabla y búsqueda
 const searchInput   = document.getElementById('search');
 const filterStatus  = document.getElementById('filterStatus');
 const btnRefresh    = document.getElementById('btnRefresh');
 const btnOpenCreate = document.getElementById('btnOpenCreate');
 const rowsBody      = document.getElementById('rows');
 
+// Elementos del modal
 const modal           = document.getElementById('modal');
 const modalTitle      = document.getElementById('modalTitle');
 const f_username      = document.getElementById('f_username');
@@ -62,33 +82,79 @@ let currentUser = null;
 let currentRole = null;
 let editingId   = null;
 
-// Cierra sesión
-btnLogout.addEventListener('click', () => signOut(auth));
-
-// Observador de autenticación
-onAuthStateChanged(auth, async (user) => {
-  currentUser = user;
-  if (!user) {
-    // Si no hay usuario, redirige al login
-    window.location.href = 'login.html';
-    return;
-  }
-  // Obtiene el rol
+// === Manejo de autenticación ===
+btnLogin.addEventListener('click', async () => {
   try {
-    const roleSnap = await getDoc(doc(db, 'roles', user.uid));
-    currentRole = roleSnap.exists() ? roleSnap.data().role : 'viewer';
-  } catch {
-    currentRole = 'viewer';
+    await signInWithEmailAndPassword(auth, emailInput.value, passInput.value);
+  } catch (err) {
+    alert(`Error al iniciar sesión: ${err.message}`);
   }
-  userEmail.textContent = user.email;
-  userRole.textContent  = currentRole;
-  userBox.classList.remove('hidden');
-  // Muestra u oculta el botón de crear según rol
-  btnOpenCreate.style.display = (currentRole === 'admin' || currentRole === 'moderator') ? 'inline-block' : 'none';
-  loadUsers();
 });
 
-// Cargar usuarios
+btnSignup.addEventListener('click', async () => {
+  if (passInput.value !== confirmPassInput.value) {
+    alert('Las contraseñas no coinciden');
+    return;
+  }
+  try {
+    const cred = await createUserWithEmailAndPassword(auth, emailInput.value, passInput.value);
+    const uid  = cred.user.uid;
+    // Guarda la cuenta con rol viewer y datos adicionales
+    await setDoc(doc(db, 'accounts', uid), {
+      name:     nameInput.value.trim(),
+      email:    emailInput.value.trim(),
+      vrchatId: vrchatIdReg.value.trim(),
+      discord:  discordInput.value.trim(),
+      groups:   [],
+      role:     'viewer'
+    });
+    // Crea/actualiza documento de roles con rol viewer
+    await setDoc(doc(db, 'roles', uid), { role: 'viewer' });
+    alert('Cuenta creada; ahora puedes iniciar sesión.');
+  } catch (err) {
+    alert(`Error al crear la cuenta: ${err.message}`);
+  }
+});
+
+btnGoogle.addEventListener('click', async () => {
+  const provider = new GoogleAuthProvider();
+  try {
+    await signInWithPopup(auth, provider);
+  } catch (err) {
+    alert(`Error con Google: ${err.message}`);
+  }
+});
+
+btnLogout.addEventListener('click', () => signOut(auth));
+
+// Observador de cambios de sesión
+onAuthStateChanged(auth, async (user) => {
+  currentUser = user;
+  if (user) {
+    try {
+      const roleSnap = await getDoc(doc(db, 'roles', user.uid));
+      currentRole = roleSnap.exists() ? roleSnap.data().role : 'viewer';
+    } catch {
+      currentRole = 'viewer';
+    }
+    userEmail.textContent = user.email;
+    userRole.textContent  = currentRole;
+    userBox.classList.remove('hidden');
+    authCard.classList.add('hidden');
+    appCard.classList.remove('hidden');
+    // Solo admin/moderator pueden crear registros
+    btnOpenCreate.style.display = (currentRole === 'admin' || currentRole === 'moderator') ? 'inline-block' : 'none';
+    loadUsers();
+  } else {
+    currentRole = null;
+    userBox.classList.add('hidden');
+    authCard.classList.remove('hidden');
+    appCard.classList.add('hidden');
+    rowsBody.innerHTML = '';
+  }
+});
+
+// === CRUD de usuarios de VRChat (banned users) ===
 async function loadUsers() {
   rowsBody.innerHTML = '';
   const q = query(collection(db, 'users'), orderBy('username', 'asc'));
@@ -130,7 +196,7 @@ function addRow(id, data) {
   rowsBody.appendChild(tr);
 }
 
-// Delegación para editar y eliminar
+// Delegación de eventos para editar o eliminar
 rowsBody.addEventListener('click', async (ev) => {
   const target = ev.target;
   if (target.classList.contains('edit')) {
@@ -155,7 +221,7 @@ rowsBody.addEventListener('click', async (ev) => {
   }
 });
 
-// Abrir modal de creación
+// Botón para abrir el modal de creación
 btnOpenCreate.addEventListener('click', () => {
   editingId = null;
   modalTitle.textContent = 'Nuevo usuario VRChat';
@@ -169,18 +235,18 @@ btnOpenCreate.addEventListener('click', () => {
   modal.classList.remove('hidden');
 });
 
-// Guardar usuario
+// Guardar o actualizar usuario
 btnSave.addEventListener('click', async () => {
   const userData = {
-    username:     f_username.value.trim(),
-    userId:       f_userId.value.trim(),
-    status:       f_status.value,
-    danger:       f_danger.value,
+    username:    f_username.value.trim(),
+    userId:      f_userId.value.trim(),
+    status:      f_status.value,
+    danger:      f_danger.value,
     sanctionDays: f_sanctionDays.value.trim(),
-    evidences:    f_evidences.value.trim(),
-    notes:        f_notes.value.trim(),
+    evidences:   f_evidences.value.trim(),
+    notes:       f_notes.value.trim(),
     createdByName: currentUser ? (currentUser.email || '') : '',
-    updatedAt:    serverTimestamp()
+    updatedAt:   serverTimestamp()
   };
   if (editingId) {
     await updateDoc(doc(db, 'users', editingId), userData);
