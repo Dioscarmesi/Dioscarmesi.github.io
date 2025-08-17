@@ -35,7 +35,9 @@ URL Ranks by DiscoPeligro.
 		"ZAPZARAP",
 		"ᴇᴄʟɪᴘsᴇ®",
 		"La_parca",
-		"thatbitchduncan"
+		"thatbitchduncan",
+		"ᴛʜᴇᴅᴇᴠɪʟ®",
+		"Malin"
 	],
 "DJ": [
 	"RAFAOwO",
