@@ -81,8 +81,10 @@ URL Ranks by DiscoPeligro.
   "StaffMenor": [
 	"ESPACIOVACIO"
 	],
-	"VIP": [
-	"ᴇᴛᴀᴅɪʟᴀᴠ",
-	"tgfgggg"
+"VIPEspecial":[
+	"ᴇᴛᴀᴅɪʟᴀᴠ"
+	],
+"VIP": [
 	]
 }
+
