@@ -14,7 +14,8 @@ URL Ranks by DiscoPeligro.
 	"Yísus",
 	"Jeffsito7u7VR",
 	"Tardock Kamitsu",
-	"Yîşûş"
+	"Yîşûş",
+	"Dib Vaca"
     ],
 "Dancer": [
 		"ikerreki231",
