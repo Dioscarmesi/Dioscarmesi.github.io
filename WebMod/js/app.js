@@ -15,15 +15,14 @@ import {
   getDocs,
   query,
   orderBy,
-  where,
-  serverTimestamp,
+  doc,
+  getDoc,
   updateDoc,
   deleteDoc,
-  doc,
-  getDoc
+  serverTimestamp
 } from 'https://www.gstatic.com/firebasejs/10.12.4/firebase-firestore.js';
 
-// Configuración de Firebase (ya la tienes correcta)
+// Configuración de Firebase (usa los valores de tu proyecto)
 const firebaseConfig = {
   apiKey: "AIzaSyD252QV0ZYnrLD6vuWRbztX5Vz2rP2BcNY",
   authDomain: "moderacionvrchat.firebaseapp.com",
@@ -34,59 +33,63 @@ const firebaseConfig = {
   measurementId: "G-9NYG6M2TDB"
 };
 
-const app = initializeApp(firebaseConfig);
+// Inicializa Firebase
+const app  = initializeApp(firebaseConfig);
 const auth = getAuth(app);
 const db   = getFirestore(app);
 
-// === Referencias de la UI ===
+// === Referencias de elementos en el HTML ===
 const authCard   = document.getElementById('authCard');
-const appCard    = document.getElementById('appCard');
-const loginEmail = document.getElementById('loginEmail');
-const loginPass  = document.getElementById('loginPassword');
-const loginBtn   = document.getElementById('loginBtn');
-const registerBtn= document.getElementById('registerBtn');
-const googleBtn  = document.getElementById('googleBtn');
-const logoutBtn  = document.getElementById('logoutBtn');
+const appCard    = document.getElementById('app');
+const userBox    = document.getElementById('userBox');
+const userEmail  = document.getElementById('userEmail');
+const userRole   = document.getElementById('userRole');
+const btnLogout  = document.getElementById('btnLogout');
 
-const searchInput= document.getElementById('searchInput');
-const statusFilter = document.getElementById('statusFilter');
-const usersTableBody = document.getElementById('usersTableBody');
-const createUserBtn = document.getElementById('createUserBtn');
+const emailInput = document.getElementById('email');
+const passInput  = document.getElementById('password');
+const btnLogin   = document.getElementById('btnLogin');
+const btnSignup  = document.getElementById('btnSignup');
+const btnGoogle  = document.getElementById('btnGoogle');
 
-// Modal para crear/editar usuarios
-const userModal    = document.getElementById('userModal');
-const modalTitle   = document.getElementById('modalTitle');
-const saveUserBtn  = document.getElementById('saveUserBtn');
-const usernameInput= document.getElementById('username');
-const userIdInput  = document.getElementById('userId');
-const statusInput  = document.getElementById('status');
-const evidencesInput = document.getElementById('evidences');
-const notesInput   = document.getElementById('notes');
+const searchInput  = document.getElementById('search');
+const filterStatus = document.getElementById('filterStatus');
+const btnRefresh   = document.getElementById('btnRefresh');
+const btnOpenCreate= document.getElementById('btnOpenCreate');
+const rowsBody     = document.getElementById('rows');
+
+const modal       = document.getElementById('modal');
+const modalTitle  = document.getElementById('modalTitle');
+const f_username  = document.getElementById('f_username');
+const f_userId    = document.getElementById('f_userId');
+const f_status    = document.getElementById('f_status');
+const f_evidences = document.getElementById('f_evidences');
+const f_notes     = document.getElementById('f_notes');
+const btnSave     = document.getElementById('btnSave');
+const btnCancel   = document.getElementById('btnCancel');
 
 let currentUser = null;
 let currentRole = null;
 let editingId   = null;
 
-// === Funciones de autenticación ===
-loginBtn.addEventListener('click', async (ev) => {
-  ev.preventDefault();
+// === Manejo de autenticación ===
+btnLogin.addEventListener('click', async () => {
   try {
-    await signInWithEmailAndPassword(auth, loginEmail.value, loginPass.value);
+    await signInWithEmailAndPassword(auth, emailInput.value, passInput.value);
   } catch (err) {
     alert(`Error al iniciar sesión: ${err.message}`);
   }
 });
 
-registerBtn.addEventListener('click', async (ev) => {
-  ev.preventDefault();
+btnSignup.addEventListener('click', async () => {
   try {
-    await createUserWithEmailAndPassword(auth, loginEmail.value, loginPass.value);
+    await createUserWithEmailAndPassword(auth, emailInput.value, passInput.value);
   } catch (err) {
-    alert(`Error al registrarse: ${err.message}`);
+    alert(`Error al crear la cuenta: ${err.message}`);
   }
 });
 
-googleBtn.addEventListener('click', async () => {
+btnGoogle.addEventListener('click', async () => {
   const provider = new GoogleAuthProvider();
   try {
     await signInWithPopup(auth, provider);
@@ -95,54 +98,62 @@ googleBtn.addEventListener('click', async () => {
   }
 });
 
-logoutBtn.addEventListener('click', () => signOut(auth));
+btnLogout.addEventListener('click', () => signOut(auth));
 
-// Observa cambios en la sesión
+// Observa la sesión y prepara la UI
 onAuthStateChanged(auth, async (user) => {
   currentUser = user;
   if (user) {
-    // Obtén rol (collection roles/{uid}: {role: 'admin'|'moderator'|'viewer'})
+    // Obtén el rol del usuario desde la colección roles/{uid}
     try {
       const roleSnap = await getDoc(doc(db, 'roles', user.uid));
       currentRole = roleSnap.exists() ? roleSnap.data().role : 'viewer';
     } catch {
       currentRole = 'viewer';
     }
-    // Muestra panel de moderación
-    authCard.style.display = 'none';
-    appCard.style.display  = 'block';
-    // Habilita botón de crear según rol
-    createUserBtn.style.display = (currentRole === 'admin' || currentRole === 'moderator') ? 'block' : 'none';
+    userEmail.textContent = user.email;
+    userRole.textContent  = currentRole;
+
+    userBox.classList.remove('hidden');
+    authCard.classList.add('hidden');
+    appCard.classList.remove('hidden');
+
+    // Solo admin o moderator pueden crear o editar
+    btnOpenCreate.style.display = (currentRole === 'admin' || currentRole === 'moderator') ? 'inline-block' : 'none';
+
     loadUsers();
   } else {
     currentRole = null;
-    // Muestra formulario de login
-    appCard.style.display  = 'none';
-    authCard.style.display = 'block';
-    usersTableBody.innerHTML = '';
+    userBox.classList.add('hidden');
+    authCard.classList.remove('hidden');
+    appCard.classList.add('hidden');
+    rowsBody.innerHTML = '';
   }
 });
 
-// === CRUD de usuarios de VRChat ===
+// === Funciones CRUD de usuarios ===
 async function loadUsers() {
-  usersTableBody.innerHTML = '';
-  // Lee todos los docs de la colección 'users'
+  rowsBody.innerHTML = '';
   const q = query(collection(db, 'users'), orderBy('username', 'asc'));
-  const snapshot = await getDocs(q);
-  snapshot.forEach((docSnap) => {
+  const snap = await getDocs(q);
+  snap.forEach((docSnap) => {
     const data = docSnap.data();
-    // Filtros de búsqueda
-    const term   = searchInput.value.trim().toLowerCase();
-    const status = statusFilter.value;
-    const matchName = data.username.toLowerCase().includes(term) ||
-                      data.userId.toLowerCase().includes(term);
-    const matchStatus = status === '' || data.status === status;
-    if (matchName && matchStatus) {
+    const term   = searchInput.value.toLowerCase();
+    const status = filterStatus.value;
+    const matchesSearch = data.username.toLowerCase().includes(term) || data.userId.toLowerCase().includes(term);
+    const matchesStatus = status === '' || data.status === status;
+    if (matchesSearch && matchesStatus) {
       addRow(docSnap.id, data);
     }
   });
 }
 
+// Actualiza la tabla al cambiar filtros
+btnRefresh.addEventListener('click', loadUsers);
+searchInput.addEventListener('input', loadUsers);
+filterStatus.addEventListener('change', loadUsers);
+
+// Construye una fila de la tabla
 function addRow(id, data) {
   const tr = document.createElement('tr');
   tr.innerHTML = `
@@ -151,71 +162,74 @@ function addRow(id, data) {
     <td>${data.status}</td>
     <td>${data.evidences || ''}</td>
     <td>${data.notes || ''}</td>
-    <td>${new Date(data.createdAt.seconds*1000).toLocaleDateString()}</td>
+    <td>${data.createdBy || ''}</td>
+    <td>${data.updatedAt ? new Date(data.updatedAt.seconds * 1000).toLocaleDateString() : ''}</td>
     <td>
-      ${currentRole === 'admin' || currentRole === 'moderator' ? `
+      ${(currentRole === 'admin' || currentRole === 'moderator') ? `
         <button class="edit" data-id="${id}">Editar</button>
         <button class="delete" data-id="${id}">Eliminar</button>` : ''}
     </td>`;
-  usersTableBody.appendChild(tr);
+  rowsBody.appendChild(tr);
 }
 
-searchInput.addEventListener('input', loadUsers);
-statusFilter.addEventListener('change', loadUsers);
-
-// Manejadores de los botones de la tabla (delegación)
-usersTableBody.addEventListener('click', async (ev) => {
+// Delegación para editar y eliminar
+rowsBody.addEventListener('click', async (ev) => {
   const target = ev.target;
   if (target.classList.contains('edit')) {
     editingId = target.dataset.id;
     const snap = await getDoc(doc(db, 'users', editingId));
-    const u = snap.data();
+    const user = snap.data();
     modalTitle.textContent = 'Editar usuario';
-    usernameInput.value  = u.username;
-    userIdInput.value    = u.userId;
-    statusInput.value    = u.status;
-    evidencesInput.value = u.evidences || '';
-    notesInput.value     = u.notes || '';
-    userModal.showModal();
-  }
-  if (target.classList.contains('delete')) {
+    f_username.value  = user.username;
+    f_userId.value    = user.userId;
+    f_status.value    = user.status;
+    f_evidences.value = user.evidences || '';
+    f_notes.value     = user.notes || '';
+    modal.classList.remove('hidden');
+  } else if (target.classList.contains('delete')) {
     const id = target.dataset.id;
-    if (confirm('¿Eliminar usuario?')) {
+    if (confirm('¿Eliminar este usuario?')) {
       await deleteDoc(doc(db, 'users', id));
       loadUsers();
     }
   }
 });
 
-// Crear nuevo usuario
-createUserBtn.addEventListener('click', () => {
+// Botón para abrir el modal de creación
+btnOpenCreate.addEventListener('click', () => {
   editingId = null;
-  modalTitle.textContent = 'Crear usuario';
-  usernameInput.value  = '';
-  userIdInput.value    = '';
-  statusInput.value    = 'active';
-  evidencesInput.value = '';
-  notesInput.value     = '';
-  userModal.showModal();
+  modalTitle.textContent = 'Nuevo usuario VRChat';
+  f_username.value  = '';
+  f_userId.value    = '';
+  f_status.value    = 'active';
+  f_evidences.value = '';
+  f_notes.value     = '';
+  modal.classList.remove('hidden');
 });
 
-// Guardar (crear o actualizar)
-saveUserBtn.addEventListener('click', async () => {
-  const data = {
-    username:  usernameInput.value.trim(),
-    userId:    userIdInput.value.trim(),
-    status:    statusInput.value,
-    evidences: evidencesInput.value.trim(),
-    notes:     notesInput.value.trim(),
+// Guardar (crear o actualizar) usuario
+btnSave.addEventListener('click', async () => {
+  const userData = {
+    username:  f_username.value.trim(),
+    userId:    f_userId.value.trim(),
+    status:    f_status.value,
+    evidences: f_evidences.value.trim(),
+    notes:     f_notes.value.trim(),
     updatedAt: serverTimestamp()
   };
   if (editingId) {
-    await updateDoc(doc(db, 'users', editingId), data);
+    // Actualizar
+    await updateDoc(doc(db, 'users', editingId), userData);
   } else {
-    data.createdAt = serverTimestamp();
-    data.createdBy = currentUser ? currentUser.uid : '';
-    await addDoc(collection(db, 'users'), data);
+    // Crear
+    userData.createdAt = serverTimestamp();
+    userData.createdBy = currentUser ? currentUser.uid : '';
+    await addDoc(collection(db, 'users'), userData);
   }
-  userModal.close();
+  modal.classList.add('hidden');
   loadUsers();
+});
+
+btnCancel.addEventListener('click', () => {
+  modal.classList.add('hidden');
 });
