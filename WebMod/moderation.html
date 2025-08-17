@@ -1,0 +1,8 @@
+// moderation.html - js/app.js
+onAuthStateChanged(auth, (user) => {
+  if (!user) {
+    window.location.href = 'login.html';
+    return;
+  }
+  // cargar rol y preparar tabla...
+});
