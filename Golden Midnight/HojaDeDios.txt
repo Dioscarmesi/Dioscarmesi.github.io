@@ -37,7 +37,8 @@ URL Ranks by DiscoPeligro.
 		"La_parca",
 		"thatbitchduncan",
 		"ᴛʜᴇᴅᴇᴠɪʟ®",
-		"Malin"
+		"Malin",
+		"2kao"
 	],
 "DJ": [
 	"RAFAOwO",
