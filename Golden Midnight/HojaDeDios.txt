@@ -31,7 +31,9 @@ URL Ranks by DiscoPeligro.
 		"Onlydevil",
 		"StephVr_",
 		"ღToxicKittenღ",
-		"Αύrα"
+		"Αύrα",
+		"ZAPZARAP",
+		"ᴇᴄʟɪᴘsᴇ®"
 	],
 "DJ": [
 	"RAFAOwO",
