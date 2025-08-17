@@ -2,156 +2,119 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Moderación VRChat</title>
-  <link rel="stylesheet" href="css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="styles.css" rel="stylesheet">
 </head>
 <body>
   <div class="wrap">
-    <!-- Header -->
-    <header class="toolbar">
-      <div>
-        <h1>Moderación VRChat</h1>
-        <div class="muted">GitHub Pages + Firebase Auth &amp; Firestore</div>
-      </div>
-      <div id="userBox" class="hidden">
-        <span id="userEmail" class="pill"></span>
-        <span id="userRole" class="pill"></span>
-        <button id="btnLogout" class="btn secondary">Cerrar sesión</button>
-      </div>
-    </header>
 
-    <!-- Login / Signup Card -->
-    <section id="authCard" class="card">
-      <div class="grid">
-        <div class="span-6">
-          <h2>Acceso</h2>
-          <div class="muted">Entra con email/contraseña o con Google.</div>
-          <div class="row" style="margin-top:10px">
-            <input id="name" type="text" placeholder="Nombre completo" class="col" />
-            <input id="email" type="email" placeholder="correo@ejemplo.com" class="col" />
-            <input id="password" type="password" placeholder="Contraseña" class="col" />
-            <input id="confirmPassword" type="password" placeholder="Confirmar contraseña" class="col" />
-            <input id="vrchatIdReg" type="text" placeholder="ID de VRChat" class="col" />
-            <input id="discord" type="text" placeholder="Discord" class="col" />
+    <!-- Barra de herramientas -->
+    <div class="toolbar card">
+      <input type="text" id="q" placeholder="Buscar por username, ID, notas..." />
+      <select id="f-estado">
+        <option value="Todos">Todos</option>
+        <option value="Revisión">Revisión</option>
+        <option value="Investigación">Investigación</option>
+        <option value="Banned">Banned</option>
+        <option value="Activo">Activo</option>
+      </select>
+      <select id="f-peligro">
+        <option value="Todos">Todos</option>
+        <option value="Bajo">Bajo</option>
+        <option value="Medio">Medio</option>
+        <option value="Extremo">Extremo</option>
+      </select>
+      <button id="btn-nuevo" class="btn">Nuevo usuario VRChat</button>
+      <span class="right muted">Total: <span id="totalRows">0</span></span>
+    </div>
+
+    <!-- Tabla de baneados -->
+    <div class="card table-wrap">
+      <table class="table--compact">
+        <thead>
+          <tr>
+            <th>Sanción</th>
+            <th>Evidencias / ID</th>
+            <th>Notas</th>
+            <th>Creado por</th>
+            <th>Actualizado</th>
+            <th>Acciones</th>
+          </tr>
+        </thead>
+        <tbody id="banTbody">
+          <!-- JS renderiza aquí -->
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Formulario de reporte -->
+    <div class="card">
+      <form id="banForm">
+        <h2 id="form-title">Registrar / Editar reporte</h2>
+        <div class="grid">
+          <div class="span-6">
+            <label>Username</label>
+            <input type="text" id="r-username" required>
           </div>
-          <div class="row" style="margin-top:10px">
-            <button id="btnLogin" class="btn">Iniciar sesión</button>
-            <button id="btnSignup" class="btn secondary">Crear cuenta</button>
-            <button id="btnGoogle" class="btn secondary">Google</button>
+          <div class="span-6">
+            <label>ID / Link de VRChat</label>
+            <input type="text" id="r-vrchatId" required>
           </div>
-          <p class="muted" style="margin-top:10px">
-            Nota: Para permisos de moderación, crea el documento <span class="kbd">roles/{uid}</span> con <span class="kbd">role = 'admin' | 'moderator'</span>.
-          </p>
+          <div class="span-4">
+            <label>Estado</label>
+            <select id="r-estado">
+              <option>Revisión</option>
+              <option>Investigación</option>
+              <option>Banned</option>
+              <option>Activo</option>
+            </select>
+          </div>
+          <div class="span-4">
+            <label>Peligro</label>
+            <select id="r-peligro">
+              <option>Bajo</option>
+              <option>Medio</option>
+              <option>Extremo</option>
+            </select>
+          </div>
+          <div class="span-4">
+            <label>Días de sanción</label>
+            <input type="text" id="r-diasSancion" placeholder="Ej. 7 o Permanente">
+          </div>
+          <div class="span-12">
+            <label>Link de evidencias</label>
+            <input type="text" id="r-evidencias" placeholder="https://...">
+          </div>
+          <div class="span-12">
+            <label>Notas</label>
+            <textarea id="r-notas" rows="3" placeholder="Detalle del caso"></textarea>
+          </div>
+          <div class="span-6">
+            <label>Creado por</label>
+            <input type="text" id="r-creadoPor" readonly>
+          </div>
+          <div class="span-3">
+            <label>Fecha creación</label>
+            <input type="date" id="r-fechaCreacion">
+          </div>
+          <div class="span-3">
+            <label>Última actualización</label>
+            <input type="date" id="r-fechaActualizacion" readonly>
+          </div>
         </div>
-        <div class="span-6">
-          <h2>Estado del proyecto</h2>
-          <ul>
-            <li>CRUD de usuarios de VRChat</li>
-            <li>Campos: <span class="kbd">username</span>, <span class="kbd">userId</span>, <span class="kbd">status</span>, <span class="kbd">danger</span>, <span class="kbd">sanctionDays</span>, <span class="kbd">evidences</span>, <span class="kbd">notes</span>, <span class="kbd">createdBy</span>, timestamps</li>
-            <li>Filtros / búsqueda básicos</li>
-            <li>Reglas de seguridad sugeridas (ver al final del archivo JS)</li>
-          </ul>
+        <div class="row" style="margin-top:16px">
+          <button type="submit" id="r-submit" class="btn">Guardar</button>
+          <button type="button" id="r-cancel" class="btn secondary">Cancelar</button>
         </div>
-      </div>
-    </section>
+      </form>
+    </div>
 
-    <!-- Main App Card -->
-    <section id="app" class="card hidden">
-      <div class="toolbar">
-        <div class="row">
-          <input id="search" placeholder="Buscar por username o userId" class="col" />
-          <select id="filterStatus" class="col">
-            <option value="">Todos</option>
-            <option value="revision">Revisión</option>
-            <option value="investigacion">Investigación</option>
-            <option value="banned">Baneado</option>
-            <option value="activo">Activo</option>
-          </select>
-          <button id="btnRefresh" class="btn secondary">Actualizar</button>
-        </div>
-        <div class="right">
-          <button id="btnOpenCreate" class="btn">Nuevo usuario VRChat</button>
-        </div>
-        <select onchange="actualizarRolUsuario('USER_ID_AQUI', this.value)">
-  <option value="viewer">Viewer</option>
-  <option value="moderador">Moderador</option>
-  <option value="admin">Admin</option>
-</select>
-
-      </div>
-      <div class="muted">Solo <span class="kbd">admin</span> y <span class="kbd">moderator</span> pueden crear/editar/eliminar. Los demás: solo lectura.</div>
-      <div style="overflow:auto;margin-top:10px">
-        <table>
-          <thead>
-            <tr>
-              <th>Username</th>
-              <th>UserID</th>
-              <th>Estado</th>
-              <th>Nivel</th>
-              <th>Sanción</th>
-              <th>Evidencias</th>
-              <th>Notas</th>
-              <th>Creado por</th>
-              <th>Actualizado</th>
-              <th>Acciones</th>
-            </tr>
-          </thead>
-          <tbody id="rows"></tbody>
-        </table>
-      </div>
-    </section>
-
-    <!-- Modal Crear / Editar -->
-    <section id="modal" class="card hidden">
-      <h2 id="modalTitle">Nuevo usuario VRChat</h2>
-      <div class="grid">
-        <div class="span-6">
-          <label>Username</label>
-          <input id="f_username" placeholder="Ej. DiosCarmesi" />
-        </div>
-        <div class="span-6">
-          <label>UserID</label>
-          <input id="f_userId" placeholder="UUID o ID de VRChat" />
-        </div>
-        <div class="span-6">
-          <label>Estado</label>
-          <select id="f_status">
-            <option value="revision">Revisión</option>
-            <option value="investigacion">Investigación</option>
-            <option value="banned">Baneado</option>
-            <option value="activo">Activo</option>
-          </select>
-        </div>
-        <div class="span-6">
-          <label>Nivel de peligro</label>
-          <select id="f_danger">
-            <option value="bajo">Bajo</option>
-            <option value="medio">Medio</option>
-            <option value="extremo">Extremo</option>
-          </select>
-        </div>
-        <div class="span-6">
-          <label>Días de sanción</label>
-          <input id="f_sanctionDays" placeholder="Número de días o 'permanent'" />
-        </div>
-        <div class="span-6">
-          <label>Enlaces de evidencia (coma separada)</label>
-          <input id="f_evidences" placeholder="https://..., https://..." />
-        </div>
-        <div class="span-12">
-          <label>Notas</label>
-          <textarea id="f_notes" rows="4" placeholder="Resumen del caso, contexto, etc."></textarea>
-        </div>
-      </div>
-      <div class="toolbar">
-        <button id="btnSave" class="btn">Guardar</button>
-        <button id="btnCancel" class="btn secondary right">Cancelar</button>
-      </div>
-    </section>
-
-    <p class="foot">Hecho para GitHub Pages (solo frontend) — Asegura las Reglas de Firestore antes de publicar.</p>
+    <div class="foot">
+      Moderación VRChat &copy; 2025 — Demo en LocalStorage
+    </div>
   </div>
-  <script type="module" src="js/app.js"></script>
+
+  <script src="app.js"></script>
 </body>
 </html>
