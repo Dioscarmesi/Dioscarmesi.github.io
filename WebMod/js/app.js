@@ -4,12 +4,13 @@ import { getFirestore, collection, addDoc, getDocs, query, orderBy, serverTimest
 
 // Tu firebaseConfig aquí
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "000000000000",
-  appId: "1:000000000000:web:xxxxxxxxxxxxxxxxxxxx"
+apiKey: "AIzaSyD252QV0ZYnrLD6vuWRbztX5Vz2rP2BcNY",
+authDomain: "moderacionvrchat.firebaseapp.com",
+projectId: "moderacionvrchat",
+storageBucket: "moderacionvrchat.firebasestorage.app",
+messagingSenderId: "672740338111",
+appId: "1:672740338111:web:09c4a934e858db4ee1990a",
+measurementId: "G-9NYG6M2TDB"
 };
 
 const app = initializeApp(firebaseConfig);
