@@ -34,7 +34,8 @@ URL Ranks by DiscoPeligro.
 		"ღToxicKittenღ",
 		"Αύrα",
 		"ZAPZARAP",
-		"ᴇᴄʟɪᴘsᴇ®"
+		"ᴇᴄʟɪᴘsᴇ®",
+		"La_parca"
 	],
 "DJ": [
 	"RAFAOwO",
