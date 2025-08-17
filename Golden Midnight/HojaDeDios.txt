@@ -13,7 +13,6 @@ URL Ranks by DiscoPeligro.
 	"Gonzalo_vr",
 	"Yísus",
 	"Jeffsito7u7VR",
-	"Tardock Kamitsu",
 	"Yîşûş",
 	"Dib Vaca"
     ],
@@ -35,7 +34,8 @@ URL Ranks by DiscoPeligro.
 		"Αύrα",
 		"ZAPZARAP",
 		"ᴇᴄʟɪᴘsᴇ®",
-		"La_parca"
+		"La_parca",
+		"thatbitchduncan"
 	],
 "DJ": [
 	"RAFAOwO",
@@ -63,7 +63,7 @@ URL Ranks by DiscoPeligro.
 "Barman": [
 	"Cartlos5137",
 	"Tardock Kamitsu",
-	"vacio",
+	"Navi兼",
 	"vacio",
 	"vacio"
 ],
