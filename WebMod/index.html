@@ -73,6 +73,12 @@
         <div class="right">
           <button id="btnOpenCreate" class="btn">Nuevo usuario VRChat</button>
         </div>
+        <select onchange="actualizarRolUsuario('USER_ID_AQUI', this.value)">
+  <option value="viewer">Viewer</option>
+  <option value="moderador">Moderador</option>
+  <option value="admin">Admin</option>
+</select>
+
       </div>
       <div class="muted">Solo <span class="kbd">admin</span> y <span class="kbd">moderator</span> pueden crear/editar/eliminar. Los demás: solo lectura.</div>
       <div style="overflow:auto;margin-top:10px">
