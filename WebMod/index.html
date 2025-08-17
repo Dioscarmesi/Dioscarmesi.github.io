@@ -2,8 +2,8 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Moderación VRChat — Panel</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Moderación VRChat</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -12,7 +12,7 @@
     <header class="toolbar">
       <div>
         <h1>Moderación VRChat</h1>
-        <div class="muted">GitHub Pages + Firebase Auth & Firestore</div>
+        <div class="muted">GitHub Pages + Firebase Auth &amp; Firestore</div>
       </div>
       <div id="userBox" class="hidden">
         <span id="userEmail" class="pill"></span>
@@ -23,14 +23,17 @@
 
     <!-- Login / Signup Card -->
     <section id="authCard" class="card">
-      <!-- Contenido del login -->
       <div class="grid">
         <div class="span-6">
           <h2>Acceso</h2>
           <div class="muted">Entra con email/contraseña o con Google.</div>
           <div class="row" style="margin-top:10px">
+            <input id="name" type="text" placeholder="Nombre completo" class="col" />
             <input id="email" type="email" placeholder="correo@ejemplo.com" class="col" />
             <input id="password" type="password" placeholder="Contraseña" class="col" />
+            <input id="confirmPassword" type="password" placeholder="Confirmar contraseña" class="col" />
+            <input id="vrchatIdReg" type="text" placeholder="ID de VRChat" class="col" />
+            <input id="discord" type="text" placeholder="Discord" class="col" />
           </div>
           <div class="row" style="margin-top:10px">
             <button id="btnLogin" class="btn">Iniciar sesión</button>
@@ -45,7 +48,7 @@
           <h2>Estado del proyecto</h2>
           <ul>
             <li>CRUD de usuarios de VRChat</li>
-            <li>Campos: <span class="kbd">username</span>, <span class="kbd">userId</span>, <span class="kbd">status</span>, <span class="kbd">evidences</span>, <span class="kbd">notes</span>, <span class="kbd">createdBy</span>, timestamps</li>
+            <li>Campos: <span class="kbd">username</span>, <span class="kbd">userId</span>, <span class="kbd">status</span>, <span class="kbd">danger</span>, <span class="kbd">sanctionDays</span>, <span class="kbd">evidences</span>, <span class="kbd">notes</span>, <span class="kbd">createdBy</span>, timestamps</li>
             <li>Filtros / búsqueda básicos</li>
             <li>Reglas de seguridad sugeridas (ver al final del archivo JS)</li>
           </ul>
@@ -57,12 +60,13 @@
     <section id="app" class="card hidden">
       <div class="toolbar">
         <div class="row">
-          <input id="search" placeholder="Buscar por username o userId" />
-          <select id="filterStatus">
+          <input id="search" placeholder="Buscar por username o userId" class="col" />
+          <select id="filterStatus" class="col">
             <option value="">Todos</option>
-            <option value="active">Activo</option>
-            <option value="warned">Advertido</option>
+            <option value="revision">Revisión</option>
+            <option value="investigacion">Investigación</option>
             <option value="banned">Baneado</option>
+            <option value="activo">Activo</option>
           </select>
           <button id="btnRefresh" class="btn secondary">Actualizar</button>
         </div>
@@ -70,9 +74,7 @@
           <button id="btnOpenCreate" class="btn">Nuevo usuario VRChat</button>
         </div>
       </div>
-
       <div class="muted">Solo <span class="kbd">admin</span> y <span class="kbd">moderator</span> pueden crear/editar/eliminar. Los demás: solo lectura.</div>
-
       <div style="overflow:auto;margin-top:10px">
         <table>
           <thead>
@@ -80,6 +82,8 @@
               <th>Username</th>
               <th>UserID</th>
               <th>Estado</th>
+              <th>Nivel</th>
+              <th>Sanción</th>
               <th>Evidencias</th>
               <th>Notas</th>
               <th>Creado por</th>
@@ -107,14 +111,27 @@
         <div class="span-6">
           <label>Estado</label>
           <select id="f_status">
-            <option value="active">active</option>
-            <option value="warned">warned</option>
-            <option value="banned">banned</option>
+            <option value="revision">Revisión</option>
+            <option value="investigacion">Investigación</option>
+            <option value="banned">Baneado</option>
+            <option value="activo">Activo</option>
           </select>
         </div>
         <div class="span-6">
+          <label>Nivel de peligro</label>
+          <select id="f_danger">
+            <option value="bajo">Bajo</option>
+            <option value="medio">Medio</option>
+            <option value="extremo">Extremo</option>
+          </select>
+        </div>
+        <div class="span-6">
+          <label>Días de sanción</label>
+          <input id="f_sanctionDays" placeholder="Número de días o 'permanent'" />
+        </div>
+        <div class="span-6">
           <label>Enlaces de evidencia (coma separada)</label>
-          <input id="f_evidences" placeholder="https://... , https://..." />
+          <input id="f_evidences" placeholder="https://..., https://..." />
         </div>
         <div class="span-12">
           <label>Notas</label>
@@ -129,7 +146,6 @@
 
     <p class="foot">Hecho para GitHub Pages (solo frontend) — Asegura las Reglas de Firestore antes de publicar.</p>
   </div>
-
   <script type="module" src="js/app.js"></script>
 </body>
 </html>
