@@ -1,6 +1,47 @@
-<!-- signup.html -->
-<form>
-  <!-- campos de nombre, email, pass, confirmación, VRChat ID y Discord -->
-  <button id="btnSignup">Registrarse</button>
-</form>
-<script type="module" src="js/signup.js"></script>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crear cuenta</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="wrap">
+    <header class="toolbar">
+      <h1>Moderación VRChat</h1>
+      <div class="muted">Registro de usuario</div>
+    </header>
+    <section class="card" style="max-width:600px;margin:auto;margin-top:40px;">
+      <h2>Crear cuenta</h2>
+      <div class="grid">
+        <div class="span-6">
+          <input id="name" type="text" placeholder="Nombre completo" class="col" />
+        </div>
+        <div class="span-6">
+          <input id="email" type="email" placeholder="correo@ejemplo.com" class="col" />
+        </div>
+        <div class="span-6">
+          <input id="password" type="password" placeholder="Contraseña" class="col" />
+        </div>
+        <div class="span-6">
+          <input id="confirmPassword" type="password" placeholder="Confirmar contraseña" class="col" />
+        </div>
+        <div class="span-6">
+          <input id="vrchatIdReg" type="text" placeholder="ID de VRChat" class="col" />
+        </div>
+        <div class="span-6">
+          <input id="discord" type="text" placeholder="Discord" class="col" />
+        </div>
+      </div>
+      <div class="row" style="margin-top:10px">
+        <button id="btnSignup" class="btn">Registrarse</button>
+      </div>
+      <p class="muted" style="margin-top:10px">
+        ¿Ya tienes cuenta? <a href="login.html">Iniciar sesión</a>
+      </p>
+    </section>
+  </div>
+  <script type="module" src="js/signup.js"></script>
+</body>
+</html>
