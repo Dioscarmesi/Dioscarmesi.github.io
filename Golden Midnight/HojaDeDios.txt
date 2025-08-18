@@ -61,7 +61,8 @@ URL Ranks by DiscoPeligro.
 		"Gaaratan",
 		"XionyxS",
 		"Lᴀᴅʏ Rᴇᴅღ",
-		"MurakamiJin"
+		"MurakamiJin",
+		"TheNarreitor"
 	], 
 "Barman": [
 	"Cartlos5137",
