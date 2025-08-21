@@ -13,10 +13,8 @@ URL Ranks by DiscoPeligro.
 		"Alegnamon"
 	],
 	"Mod": [
-		"★Denki★",
 		"Strikkеrz",
 		"GUILEAS",
-		"_LilithVr_",
 		"ShadyBelca",
 		"leitoxs",
 		"mudoXqX",
