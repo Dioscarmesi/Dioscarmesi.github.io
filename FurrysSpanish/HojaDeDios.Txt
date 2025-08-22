@@ -179,7 +179,7 @@ URL Ranks by DiscoPeligro.
 		"Difi_",
 		"S Λ M",
 		"-------------------------------------------------------------SegundoPiso -------------------------------------",
-		"ESPACIODISPONIBLE",
+		"Tsukifox1",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
