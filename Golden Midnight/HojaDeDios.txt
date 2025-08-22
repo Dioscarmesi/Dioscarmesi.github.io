@@ -47,17 +47,19 @@ URL Ranks by DiscoPeligro.
     	"ALVAR0ZZZZZZZZZ",
 	"ZEDAnime"
 	],
+"CC":[
+	"CoronelShephard"
+	],
   "Photographer": [
     	"vacio"
   	],
-  "Host": [
+"Host": [
 	"Amurysse",
     	"ʚCLASSISTɞ",
     	"julioskrats",
     	"Prototipo0121",
     	"RocketSaul",
 		"InfortuniiVT",
-		"CoronelShephard",
 		"Gaaratan",
 		"XionyxS",
 		"Lᴀᴅʏ Rᴇᴅღ",
@@ -88,6 +90,9 @@ URL Ranks by DiscoPeligro.
 	],
 "VIPEspecial":[
 	"ᴇᴛᴀᴅɪʟᴀᴠ"
+	],
+"Concentido":[
+	"Vacio"
 	],
 "VIP": [
 	]
