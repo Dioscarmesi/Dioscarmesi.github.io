@@ -14,7 +14,8 @@ URL Ranks by DiscoPeligro.
 	"Yísus",
 	"Jeffsito7u7VR",
 	"Yîşûş",
-	"Dib Vaca"
+	"Dib Vaca",
+	"LustKing"
     ],
 "Dancer": [
 		"ikerreki231",
@@ -38,17 +39,24 @@ URL Ranks by DiscoPeligro.
 		"thatbitchduncan",
 		"ᴛʜᴇᴅᴇᴠɪʟ®",
 		"Malin",
-		"2kao"
+		"2kao",
+		"Lûçî"
 	],
 "DJ": [
 	"RAFAOwO",
-    	"Jamirdg",
-    	"Gamer7777702026",
-    	"ALVAR0ZZZZZZZZZ",
+    "Jamirdg",
+    "Gamer7777702026",
+    "ALVAR0ZZZZZZZZZ",
 	"ZEDAnime"
 	],
 "CC":[
-	"CoronelShephard"
+	"CoronelShephard",
+	"FumeiVT",
+	"Satttt",
+	"ReikaVermysthra",
+	"REGENTE",
+	"ҜatherineThiler",
+	"٠Lady Berry٠"
 	],
   "Photographer": [
     	"vacio"
@@ -92,7 +100,8 @@ URL Ranks by DiscoPeligro.
 	"ᴇᴛᴀᴅɪʟᴀᴠ"
 	],
 "Concentido":[
-	"Vacio"
+	"Lobo Sabroso",
+	"Pandacamarena"
 	],
 "VIP": [
 	]
