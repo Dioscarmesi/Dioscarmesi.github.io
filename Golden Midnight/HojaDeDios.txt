@@ -15,7 +15,7 @@ URL Ranks by DiscoPeligro.
 	"Jeffsito7u7VR",
 	"Yîşûş",
 	"Dib Vaca",
-	"LustKing"
+	"LustyKing"
     ],
 "Dancer": [
 		"ikerreki231",
