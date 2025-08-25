@@ -42,7 +42,8 @@ URL Ranks by DiscoPeligro.
 		"2kao",
 		"YAN_A",
 		"Lûçî",	
-		"༒VampxVT༒"
+		"༒VampxVT༒",
+		"EnzoNova"
 	],
 "DJ": [
 	"RAFAOwO",
