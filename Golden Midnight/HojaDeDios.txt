@@ -41,7 +41,9 @@ URL Ranks by DiscoPeligro.
 		"Malin",
 		"2kao",
 		"YAN_A",
-		"Lûçî"
+		"Lûçî",	
+		"༒VampxVT༒",
+		"EnzoNova"
 	],
 "DJ": [
 	"RAFAOwO",
