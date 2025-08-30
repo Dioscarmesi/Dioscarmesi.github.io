@@ -21,6 +21,12 @@ URL Ranks by DiscoPeligro.
 	"InversorC":[
 		"ＴＯＫＡＹＯ"
 	],
+	"InversorD":[
+		"EspacioVacio"
+	],
+	"Pecador":[
+		"EspacioVacio"
+	],
 	"Mod": [
 		"Uni ウサギ",
 		"Strikkеrz",
@@ -48,6 +54,9 @@ URL Ranks by DiscoPeligro.
 		"KirikuVT",
 		"Amurysse"
 	],
+	"JokerCircusHost": [
+		"ESPACIODISPONIBLE"
+		],
 	"DJ": [
 		"Ryuk0",
 		"ESPACIODISPONIBLE"
