@@ -32,6 +32,12 @@ URL Ranks by DiscoPeligro.
 		"GERMAN002",
 		"SweetMochi0"
 	],
+	"MonsterMusume":[
+		"Vacio"
+	],
+	"Dextro":[
+		"Vacio"
+	],
 	"Mod": [
 		"Uni ウサギ",
 		"Strikkеrz",
