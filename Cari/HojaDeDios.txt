@@ -22,7 +22,7 @@ URL Ranks by DiscoPeligro.
 		"ＴＯＫＡＹＯ"
 	],
 	"InversorD":[
-		"EspacioVacio"
+		"Akihide"
 	],
 	"Pecador":[
 		"EspacioVacio"
@@ -386,8 +386,9 @@ URL Ranks by DiscoPeligro.
 		"--------------------------Sotano Stage--------------------------------",
 		"༒M̴o̴c̴h̴i̴༒",
 		"༒I̴s̴h̴~0̴0̴7̴༒",
-		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE",
+		"MizuQwQ",
+		"NoSoyLilu",
+		"kapita",
 		"PHOENIX2221",
 		"༒ღNuggetღ༒",
 		"Mclovimm",
@@ -422,6 +423,8 @@ URL Ranks by DiscoPeligro.
 		"LIL_AIZEN",
 		"Angelł",
 		"ʚ˚٠ṡʏṡʏ٠˚ɞ",
+		"Kira_49",
+		"Dragunin",
 		"․Nugetsu",
 		"ikerreki231",
 		"ESPACIODISPONIBLE",
