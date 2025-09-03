@@ -25,7 +25,12 @@ URL Ranks by DiscoPeligro.
 		"Akihide"
 	],
 	"Pecador":[
-		"EspacioVacio"
+		"CAROL_RM",
+		"ShadowN01",
+		"konflakes_",
+		"mrbb88",
+		"GERMAN002",
+		"SweetMochi0"
 	],
 	"Mod": [
 		"Uni ウサギ",
