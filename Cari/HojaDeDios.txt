@@ -33,10 +33,26 @@ URL Ranks by DiscoPeligro.
 		"SweetMochi0"
 	],
 	"MonsterMusume":[
-		"Vacio"
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE",
+		"ESPACIODISPONIBLE"
 	],
 	"Dextro":[
-		"Vacio"
+		"Ƙυѕт",
+		"El Kyu",
+		"Karlozz_Sღ",
+		"MithZh",
+		"Chirimoyita",
+		"c1geerzs",
+		"Kevin GlezAnc",
+		"IG XimenaGtz04",
+		"ESPACIODISPONIBLE"
 	],
 	"Mod": [
 		"Uni ウサギ",
