@@ -30,6 +30,7 @@ URL Ranks by DiscoPeligro.
 		"konflakes_",
 		"mrbb88",
 		"GERMAN002",
+		"༒d̷a̷r̷i̷1̷8̷༒",
 		"SweetMochi0"
 	],
 	"MonsterMusume":[
