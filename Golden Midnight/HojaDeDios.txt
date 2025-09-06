@@ -19,7 +19,7 @@ URL Ranks by DiscoPeligro.
 	"Nath Kohai",
 	"Manu_Xnwn",
 	"QuadrupleTTV",
-	"starlightfrost"
+	"StarlightFrost"
     ],
 "Dancer": [
 		"ikerreki231",
