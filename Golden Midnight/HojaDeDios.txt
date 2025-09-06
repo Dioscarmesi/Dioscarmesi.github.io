@@ -15,7 +15,11 @@ URL Ranks by DiscoPeligro.
 	"Jeffsito7u7VR",
 	"Yîşûş",
 	"Dib Vaca",
-	"LustyKing"
+	"LustyKing",	
+	"Nath Kohai",
+	"Manu_Xnwn",
+	"QuadrupleTTV",
+	"starlightfrost"
     ],
 "Dancer": [
 		"ikerreki231",
@@ -50,7 +54,8 @@ URL Ranks by DiscoPeligro.
     "Jamirdg",
     "Gamer7777702026",
     "ALVAR0ZZZZZZZZZ",
-	"ZEDAnime"
+	"ZEDAnime",
+	"XZEDANIMEX"
 	],
 "CC":[
 	"CoronelShephard",
