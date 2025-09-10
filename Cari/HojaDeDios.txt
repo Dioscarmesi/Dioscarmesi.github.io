@@ -19,7 +19,7 @@ URL Ranks by DiscoPeligro.
 		"ᴇᴛᴀᴅɪʟᴀᴠ4500-"
 	],
 	"InversorC":[
-		"ＴＯＫＡＹＯ"
+		"ESPACIODISPONIBLE"
 	],
 	"InversorD":[
 		"Akihide"
