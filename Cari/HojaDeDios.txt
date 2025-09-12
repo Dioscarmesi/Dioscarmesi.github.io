@@ -31,6 +31,8 @@ URL Ranks by DiscoPeligro.
 		"mrbb88",
 		"GERMAN002",
 		"GREAT_ONE",
+		"KazumiiVT",
+		"El_jorge_?",
 		"༒d̷a̷r̷i̷1̷8̷༒",
 		"SweetMochi0"
 	],
