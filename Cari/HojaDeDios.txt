@@ -460,6 +460,8 @@ URL Ranks by DiscoPeligro.
 		"ᴋɪᴅᴀ_ʟʏs22",
 		"Dᴀʏɪ",
 		"Kevin GlezAnc",
+		"Aquiles_wolf",
+		"Naya3",
 		"GideonToffu",
 		"XHosh",
 		"LIL_AIZEN",
