@@ -16,7 +16,7 @@ URL Ranks by DiscoPeligro.
 		"ElTaino"
 	],
 	"InversorB":[
-		"ESPACIODISPONIBLE"
+		"ᴇᴛᴀᴅɪʟᴀᴠ4500-"
 	],
 	"InversorC":[
 		"ESPACIODISPONIBLE"
