@@ -1,25 +1,37 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Moderación VRChat</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="styles.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="css/style.css" rel="stylesheet" />
 </head>
 <body>
+  <div class="navbar">
+  <div class="nav-left">
+    <span class="nav-title">Moderación VRChat</span>
+  </div>
+  <div class="nav-right">
+    <div class="nav-user">
+      <span id="navUserName" class="nav-name">Invitado</span>
+      <span id="navUserRole" class="tag nav-role">—</span>
+    </div>
+    <button id="navLogout" class="btn secondary sm">Cerrar sesión</button>
+  </div>
+</div>
   <div class="wrap">
 
-    <!-- Barra de herramientas -->
+    <!-- Toolbar con filtros -->
     <div class="toolbar card">
-      <input type="text" id="q" placeholder="Buscar por username, ID, notas..." />
-      <select id="f-estado">
+      <input type="text" id="q" class="input" style="max-width:380px" placeholder="Buscar por username, ID, notas..." />
+      <select id="f-estado" class="select">
         <option value="Todos">Todos</option>
         <option value="Revisión">Revisión</option>
         <option value="Investigación">Investigación</option>
         <option value="Banned">Banned</option>
         <option value="Activo">Activo</option>
       </select>
-      <select id="f-peligro">
+      <select id="f-peligro" class="select">
         <option value="Todos">Todos</option>
         <option value="Bajo">Bajo</option>
         <option value="Medio">Medio</option>
@@ -43,67 +55,81 @@
           </tr>
         </thead>
         <tbody id="banTbody">
-          <!-- JS renderiza aquí -->
+          <!-- Se llena por JS -->
         </tbody>
       </table>
     </div>
 
     <!-- Formulario de reporte -->
-    <div class="card">
+    <div class="card form-card">
       <form id="banForm">
-        <h2 id="form-title">Registrar / Editar reporte</h2>
-        <div class="grid">
-          <div class="span-6">
-            <label>Username</label>
-            <input type="text" id="r-username" required>
+        <div class="form-title">Registrar / Editar reporte</div>
+
+        <div class="form-grid">
+          <div class="field">
+            <label class="label" for="r-username">Username</label>
+            <input id="r-username" type="text" class="input" required />
           </div>
-          <div class="span-6">
-            <label>ID / Link de VRChat</label>
-            <input type="text" id="r-vrchatId" required>
+
+          <div class="field">
+            <label class="label" for="r-vrchatId">ID / Link de VRChat</label>
+            <input id="r-vrchatId" type="text" class="input" required />
           </div>
-          <div class="span-4">
-            <label>Estado</label>
-            <select id="r-estado">
-              <option>Revisión</option>
-              <option>Investigación</option>
-              <option>Banned</option>
-              <option>Activo</option>
-            </select>
+
+          <div class="field-inline" style="grid-column:1 / -1">
+            <div class="field">
+              <label class="label" for="r-estado">Estado</label>
+              <select id="r-estado" class="select">
+                <option>Revisión</option>
+                <option>Investigación</option>
+                <option>Banned</option>
+                <option>Activo</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label class="label" for="r-peligro">Peligro</label>
+              <select id="r-peligro" class="select">
+                <option>Bajo</option>
+                <option>Medio</option>
+                <option>Extremo</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label class="label" for="r-diasSancion">Días de sanción</label>
+              <input id="r-diasSancion" type="text" class="input" placeholder="Ej. 7 o Permanente" />
+            </div>
           </div>
-          <div class="span-4">
-            <label>Peligro</label>
-            <select id="r-peligro">
-              <option>Bajo</option>
-              <option>Medio</option>
-              <option>Extremo</option>
-            </select>
+
+          <div class="field" style="grid-column:1 / -1">
+            <label class="label" for="r-evidencias">Link de evidencias</label>
+            <input id="r-evidencias" type="text" class="input" placeholder="https://..." />
+            <div class="help">Puedes pegar el perfil de VRChat o un documento con pruebas.</div>
           </div>
-          <div class="span-4">
-            <label>Días de sanción</label>
-            <input type="text" id="r-diasSancion" placeholder="Ej. 7 o Permanente">
+
+          <div class="field" style="grid-column:1 / -1">
+            <label class="label" for="r-notas">Notas</label>
+            <textarea id="r-notas" class="textarea" rows="4" placeholder="Detalle del caso"></textarea>
           </div>
-          <div class="span-12">
-            <label>Link de evidencias</label>
-            <input type="text" id="r-evidencias" placeholder="https://...">
+
+          <div class="field">
+            <label class="label" for="r-creadoPor">Creado por</label>
+            <input id="r-creadoPor" type="text" class="input" readonly />
           </div>
-          <div class="span-12">
-            <label>Notas</label>
-            <textarea id="r-notas" rows="3" placeholder="Detalle del caso"></textarea>
+
+          <div class="field">
+            <label class="label" for="r-fechaCreacion">Fecha creación</label>
+            <input id="r-fechaCreacion" type="date" class="input" />
           </div>
-          <div class="span-6">
-            <label>Creado por</label>
-            <input type="text" id="r-creadoPor" readonly>
-          </div>
-          <div class="span-3">
-            <label>Fecha creación</label>
-            <input type="date" id="r-fechaCreacion">
-          </div>
-          <div class="span-3">
-            <label>Última actualización</label>
-            <input type="date" id="r-fechaActualizacion" readonly>
+
+          <div class="field">
+            <label class="label" for="r-fechaActualizacion">Última actualización</label>
+            <input id="r-fechaActualizacion" type="date" class="input" readonly />
           </div>
         </div>
-        <div class="row" style="margin-top:16px">
+
+        <div class="form-actions">
           <button type="submit" id="r-submit" class="btn">Guardar</button>
           <button type="button" id="r-cancel" class="btn secondary">Cancelar</button>
         </div>
@@ -115,6 +141,6 @@
     </div>
   </div>
 
-  <script src="app.js"></script>
+  <script src="js/app.js"></script>
 </body>
 </html>
