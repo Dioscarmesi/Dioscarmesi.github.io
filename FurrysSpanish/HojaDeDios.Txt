@@ -130,7 +130,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"GERMAN002",
 		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE,
+		"ESPACIODISPONIBLE",
 		"noelle noni",
 		"-------------------------------------------------------------PasilloSpawn------------------------------------",
 		"ESPACIODISPONIBLE",
