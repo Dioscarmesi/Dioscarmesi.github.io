@@ -9,6 +9,9 @@ URL Ranks by DiscoPeligro.
 		"Icon4500L̵̐̔",
 		"Icоn4500-"
 	],
+	"Co-Owner":[
+		"ღItzAkaneღ"
+	],
 	"NoviaIcon": [
 		"Dulcecоmocandy"
 	],
