@@ -522,6 +522,8 @@ URL Ranks by DiscoPeligro.
 		"cortis9",
 		"GTRαιzєr-ѕαмαஜ",
 		"۞EɱʝαɳV2ஜ",
+		"WHBenja",
+		"aSeraku",
 		"ESPACIODISPONIBLE"
 		]
 }
