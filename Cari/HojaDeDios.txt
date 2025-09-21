@@ -527,6 +527,8 @@ URL Ranks by DiscoPeligro.
 		"۞EɱʝαɳV2ஜ",
 		"WHBenja",
 		"aSeraku",
+		"KattzeKatt",
+		"Xexuuu",
 		"ESPACIODISPONIBLE"
 		]
 }
