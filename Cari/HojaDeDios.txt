@@ -70,7 +70,6 @@ URL Ranks by DiscoPeligro.
 		"Uni ウサギ",
 		"Strikkеrz",
 		"Andrömeda",
-		"ƝƛƓȺ★ƑʘɌȾ",
 		"Dere Limon",
 		"Mαятιи_MxVr",
 		"ParzivalOkazaki",
@@ -223,6 +222,7 @@ URL Ranks by DiscoPeligro.
 		"TanzaMimi",
 		"ESPACIODISPONIBLE",
 		"ᴇᴛᴀᴅɪʟᴀᴠ4500-",
+		"ƝƛƓȺ★ƑʘɌȾ",
 	],
 	"Friends":[
 		"NYADETH",
