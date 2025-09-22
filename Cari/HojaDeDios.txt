@@ -7,7 +7,9 @@ URL Ranks by DiscoPeligro.
 		"lcon4500",
 		"ICΩN4500",
 		"Icon4500L̵̐̔",
-		"Icоn4500-"
+		"Icоn4500-",
+		"ƝƛƓȺ★ƑʘɌȾ",
+		"Sainthe",
 	],
 	"Co-Owner":[
 		"ღItzAkaneღ"
@@ -70,7 +72,6 @@ URL Ranks by DiscoPeligro.
 		"Uni ウサギ",
 		"Strikkеrz",
 		"Andrömeda",
-		"ƝƛƓȺ★ƑʘɌȾ",
 		"Dere Limon",
 		"Mαятιи_MxVr",
 		"ParzivalOkazaki",
