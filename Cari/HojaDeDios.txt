@@ -3,7 +3,7 @@ URL Ranks by DiscoPeligro.
 	"Admin": ["Peligroso",
 		"UnHada",
 		"NosticChop",
-		"Sainthe"],
+	],
 	"Icon":["Icоn4500",
 		"lcon4500",
 		"ICΩN4500",
@@ -75,8 +75,7 @@ URL Ranks by DiscoPeligro.
 		"faunotears",
 		"Chaerin-チャエリン",
 		"Terry_x",
-		"Hana Rose",
-		"Sainthe"
+		"Hana Rose"
 	],
 	"Dextro":[
 		"Ƙυѕт",
@@ -103,10 +102,10 @@ URL Ranks by DiscoPeligro.
 		"ParzivalOkazaki",
 		"RohandrileVR",
 		"graygrace",
-		"ƝƛƓȺ★ƑʘɌȾ",
+		"ƝƛƓȺ★ƑʘɌȾ"
 		],
 	"VipManager":[
-
+		"Sainthe"
 	],
 	"JokerCircus": [
 		"JokerStein",
@@ -803,5 +802,5 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
-		]
+		],
 }
