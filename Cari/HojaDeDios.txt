@@ -77,7 +77,7 @@ URL Ranks by DiscoPeligro.
 		"Chaerin-チャエリン",
 		"Terry_x",
 		"Hana Rose",
-		"ESPACIODISPONIBLE"
+		"Sainthe"
 	],
 	"Dextro":[
 		"Ƙυѕт",
@@ -105,10 +105,9 @@ URL Ranks by DiscoPeligro.
 		"RohandrileVR",
 		"graygrace",
 		"ƝƛƓȺ★ƑʘɌȾ",
-		"Sainthe"
 		],
 	"VipManager":[
-		"Sainthe"
+
 	],
 	"JokerCircus": [
 		"JokerStein",
