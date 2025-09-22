@@ -794,7 +794,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
-		]
+		],
 	"Mod": [
 		"Uni ウサギ",
 		"Strikkеrz",
@@ -804,6 +804,6 @@ URL Ranks by DiscoPeligro.
 		"ParzivalOkazaki",
 		"RohandrileVR",
 		"graygrace",
-		"ƝƛƓȺ★ƑʘɌȾ",
+		"ƝƛƓȺ★ƑʘɌȾ"
 		],
 }
