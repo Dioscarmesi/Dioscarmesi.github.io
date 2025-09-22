@@ -8,8 +8,6 @@ URL Ranks by DiscoPeligro.
 		"ICΩN4500",
 		"Icon4500L̵̐̔",
 		"Icоn4500-",
-		"ƝƛƓȺ★ƑʘɌȾ",
-		"Sainthe",
 	],
 	"Co-Owner":[
 		"ღItzAkaneღ"
@@ -76,7 +74,8 @@ URL Ranks by DiscoPeligro.
 		"Mαятιи_MxVr",
 		"ParzivalOkazaki",
 		"RohandrileVR",
-		"graygrace"
+		"graygrace",
+		"ƝƛƓȺ★ƑʘɌȾ",
 		],
 	"VipManager":[
 		"Sainthe"
