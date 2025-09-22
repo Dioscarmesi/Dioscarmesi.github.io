@@ -95,17 +95,7 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 	],
-	"Mod": [
-		"Uni ウサギ",
-		"Strikkеrz",
-		"Andrömeda",
-		"Dere Limon",
-		"Mαятιи_MxVr",
-		"ParzivalOkazaki",
-		"RohandrileVR",
-		"graygrace",
-		"ƝƛƓȺ★ƑʘɌȾ",
-		],
+
 	"VipManager":[
 
 	],
@@ -805,4 +795,15 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		]
+	"Mod": [
+		"Uni ウサギ",
+		"Strikkеrz",
+		"Andrömeda",
+		"Dere Limon",
+		"Mαятιи_MxVr",
+		"ParzivalOkazaki",
+		"RohandrileVR",
+		"graygrace",
+		"ƝƛƓȺ★ƑʘɌȾ",
+		],
 }
