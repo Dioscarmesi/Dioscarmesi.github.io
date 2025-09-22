@@ -76,8 +76,7 @@ URL Ranks by DiscoPeligro.
 		"faunotears",
 		"Chaerin-チャエリン",
 		"Terry_x",
-		"Hana Rose",
-		"Sainthe"
+		"Hana Rose"
 	],
 	"Dextro":[
 		"Ƙυѕт",
@@ -95,9 +94,19 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 	],
-
+	"Mod": [
+		"Uni ウサギ",
+		"Strikkеrz",
+		"Andrömeda",
+		"Dere Limon",
+		"Mαятιи_MxVr",
+		"ParzivalOkazaki",
+		"RohandrileVR",
+		"graygrace",
+		"ƝƛƓȺ★ƑʘɌȾ"
+		],
 	"VipManager":[
-
+		"Sainthe"
 	],
 	"JokerCircus": [
 		"JokerStein",
@@ -794,16 +803,5 @@ URL Ranks by DiscoPeligro.
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
-		],
-	"Mod": [
-		"Uni ウサギ",
-		"Strikkеrz",
-		"Andrömeda",
-		"Dere Limon",
-		"Mαятιи_MxVr",
-		"ParzivalOkazaki",
-		"RohandrileVR",
-		"graygrace",
-		"ƝƛƓȺ★ƑʘɌȾ"
 		],
 }
