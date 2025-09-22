@@ -3,7 +3,7 @@ URL Ranks by DiscoPeligro.
 	"Admin": ["Peligroso",
 		"UnHada",
 		"NosticChop",
-		"Sainthe"],
+	],
 	"Icon":["Icоn4500",
 		"lcon4500",
 		"ICΩN4500",
