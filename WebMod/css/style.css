@@ -5,8 +5,8 @@
   --accent:#6ee7ff; --accent2:#a78bfa;
   --danger:#ff6b6b; --ok:#22c55e; --warn:#f59e0b;
 
-  /* Ritmo / radios */
-  --radius:16px; --radius-sm:10px;
+  /* Radios */
+  --radius:16px; --radius-sm:12px;
 }
 
 *{box-sizing:border-box}
@@ -21,12 +21,12 @@ body{
 a{color:var(--accent);text-decoration:none}
 a:hover{opacity:.9}
 
-/* --- Layout ancho completo --- */
+/* --- Layout a 100% --- */
 .wrap{
   width:100%;
-  max-width:none;    /* usa 100% del ancho disponible */
+  max-width:none;   /* ocupa todo el ancho disponible */
   margin:0 auto;
-  padding:24px 0;    /* padding vertical; lateral ya lo da body */
+  padding:24px 0;
 }
 
 .card{
@@ -44,7 +44,7 @@ h1{font-size:28px;margin:.2rem 0}
 h2{font-size:20px;margin:1rem 0 .5rem}
 .muted{color:var(--muted)}
 
-/* --- Controles --- */
+/* --- Controles genéricos --- */
 input,select,button,textarea{
   background:#0e1520;color:var(--text);
   border:1px solid var(--line-2);
@@ -55,7 +55,7 @@ input,select,button,textarea{
 input::placeholder,textarea::placeholder{color:#8aa0bf}
 input:focus,select:focus,textarea:focus{
   outline:0;border-color:var(--accent);
-  box-shadow:0 0 0 3px rgba(110,231,255,.2);
+  box-shadow:0 0 0 3px rgba(110,231,255,.18);
 }
 
 button{cursor:pointer;user-select:none}
@@ -105,6 +105,37 @@ tbody tr td:last-child{border-top-right-radius:10px;border-bottom-right-radius:1
 .table--compact tbody td{padding:8px 10px}
 .table--relaxed tbody td{padding:14px 16px}
 
+/* --- FORM LOOK & FEEL MEJORADO --- */
+.form-card{
+  background:#111824;
+  border:1px solid #1f2a3d;
+  border-radius:16px;
+  padding:20px 20px 12px;
+}
+.form-title{font-size:18px;font-weight:700;margin:0 0 12px}
+.form-grid{display:grid;gap:16px;grid-template-columns:1fr}
+@media (min-width:960px){.form-grid{grid-template-columns:1fr 1fr}}
+
+.field{display:flex;flex-direction:column;gap:8px}
+.label{
+  font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:#a6b2c8;
+}
+.help{font-size:12px;color:#8aa0bf}
+
+.input,.select,.textarea{
+  background:#0E1420;color:var(--text);
+  border:1px solid #223047;border-radius:12px;
+  padding:12px 14px;height:44px;
+  transition:border-color .2s,box-shadow .2s,background .2s;
+}
+.textarea{min-height:110px;height:auto;resize:vertical}
+.select{appearance:none;-webkit-appearance:none;background-image:none}
+
+.field-inline{display:grid;gap:16px;grid-template-columns:1fr}
+@media (min-width:960px){.field-inline{grid-template-columns:1fr 1fr 1fr}}
+
+.form-actions{display:flex;gap:10px;margin-top:8px}
+
 /* Utilidades */
 .hidden{display:none!important}
 .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:12px}
@@ -115,7 +146,7 @@ tbody tr td:last-child{border-top-right-radius:10px;border-bottom-right-radius:1
 .kbd{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;background:#0b111b;border:1px solid #223047;border-radius:6px;padding:2px 6px}
 .foot{margin-top:24px;color:#8aa0bf;font-size:12px;text-align:center}
 
-/* Truncado elegante para URLs/cadenas largas */
+/* Truncado elegante para URLs/cadenas */
 .ellipsis{max-width:240px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 @media(min-width:1200px){.ellipsis{max-width:360px}}
 
@@ -124,7 +155,23 @@ tbody tr td:last-child{border-top-right-radius:10px;border-bottom-right-radius:1
 .table-wrap::-webkit-scrollbar-thumb{background:#1f2a3d;border-radius:999px}
 .table-wrap::-webkit-scrollbar-thumb:hover{background:#2a3a55}
 
-/* Badges por nivel/rol (opcional) */
+/* Badges por nivel/rol (si los usas) */
 .badge-viewer{background:rgba(167,139,250,.12);color:var(--accent2);border:1px solid rgba(167,139,250,.35)}
 .badge-admin{background:rgba(110,231,255,.12);color:var(--accent);border:1px solid rgba(110,231,255,.35)}
 .badge-moderator{background:rgba(99,102,241,.12);color:#96a7ff;border:1px solid rgba(99,102,241,.35)}
+
+/* ===== NAV SUPERIOR ===== */
+.navbar{
+  position: sticky; top: 0; z-index: 50;
+  display:flex; align-items:center; justify-content:space-between;
+  gap:12px; padding:12px 16px; margin:12px 0 16px;
+  background: linear-gradient(180deg,#141b28,#121821);
+  border:1px solid #1f2a3d; border-radius:16px;
+  box-shadow: 0 10px 24px rgba(0,0,0,.28);
+}
+.nav-left{display:flex; align-items:center; gap:10px}
+.nav-title{font-weight:800; letter-spacing:.02em}
+.nav-right{display:flex; align-items:center; gap:10px}
+.nav-user{display:flex; align-items:center; gap:8px}
+.nav-name{font-weight:600}
+.nav-role.tag{border-color:#2b3650; color:#c7d2fe}

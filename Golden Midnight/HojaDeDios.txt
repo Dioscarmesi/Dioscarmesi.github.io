@@ -4,37 +4,82 @@ URL Ranks by DiscoPeligro.
         "RensellaVT"
 	],
 "Co-Owner": [
+        "Dios Carmesi"
 	],
-"StaffMayor": [],
+"StaffMayor": [
+	"Vacio"],
 "StaffSecurity": [
+	"D4rkfox",
+	"Gonzalo_vr",
+	"Yísus",
+	"Jeffsito7u7VR",
+	"Tardock Kamitsu",
+	"Yîşûş"
     ],
 "Dancer": [
+		"ikerreki231",
+    	"нσѕнι",
+    	"Ezer_",
+    	"EspacioVacio",
+   		"TheWolfKenji",
+    	"sammyvase",
+    	"ღEquiღ",
+    	"XairiPR",
+		"OsitoPauPau",
+		"RED_XONA",
+		"Мариша ¿?",
+		"Onlydevil",
+		"StephVr_",
+		"ღToxicKittenღ",
+		"Αύrα"
 	],
 "DJ": [
-	],
-"CC":[
+	"RAFAOwO",
+    	"Jamirdg",
+    	"Gamer7777702026",
+    	"ALVAR0ZZZZZZZZZ",
+	"ZEDAnime"
 	],
   "Photographer": [
+    	"vacio"
   	],
-"Host": [
+  "Host": [
+	"Amurysse",
+    	"ʚCLASSISTɞ",
+    	"julioskrats",
+    	"Prototipo0121",
+    	"RocketSaul",
+		"InfortuniiVT",
+		"CoronelShephard",
+		"Gaaratan",
+		"XionyxS",
+		"Lᴀᴅʏ Rᴇᴅღ",
+		"MurakamiJin"
 	], 
 "Barman": [
+	"Cartlos5137",
+	"Tardock Kamitsu",
+	"vacio",
+	"vacio",
+	"vacio"
 ],
 "Artista": [
+	"Roxytooty",
+	"Daniel.n.v",
+	"Rubeko",
+	"AndrewSant",
+	"haru_kobayashi_",
+	"vacio",
+	"vacio"
 ],
   "StaffInvitado": [
-	
+	"ESPACIOVACIO"
 ],
   "StaffMenor": [
-	
+	"ESPACIOVACIO"
 	],
-"VIPEspecial":[
-	
-	],
-"Concentido":[
-	
-	],
-"VIP": [
+	"VIP": [
+	"ᴇᴛᴀᴅɪʟᴀᴠ",
+	"tgfgggg"
 	]
 }
-
