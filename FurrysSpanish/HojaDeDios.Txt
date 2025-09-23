@@ -145,7 +145,7 @@ URL Ranks by DiscoPeligro.
 		"★Denki★",
 		"WattsonNeko",
 		"ESPACIODISPONIBLE",
-		"Dante271",
+		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"_Viscochin_",
 		"ESPACIODISPONIBLE",
