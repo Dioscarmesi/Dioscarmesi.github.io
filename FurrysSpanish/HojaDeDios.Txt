@@ -65,7 +65,7 @@ URL Ranks by DiscoPeligro.
 		"--------------------------Lugar 04 Publicitario------------------------------------",
 		"ᴜѕᴀɢɪᴠʀ",
 		"innari",
-		"Fer VR ඞ",
+		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"--------------------------Lugar 05 Publicitario------------------------------------",
@@ -89,7 +89,7 @@ URL Ranks by DiscoPeligro.
 		"--------------------------Lugar 08 Publicitario------------------------------------",
 		"senkosanvt",
 		"VickyNC139",
-		"ESPACIODISPONIBLE",
+		"Pois0n_gh0stt",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE"
 	],
