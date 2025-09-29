@@ -1,5 +1,12 @@
 URL Ranks by DiscoPeligro.
 {
+    "Icon": [
+        "Icon4500",
+        "ICΩN4500",
+        "Icon4500L̵̐̔",
+        "Icоn4500-",
+        "lcon4500"
+    ],
     "Co-Owner": [
         "ღItzAkaneღ"
     ],
@@ -31,6 +38,7 @@ URL Ranks by DiscoPeligro.
         "SweetMochi0"
     ],
     "Admin": [
+        "UnHada",
         "NosticChop"
     ],
     "MonsterMusume": [
@@ -181,19 +189,18 @@ URL Ranks by DiscoPeligro.
         "Diṧconnect",
         "Bollito_Sx"
     ],
-    "Icon": [
-        "Icοn4500"
-    ],
     "VIP": [
         "El_CADEJO_SV",
         "IG OnealGaming",
+        "-Abby_",
         "NovaZayn",
+        "Zionnz",
         "ShadowN01",
         "c1geerzs",
+        "Harmony2875",
         "ҜatherineThiler",
         "StrawΒerryΗeart",
         "Ashura6612",
-        "༒Agora༒",
         "ＴＯＫＡＹＯ",
         "Houltler",
         "༒d̷a̷r̷i̷1̷8̷༒",
@@ -204,6 +211,8 @@ URL Ranks by DiscoPeligro.
         "Luismi92",
         "la_yeni17",
         "K-Dolz",
+        "Vaininya",
+        "cherrypoison69",
         "Tamamo Yuki",
         "KSRIN-Meme",
         "RataConThinner_",
@@ -220,6 +229,7 @@ URL Ranks by DiscoPeligro.
         "Bunny_Clownie",
         "Torta․Mp3",
         "ＢｌｏｓｓｏｍＣｈｉｙｕ",
+        "_Viscochin_",
         "Violet Himiko",
         "AlexitoPanda17",
         "SnikerssTV",
@@ -244,6 +254,8 @@ URL Ranks by DiscoPeligro.
         "'Sҽƚƚყ'",
         "ᴛʜᴇᴅᴇᴠɪʟ®",
         "El_jorge_?",
+        "-Yggdrasil",
+        "︶ M i t s u ︶",
         "ヤミです",
         "ElLocutorPR",
         "༺catalina༻",
@@ -267,14 +279,20 @@ URL Ranks by DiscoPeligro.
         "SeleNix",
         "Red Portgas",
         "Alliebearcx",
+        "_Solecito_",
         "KaosKynG",
         "YuuCaliente19°",
         "ʚ˚․ ᴀʀɪ ․˚ɞ",
+        "SofiiStoormy",
         "LaBurbuPR",
         "NexoWarB127 4e9d",
         "WHBenja",
         "aSeraku",
+        "ʚ˚․ғʟᴏᴡᴇʀ․˚ɞ",
+        "AquaUzumaki",
         "Sanssha",
+        "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
+        "ʲᵘˢᵗᴋᴀɴᴀ８０５",
         "༒N̷A̷N̷O̷༒",
         "уυкιтα",
         "MaverickHunterE",
@@ -297,6 +315,7 @@ URL Ranks by DiscoPeligro.
         "galogb204",
         "GideonToffu",
         "․Nugetsu",
+        "LIL_AIZEN",
         "Rina_Grl",
         "cortis9",
         "Kira_49",
@@ -316,30 +335,12 @@ URL Ranks by DiscoPeligro.
         "۞EɱʝαɳV2ஜ",
         "NuzoPR",
         "tr0y4n0Ҳ",
-        "S0mbrr4",
-        "Conejo_sexy",
-        "˚ʚ sᴛᴀʀ ɞ˚",
-        "《《K¥LΞ54》》",
-        "IG OnealGaming",
-        "NovaZayn"
+        "S0mbrr4"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
-        "innari",
-        "Shnapii",
-        "El_Chuy",
         "JokerStein",
-        "Naim Ulloa",
-        "Jensell1",
-        "MarlonQC",
-        "Fluffy_kiwi",
-        "SymphonyOwU",
-        "FXSCAR",
-        "XionWolf V",
         "ShadowN01",
-        "Lord_Zonuax",
-        "Soso 2020",
-        "DoLaRnEiToR_15",
-        "John Wipe"
+        "Lord_Zonuax"
     ]
 }
