@@ -184,8 +184,7 @@ URL Ranks by DiscoPeligro.
     ],
     "Icon": [
         "Icοn4500",
-        "karу",
-        "ᴇᴛᴀᴅɪʟᴀᴠ4500-"
+        "karу"
     ],
     "VIP": [
         "El_CADEJO_SV",
