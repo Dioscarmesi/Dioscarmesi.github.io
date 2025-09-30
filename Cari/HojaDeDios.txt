@@ -187,8 +187,6 @@ URL Ranks by DiscoPeligro.
     ],
     "VIP": [
         "El_CADEJO_SV",
-        "IG OnealGaming",
-        "NovaZayn",
         "ShadowN01",
         "c1geerzs",
         "BebecitaShey",
