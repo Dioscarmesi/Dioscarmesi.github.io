@@ -277,7 +277,6 @@ URL Ranks by DiscoPeligro.
         "_Solecito_",
         "KaosKynG",
         "YuuCaliente19°",
-        "ʚ˚․ ᴀʀɪ ․˚ɞ",
         "LaBurbuPR",
         "NexoWarB127 4e9d",
         "WHBenja",
@@ -330,8 +329,7 @@ URL Ranks by DiscoPeligro.
         "˚ʚ sᴛᴀʀ ɞ˚",
         "《《K¥LΞ54》》",
         "IG OnealGaming",
-        "NovaZayn",
-        "Imagetest"
+        "NovaZayn"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
