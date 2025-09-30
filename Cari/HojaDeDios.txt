@@ -1,7 +1,8 @@
 URL Ranks by DiscoPeligro.
 {
     "Co-Owner": [
-        "ღItzAkaneღ"
+        "ღItzAkaneღ",
+        "Sainthe"
     ],
     "NoviaIcon": [
         "Dulcecоmocandy"
@@ -187,8 +188,6 @@ URL Ranks by DiscoPeligro.
     ],
     "VIP": [
         "El_CADEJO_SV",
-        "IG OnealGaming",
-        "NovaZayn",
         "ShadowN01",
         "c1geerzs",
         "BebecitaShey",
@@ -300,7 +299,7 @@ URL Ranks by DiscoPeligro.
         "kapita",
         "PHOENIX2221",
         "༒ღNuggetღ༒",
-        "Elceron0",
+        "El Ceron",
         "Owen88f",
         "MoonSerein",
         "capitan_uron",
@@ -325,7 +324,7 @@ URL Ranks by DiscoPeligro.
         "Xexuuu",
         "GTRαιzєr-ѕαмαஜ",
         "۞EɱʝαɳV2ஜ",
-        "NuzoPR",
+        "Nuzossj",
         "tr0y4n0Ҳ",
         "S0mbrr4",
         "Conejo_sexy",
