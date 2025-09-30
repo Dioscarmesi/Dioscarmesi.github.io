@@ -124,6 +124,10 @@ URL Ranks by DiscoPeligro.
         "AndyHardCandy",
         "senkosanvt",
         "VickyNC139",
-        "Hertzo"
+        "Hertzo",
+        "KittyShark",
+        "Culan",
+        "foxitouwu_",
+        "Wolfsmash"
     ]
 }
