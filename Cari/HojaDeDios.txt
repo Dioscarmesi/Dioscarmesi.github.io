@@ -347,8 +347,8 @@ URL Ranks by DiscoPeligro.
         "XionWolf V",
         "ShadowN01",
         "Lord_Zonuax",
-        "Soso 2020",
         "DoLaRnEiToR_15",
+        "Soso 2020",
         "John Wipe"
     ]
 }
