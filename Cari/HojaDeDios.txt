@@ -182,7 +182,8 @@ URL Ranks by DiscoPeligro.
         "Bollito_Sx"
     ],
     "Icon": [
-        "Icοn4500"
+        "Icοn4500",
+        "karу"
     ],
     "VIP": [
         "El_CADEJO_SV",
