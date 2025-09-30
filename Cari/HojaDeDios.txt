@@ -330,7 +330,8 @@ URL Ranks by DiscoPeligro.
         "˚ʚ sᴛᴀʀ ɞ˚",
         "《《K¥LΞ54》》",
         "IG OnealGaming",
-        "NovaZayn"
+        "NovaZayn",
+        "TestIMagen"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
