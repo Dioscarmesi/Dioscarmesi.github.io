@@ -22,7 +22,7 @@ URL Ranks by DiscoPeligro.
         "RensellaVT",
         "Shirou1711"
     ],
-    "VIP": [
+    "VIPSFurrys": [
         "ASTRID LA FURRA",
         "noelle noni",
         "GERMAN002",
@@ -46,7 +46,8 @@ URL Ranks by DiscoPeligro.
         "Andrömeda",
         "★Denki★",
         "WattsonNeko",
-        "Sainthe"
+        "Sainthe",
+        "Bollito_Sx"
     ],
     "Partner": [
         "FRARJUPER25",
