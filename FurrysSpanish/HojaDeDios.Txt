@@ -73,6 +73,7 @@ URL Ranks by DiscoPeligro.
         "Sanssha",
         "GERMAN002",
         "Jhonnystein",
+        "Jhonnystein",
         "ASTRID LA FURRA",
         "noelle noni",
         "ＴＯＫＡＹＯ",
@@ -95,7 +96,8 @@ URL Ranks by DiscoPeligro.
         "WattsonNeko",
         "_Viscochin_",
         "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
-        "marixxa"
+        "marixxa",
+        "-Plantita-"
     ],
     "Partner": [
         "FRARJUPER25",
