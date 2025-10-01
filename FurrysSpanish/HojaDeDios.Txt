@@ -1,14 +1,7 @@
 URL Ranks by DiscoPeligro.
 {
-    "Admin": [
-        "UnHada",
-        "NosticChop"
-    ],
     "VipManager": [
         "Andrömeda"
-    ],
-    "ModJefe": [
-        "Vacio"
     ],
     "Angelika": [
         "Alegnamon"
@@ -17,35 +10,27 @@ URL Ranks by DiscoPeligro.
         "★Denki★",
         "Strikkеrz",
         "GUILEAS",
-        "_LilithVr_",
         "ShadyBelca",
         "leitoxs",
         "mudoXqX",
         "DenkiKitsune"
-    ],
-    "ModPracticantes": [
-        "Vacio"
     ],
     "DJ": [
         "VACIO"
     ],
     "Guest Dancer": [
         "RensellaVT",
-        "Tadashi_24",
-        "StephVr_",
         "Shirou1711"
     ],
     "VIPFurrys": [
-        "ZeroNinetales",
-        "Bludrian",
-        "Sanssha",
-        "GERMAN002",
-        "Jhonnystein",
         "ASTRID LA FURRA",
         "noelle noni",
+        "GERMAN002",
+        "Jhonnystein",
         "ＴＯＫＡＹＯ",
         "Chorkijaime",
         "orixcx",
+        "Achiu",
         "Achiu",
         "aguadecate",
         "ZeroNinetales",
@@ -61,38 +46,9 @@ URL Ranks by DiscoPeligro.
         "Andrömeda",
         "★Denki★",
         "WattsonNeko",
-        "_Viscochin_",
-        "Daiki-ito9751",
-        "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
-        "marixxa"
-    ],
-    "VIP": [
-        "Andrömeda",
-        "ZeroNinetales",
-        "Bludrian",
-        "Sanssha",
-        "GERMAN002",
-        "Jhonnystein",
-        "Jhonnystein",
-        "ASTRID LA FURRA",
-        "noelle noni",
-        "ＴＯＫＡＹＯ",
-        "Chorkijaime",
-        "orixcx",
-        "Achiu",
-        "aguadecate",
-        "megumin78",
-        "Drech301",
-        "ShadyBelca",
-        "LuzaGunner",
-        "mudoXqX",
-        "Scp 956",
-        "Mikunita",
-        "★Denki★",
-        "WattsonNeko",
-        "_Viscochin_",
-        "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
-        "marixxa"
+        "Sainthe",
+        "Bollito_Sx",
+        "ヤミです"
     ],
     "Partner": [
         "FRARJUPER25",
