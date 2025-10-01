@@ -96,6 +96,7 @@ URL Ranks by DiscoPeligro.
         "_Viscochin_",
         "Daiki-ito9751",
         "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
+        "-Plantita-",
         "marixxa"
     ],
     "Partner": [
