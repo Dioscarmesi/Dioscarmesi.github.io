@@ -1,8 +1,7 @@
 URL Ranks by DiscoPeligro.
 {
     "VipManager": [
-        "Andrömeda",
-        "Sainthe"
+        "Andrömeda"
     ],
     "Angelika": [
         "Alegnamon"
@@ -46,7 +45,8 @@ URL Ranks by DiscoPeligro.
         "Mikunita",
         "Andrömeda",
         "★Denki★",
-        "WattsonNeko"
+        "WattsonNeko",
+        "Sainthe"
     ],
     "Partner": [
         "FRARJUPER25",
