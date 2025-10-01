@@ -94,7 +94,6 @@ URL Ranks by DiscoPeligro.
         "★Denki★",
         "WattsonNeko",
         "_Viscochin_",
-        "Daiki-ito9751",
         "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
         "marixxa"
     ],
