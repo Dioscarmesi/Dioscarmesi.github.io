@@ -95,7 +95,6 @@ URL Ranks by DiscoPeligro.
         "WattsonNeko",
         "_Viscochin_",
         "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
-        "-Plantita-",
         "marixxa"
     ],
     "Partner": [
