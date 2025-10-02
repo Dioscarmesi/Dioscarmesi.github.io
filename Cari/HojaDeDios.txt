@@ -324,7 +324,10 @@ URL Ranks by DiscoPeligro.
         "IG OnealGaming",
         "NovaZayn",
         "GERMAN002",
-        "GREAT_ONE"
+        "GREAT_ONE",
+        "Lord_Zonuax",
+        "Aquiles_wolf",
+        "Naya3"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
