@@ -50,7 +50,8 @@ URL Ranks by DiscoPeligro.
         "Bollito_Sx",
         "ヤミです",
         "stefanosuarez26",
-        "nikomitogtu"
+        "nikomitogtu",
+        "Ｎͥｅͫａｔツ"
     ],
     "Partner": [
         "FRARJUPER25",
