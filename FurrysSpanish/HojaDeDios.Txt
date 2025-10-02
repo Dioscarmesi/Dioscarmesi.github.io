@@ -22,6 +22,9 @@ URL Ranks by DiscoPeligro.
         "RensellaVT",
         "Shirou1711"
     ],
+    "Friends": [
+        "ESPACIODISPONIBLE",
+    ],
     "VIPFurrys": [
         "ASTRID LA FURRA",
         "noelle noni",
