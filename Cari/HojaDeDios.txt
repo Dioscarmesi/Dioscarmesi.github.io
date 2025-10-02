@@ -200,6 +200,8 @@ URL Ranks by DiscoPeligro.
         "ChrissVencha",
         "Daiki Chikita",
         "Prototipo0121",
+        "Sra_Ibañez",
+        "Luismi92",
         "la_yeni17",
         "K-Dolz",
         "Vaininya",
