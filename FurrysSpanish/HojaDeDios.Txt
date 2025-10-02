@@ -23,7 +23,7 @@ URL Ranks by DiscoPeligro.
         "Shirou1711"
     ],
     "Friends": [
-        "ESPACIODISPONIBLE",
+        "Ｎͥｅͫａｔツ"
     ],
     "VIPFurrys": [
         "ASTRID LA FURRA",
@@ -53,8 +53,7 @@ URL Ranks by DiscoPeligro.
         "Bollito_Sx",
         "ヤミです",
         "stefanosuarez26",
-        "nikomitogtu",
-        "Ｎͥｅͫａｔツ"
+        "nikomitogtu"
     ],
     "Partner": [
         "FRARJUPER25",
