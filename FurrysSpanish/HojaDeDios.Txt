@@ -48,7 +48,9 @@ URL Ranks by DiscoPeligro.
         "WattsonNeko",
         "Sainthe",
         "Bollito_Sx",
-        "ヤミです"
+        "ヤミです",
+        "stefanosuarez26",
+        "nikomitogtu"
     ],
     "Partner": [
         "FRARJUPER25",
