@@ -228,6 +228,7 @@ URL Ranks by DiscoPeligro.
         "࿇-S͓̽uu͓̽Ji-࿇",
         "GERMAN002",
         "GREAT_ONE",
+        "Pely Vega",
         "ＴＯＫＡＹＯ",
         "AndreaAlejandra",
         "Marcy_SKRRR",
