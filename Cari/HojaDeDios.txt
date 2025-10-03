@@ -317,9 +317,7 @@ URL Ranks by DiscoPeligro.
         "GREAT_ONE",
         "Lord_Zonuax",
         "Aquiles_wolf",
-        "Naya3"
-    ],
-    "Partner": [
+        "Naya3",
         "ᴜѕᴀɢɪᴠʀ",
         "innari",
         "Shnapii",
