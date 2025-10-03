@@ -334,6 +334,9 @@ URL Ranks by DiscoPeligro.
         "Lord_Zonuax",
         "DoLaRnEiToR_15",
         "Soso 2020",
-        "John Wipe"
+        "John Wipe",
+        "Retrosnz",
+        "Chuki1",
+        "KittyKatLit"
     ]
 }
