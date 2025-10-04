@@ -330,7 +330,9 @@ URL Ranks by DiscoPeligro.
         "XxX_Alexa_XxX",
         "ｱﾑｱﾑｷ尺ﾉｲﾑ",
         "IvanOliD",
-        "sweetzeromx"
+        "sweetzeromx",
+        "ֆɦǟƈɦʏʏ",
+        "TioChapo~ෆ"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
