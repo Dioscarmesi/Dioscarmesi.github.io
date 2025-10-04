@@ -327,8 +327,8 @@ URL Ranks by DiscoPeligro.
         "Chuki1",
         "KittyKatLit",
         "XoX_Ashley_XoX",
-        "ｱﾑｱﾑｷ尺ﾉｲﾑ",
         "XxX_Alexa_XxX",
+        "ｱﾑｱﾑｷ尺ﾉｲﾑ",
         "IvanOliD",
         "sweetzeromx"
     ],
