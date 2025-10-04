@@ -327,7 +327,9 @@ URL Ranks by DiscoPeligro.
         "KittyKatLit",
         "XoX_Ashley_XoX",
         "ｱﾑｱﾑｷ尺ﾉｲﾑ",
-        "XxX_Alexa_XxX"
+        "XxX_Alexa_XxX",
+        "IvanOliD",
+        "sweetzeromx"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
