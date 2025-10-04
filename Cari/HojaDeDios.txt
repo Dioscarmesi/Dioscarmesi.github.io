@@ -326,10 +326,10 @@ URL Ranks by DiscoPeligro.
         "ｱﾑｱﾑｷ尺ﾉｲﾑ"
     ],
     "Partner": [
-        "Lord_Zonuax",
-        "DoLaRnEiToR_15",
-        "Soso 2020",
-        "John Wipe",
+        "ᴜѕᴀɢɪᴠʀ",
+        "innari",
+        "Shnapii",
+        "El_Chuy",
         "JokerStein",
         "Naim Ulloa",
         "Jensell1",
@@ -338,10 +338,10 @@ URL Ranks by DiscoPeligro.
         "SymphonyOwU",
         "FXSCAR",
         "XionWolf V",
-        "ᴜѕᴀɢɪᴠʀ",
-        "innari",
-        "Shnapii",
-        "El_Chuy",
-        "ShadowN01"
+        "ShadowN01",
+        "Lord_Zonuax",
+        "DoLaRnEiToR_15",
+        "Soso 2020",
+        "John Wipe"
     ]
 }
