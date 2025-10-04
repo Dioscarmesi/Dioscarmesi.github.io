@@ -91,9 +91,6 @@ URL Ranks by DiscoPeligro.
         "graygrace",
         "ƝƛƓȺ★ƑʘɌȾ"
     ],
-    "VipManager": [
-        "Sainthe"
-    ],
     "JokerCircus": [
         "JokerStein",
         "FXSCAR",
@@ -184,6 +181,12 @@ URL Ranks by DiscoPeligro.
     "Icon": [
         "Icοn4500",
         "karу"
+    ],
+    "Exclusive": [
+        "Sainthe"
+    ],
+    "VipManager": [
+        "Vacio456456546"
     ],
     "VIP": [
         "El_CADEJO_SV",
