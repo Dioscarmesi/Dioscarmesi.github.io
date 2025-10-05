@@ -335,7 +335,9 @@ URL Ranks by DiscoPeligro.
         "TioChapo~ෆ",
         "AlexitoPanda17",
         "shadow191",
-        "Owen88f"
+        "Owen88f",
+        "Gormi1",
+        "marco650726"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
