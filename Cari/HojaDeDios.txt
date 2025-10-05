@@ -332,7 +332,10 @@ URL Ranks by DiscoPeligro.
         "IvanOliD",
         "sweetzeromx",
         "ֆɦǟƈɦʏʏ",
-        "TioChapo~ෆ"
+        "TioChapo~ෆ",
+        "AlexitoPanda17",
+        "shadow191",
+        "Owen88f"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
