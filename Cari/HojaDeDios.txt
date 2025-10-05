@@ -183,11 +183,11 @@ URL Ranks by DiscoPeligro.
         "karу"
     ],
     "VipManager": [
-        "Vacio456456546",
-        "Sainthe"
+        "Vacio456456546"
     ],
     "Exclusive": [
-        "Vacio45678946789654687654"
+        "Vacio45678946789654687654",
+        "Sainthe"
     ],
     "VIP": [
         "El_CADEJO_SV",
