@@ -78,7 +78,7 @@ URL Ranks by DiscoPeligro.
         "c1geerzs",
         "Kevin GlezAnc",
         "IG XimenaGtz04",
-        "Japón〆"
+        "TAILINGXA"
     ],
     "Mod": [
         "Uni ウサギ",
