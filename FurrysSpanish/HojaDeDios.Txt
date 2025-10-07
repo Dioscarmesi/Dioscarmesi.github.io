@@ -39,9 +39,6 @@ URL Ranks by DiscoPeligro.
         "Andrömeda",
         "★Denki★",
         "WattsonNeko",
-        "Sainthe",
-        "Bollito_Sx",
-        "ヤミです",
         "stefanosuarez26",
         "nikomitogtu"
     ],
