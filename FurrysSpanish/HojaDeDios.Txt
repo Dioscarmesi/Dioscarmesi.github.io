@@ -73,6 +73,8 @@ URL Ranks by DiscoPeligro.
         "Sashi_Snowqueen",
         "HaruDesuvia",
         "Voicedbarley․",
-        "ShikkaArt"
+        "ShikkaArt",
+        "WindowX01",
+        "Wildcat_Jörg"
     ]
 }
