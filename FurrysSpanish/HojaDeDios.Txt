@@ -38,7 +38,9 @@ URL Ranks by DiscoPeligro.
         "★Denki★",
         "WattsonNeko",
         "stefanosuarez26",
-        "nikomitogtu"
+        "nikomitogtu",
+        "_Viscochin_",
+        "Roxytooty"
     ],
     "Partner": [
         "Hertzo",
