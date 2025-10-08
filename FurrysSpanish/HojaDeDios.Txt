@@ -27,6 +27,8 @@ URL Ranks by DiscoPeligro.
     ],
     "VIPFurrys": [
         "ＴＯＫＡＹＯ",
+        "ZeroNinetales",
+        "Bludrian",
         "megumin78",
         "Drech301",
         "ShadyBelca",
@@ -38,7 +40,9 @@ URL Ranks by DiscoPeligro.
         "stefanosuarez26",
         "nikomitogtu",
         "_Viscochin_",
-        "Roxytooty"
+        "Roxytooty",
+        "Achiu",
+        "aguadecate"
     ],
     "Partner": [
         "Hertzo",
