@@ -26,8 +26,6 @@ URL Ranks by DiscoPeligro.
         "Ｎͥｅͫａｔツ"
     ],
     "VIPFurrys": [
-        "GERMAN002",
-        "Jhonnystein",
         "ＴＯＫＡＹＯ",
         "megumin78",
         "Drech301",
