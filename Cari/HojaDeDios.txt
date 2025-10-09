@@ -177,7 +177,8 @@ URL Ranks by DiscoPeligro.
         "lShadou",
         "Diṧconnect",
         "Bollito_Sx",
-        "Ｔｈｅ Ａｄｏｒｋ"
+        "Ｔｈｅ Ａｄｏｒｋ",
+        "バツMakiバツ"
     ],
     "Icon": [
         "Icοn4500",
