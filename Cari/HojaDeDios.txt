@@ -336,7 +336,9 @@ URL Ranks by DiscoPeligro.
         "Owen88f",
         "Gormi1",
         "marco650726",
-        "777raq"
+        "777raq",
+        "Panconcalabaza",
+        "Painvoid"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
