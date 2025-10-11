@@ -177,7 +177,8 @@ URL Ranks by DiscoPeligro.
         "lShadou",
         "Diṧconnect",
         "Bollito_Sx",
-        "Ｔｈｅ Ａｄｏｒｋ"
+        "Ｔｈｅ Ａｄｏｒｋ",
+        "バツMakiバツ"
     ],
     "Icon": [
         "Icοn4500",
@@ -222,7 +223,6 @@ URL Ranks by DiscoPeligro.
         "Torta․Mp3",
         "ＢｌｏｓｓｏｍＣｈｉｙｕ",
         "_Viscochin_",
-        "Violet Himiko",
         "AlexitoPanda17",
         "SnikerssTV",
         "KazumiiVT",
@@ -300,9 +300,10 @@ URL Ranks by DiscoPeligro.
         "Rina_Grl",
         "cortis9",
         "ᴋɪᴅᴀ_ʟʏs22",
-        "Kevin GlezAnc",
-        "Dᴀʏɪ",
+        "ʚ˚․ғʟᴏᴡᴇʀ․˚ɞ",
+        "ʀʊʄʊʟ",
         "ikerreki231",
+        "Assassin_Girl",
         "Nene33",
         "༒~Z~༒",
         "ＰａｏｌｉｘＰＲ",
@@ -339,7 +340,9 @@ URL Ranks by DiscoPeligro.
         "Owen88f",
         "Gormi1",
         "marco650726",
-        "777raq"
+        "777raq",
+        "Panconcalabaza",
+        "Painvoid"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
