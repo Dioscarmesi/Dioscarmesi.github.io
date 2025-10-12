@@ -4,7 +4,7 @@
     "Name": "Big Buck Bunny",
     "Type": "Movie",
     "Description": "Corto animado open-source ideal para pruebas de video.",
-    "Url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "Url": "https://youtu.be/RwwN7DjOJaI?si=b1XI0mSUOj19ZN8T",
     "ReleaseDate": "2008-01-01",
     "AddedDate": "2008-01-01",
     "Atlas": "A",
@@ -18,7 +18,7 @@
     "Name": "Sintel",
     "Type": "Movie",
     "Description": "Aventura fantástica producida por la Fundación Blender.",
-    "Url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "Url": "https://youtu.be/RwwN7DjOJaI?si=b1XI0mSUOj19ZN8T",
     "ReleaseDate": "2010-01-01",
     "AddedDate": "2010-01-01",
     "Atlas": "A",
@@ -32,7 +32,7 @@
     "Name": "Tears of Steel",
     "Type": "Movie",
     "Description": "Corto sci-fi con actores reales y VFX, perfecto para stress-test.",
-    "Url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "Url": "https://youtu.be/RwwN7DjOJaI?si=b1XI0mSUOj19ZN8T",
     "ReleaseDate": "2012-01-01",
     "AddedDate": "2012-01-01",
     "Atlas": "A",
@@ -46,7 +46,7 @@
     "Name": "Elephants Dream",
     "Type": "Movie",
     "Description": "El primer corto open movie de Blender.",
-    "Url": "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4",
+    "Url": "https://youtu.be/RwwN7DjOJaI?si=b1XI0mSUOj19ZN8T",
     "ReleaseDate": "2006-01-01",
     "AddedDate": "2006-01-01",
     "Atlas": "A",
@@ -60,7 +60,7 @@
     "Name": "NASA: Journey Through the Heliosphere",
     "Type": "Movie",
     "Description": "Divulgación científica espacial para test educativos.",
-    "Url": "https://archive.org/download/NASAJourneyThroughTheHeliosphere/NASA_Journey_Through_the_Heliosphere_512kb.mp4",
+    "Url": "https://youtu.be/RwwN7DjOJaI?si=b1XI0mSUOj19ZN8T",
     "ReleaseDate": "2015-01-01",
     "AddedDate": "2015-01-01",
     "Atlas": "A",
@@ -74,7 +74,7 @@
     "Name": "Parkour City",
     "Type": "Movie",
     "Description": "Clip urbano con música para medir movimiento y bitrate.",
-    "Url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "Url": "https://youtu.be/RwwN7DjOJaI?si=b1XI0mSUOj19ZN8T",
     "ReleaseDate": "2019-01-01",
     "AddedDate": "2019-01-01",
     "Atlas": "A",
@@ -97,8 +97,8 @@
     "TileY": 0,
     "Genres": ["Reality", "Comedia"],
     "Episodes": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      "https://youtu.be/RwwN7DjOJaI?si=b1XI0mSUOj19ZN8T",
+      "https://youtu.be/RwwN7DjOJaI?si=b1XI0mSUOj19ZN8T"
     ],
     "PosterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
@@ -115,8 +115,8 @@
     "TileY": 0,
     "Genres": ["Fantasía", "Aventura"],
     "Episodes": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-      "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4"
+      "https://youtu.be/RwwN7DjOJaI?si=b1XI0mSUOj19ZN8T",
+      "https://youtu.be/RwwN7DjOJaI?si=b1XI0mSUOj19ZN8T"
     ],
     "PosterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
