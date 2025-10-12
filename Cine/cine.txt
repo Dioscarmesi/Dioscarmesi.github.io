@@ -8,8 +8,7 @@
     "contentType": "Movie",
     "year": 2008,
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 2,
@@ -20,8 +19,7 @@
     "contentType": "Movie",
     "year": 2010,
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 3,
@@ -32,8 +30,7 @@
     "contentType": "Movie",
     "year": 2012,
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 4,
@@ -44,8 +41,7 @@
     "contentType": "Movie",
     "year": 2006,
     "mediaUrl": "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 5,
@@ -56,8 +52,7 @@
     "contentType": "Movie",
     "year": 2015,
     "mediaUrl": "https://archive.org/download/NASAJourneyThroughTheHeliosphere/NASA_Journey_Through_the_Heliosphere_512kb.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 6,
@@ -68,8 +63,7 @@
     "contentType": "Movie",
     "year": 2019,
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 7,
@@ -80,8 +74,7 @@
     "contentType": "Series",
     "year": 2023,
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 8,
@@ -92,8 +85,7 @@
     "contentType": "Series",
     "year": 2023,
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 9,
@@ -104,8 +96,7 @@
     "contentType": "Series",
     "year": 2024,
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 10,
@@ -116,8 +107,7 @@
     "contentType": "Series",
     "year": 2024,
     "mediaUrl": "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 11,
@@ -128,8 +118,7 @@
     "contentType": "Movie",
     "year": 2021,
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 12,
@@ -140,8 +129,7 @@
     "contentType": "Movie",
     "year": 2020,
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 13,
@@ -152,8 +140,7 @@
     "contentType": "Movie",
     "year": 2018,
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 14,
@@ -164,8 +151,7 @@
     "contentType": "Movie",
     "year": 2022,
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 15,
@@ -176,8 +162,7 @@
     "contentType": "Movie",
     "year": 2016,
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   },
   {
     "id": 16,
@@ -188,7 +173,6 @@
     "contentType": "Series",
     "year": 2024,
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "posterUrl": "Dioscarmesi.github.io/FurrysSpanish
-/Vip1.png"
+    "posterUrl": "https://dioscarmesi.github.io/Cine/A.png"
   }
 ]
