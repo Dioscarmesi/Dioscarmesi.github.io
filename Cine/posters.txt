@@ -1,7 +1,7 @@
 {
   "images": [
-    { "name": "INCEPTION", "atlas": "A", "x": 2, "y": 3 },
-    { "name": "MATRIX",    "atlas": "A", "x": 4, "y": 1 },
-    { "name": "ALIEN",     "atlas": "B", "x": 0, "y": 5 }
+    { "atlas": "A", "url": "https://dioscarmesi.github.io/Cine/A.png" },
+    { "atlas": "B", "url": "https://dioscarmesi.github.io/Cine/B.png" },
+    { "atlas": "C", "url": "https://dioscarmesi.github.io/Cine/C.png" }
   ]
 }
