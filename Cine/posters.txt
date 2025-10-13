@@ -1,0 +1,7 @@
+{
+  "images": [
+    { "name": "INCEPTION", "atlas": "A", "x": 2, "y": 3 },
+    { "name": "MATRIX",    "atlas": "A", "x": 4, "y": 1 },
+    { "name": "ALIEN",     "atlas": "B", "x": 0, "y": 5 }
+  ]
+}
