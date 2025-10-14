@@ -330,7 +330,9 @@ URL Ranks by DiscoPeligro.
         "marco650726",
         "777raq",
         "Panconcalabaza",
-        "Painvoid"
+        "Painvoid",
+        "NiquinPRO",
+        "EstafiGamerMeta 21d6"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
