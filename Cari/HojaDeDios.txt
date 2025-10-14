@@ -311,6 +311,7 @@ URL Ranks by DiscoPeligro.
         "GERMAN002",
         "GREAT_ONE",
         "Lord_Zonuax",
+        "John Wipe",
         "Aquiles_wolf",
         "Retrosnz",
         "KittyKatLit",
