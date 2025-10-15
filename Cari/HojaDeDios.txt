@@ -338,7 +338,9 @@ URL Ranks by DiscoPeligro.
         "EstafiGamerMeta 21d6",
         "لØセ₳_M̶B̶",
         "CAROL_RM",
-        "Ｔｈｅ Ａｄｏｒｋ"
+        "Ｔｈｅ Ａｄｏｒｋ",
+        "berna mow",
+        "Ricanmami"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
