@@ -334,7 +334,8 @@ URL Ranks by DiscoPeligro.
         "Panconcalabaza",
         "Painvoid",
         "NiquinPRO",
-        "EstafiGamerMeta 21d6"
+        "EstafiGamerMeta 21d6",
+        "لØセ₳_M̶B̶"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
