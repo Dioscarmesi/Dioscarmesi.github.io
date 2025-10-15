@@ -335,7 +335,9 @@ URL Ranks by DiscoPeligro.
         "Painvoid",
         "NiquinPRO",
         "EstafiGamerMeta 21d6",
-        "لØセ₳_M̶B̶"
+        "لØセ₳_M̶B̶",
+        "CAROL_RM",
+        "Ｔｈｅ Ａｄｏｒｋ"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
