@@ -42,7 +42,8 @@ URL Ranks by DiscoPeligro.
         "Roxytooty",
         "Achiu",
         "aguadecate",
-        "Draconizs"
+        "Draconizs",
+        "Sniffy006"
     ],
     "Partner": [
         "Hertzo",
