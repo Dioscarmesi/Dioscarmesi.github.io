@@ -1,6 +1,6 @@
 URL Ranks by DiscoPeligro.
 {
-  "Co-Owner":["WolfDaver", "нσѕнι", "ikerreki231"],
+  "Co-Owner":["WolfDaver", "нσѕнι", "ikerreki231", "Yutaura", "Underharley"],
 	"Mod": ["Vacio"],
 	"DJ": ["Vacio"],
 	"Dancer": ["Vacio"],
