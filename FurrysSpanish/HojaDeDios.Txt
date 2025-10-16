@@ -7,15 +7,16 @@ URL Ranks by DiscoPeligro.
         "Alegnamon"
     ],
     "Mod": [
-        "N y x ღ",
-        "TerryArtica",
-        "Frezzco",
+        "★Denki★",
         "Strikkеrz",
         "GUILEAS",
         "ShadyBelca",
         "leitoxs",
         "mudoXqX",
-        "DenkiKitsune"
+        "DenkiKitsune",
+        "N y x ღ",
+        "TerryArtica",
+        "Frezzco"
     ],
     "DJ": [
         "VACIO"
