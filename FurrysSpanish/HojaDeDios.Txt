@@ -7,9 +7,7 @@ URL Ranks by DiscoPeligro.
         "Alegnamon"
     ],
     "Mod": [
-        "N y x ღ",
-        "TerryArtica",
-        "Frezzco",
+        "★Denki★",
         "Strikkеrz",
         "GUILEAS",
         "ShadyBelca",
@@ -45,7 +43,8 @@ URL Ranks by DiscoPeligro.
         "Achiu",
         "aguadecate",
         "Draconizs",
-        "Sniffy006"
+        "Sniffy006",
+        "lycheegoat"
     ],
     "Partner": [
         "Hertzo",
