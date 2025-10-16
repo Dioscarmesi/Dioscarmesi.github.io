@@ -48,7 +48,8 @@ URL Ranks by DiscoPeligro.
         "aguadecate",
         "Draconizs",
         "Sniffy006",
-        "lycheegoat"
+        "lycheegoat",
+        "Dante271"
     ],
     "Partner": [
         "Hertzo",
