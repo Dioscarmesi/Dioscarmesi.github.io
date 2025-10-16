@@ -340,7 +340,8 @@ URL Ranks by DiscoPeligro.
         "CAROL_RM",
         "Ｔｈｅ Ａｄｏｒｋ",
         "berna mow",
-        "Ricanmami"
+        "Ricanmami",
+        "Malenie"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
