@@ -199,6 +199,7 @@ URL Ranks by DiscoPeligro.
         "₩Arkangel₩",
         "༒YUWON༒",
         "ＴＯＫＡＹＯ",
+        "ヤミです",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "Houltler",
         "ChrissVencha",
@@ -229,6 +230,7 @@ URL Ranks by DiscoPeligro.
         "Pely Vega",
         "GREAT_ONE",
         "ＴＯＫＡＹＯ",
+        "ヤミです",
         "AndreaAlejandra",
         "Mr_Cris_Black",
         "Marcy_SKRRR",
@@ -245,7 +247,9 @@ URL Ranks by DiscoPeligro.
         "ヤミです",
         "ＴＯＫＡＹＯ",
         "ＴＯＫＡＹＯ",
+        "ヤミです",
         "ＴＯＫＡＹＯ",
+        "ヤミです",
         "Toki Wa Kita",
         "ღEquiღ",
         "༄ᴍᴀɴɢᴏღ",
@@ -340,7 +344,8 @@ URL Ranks by DiscoPeligro.
         "CAROL_RM",
         "Ｔｈｅ Ａｄｏｒｋ",
         "berna mow",
-        "Ricanmami"
+        "Ricanmami",
+        "Malenie"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
