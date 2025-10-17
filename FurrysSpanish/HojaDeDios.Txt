@@ -36,6 +36,8 @@ URL Ranks by DiscoPeligro.
         "Drech301",
         "ShadyBelca",
         "Sanssha",
+        "mudoXqX",
+        "Scp 956",
         "Mikunita",
         "Andrömeda",
         "★Denki★",
@@ -53,8 +55,7 @@ URL Ranks by DiscoPeligro.
         "Dante271",
         "BEETHOHIR0",
         "FRARJUPER25",
-        "Chorkijaime",
-        "LynceUwU"
+        "Chorkijaime"
     ],
     "Partner": [
         "Hertzo",
