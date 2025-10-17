@@ -345,7 +345,9 @@ URL Ranks by DiscoPeligro.
         "Ｔｈｅ Ａｄｏｒｋ",
         "berna mow",
         "Ricanmami",
-        "Malenie"
+        "Malenie",
+        "LaBurbuPR",
+        "Moonshiney7"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
