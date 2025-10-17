@@ -347,7 +347,9 @@ URL Ranks by DiscoPeligro.
         "Ricanmami",
         "Malenie",
         "LaBurbuPR",
-        "Moonshiney7"
+        "Moonshiney7",
+        "Elalcarazz",
+        "Layla256"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
