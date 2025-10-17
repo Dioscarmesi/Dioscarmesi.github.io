@@ -52,7 +52,9 @@ URL Ranks by DiscoPeligro.
         "lycheegoat",
         "Dante271",
         "BEETHOHIR0",
-        "FRARJUPER25"
+        "FRARJUPER25",
+        "Chorkijaime",
+        "LynceUwU"
     ],
     "Partner": [
         "Hertzo",
