@@ -83,6 +83,8 @@ URL Ranks by DiscoPeligro.
         "Voicedbarley․",
         "ShikkaArt",
         "WindowX01",
-        "Wildcat_Jörg"
+        "Wildcat_Jörg",
+        "aftpancakes",
+        "Joshy ˃̵ᴗ˂̵ ఌ"
     ]
 }
