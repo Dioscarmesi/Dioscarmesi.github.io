@@ -26,7 +26,6 @@ URL Ranks by DiscoPeligro.
         "GERMAN002",
         "GREAT_ONE",
         "KazumiiVT",
-        "El_jorge_?",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "SweetMochi0"
     ],
@@ -364,6 +363,7 @@ URL Ranks by DiscoPeligro.
         "FXSCAR",
         "XionWolf V",
         "ShadowN01",
+        "El_jorge_?",
         "Lord_Zonuax",
         "DoLaRnEiToR_15",
         "Soso 2020",
