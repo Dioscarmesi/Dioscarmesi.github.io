@@ -341,8 +341,8 @@ URL Ranks by DiscoPeligro.
         "CAROL_RM",
         "Ｔｈｅ Ａｄｏｒｋ",
         "berna mow",
-        "Ricanmami",
         "Malenie",
+        "Ricanmami",
         "LaBurbuPR",
         "Moonshiney7",
         "Elalcarazz",
@@ -367,6 +367,7 @@ URL Ranks by DiscoPeligro.
         "Lord_Zonuax",
         "DoLaRnEiToR_15",
         "Soso 2020",
-        "John Wipe"
+        "John Wipe",
+        "Karurus_Sღ"
     ]
 }
