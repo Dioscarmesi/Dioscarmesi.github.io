@@ -132,8 +132,7 @@ URL Ranks by DiscoPeligro.
         "raycrash",
         "ღEquiღ",
         "Seruly",
-        "D O V Ē",
-        "Shirou1711"
+        "D O V Ē"
     ],
     "Friends": [
         "NYADETH",
