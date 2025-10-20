@@ -266,8 +266,6 @@ URL Ranks by DiscoPeligro.
         "mrbb88",
         "KaosKynG",
         "YuuCaliente19°",
-        "WHBenja",
-        "aSeraku",
         "Sanssha",
         "El Ceron",
         "уυкιтα",
@@ -346,7 +344,8 @@ URL Ranks by DiscoPeligro.
         "Elalcarazz",
         "Layla256",
         "RooskerPein be64",
-        "xsmichel07x"
+        "xsmichel07x",
+        "MithZh"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
