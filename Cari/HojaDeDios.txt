@@ -99,7 +99,8 @@ URL Ranks by DiscoPeligro.
         "MochiiBunny737",
         "yamiyamero",
         "KirikuVT",
-        "Amurysse"
+        "Amurysse",
+        "RocketSaul"
     ],
     "DJ": [
         "aja"
