@@ -55,7 +55,8 @@ URL Ranks by DiscoPeligro.
         "Dante271",
         "BEETHOHIR0",
         "FRARJUPER25",
-        "Chorkijaime"
+        "Chorkijaime",
+        "elmfus"
     ],
     "Partner": [
         "Hertzo",
