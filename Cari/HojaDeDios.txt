@@ -83,9 +83,7 @@ URL Ranks by DiscoPeligro.
         "Uni ウサギ",
         "Strikkеrz",
         "Andrömeda",
-        "Dere Limon",
         "Mαятιи_MxVr",
-        "ParzivalOkazaki",
         "RohandrileVR",
         "graygrace",
         "ƝƛƓȺ★ƑʘɌȾ"
@@ -101,10 +99,11 @@ URL Ranks by DiscoPeligro.
         "MochiiBunny737",
         "yamiyamero",
         "KirikuVT",
-        "Amurysse"
+        "Amurysse",
+        "RocketSaul"
     ],
     "DJ": [
-        "Ryuk0"
+        "aja"
     ],
     "Bonice": [
         "Brandynauta",
@@ -133,8 +132,7 @@ URL Ranks by DiscoPeligro.
         "raycrash",
         "ღEquiღ",
         "Seruly",
-        "D O V Ē",
-        "Shirou1711"
+        "D O V Ē"
     ],
     "Friends": [
         "NYADETH",
@@ -268,8 +266,6 @@ URL Ranks by DiscoPeligro.
         "mrbb88",
         "KaosKynG",
         "YuuCaliente19°",
-        "WHBenja",
-        "aSeraku",
         "Sanssha",
         "El Ceron",
         "уυкιтα",
@@ -341,14 +337,17 @@ URL Ranks by DiscoPeligro.
         "CAROL_RM",
         "Ｔｈｅ Ａｄｏｒｋ",
         "berna mow",
-        "Ricanmami",
         "Malenie",
+        "Ricanmami",
         "LaBurbuPR",
         "Moonshiney7",
         "Elalcarazz",
         "Layla256",
         "RooskerPein be64",
-        "xsmichel07x"
+        "xsmichel07x",
+        "MithZh",
+        "AABBII",
+        "Nolan_Shot14"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
@@ -367,6 +366,7 @@ URL Ranks by DiscoPeligro.
         "Lord_Zonuax",
         "DoLaRnEiToR_15",
         "Soso 2020",
-        "John Wipe"
+        "John Wipe",
+        "Karurus_Sღ"
     ]
 }
