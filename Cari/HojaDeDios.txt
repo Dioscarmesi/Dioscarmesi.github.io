@@ -77,7 +77,8 @@ URL Ranks by DiscoPeligro.
         "c1geerzs",
         "Kevin GlezAnc",
         "IG XimenaGtz04",
-        "TAILINGXA"
+        "TAILINGXA",
+        "iTeo_zz"
     ],
     "Mod": [
         "Uni ウサギ",
@@ -249,9 +250,6 @@ URL Ranks by DiscoPeligro.
         "ღEquiღ",
         "༄ᴍᴀɴɢᴏღ",
         "ᴀᴜʀᴏʀᴀɞ",
-        "EnzoNova",
-        "Delsin RoweX",
-        "CindyMoon0",
         "CAROL_RM",
         "LaNubi23",
         "OhSaiko",
