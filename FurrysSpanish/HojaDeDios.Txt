@@ -33,8 +33,6 @@ URL Ranks by DiscoPeligro.
         "ZeroNinetales",
         "Bludrian",
         "megumin78",
-        "Drech301",
-        "ShadyBelca",
         "Sanssha",
         "mudoXqX",
         "Scp 956",
@@ -87,6 +85,8 @@ URL Ranks by DiscoPeligro.
         "Wild Shark Mako",
         "aftpancakes",
         "orixcx",
-        "Joshy ˃̵ᴗ˂̵ ఌ"
+        "astroshy19",
+        "Joshy ˃̵ᴗ˂̵ ఌ",
+        "El Mulo"
     ]
 }
