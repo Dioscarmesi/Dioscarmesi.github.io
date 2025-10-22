@@ -345,7 +345,9 @@ URL Ranks by DiscoPeligro.
         "xsmichel07x",
         "MithZh",
         "AABBII",
-        "Nolan_Shot14"
+        "Nolan_Shot14",
+        "AngelSq",
+        "MizuQwQ"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
