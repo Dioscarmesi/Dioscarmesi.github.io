@@ -186,7 +186,7 @@ URL Ranks by DiscoPeligro.
         "Vacio456456546"
     ],
     "Exclusive": [
-        "Vacio45678946789654687654",
+        "Vacio456789467896546876544",
         "Sainthe"
     ],
     "VIP": [
@@ -282,8 +282,6 @@ URL Ranks by DiscoPeligro.
         "capitan_uron",
         "galogb204",
         "BEETHOHIR0",
-        "GideonToffu",
-        "․Nugetsu",
         "Rina_Grl",
         "cortis9",
         "ᴋɪᴅᴀ_ʟʏs22",
