@@ -343,7 +343,9 @@ URL Ranks by DiscoPeligro.
         "AABBII",
         "Nolan_Shot14",
         "AngelSq",
-        "MizuQwQ"
+        "MizuQwQ",
+        "Violet Himiko",
+        "ᴵᵛᵃʳᵘᵛ"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
