@@ -248,8 +248,6 @@ URL Ranks by DiscoPeligro.
         "ヤミです",
         "Toki Wa Kita",
         "ღEquiღ",
-        "༄ᴍᴀɴɢᴏღ",
-        "ᴀᴜʀᴏʀᴀɞ",
         "CAROL_RM",
         "LaNubi23",
         "OhSaiko",
@@ -345,7 +343,9 @@ URL Ranks by DiscoPeligro.
         "AABBII",
         "Nolan_Shot14",
         "AngelSq",
-        "MizuQwQ"
+        "MizuQwQ",
+        "Violet Himiko",
+        "ᴵᵛᵃʳᵘᵛ"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
