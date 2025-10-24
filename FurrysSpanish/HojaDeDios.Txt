@@ -60,7 +60,7 @@ URL Ranks by DiscoPeligro.
     ],
     "Partner": [
         "Hertzo",
-        "KittyShark",
+        "KatStar",
         "Culan",
         "foxitouwu_",
         "Wolfsmash",
@@ -86,9 +86,8 @@ URL Ranks by DiscoPeligro.
         "Tattsu~",
         "Wild Shark Mako",
         "aftpancakes",
-        "orixcx",
-        "astroshy19",
         "Joshy ˃̵ᴗ˂̵ ఌ",
+        "orixcx",
         "El Mulo"
     ]
 }
