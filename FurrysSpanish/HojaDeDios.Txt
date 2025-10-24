@@ -56,7 +56,8 @@ URL Ranks by DiscoPeligro.
         "BEETHOHIR0",
         "FRARJUPER25",
         "Chorkijaime",
-        "elmfus"
+        "elmfus",
+        "Tackechy"
     ],
     "Partner": [
         "Hertzo",
