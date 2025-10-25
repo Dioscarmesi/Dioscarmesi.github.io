@@ -90,6 +90,11 @@ URL Ranks by DiscoPeligro.
         "aftpancakes",
         "Joshy ˃̵ᴗ˂̵ ఌ",
         "orixcx",
-        "El Mulo"
+        "El Mulo",
+        "elmfus",
+        "Lopxy Lenay",
+        "JulyC",
+        "lycheegoat",
+        "LightLArt"
     ]
 }
