@@ -26,7 +26,8 @@ URL Ranks by DiscoPeligro.
         "Shirou1711"
     ],
     "Friends": [
-        "バツMakiバツ"
+        "バツMakiバツ",
+        "『ϟsxϟ』ツ"
     ],
     "VIPFurrys": [
         "ＴＯＫＡＹＯ",
