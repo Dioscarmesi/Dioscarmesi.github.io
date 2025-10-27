@@ -7,7 +7,6 @@ URL Ranks by DiscoPeligro.
         "Alegnamon"
     ],
     "Mod": [
-        "★Denki★",
         "Strikkеrz",
         "GUILEAS",
         "ShadyBelca",
@@ -45,7 +44,7 @@ URL Ranks by DiscoPeligro.
         "★Denki★",
         "WattsonNeko",
         "stefanosuarez26",
-        "Phuro_X",
+        "Phuro 7d39",
         "_Viscochin_",
         "Roxytooty",
         "Achiu",
