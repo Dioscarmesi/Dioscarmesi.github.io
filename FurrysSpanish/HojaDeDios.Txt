@@ -41,8 +41,6 @@ URL Ranks by DiscoPeligro.
         "Scp 956",
         "Mikunita",
         "Andrömeda",
-        "★Denki★",
-        "WattsonNeko",
         "stefanosuarez26",
         "Phuro_X",
         "_Viscochin_",
@@ -57,6 +55,7 @@ URL Ranks by DiscoPeligro.
         "BEETHOHIR0",
         "FRARJUPER25",
         "Chorkijaime",
+        "LynceUwU",
         "elmfus",
         "Tackechy"
     ],
