@@ -344,7 +344,8 @@ URL Ranks by DiscoPeligro.
         "Violet Himiko",
         "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
-        "༒ Vᴇɴᴜs ༒"
+        "༒ Vᴇɴᴜs ༒",
+        "tes"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
