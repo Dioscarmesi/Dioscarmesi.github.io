@@ -233,7 +233,7 @@ URL Ranks by DiscoPeligro.
         "AG TrinalGore54",
         "inniedum",
         "konflakes_",
-        "'Sҽƚƚყ'",
+        "VEПDEƬƬΛ",
         "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
         "-Yggdrasil",
         "︶ M i t s u ︶",
@@ -344,8 +344,7 @@ URL Ranks by DiscoPeligro.
         "Violet Himiko",
         "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
-        "༒ Vᴇɴᴜs ༒",
-        "tes"
+        "༒ Vᴇɴᴜs ༒"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
