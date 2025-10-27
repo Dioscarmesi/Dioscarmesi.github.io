@@ -57,6 +57,7 @@ URL Ranks by DiscoPeligro.
         "BEETHOHIR0",
         "FRARJUPER25",
         "Chorkijaime",
+        "LynceUwU",
         "elmfus",
         "Tackechy"
     ],
