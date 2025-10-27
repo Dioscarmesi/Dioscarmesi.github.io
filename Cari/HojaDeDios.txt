@@ -342,7 +342,9 @@ URL Ranks by DiscoPeligro.
         "AngelSq",
         "MizuQwQ",
         "Violet Himiko",
-        "ᴵᵛᵃʳᵘᵛ"
+        "ᴵᵛᵃʳᵘᵛ",
+        "༒ Neptune ༒",
+        "༒ Vᴇɴᴜs ༒"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
