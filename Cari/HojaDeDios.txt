@@ -290,8 +290,6 @@ URL Ranks by DiscoPeligro.
         "Nuzossj",
         "tr0y4n0Ҳ",
         "S0mbrr4",
-        "Conejo_sexy",
-        "Taylia7781",
         "˚ʚ sᴛᴀʀ ɞ˚",
         "《《K¥LΞ54》》",
         "IG OnealGaming",
@@ -342,7 +340,8 @@ URL Ranks by DiscoPeligro.
         "Violet Himiko",
         "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
-        "༒ Vᴇɴᴜs ༒"
+        "༒ Vᴇɴᴜs ༒",
+        "ItsKing62"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
