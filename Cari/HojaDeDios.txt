@@ -345,8 +345,8 @@ URL Ranks by DiscoPeligro.
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
-        "Shnapii",
         "innari",
+        "Ｓｈｎａｐｉｉ",
         "JokerStein",
         "Naim Ulloa",
         "Jensell1",
