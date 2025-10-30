@@ -340,7 +340,9 @@ URL Ranks by DiscoPeligro.
         "༒ Vᴇɴᴜs ༒",
         "ItsKing62",
         "CindyMoon0",
-        "Vexiop"
+        "Vexiop",
+        "tr0y4n0Ҳ",
+        "Moonshiney7"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
