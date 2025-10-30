@@ -338,7 +338,9 @@ URL Ranks by DiscoPeligro.
         "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
         "༒ Vᴇɴᴜs ༒",
-        "ItsKing62"
+        "ItsKing62",
+        "CindyMoon0",
+        "Vexiop"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
