@@ -26,7 +26,6 @@ URL Ranks by DiscoPeligro.
         "GERMAN002",
         "GREAT_ONE",
         "KazumiiVT",
-        "El_jorge_?",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "SweetMochi0"
     ],
@@ -78,15 +77,14 @@ URL Ranks by DiscoPeligro.
         "c1geerzs",
         "Kevin GlezAnc",
         "IG XimenaGtz04",
-        "TAILINGXA"
+        "TAILINGXA",
+        "iTeo_zz"
     ],
     "Mod": [
         "Uni ウサギ",
         "Strikkеrz",
         "Andrömeda",
-        "Dere Limon",
         "Mαятιи_MxVr",
-        "ParzivalOkazaki",
         "RohandrileVR",
         "graygrace",
         "ƝƛƓȺ★ƑʘɌȾ"
@@ -99,13 +97,13 @@ URL Ranks by DiscoPeligro.
         "MokaPaut",
         "GreyGrace",
         "Naim Ulloa",
-        "MochiiBunny737",
         "yamiyamero",
         "KirikuVT",
-        "Amurysse"
+        "Amurysse",
+        "RocketSaul"
     ],
     "DJ": [
-        "Ryuk0"
+        "aja"
     ],
     "Bonice": [
         "Brandynauta",
@@ -134,8 +132,7 @@ URL Ranks by DiscoPeligro.
         "raycrash",
         "ღEquiღ",
         "Seruly",
-        "D O V Ē",
-        "Shirou1711"
+        "D O V Ē"
     ],
     "Friends": [
         "NYADETH",
@@ -171,7 +168,6 @@ URL Ranks by DiscoPeligro.
         "ContinuumChaos",
         "969King",
         "-Tai",
-        "angela_dream_",
         "DarkCrim",
         "༒ MAGO ༒",
         "lShadou",
@@ -188,7 +184,7 @@ URL Ranks by DiscoPeligro.
         "Vacio456456546"
     ],
     "Exclusive": [
-        "Vacio45678946789654687654",
+        "Vacio456789467896546876544",
         "Sainthe"
     ],
     "VIP": [
@@ -220,8 +216,6 @@ URL Ranks by DiscoPeligro.
         "Torta․Mp3",
         "ＢｌｏｓｓｏｍＣｈｉｙｕ",
         "_Viscochin_",
-        "AlexitoPanda17",
-        "SnikerssTV",
         "KazumiiVT",
         "naelvl3",
         "ilimusa",
@@ -236,12 +230,8 @@ URL Ranks by DiscoPeligro.
         "Marcy_SKRRR",
         "AG TrinalGore54",
         "inniedum",
-        "TheDoctorSnake",
-        "aperta",
-        "Littlebunnyy19",
         "konflakes_",
-        "'Sҽƚƚყ'",
-        "ᴛʜᴇᴅᴇᴠɪʟ®",
+        "VEПDEƬƬΛ",
         "-Yggdrasil",
         "︶ M i t s u ︶",
         "ヤミです",
@@ -252,11 +242,6 @@ URL Ranks by DiscoPeligro.
         "ヤミです",
         "Toki Wa Kita",
         "ღEquiღ",
-        "༄ᴍᴀɴɢᴏღ",
-        "ᴀᴜʀᴏʀᴀɞ",
-        "EnzoNova",
-        "Delsin RoweX",
-        "CindyMoon0",
         "CAROL_RM",
         "LaNubi23",
         "OhSaiko",
@@ -271,8 +256,6 @@ URL Ranks by DiscoPeligro.
         "mrbb88",
         "KaosKynG",
         "YuuCaliente19°",
-        "WHBenja",
-        "aSeraku",
         "Sanssha",
         "El Ceron",
         "уυкιтα",
@@ -291,13 +274,11 @@ URL Ranks by DiscoPeligro.
         "capitan_uron",
         "galogb204",
         "BEETHOHIR0",
-        "GideonToffu",
-        "․Nugetsu",
         "Rina_Grl",
         "cortis9",
         "ᴋɪᴅᴀ_ʟʏs22",
-        "ʚ˚․ғʟᴏᴡᴇʀ․˚ɞ",
         "ʀʊʄʊʟ",
+        "ʚ˚․ғʟᴏᴡᴇʀ․˚ɞ",
         "ikerreki231",
         "Assassin_Girl",
         "Nene33",
@@ -308,18 +289,14 @@ URL Ranks by DiscoPeligro.
         "Nuzossj",
         "tr0y4n0Ҳ",
         "S0mbrr4",
-        "Conejo_sexy",
-        "Taylia7781",
         "˚ʚ sᴛᴀʀ ɞ˚",
         "《《K¥LΞ54》》",
-        "IG OnealGaming",
-        "NovaZayn",
         "GERMAN002",
         "GREAT_ONE",
         "Lord_Zonuax",
         "John Wipe",
         "Aquiles_wolf",
-        "Vexiop",
+        "cʜᴏcᴏ",
         "Retrosnz",
         "Chuki1",
         "KittyKatLit",
@@ -344,18 +321,29 @@ URL Ranks by DiscoPeligro.
         "CAROL_RM",
         "Ｔｈｅ Ａｄｏｒｋ",
         "berna mow",
-        "Ricanmami",
         "Malenie",
+        "Ricanmami",
         "LaBurbuPR",
-        "Moonshiney7",
+        "Sxxomar",
         "Elalcarazz",
-        "Layla256"
+        "Layla256",
+        "RooskerPein be64",
+        "xsmichel07x",
+        "MithZh",
+        "AABBII",
+        "Nolan_Shot14",
+        "AngelSq",
+        "MizuQwQ",
+        "Violet Himiko",
+        "ᴵᵛᵃʳᵘᵛ",
+        "༒ Neptune ༒",
+        "༒ Vᴇɴᴜs ༒",
+        "ItsKing62"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
         "innari",
-        "Shnapii",
-        "El_Chuy",
+        "Ｓｈｎａｐｉｉ",
         "JokerStein",
         "Naim Ulloa",
         "Jensell1",
@@ -365,9 +353,12 @@ URL Ranks by DiscoPeligro.
         "FXSCAR",
         "XionWolf V",
         "ShadowN01",
+        "Nelson_KAELA",
+        "El_jorge_?",
         "Lord_Zonuax",
         "DoLaRnEiToR_15",
         "Soso 2020",
-        "John Wipe"
+        "John Wipe",
+        "Karurus_Sღ"
     ]
 }

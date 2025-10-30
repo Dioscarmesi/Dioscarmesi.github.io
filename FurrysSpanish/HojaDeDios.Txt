@@ -7,7 +7,6 @@ URL Ranks by DiscoPeligro.
         "Alegnamon"
     ],
     "Mod": [
-        "★Denki★",
         "Strikkеrz",
         "GUILEAS",
         "ShadyBelca",
@@ -26,22 +25,24 @@ URL Ranks by DiscoPeligro.
         "Shirou1711"
     ],
     "Friends": [
-        "Ｎͥｅͫａｔツ"
+        "バツMakiバツ",
+        "『ϟsxϟ』ツ"
     ],
     "VIPFurrys": [
         "ＴＯＫＡＹＯ",
         "ZeroNinetales",
         "Bludrian",
-        "megumin78",
+        "N y x ღ",
+        "SilverFenris",
         "Drech301",
         "ShadyBelca",
         "Sanssha",
+        "mudoXqX",
+        "Scp 956",
         "Mikunita",
         "Andrömeda",
-        "★Denki★",
-        "WattsonNeko",
         "stefanosuarez26",
-        "Phuro 7d39",
+        "Phuro_X",
         "_Viscochin_",
         "Roxytooty",
         "Achiu",
@@ -52,23 +53,26 @@ URL Ranks by DiscoPeligro.
         "lycheegoat",
         "Dante271",
         "BEETHOHIR0",
-        "FRARJUPER25"
+        "FRARJUPER25",
+        "Chorkijaime",
+        "LynceUwU",
+        "elmfus",
+        "Tackechy"
     ],
     "Partner": [
         "Hertzo",
-        "KittyShark",
+        "KatStar",
         "Culan",
         "foxitouwu_",
         "Wolfsmash",
         "senkosanvt",
         "VickyNC139",
-        "Pois0n_gh0stt",
+        "_shad0ww",
         "Riverkarma",
         "LoNdA1",
-        "BEETHOHIR0",
         "ᴜѕᴀɢɪᴠʀ",
         "innari",
-        "El_Chuy",
+        "Ｓｈｎａｐｉｉ",
         "lostkookie",
         "LuviR",
         "kissed_kookie",
@@ -80,6 +84,16 @@ URL Ranks by DiscoPeligro.
         "Voicedbarley․",
         "ShikkaArt",
         "WindowX01",
-        "Wildcat_Jörg"
+        "Tattsu~",
+        "Wild Shark Mako",
+        "aftpancakes",
+        "Joshy ˃̵ᴗ˂̵ ఌ",
+        "orixcx",
+        "El Mulo",
+        "elmfus",
+        "Lopxy Lenay",
+        "JulyC",
+        "lycheegoat",
+        "LightLArt"
     ]
 }
