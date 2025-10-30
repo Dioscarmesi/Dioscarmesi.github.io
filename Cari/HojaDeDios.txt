@@ -174,7 +174,8 @@ URL Ranks by DiscoPeligro.
         "Diṧconnect",
         "Bollito_Sx",
         "Ｔｈｅ Ａｄｏｒｋ",
-        "バツMakiバツ"
+        "バツMakiバツ",
+        "｢Demonic｣"
     ],
     "Icon": [
         "Icοn4500",
