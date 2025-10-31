@@ -27,7 +27,8 @@ URL Ranks by DiscoPeligro.
         "GREAT_ONE",
         "KazumiiVT",
         "༒d̷a̷r̷i̷1̷8̷༒",
-        "SweetMochi0"
+        "SweetMochi0",
+        "naelvl3"
     ],
     "Admin": [
         "NosticChop"
