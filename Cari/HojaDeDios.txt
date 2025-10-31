@@ -1,7 +1,8 @@
 URL Ranks by DiscoPeligro.
 {
     "Co-Owner": [
-        "ღItzAkaneღ"
+        "ღItzAkaneღ",
+        "Sainthe"
     ],
     "NoviaIcon": [
         "Dulcecоmocandy"
@@ -27,7 +28,8 @@ URL Ranks by DiscoPeligro.
         "GREAT_ONE",
         "KazumiiVT",
         "༒d̷a̷r̷i̷1̷8̷༒",
-        "SweetMochi0"
+        "SweetMochi0",
+        "naelvl3"
     ],
     "Admin": [
         "NosticChop"
@@ -97,7 +99,6 @@ URL Ranks by DiscoPeligro.
         "MokaPaut",
         "GreyGrace",
         "Naim Ulloa",
-        "MochiiBunny737",
         "yamiyamero",
         "KirikuVT",
         "Amurysse",
@@ -175,7 +176,8 @@ URL Ranks by DiscoPeligro.
         "Diṧconnect",
         "Bollito_Sx",
         "Ｔｈｅ Ａｄｏｒｋ",
-        "バツMakiバツ"
+        "バツMakiバツ",
+        "｢Demonic｣"
     ],
     "Icon": [
         "Icοn4500",
@@ -185,8 +187,7 @@ URL Ranks by DiscoPeligro.
         "Vacio456456546"
     ],
     "Exclusive": [
-        "Vacio456789467896546876544",
-        "Sainthe"
+        "Vacio456789467896546876544"
     ],
     "VIP": [
         "El_CADEJO_SV",
@@ -196,7 +197,7 @@ URL Ranks by DiscoPeligro.
         "₩Arkangel₩",
         "༒YUWON༒",
         "ＴＯＫＡＹＯ",
-        "ヤミです",
+        "ო Y A M I ო",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "Houltler",
         "ChrissVencha",
@@ -210,8 +211,8 @@ URL Ranks by DiscoPeligro.
         "Dan_Meza",
         "TakoMura",
         "Diegomex 8f11",
-        "¿ᴘʜᴏɴᴇ - sᴇx?",
         "CopycatPortal",
+        "¿ᴘʜᴏɴᴇ - sᴇx?",
         "DEVILZOO_",
         "Bunny_Clownie",
         "Torta․Mp3",
@@ -225,22 +226,19 @@ URL Ranks by DiscoPeligro.
         "Pely Vega",
         "GREAT_ONE",
         "ＴＯＫＡＹＯ",
-        "ヤミです",
-        "AndreaAlejandra",
-        "Mr_Cris_Black",
-        "Marcy_SKRRR",
+        "ო Y A M I ო",
         "AG TrinalGore54",
         "inniedum",
         "konflakes_",
         "VEПDEƬƬΛ",
         "-Yggdrasil",
         "︶ M i t s u ︶",
-        "ヤミです",
+        "ო Y A M I ო",
         "ＴＯＫＡＹＯ",
         "ＴＯＫＡＹＯ",
-        "ヤミです",
+        "ო Y A M I ო",
         "ＴＯＫＡＹＯ",
-        "ヤミです",
+        "ო Y A M I ო",
         "Toki Wa Kita",
         "ღEquiღ",
         "CAROL_RM",
@@ -270,11 +268,10 @@ URL Ranks by DiscoPeligro.
         "༒M̴o̴c̴h̴i̴༒",
         "༒I̴s̴h̴~0̴0̴7̴༒",
         "PHOENIX2221",
-        "༒ღNuggetღ༒",
+        "ღ̴N̴u̴g̴g̴e̴t̴ღ",
         "MoonSerein",
         "capitan_uron",
         "galogb204",
-        "BEETHOHIR0",
         "Rina_Grl",
         "cortis9",
         "ᴋɪᴅᴀ_ʟʏs22",
@@ -292,8 +289,6 @@ URL Ranks by DiscoPeligro.
         "S0mbrr4",
         "˚ʚ sᴛᴀʀ ɞ˚",
         "《《K¥LΞ54》》",
-        "IG OnealGaming",
-        "NovaZayn",
         "GERMAN002",
         "GREAT_ONE",
         "Lord_Zonuax",
@@ -327,7 +322,7 @@ URL Ranks by DiscoPeligro.
         "Malenie",
         "Ricanmami",
         "LaBurbuPR",
-        "Sxxomar",
+        "CindyMoon0",
         "Elalcarazz",
         "Layla256",
         "RooskerPein be64",
@@ -341,12 +336,16 @@ URL Ranks by DiscoPeligro.
         "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
         "༒ Vᴇɴᴜs ༒",
-        "ItsKing62"
+        "ItsKing62",
+        "CindyMoon0",
+        "Vexiop",
+        "tr0y4n0Ҳ",
+        "Moonshiney7"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
-        "Shnapii",
         "innari",
+        "Ｓｈｎａｐｉｉ",
         "JokerStein",
         "Naim Ulloa",
         "Jensell1",
