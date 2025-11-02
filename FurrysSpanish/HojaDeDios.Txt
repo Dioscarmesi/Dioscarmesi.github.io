@@ -70,7 +70,9 @@ URL Ranks by DiscoPeligro.
         "Chorkijaime",
         "LynceUwU",
         "elmfus",
-        "Tackechy"
+        "Tackechy",
+        "Lopxy Lenay",
+        "elmfus"
     ],
     "Partner": [
         "Hertzo",
