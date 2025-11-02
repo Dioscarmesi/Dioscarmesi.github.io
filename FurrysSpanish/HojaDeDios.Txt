@@ -13,9 +13,9 @@ URL Ranks by DiscoPeligro.
         "DenkiKitsune",
         "N y x ღ",
         "TerryArtica",
-        "Strikkеrz",
+        "Frezzco",
         "GUILEAS",
-        "Frezzco"
+        "Strikkеrz"
     ],
     "DJ": [
         "VACIO"
@@ -29,8 +29,8 @@ URL Ranks by DiscoPeligro.
         "『ϟsxϟ』ツ"
     ],
     "JefeDeSeguridad": [
-        "1",
-        "2"
+        "Strikkеrz",
+        "GUILEAS"
     ],
     "Entity": [
         "Nath Kohai",
