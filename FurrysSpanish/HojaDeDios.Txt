@@ -6,13 +6,7 @@ URL Ranks by DiscoPeligro.
     "Angelika": [
         "Alegnamon"
     ],
-    "JefeDeSeguridad":[
-        "Strikkеrz",
-        "GUILEAS"
-    ],
     "Mod": [
-        "Strikkеrz",
-        "GUILEAS",
         "ShadyBelca",
         "leitoxs",
         "mudoXqX",
@@ -31,6 +25,10 @@ URL Ranks by DiscoPeligro.
     "Friends": [
         "バツMakiバツ",
         "『ϟsxϟ』ツ"
+    ],
+    "JefeDeSeguridad": [
+        "Strikkеrz",
+        "GUILEAS"
     ],
     "Entity": [
         "Nath Kohai",
