@@ -24,16 +24,7 @@ URL Ranks by DiscoPeligro.
     ],
     "Friends": [
         "バツMakiバツ",
-        "『ϟsxϟ』ツ",
-        "Nath Kohai",
-        "Nyxphiel",
-        "Miizuho-",
-        "Chaos Spectrum",
-        "MotherAsmodeus",
-        "нσѕнι",
-        "WolfDaver",
-        "S K Ÿ E",
-        "VaKass"
+        "『ϟsxϟ』ツ"
     ],
     "JefeDeSeguridad": [
         "Strikkеrz",
