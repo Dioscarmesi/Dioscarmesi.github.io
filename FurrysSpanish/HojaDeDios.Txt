@@ -13,7 +13,9 @@ URL Ranks by DiscoPeligro.
         "DenkiKitsune",
         "N y x ღ",
         "TerryArtica",
-        "Frezzco"
+        "Frezzco",
+        "GUILEAS",
+        "Strikkеrz"
     ],
     "DJ": [
         "VACIO"
