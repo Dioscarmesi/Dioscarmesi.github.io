@@ -109,6 +109,7 @@ URL Ranks by DiscoPeligro.
         "Lopxy Lenay",
         "JulyC",
         "lycheegoat",
-        "LightLArt"
+        "LightLArt",
+        "BEETHOHIR0"
     ]
 }
