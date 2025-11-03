@@ -177,7 +177,8 @@ URL Ranks by DiscoPeligro.
         "Bollito_Sx",
         "Ｔｈｅ Ａｄｏｒｋ",
         "バツMakiバツ",
-        "｢Demonic｣"
+        "｢Demonic｣",
+        "BEETHOHIR0"
     ],
     "Icon": [
         "Icοn4500",
@@ -235,8 +236,6 @@ URL Ranks by DiscoPeligro.
         "VEПDEƬƬΛ",
         "-Yggdrasil",
         "︶ M i t s u ︶",
-        "ო Y A M I ო",
-        "ＴＯＫＡＹＯ",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
         "ＴＯＫＡＹＯ",
@@ -273,6 +272,7 @@ URL Ranks by DiscoPeligro.
         "MoonSerein",
         "capitan_uron",
         "galogb204",
+        "BEETHOHIR0",
         "Rina_Grl",
         "cortis9",
         "ᴋɪᴅᴀ_ʟʏs22",
