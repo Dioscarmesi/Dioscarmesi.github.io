@@ -1,110 +1,111 @@
 URL Ranks by DiscoPeligro.
 {
-  "VipManager": [
-    "Andrömeda"
-  ],
-  "Angelika": [
-    "Alegnamon"
-  ],
-  "Mod": [
-    "ShadyBelca",
-    "leitoxs",
-    "mudoXqX",
-    "DenkiKitsune",
-    "N y x ღ",
-    "TerryArtica",
-    "Frezzco",
-    "GUILEAS",
-    "Strikkеrz"
-  ],
-  "DJ": [],
-  "Guest Dancer": [
-    "RensellaVT",
-    "Shirou1711"
-  ],
-  "Friends": [
-    "バツMakiバツ",
-    "『ϟsxϟ』ツ"
-  ],
-  "JefeDeSeguridad": [
-    "Strikkеrz",
-    "GUILEAS"
-  ],
-  "Entity": [
-    "Nath Kohai",
-    "Nyxphiel",
-    "Miizuho-",
-    "Chaos Spectrum",
-    "MotherAsmodeus",
-    "нσѕнι",
-    "WolfDaver",
-    "S K Ÿ E",
-    "VaKass"
-  ],
-  "VIPFurrys": [
-    "ＴＯＫＡＹＯ",
-    "ZeroNinetales",
-    "Bludrian",
-    "N y x ღ",
-    "SilverFenris",
-    "Sainthe",
-    "Drech301",
-    "ShadyBelca",
-    "Sanssha",
-    "mudoXqX",
-    "Scp 956",
-    "Mikunita",
-    "Andrömeda",
-    "stefanosuarez26",
-    "Phuro_X",
-    "_Viscochin_",
-    "Roxytooty",
-    "Achiu",
-    "aguadecate",
-    "Draconizs",
-    "Sniffy006",
-    "Diernaa",
-    "lycheegoat",
-    "Dante271",
-    "BEETHOHIR0",
-    "FRARJUPER25",
-    "Chorkijaime",
-    "LynceUwU",
-    "elmfus",
-    "Tackechy",
-    "Lopxy Lenay"
-  ],
-  "Partner": [
-    "Hertzo",
-    "KatStar",
-    "Culan",
-    "foxitouwu_",
-    "Wolfsmash",
-    "senkosanvt",
-    "_shad0ww",
-    "VickyNC139",
-    "LoNdA1",
-    "Riverkarma",
-    "ᴜѕᴀɢɪᴠʀ",
-    "innari",
-    "Ｓｈｎａｐｉｉ",
-    "lostkookie",
-    "LuviR",
-    "kissed_kookie",
-    "SebaMc",
-    "Richard_HM",
-    "WindowX01",
-    "Tattsu~",
-    "Wild Shark Mako",
-    "aftpancakes",
-    "Joshy ˃̵ᴗ˂̵ ఌ",
-    "orixcx",
-    "El Mulo",
-    "elmfus",
-    "Lopxy Lenay",
-    "JulyC",
-    "lycheegoat",
-    "LightLArt",
-    "BEETHOHIR0"
-  ]
+    "VipManager": [
+        "Andrömeda"
+    ],
+    "Angelika": [
+        "Alegnamon"
+    ],
+    "Mod": [
+        "ShadyBelca",
+        "leitoxs",
+        "mudoXqX",
+        "DenkiKitsune",
+        "N y x ღ",
+        "TerryArtica",
+        "Frezzco",
+        "GUILEAS",
+        "Strikkеrz"
+    ],
+    "DJ": [
+        "VACIO"
+    ],
+    "Guest Dancer": [
+        "RensellaVT",
+        "Shirou1711"
+    ],
+    "Friends": [
+        "バツMakiバツ",
+        "『ϟsxϟ』ツ"
+    ],
+    "JefeDeSeguridad": [
+        "Strikkеrz",
+        "GUILEAS"
+    ],
+    "Entity": [
+        "Nath Kohai",
+        "Nyxphiel",
+        "Miizuho-",
+        "Chaos Spectrum",
+        "MotherAsmodeus",
+        "нσѕнι",
+        "WolfDaver",
+        "S K Ÿ E",
+        "VaKass"
+    ],
+    "VIPFurrys": [
+        "ＴＯＫＡＹＯ",
+        "ZeroNinetales",
+        "Bludrian",
+        "N y x ღ",
+        "SilverFenris",
+        "Drech301",
+        "ShadyBelca",
+        "Sanssha",
+        "mudoXqX",
+        "Scp 956",
+        "Mikunita",
+        "Andrömeda",
+        "_Viscochin_",
+        "Roxytooty",
+        "Achiu",
+        "aguadecate",
+        "Draconizs",
+        "Sniffy006",
+        "Diernaa",
+        "lycheegoat",
+        "Dante271",
+        "BEETHOHIR0",
+        "FRARJUPER25",
+        "Chorkijaime",
+        "LynceUwU",
+        "elmfus",
+        "Tackechy",
+        "Lopxy Lenay",
+        "elmfus",
+        "Celeno"
+    ],
+    "Partner": [
+        "Hertzo",
+        "KatStar",
+        "Culan",
+        "foxitouwu_",
+        "Wolfsmash",
+        "senkosanvt",
+        "_shad0ww",
+        "VickyNC139",
+        "LoNdA1",
+        "Riverkarma",
+        "ᴜѕᴀɢɪᴠʀ",
+        "innari",
+        "Ｓｈｎａｐｉｉ",
+        "lostkookie",
+        "LuviR",
+        "kissed_kookie",
+        "SebaMc",
+        "Richard_HM",
+        "WindowX01",
+        "Tattsu~",
+        "Wild Shark Mako",
+        "aftpancakes",
+        "Joshy ˃̵ᴗ˂̵ ఌ",
+        "orixcx",
+        "El Mulo",
+        "elmfus",
+        "Lopxy Lenay",
+        "JulyC",
+        "lycheegoat",
+        "LightLArt",
+        "BEETHOHIR0"
+    ]
 }
