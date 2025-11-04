@@ -77,10 +77,10 @@ URL Ranks by DiscoPeligro.
     ],
     "Partner": [
         "Hertzo",
-        "KatStar",
-        "Culan",
-        "foxitouwu_",
         "Wolfsmash",
+        "Culan",
+        "KatStar",
+        "foxitouwu_",
         "senkosanvt",
         "_shad0ww",
         "VickyNC139",
