@@ -106,6 +106,8 @@ URL Ranks by DiscoPeligro.
         "JulyC",
         "lycheegoat",
         "LightLArt",
-        "BEETHOHIR0"
+        "BEETHOHIR0",
+        "Noélys",
+        "amanoku1"
     ]
 }
