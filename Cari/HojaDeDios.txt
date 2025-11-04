@@ -360,9 +360,10 @@ URL Ranks by DiscoPeligro.
         "El_jorge_?",
         "Nelson_KAELA",
         "Lord_Zonuax",
-        "DoLaRnEiToR_15",
         "Soso 2020",
         "John Wipe",
+        "Prototipo0121",
+        "DoLaRnEiToR_15",
         "Karurus_Sღ"
     ]
 }
