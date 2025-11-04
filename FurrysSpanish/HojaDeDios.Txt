@@ -56,8 +56,6 @@ URL Ranks by DiscoPeligro.
         "Scp 956",
         "Mikunita",
         "Andrömeda",
-        "stefanosuarez26",
-        "Phuro_X",
         "_Viscochin_",
         "Roxytooty",
         "Achiu",
@@ -74,7 +72,8 @@ URL Ranks by DiscoPeligro.
         "elmfus",
         "Tackechy",
         "Lopxy Lenay",
-        "elmfus"
+        "elmfus",
+        "Celeno"
     ],
     "Partner": [
         "Hertzo",
