@@ -295,14 +295,9 @@ URL Ranks by DiscoPeligro.
         "John Wipe",
         "Aquiles_wolf",
         "cʜᴏcᴏ",
-        "Retrosnz",
-        "Chuki1",
-        "KittyKatLit",
         "XoX_Ashley_XoX",
         "ｱﾑｱﾑｷ尺ﾉｲﾑ",
         "XxX_Alexa_XxX",
-        "IvanOliD",
-        "sweetzeromx",
         "ֆɦǟƈɦʏʏ",
         "TioChapo~ෆ",
         "AlexitoPanda17",
@@ -342,7 +337,8 @@ URL Ranks by DiscoPeligro.
         "tr0y4n0Ҳ",
         "Moonshiney7",
         "Karel_1507",
-        "ayubken7"
+        "ayubken7",
+        "ZeroPositivo"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
