@@ -104,9 +104,6 @@ URL Ranks by DiscoPeligro.
         "Amurysse",
         "RocketSaul"
     ],
-    "DJ": [
-        "aja"
-    ],
     "Bonice": [
         "Brandynauta",
         "Cuervito_",
@@ -185,12 +182,6 @@ URL Ranks by DiscoPeligro.
         "Icοn4500",
         "karу"
     ],
-    "VipManager": [
-        "Vacio456456546"
-    ],
-    "Exclusive": [
-        "Vacio456789467896546876544"
-    ],
     "VIP": [
         "El_CADEJO_SV",
         "ShadowN01",
@@ -208,6 +199,7 @@ URL Ranks by DiscoPeligro.
         "Luismi92",
         "Vaininya",
         "cherrypoison69",
+        "Tamamo Yuki",
         "Dan_Meza",
         "TakoMura",
         "SugarLoliUwU",
@@ -236,6 +228,7 @@ URL Ranks by DiscoPeligro.
         "AG TrinalGore54",
         "inniedum",
         "konflakes_",
+        "VEПDEƬƬΛ",
         "-Yggdrasil",
         "︶ M i t s u ︶",
         "ＴＯＫＡＹＯ",
@@ -256,6 +249,7 @@ URL Ranks by DiscoPeligro.
         "Alliebearcx",
         "SeleNix",
         "mrbb88",
+        "Sanssha",
         "El Ceron",
         "уυкιтα",
         "༒N̷A̷N̷O̷༒",
@@ -274,6 +268,9 @@ URL Ranks by DiscoPeligro.
         "BEETHOHIR0",
         "Rina_Grl",
         "cortis9",
+        "ᴋɪᴅᴀ_ʟʏs22",
+        "ʀʊʄʊʟ",
+        "ʚ˚․ғʟᴏᴡᴇʀ․˚ɞ",
         "Nene33",
         "KattzeKatt",
         "Xexuuu",
@@ -300,6 +297,9 @@ URL Ranks by DiscoPeligro.
         "XxX_Alexa_XxX",
         "IvanOliD",
         "sweetzeromx",
+        "ֆɦǟƈɦʏʏ",
+        "TioChapo~ෆ",
+        "777raq",
         "Panconcalabaza",
         "Painvoid",
         "NiquinPRO",
