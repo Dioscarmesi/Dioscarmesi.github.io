@@ -74,7 +74,9 @@ URL Ranks by DiscoPeligro.
         "Lopxy Lenay",
         "elmfus",
         "Celeno",
-        "ikerreki231"
+        "ikerreki231",
+        "IlM4X",
+        "wolfdenz"
     ],
     "Partner": [
         "Hertzo",
