@@ -111,8 +111,7 @@ URL Ranks by DiscoPeligro.
     ],
     "DancerCapitan": [
         "KatheKatt",
-        "ღItzAkaneღ",
-        "Ｅｕｐｈｏｒｉｉａ"
+        "ღItzAkaneღ"
     ],
     "DancerCari": [
         "_Viscochin_",
