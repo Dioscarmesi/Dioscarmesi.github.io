@@ -111,7 +111,8 @@ URL Ranks by DiscoPeligro.
     ],
     "DancerCapitan": [
         "KatheKatt",
-        "ღItzAkaneღ"
+        "ღItzAkaneღ",
+        "Ｅｕｐｈｏｒｉｉａ"
     ],
     "DancerCari": [
         "_Viscochin_",
@@ -187,8 +188,6 @@ URL Ranks by DiscoPeligro.
         "ShadowN01",
         "c1geerzs",
         "BebecitaShey",
-        "₩Arkangel₩",
-        "༒YUWON༒",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
         "༒d̷a̷r̷i̷1̷8̷༒",
@@ -293,8 +292,8 @@ URL Ranks by DiscoPeligro.
         "Aquiles_wolf",
         "cʜᴏcᴏ",
         "Retrosnz",
-        "Chuki1",
         "KittyKatLit",
+        "Chuki1",
         "XoX_Ashley_XoX",
         "ｱﾑｱﾑｷ尺ﾉｲﾑ",
         "XxX_Alexa_XxX",
