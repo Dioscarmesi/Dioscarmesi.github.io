@@ -131,7 +131,8 @@ URL Ranks by DiscoPeligro.
         "raycrash",
         "ღEquiღ",
         "Seruly",
-        "D O V Ē"
+        "D O V Ē",
+        "ღ Mizuki ღ"
     ],
     "Friends": [
         "NYADETH",
@@ -261,8 +262,6 @@ URL Ranks by DiscoPeligro.
         "Martguzz",
         "Sofi-Sticada",
         "༒I̴s̴h̴~0̴0̴7̴༒",
-        "PHOENIX2221",
-        "ღ̴N̴u̴g̴g̴e̴t̴ღ",
         "MoonSerein",
         "capitan_uron",
         "galogb204",
@@ -336,7 +335,8 @@ URL Ranks by DiscoPeligro.
         "Moonshiney7",
         "Karel_1507",
         "ayubken7",
-        "ZeroPositivo"
+        "ZeroPositivo",
+        "Sebastián_M"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
