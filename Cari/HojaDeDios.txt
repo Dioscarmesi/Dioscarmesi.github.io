@@ -1,8 +1,7 @@
 URL Ranks by DiscoPeligro.
 {
     "Co-Owner": [
-        "ღItzAkaneღ",
-        "Sainthe"
+        "ღItzAkaneღ"
     ],
     "NoviaIcon": [
         "Dulcecоmocandy"
