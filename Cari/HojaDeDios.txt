@@ -334,7 +334,8 @@ URL Ranks by DiscoPeligro.
         "Karel_1507",
         "ayubken7",
         "ZeroPositivo",
-        "Sebastián_M"
+        "Sebastián_M",
+        "Rogerred1170"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
