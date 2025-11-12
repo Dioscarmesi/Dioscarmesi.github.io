@@ -328,7 +328,9 @@ URL Ranks by DiscoPeligro.
         "ZeroPositivo",
         "Sebastián_M",
         "Rogerred1170",
-        "JRaver"
+        "JRaver",
+        "Bymaxter23",
+        "ღPastelito"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
