@@ -74,7 +74,9 @@ URL Ranks by DiscoPeligro.
         "ikerreki231",
         "IlM4X",
         "wolfdenz",
-        "NamelessNking"
+        "NamelessNking",
+        "Chorkijaime",
+        "LynceUwU"
     ],
     "Partner": [
         "Hertzo",
