@@ -80,7 +80,8 @@ URL Ranks by DiscoPeligro.
         "Kevin GlezAnc",
         "IG XimenaGtz04",
         "TAILINGXA",
-        "iTeo_zz"
+        "iTeo_zz",
+        "Dilocc"
     ],
     "Mod": [
         "Uni ウサギ",
