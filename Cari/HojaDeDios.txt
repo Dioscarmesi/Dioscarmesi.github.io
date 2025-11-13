@@ -132,7 +132,8 @@ URL Ranks by DiscoPeligro.
         "ღEquiღ",
         "Seruly",
         "D O V Ē",
-        "ღ Mizuki ღ"
+        "ღ Mizuki ღ",
+        "MaurixG"
     ],
     "Friends": [
         "NYADETH",
@@ -233,8 +234,6 @@ URL Ranks by DiscoPeligro.
         "ღEquiღ",
         "CAROL_RM",
         "LaNubi23",
-        "Majestad",
-        "jc_jaime f84f",
         "Karurus_Sღ",
         "LEA_Kღ",
         "Dulcecоmocandy",
@@ -247,8 +246,6 @@ URL Ranks by DiscoPeligro.
         "Sanssha",
         "El Ceron",
         "｢ᴠɪƤᴇʀ｣",
-        "MaverickHunterE",
-        "Senpai9000_",
         "Lobito gris",
         "elpoderdelqueso",
         "Martguzz",
@@ -266,8 +263,6 @@ URL Ranks by DiscoPeligro.
         "Nene33",
         "KattzeKatt",
         "Xexuuu",
-        "GTRαιzєr-ѕαмαஜ",
-        "۞EɱʝαɳV2ஜ",
         "Nuzossj",
         "tr0y4n0Ҳ",
         "S0mbrr4",
