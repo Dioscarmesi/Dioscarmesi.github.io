@@ -335,7 +335,9 @@ URL Ranks by DiscoPeligro.
         "Rogerred1170",
         "JRaver",
         "Bymaxter23",
-        "ღPastelito"
+        "ღPastelito",
+        "ThiagoRTC",
+        "la mocho be45"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
