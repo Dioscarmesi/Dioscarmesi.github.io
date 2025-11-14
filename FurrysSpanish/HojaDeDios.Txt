@@ -76,7 +76,9 @@ URL Ranks by DiscoPeligro.
         "wolfdenz",
         "NamelessNking",
         "Chorkijaime",
-        "LynceUwU"
+        "LynceUwU",
+        "stefanosuarez26",
+        "Phuro_X"
     ],
     "Partner": [
         "Hertzo",
