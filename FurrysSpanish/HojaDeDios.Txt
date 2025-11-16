@@ -78,7 +78,9 @@ URL Ranks by DiscoPeligro.
         "Chorkijaime",
         "LynceUwU",
         "stefanosuarez26",
-        "Phuro_X"
+        "Phuro_X",
+        "Nui Whiskers",
+        "RammsWolf"
     ],
     "Partner": [
         "Hertzo",
