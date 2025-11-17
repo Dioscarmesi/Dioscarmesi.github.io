@@ -218,9 +218,6 @@ URL Ranks by DiscoPeligro.
         "naelvl3",
         "ilimusa",
         "࿇-S͓̽uu͓̽Ji-࿇",
-        "GERMAN002",
-        "Pely Vega",
-        "GREAT_ONE",
         "ＴＯＫＡＹＯ",
         "ო Y A M I ო",
         "AndreaAlejandra",
@@ -264,8 +261,6 @@ URL Ranks by DiscoPeligro.
         "capitan_uron",
         "galogb204",
         "BEETHOHIR0",
-        "Rina_Grl",
-        "cortis9",
         "ᴋɪᴅᴀ_ʟʏs22",
         "ʀʊʄʊʟ",
         "Dᴀʏɪ",
@@ -337,10 +332,12 @@ URL Ranks by DiscoPeligro.
         "la mocho be45",
         "¤TRATO O PUTAS¤",
         "Rina_Grl",
+        "ketseaki",
         "fansdeniomos",
-        "ɢᴜᴍɪɪʟᴜᴠ",
         "Tamamo Yuki",
-        "KΣIA ღ"
+        "KΣIA ღ",
+        "ZooboxSan",
+        "Shyvanae"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
