@@ -252,8 +252,6 @@ URL Ranks by DiscoPeligro.
         "Sanssha",
         "El Ceron",
         "｢ᴠɪƤᴇʀ｣",
-        "Lobito gris",
-        "elpoderdelqueso",
         "Martguzz",
         "Sofi-Sticada",
         "༒I̴s̴h̴~0̴0̴7̴༒",
@@ -303,8 +301,6 @@ URL Ranks by DiscoPeligro.
         "Ricanmami",
         "LaBurbuPR",
         "CindyMoon0",
-        "Elalcarazz",
-        "Layla256",
         "RooskerPein be64",
         "xsmichel07x",
         "MithZh",
@@ -338,7 +334,10 @@ URL Ranks by DiscoPeligro.
         "Tamamo Yuki",
         "KΣIA ღ",
         "ZooboxSan",
-        "Shyvanae"
+        "Shyvanae",
+        "TheDoctorSnake",
+        "aperta",
+        "Littlebunnyy19"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
