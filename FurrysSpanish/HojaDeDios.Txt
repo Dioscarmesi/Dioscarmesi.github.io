@@ -81,7 +81,8 @@ URL Ranks by DiscoPeligro.
         "Nui Whiskers",
         "RammsWolf",
         "Laulett",
-        "Mizael Sama"
+        "Mizael Sama",
+        "l-RoTT-l"
     ],
     "Partner": [
         "Hertzo",
