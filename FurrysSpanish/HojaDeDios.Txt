@@ -79,7 +79,9 @@ URL Ranks by DiscoPeligro.
         "stefanosuarez26",
         "Phuro_X",
         "Nui Whiskers",
-        "RammsWolf"
+        "RammsWolf",
+        "Laulett",
+        "Mizael Sama"
     ],
     "Partner": [
         "Hertzo",
