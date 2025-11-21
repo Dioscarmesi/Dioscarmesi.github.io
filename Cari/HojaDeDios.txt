@@ -302,8 +302,6 @@ URL Ranks by DiscoPeligro.
         "LaBurbuPR",
         "CindyMoon0",
         "MithZh",
-        "AABBII",
-        "Nolan_Shot14",
         "AngelSq",
         "MizuQwQ",
         "Violet Himiko",
