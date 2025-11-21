@@ -301,8 +301,6 @@ URL Ranks by DiscoPeligro.
         "Ricanmami",
         "LaBurbuPR",
         "CindyMoon0",
-        "RooskerPein be64",
-        "xsmichel07x",
         "MithZh",
         "AABBII",
         "Nolan_Shot14",
