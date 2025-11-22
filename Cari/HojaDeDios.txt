@@ -330,7 +330,8 @@ URL Ranks by DiscoPeligro.
         "Shyvanae",
         "TheDoctorSnake",
         "aperta",
-        "Littlebunnyy19"
+        "Littlebunnyy19",
+        "marovimartin"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
