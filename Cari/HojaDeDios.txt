@@ -333,7 +333,9 @@ URL Ranks by DiscoPeligro.
         "marovimartin",
         "Night-moon",
         "samantha2301",
-        "iTeo_zz"
+        "iTeo_zz",
+        "Tamamo Yuki",
+        "rebe_76 754d"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
