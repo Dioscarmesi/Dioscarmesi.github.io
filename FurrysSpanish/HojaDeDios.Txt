@@ -110,6 +110,9 @@ URL Ranks by DiscoPeligro.
         "lycheegoat",
         "LightLArt",
         "Noélys",
-        "amanoku1"
+        "amanoku1",
+        "Joshy ˃̵ᴗ˂̵ ఌ",
+        "KuronoApi",
+        "aftpancakes"
     ]
 }
