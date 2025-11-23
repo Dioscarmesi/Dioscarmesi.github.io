@@ -29,8 +29,7 @@ URL Ranks by DiscoPeligro.
         "KazumiiVT",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "SweetMochi0",
-        "naelvl3",
-        "ISLA DEL PECADO"
+        "naelvl3"
     ],
     "Admin": [
         "NosticChop"
