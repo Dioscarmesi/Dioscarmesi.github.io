@@ -29,7 +29,8 @@ URL Ranks by DiscoPeligro.
         "KazumiiVT",
         "༒d̷a̷r̷i̷1̷8̷༒",
         "SweetMochi0",
-        "naelvl3"
+        "naelvl3",
+        "ISLA DEL PECADO"
     ],
     "Admin": [
         "NosticChop"
@@ -299,8 +300,6 @@ URL Ranks by DiscoPeligro.
         "Ricanmami",
         "LaBurbuPR",
         "CindyMoon0",
-        "AngelSq",
-        "MizuQwQ",
         "Violet Himiko",
         "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
@@ -331,7 +330,10 @@ URL Ranks by DiscoPeligro.
         "TheDoctorSnake",
         "aperta",
         "Littlebunnyy19",
-        "marovimartin"
+        "marovimartin",
+        "Night-moon",
+        "samantha2301",
+        "iTeo_zz"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
