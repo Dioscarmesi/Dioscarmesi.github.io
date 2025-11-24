@@ -113,6 +113,7 @@ URL Ranks by DiscoPeligro.
         "amanoku1",
         "Joshy ˃̵ᴗ˂̵ ఌ",
         "KuronoApi",
+        "El Mulo",
         "aftpancakes"
     ]
 }
