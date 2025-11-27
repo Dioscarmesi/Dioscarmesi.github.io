@@ -114,9 +114,9 @@ URL Ranks by DiscoPeligro.
         "Noélys",
         "amanoku1",
         "Joshy ˃̵ᴗ˂̵ ఌ",
-        "8---Panchi---D",
         "aftpancakes",
-        "KuronoApi",
-        "El Mulo"
+        "8---Panchi---D",
+        "tynx vex",
+        "KuronoApi"
     ]
 }
