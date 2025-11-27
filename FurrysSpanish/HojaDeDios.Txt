@@ -44,7 +44,6 @@ URL Ranks by DiscoPeligro.
         "S K Ÿ E",
         "VaKass",
         "izayoiiiisan",
-        "Akzara",
         "Zoraft"
     ],
     "VIPFurrys": [
