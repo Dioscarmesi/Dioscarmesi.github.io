@@ -106,9 +106,8 @@ URL Ranks by DiscoPeligro.
         "RocketSaul"
     ],
     "Bonice": [
-        "Brandynauta",
-        "Cuervito_",
         "sara_dj03",
+        "Cuervito_",
         "duckis"
     ],
     "DancerCapitan": [
