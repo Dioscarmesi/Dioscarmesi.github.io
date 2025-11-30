@@ -49,6 +49,9 @@ URL Ranks by DiscoPeligro.
     "SinBanner": [
         "Akzara"
     ],
+    "Co-Fundador": [
+        "RuzuChan"
+    ],
     "VIPFurrys": [
         "ＴＯＫＡＹＯ",
         "ZeroNinetales",
