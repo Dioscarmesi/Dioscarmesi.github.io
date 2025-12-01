@@ -1,4 +1,3 @@
-URL Ranks by DiscoPeligro.
 {
     "Co-Owner": [
         "ღItzAkaneღ",
@@ -76,13 +75,12 @@ URL Ranks by DiscoPeligro.
         "Ƙυѕт",
         "El Kyu",
         "Karurus_Sღ",
-        "¿ᴘʜᴏɴᴇ - sᴇx?",
-        "c1geerzs",
         "Kevin GlezAnc",
         "IG XimenaGtz04",
         "TAILINGXA",
         "iTeo_zz",
-        "Dilocc"
+        "Dilocc",
+        "Gormi1"
     ],
     "Mod": [
         "Uni ウサギ",
@@ -109,7 +107,8 @@ URL Ranks by DiscoPeligro.
     "Bonice": [
         "Brandynauta",
         "Cuervito_",
-        "duckis"
+        "duckis",
+        "sara_dj03"
     ],
     "DancerCapitan": [
         "KatheKatt",
@@ -181,7 +180,10 @@ URL Ranks by DiscoPeligro.
         "｢Demonic｣",
         "BEETHOHIR0",
         "Retrosnz",
-        "gabo121567"
+        "gabo121567",
+        "XmatrixX97",
+        "test",
+        "Xiomis"
     ],
     "Icon": [
         "Icοn4500",
@@ -199,10 +201,6 @@ URL Ranks by DiscoPeligro.
         "ChrissVencha",
         "Daiki Chikita",
         "Prototipo0121",
-        "Sra_Ibañez",
-        "Luismi92",
-        "Vaininya",
-        "cherrypoison69",
         "Tamamo Yuki",
         "Dan_Meza",
         "TakoMura",
@@ -212,7 +210,7 @@ URL Ranks by DiscoPeligro.
         "CopycatPortal",
         "Diegomex 8f11",
         "DEVILZOO_",
-        "Bunny_Clownie",
+        "Rini_Clowny",
         "_Viscochin_",
         "Roxytooty",
         "KazumiiVT",
@@ -259,16 +257,11 @@ URL Ranks by DiscoPeligro.
         "MoonSerein",
         "capitan_uron",
         "galogb204",
-        "BEETHOHIR0",
         "ᴋɪᴅᴀ_ʟʏs22",
         "ʀʊʄʊʟ",
         "Dᴀʏɪ",
         "Nene33",
-        "Nuzossj",
-        "tr0y4n0Ҳ",
         "S0mbrr4",
-        "˚ʚ sᴛᴀʀ ɞ˚",
-        "かStarSmøkeか",
         "IG OnealGaming",
         "NeoStyxx",
         "GERMAN002",
@@ -299,12 +292,11 @@ URL Ranks by DiscoPeligro.
         "Malenie",
         "Ricanmami",
         "LaBurbuPR",
-        "CindyMoon0",
+        "CindyMღon",
         "Violet Himiko",
         "ᴵᵛᵃʳᵘᵛ",
         "༒ Neptune ༒",
         "༒ Vᴇɴᴜs ༒",
-        "ItsKing62",
         "CindyMღon",
         "Vexiop",
         "tr0y4n0Ҳ",
@@ -322,7 +314,7 @@ URL Ranks by DiscoPeligro.
         "¤TRATO O PUTAS¤",
         "Rina_Grl",
         "ketseaki",
-        "fansdeniomos",
+        "AllysaClown",
         "Tamamo Yuki",
         "KΣIA ღ",
         "ZooboxSan",
@@ -333,7 +325,22 @@ URL Ranks by DiscoPeligro.
         "marovimartin",
         "Night-moon",
         "samantha2301",
-        "iTeo_zz"
+        "iTeo_zz",
+        "Tamamo Yuki",
+        "rebe_76 754d",
+        "EnzoNova",
+        "ALEXMARIN",
+        "Vanny77",
+        "-RollBack-",
+        "Kevinggvr",
+        "MithZh",
+        "JavaBean123",
+        "Tvvtrymartin",
+        "Nuzossj",
+        "ogperalta 146f",
+        "Ruoben",
+        "Mili696rr3",
+        "PURIF1K"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
@@ -352,9 +359,9 @@ URL Ranks by DiscoPeligro.
         "Nelson_KAELA",
         "Lord_Zonuax",
         "Soso 2020",
-        "John Wipe",
-        "Prototipo0121",
         "DoLaRnEiToR_15",
+        "Prototipo0121",
+        "John Wipe",
         "Karurus_Sღ"
     ]
 }
