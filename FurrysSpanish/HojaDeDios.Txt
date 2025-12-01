@@ -120,6 +120,10 @@ URL Ranks by DiscoPeligro.
         "aftpancakes",
         "8---Panchi---D",
         "tynx vex",
-        "KuronoApi"
+        "KuronoApi",
+        "TioGonza",
+        "Difi_",
+        "MaxFoxz",
+        "ElOsviii"
     ]
 }
