@@ -52,6 +52,19 @@ URL Ranks by DiscoPeligro.
     "Co-Fundador": [
         "RuzuChan"
     ],
+    "ELIXIR": [
+        "Phantom Reizack",
+        "poisonliz",
+        "GideonToffu",
+        "nyxntx",
+        "tori_cole",
+        "ºALEXIS---XD-º",
+        "Kunniin",
+        "Yutaura",
+        "GALEON10 d7d9",
+        "Lettersmood 5358",
+        "Underharley"
+    ],
     "VIPFurrys": [
         "ＴＯＫＡＹＯ",
         "ZeroNinetales",
