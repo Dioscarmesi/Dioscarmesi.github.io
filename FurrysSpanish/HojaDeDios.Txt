@@ -116,8 +116,9 @@ URL Ranks by DiscoPeligro.
         "tynx vex",
         "KuronoApi",
         "TioGonza",
-        "Difi_",
         "MaxFoxz",
+        "mishi_",
+        "Difi_",
         "ElOsviii"
     ]
 }
