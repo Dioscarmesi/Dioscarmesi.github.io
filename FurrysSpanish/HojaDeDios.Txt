@@ -86,7 +86,6 @@ URL Ranks by DiscoPeligro.
         "Diernaa",
         "Dante271",
         "Tackechy",
-        "Celeno",
         "IlM4X",
         "wolfdenz",
         "IamHusk",
@@ -100,7 +99,9 @@ URL Ranks by DiscoPeligro.
         "Im_Wade",
         "DahrXR",
         "ɢᴀɴᴅᴏʀᴀ x",
-        "D4ncr0chXD"
+        "D4ncr0chXD",
+        "DeadlierPoem464",
+        "Mark_Mn"
     ],
     "Partner": [
         "Hertzo",
