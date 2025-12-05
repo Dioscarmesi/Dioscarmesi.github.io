@@ -131,6 +131,10 @@ URL Ranks by DiscoPeligro.
         "MaxFoxz",
         "mishi_",
         "Difi_",
-        "ElOsviii"
+        "ElOsviii",
+        "ItzJustMao",
+        "VicLxrd",
+        "Rysokah",
+        "Javihhh"
     ]
 }
