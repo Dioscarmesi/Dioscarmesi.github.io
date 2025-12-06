@@ -74,21 +74,15 @@ URL Ranks by DiscoPeligro.
         "Drech301",
         "ShadyBelca",
         "Sanssha",
-        "mudoXqX",
-        "Scp 956",
         "Mikunita",
         "Andrömeda",
         "_Viscochin_",
         "Roxytooty",
-        "Achiu",
-        "aguadecate",
         "Sniffy006",
         "Diernaa",
         "Dante271",
         "Tackechy",
         "ikerreki231",
-        "IlM4X",
-        "wolfdenz",
         "IamHusk",
         "Chorkijaime",
         "LynceUwU",
@@ -104,7 +98,8 @@ URL Ranks by DiscoPeligro.
         "DeadlierPoem464",
         "Mark_Mn",
         "Frijoles4",
-        "Felb_05 104c"
+        "Felb_05 104c",
+        "kuver11"
     ],
     "Partner": [
         "Hertzo",
@@ -131,6 +126,10 @@ URL Ranks by DiscoPeligro.
         "MaxFoxz",
         "mishi_",
         "Difi_",
-        "ElOsviii"
+        "ElOsviii",
+        "ItzJustMao",
+        "VicLxrd",
+        "Rysokah",
+        "Javihhh"
     ]
 }
