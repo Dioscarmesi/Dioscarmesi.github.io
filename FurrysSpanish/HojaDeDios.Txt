@@ -137,8 +137,8 @@ URL Ranks by DiscoPeligro.
         "Javihhh",
         "senkosanvt",
         "VickyNC139",
+        "Riverkarma",
         "LoNdA1",
-        "_shad0ww",
-        "Riverkarma"
+        "_shad0ww"
     ]
 }
