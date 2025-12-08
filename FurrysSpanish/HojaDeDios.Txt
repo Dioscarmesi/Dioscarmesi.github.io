@@ -108,10 +108,10 @@ URL Ranks by DiscoPeligro.
     ],
     "Partner": [
         "Hertzo",
-        "KatStar",
-        "Wolfsmash",
-        "ahnaae",
         "Culan",
+        "KatStar",
+        "ahnaae",
+        "Wolfsmash",
         "ᴜѕᴀɢɪᴠʀ",
         "innari",
         "Ｓｈｎａｐｉｉ",
