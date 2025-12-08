@@ -134,6 +134,11 @@ URL Ranks by DiscoPeligro.
         "ItzJustMao",
         "VicLxrd",
         "Rysokah",
-        "Javihhh"
+        "Javihhh",
+        "senkosanvt",
+        "VickyNC139",
+        "Riverkarma",
+        "LoNdA1",
+        "_shad0ww"
     ]
 }
