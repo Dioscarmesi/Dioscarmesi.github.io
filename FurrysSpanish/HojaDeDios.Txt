@@ -104,7 +104,9 @@ URL Ranks by DiscoPeligro.
         "Mark_Mn",
         "Frijoles4",
         "Felb_05 104c",
-        "kuver11"
+        "kuver11",
+        "CAROL_RM",
+        "GUILEAS"
     ],
     "Partner": [
         "Hertzo",
@@ -130,7 +132,7 @@ URL Ranks by DiscoPeligro.
         "Rysokah",
         "Javihhh",
         "senkosanvt",
-        "VickyNC139",
+        "MirkoVF139",
         "Riverkarma",
         "LoNdA1",
         "_shad0ww"
