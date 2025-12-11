@@ -105,6 +105,7 @@ URL Ranks by DiscoPeligro.
         "Frijoles4",
         "Felb_05 104c",
         "kuver11",
+        "ᴵᴬᴹ F e r u ღ",
         "CAROL_RM",
         "GUILEAS"
     ],
