@@ -1,3 +1,4 @@
+}
 "ELIXIR": [
         "Phantom Reizack",
         "poisonliz",
@@ -11,3 +12,4 @@
         "Lettersmood 5358",
         "Underharley"
     ]
+}
