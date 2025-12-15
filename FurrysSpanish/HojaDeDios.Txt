@@ -107,7 +107,9 @@ URL Ranks by DiscoPeligro.
         "kuver11",
         "ᴵᴬᴹ F e r u ღ",
         "CAROL_RM",
-        "GUILEAS"
+        "GUILEAS",
+        "Majestad",
+        "jc_jaime f84f"
     ],
     "Partner": [
         "Hertzo",
