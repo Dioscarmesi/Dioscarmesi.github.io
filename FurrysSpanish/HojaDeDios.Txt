@@ -105,7 +105,8 @@ URL Ranks by DiscoPeligro.
         "kuver11",
         "ᴵᴬᴹ F e r u ღ",
         "Majestad",
-        "jc_jaime f84f"
+        "jc_jaime f84f",
+        "Lyziral"
     ],
     "Partner": [
         "Hertzo",
