@@ -66,7 +66,6 @@ URL Ranks by DiscoPeligro.
         "Underharley"
     ],
     "VIPFurrys": [
-        "ＴＯＫＡＹＯ",
         "ZeroNinetales",
         "Bludrian",
         "N y x ღ",
@@ -84,7 +83,6 @@ URL Ranks by DiscoPeligro.
         "aguadecate",
         "Sniffy006",
         "Diernaa",
-        "Dante271",
         "Tackechy",
         "Celeno",
         "ikerreki231",
@@ -106,8 +104,9 @@ URL Ranks by DiscoPeligro.
         "Felb_05 104c",
         "kuver11",
         "ᴵᴬᴹ F e r u ღ",
-        "CAROL_RM",
-        "GUILEAS"
+        "Majestad",
+        "jc_jaime f84f",
+        "Lyziral"
     ],
     "Partner": [
         "Hertzo",
