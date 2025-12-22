@@ -44,7 +44,8 @@ URL Ranks by DiscoPeligro.
         "S K Ÿ E",
         "VaKass",
         "izayoiiiisan",
-        "Zoraft"
+        "Zoraft",
+        "ღFLAREBEASTღ"
     ],
     "SinBanner": [
         "Akzara"
