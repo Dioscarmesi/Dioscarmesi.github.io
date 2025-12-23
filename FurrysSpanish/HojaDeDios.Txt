@@ -44,7 +44,8 @@ URL Ranks by DiscoPeligro.
         "S K Ÿ E",
         "VaKass",
         "izayoiiiisan",
-        "Zoraft"
+        "Zoraft",
+        "ღFLAREBEASTღ"
     ],
     "SinBanner": [
         "Akzara"
@@ -134,6 +135,7 @@ URL Ranks by DiscoPeligro.
         "MirkoVF139",
         "Riverkarma",
         "LoNdA1",
-        "_shad0ww"
+        "_shad0ww",
+        "I Kali"
     ]
 }
