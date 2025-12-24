@@ -106,7 +106,8 @@ URL Ranks by DiscoPeligro.
         "GUILEAS",
         "Majestad",
         "jc_jaime f84f",
-        "Lyziral"
+        "Lyziral",
+        "Oliver_Agustus"
     ],
     "Partner": [
         "Hertzo",
