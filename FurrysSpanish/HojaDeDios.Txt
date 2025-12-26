@@ -84,7 +84,6 @@ URL Ranks by DiscoPeligro.
         "aguadecate",
         "Sniffy006",
         "Diernaa",
-        "Tackechy",
         "Celeno",
         "ikerreki231",
         "IamHusk",
@@ -107,7 +106,8 @@ URL Ranks by DiscoPeligro.
         "Majestad",
         "jc_jaime f84f",
         "Lyziral",
-        "Oliver_Agustus"
+        "Oliver_Agustus",
+        "goticwolf"
     ],
     "Partner": [
         "Hertzo",
