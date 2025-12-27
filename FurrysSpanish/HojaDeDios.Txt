@@ -109,7 +109,9 @@ URL Ranks by DiscoPeligro.
         "Oliver_Agustus",
         "goticwolf",
         "EmiLucky",
-        "ওStarkyuও"
+        "ওStarkyuও",
+        "Drëyk",
+        "JhonSalshyshon"
     ],
     "Partner": [
         "Hertzo",
