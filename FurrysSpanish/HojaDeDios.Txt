@@ -110,7 +110,8 @@ URL Ranks by DiscoPeligro.
         "goticwolf",
         "EmiLucky",
         "ওStarkyuও",
-        "Drëyk"
+        "Drëyk",
+        "JhonSalshyshon"
     ],
     "Partner": [
         "Hertzo",
