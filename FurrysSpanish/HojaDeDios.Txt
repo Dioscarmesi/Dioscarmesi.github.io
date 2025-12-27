@@ -107,7 +107,9 @@ URL Ranks by DiscoPeligro.
         "jc_jaime f84f",
         "Lyziral",
         "Oliver_Agustus",
-        "goticwolf"
+        "goticwolf",
+        "EmiLucky",
+        "ওStarkyuও"
     ],
     "Partner": [
         "Hertzo",
