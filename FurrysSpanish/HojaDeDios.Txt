@@ -78,8 +78,6 @@ URL Ranks by DiscoPeligro.
         "Scp 956",
         "Mikunita",
         "Andrömeda",
-        "_Viscochin_",
-        "Roxytooty",
         "Achiu",
         "aguadecate",
         "Sniffy006",
@@ -111,7 +109,8 @@ URL Ranks by DiscoPeligro.
         "EmiLucky",
         "ওStarkyuও",
         "Drëyk",
-        "JhonSalshyshon"
+        "JhonSalshyshon",
+        "MuraNuit"
     ],
     "Partner": [
         "Hertzo",
@@ -141,6 +140,9 @@ URL Ranks by DiscoPeligro.
         "Riverkarma",
         "LoNdA1",
         "_shad0ww",
-        "I Kali"
+        "I Kali",
+        "goticwolf",
+        "TricksterJoker0",
+        "RoZ7890"
     ]
 }
