@@ -78,6 +78,8 @@ URL Ranks by DiscoPeligro.
         "Scp 956",
         "Mikunita",
         "Andrömeda",
+        "_Viscochin_",
+        "Roxytooty",
         "Achiu",
         "aguadecate",
         "Sniffy006",
