@@ -109,7 +109,8 @@ URL Ranks by DiscoPeligro.
         "EmiLucky",
         "ওStarkyuও",
         "Drëyk",
-        "JhonSalshyshon"
+        "JhonSalshyshon",
+        "MuraNuit"
     ],
     "Partner": [
         "Hertzo",
