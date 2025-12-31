@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Shrink Room — Proyectos VR</title>
+<meta content="Shrink Room: experiencia micro/macro en VRChat con escalado gestual, interacciones por capas según tamaño y prototipo de nado." name="description"/>
+<link href="style.css" rel="stylesheet"/>
+</head>
+<body>
+<a class="skip-link" href="#contenido">Saltar al contenido</a>
+<header class="nav" id="top">
+<div class="wrap nav-in">
+<a aria-label="Inicio" class="logo" href="index.html">
+<svg aria-hidden="true" fill="none" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 20c5 5 15 5 20 0M6 12c5-5 15-5 20 0" stroke="currentColor" stroke-linecap="round" stroke-width="2"></path>
+</svg>
+<span>JG Márquez</span>
+</a>
+<nav aria-label="Secciones">
+<ul>
+<li><a href="index.html#proyectos">Resumen</a></li>
+<li><a href="vr.html">Proyectos VR</a></li>
+<li><a href="index.html#experiencia">Experiencia</a></li>
+<li><a href="index.html#skills">Habilidades</a></li>
+<li><a href="index.html#contacto">Contacto</a></li>
+</ul>
+</nav>
+<div class="nav-cta">
+<a class="chip" download="" href="files/CV_Jesus_Gonzalo_Marquez_Gaytan.pdf">CV (PDF)</a>
+</div>
+</div>
+</header>
+<main id="contenido">
+<section aria-label="Shrink Room" class="project-hero">
+<div class="wrap">
+<div class="kickers"><span class="chip">Proyecto VRChat</span>
+<span class="chip subtle">Micro/Macro Scale Room</span>
+<span class="chip subtle">Publicado 2024 · Update 2025</span>
+</div>
+<h1>Shrink Room</h1>
+<p class="lead">Experiencia micro/macro en VRChat donde el usuario puede escalar de forma  (juntar/separar manos) y superar límites estándar. El mundo usa una : la habitación se percibe enorme y el jugador es realmente “pequeño”. Incluye , teleports visuales y un sistema que cambia colliders/objetos según si el usuario mide  o  para evitar interferencias.</p>
+<div class="cta"><a class="btn" href="https://vrchat.com/home/world/wrld_73980c9f-3d48-46a7-a79d-cbab3ca72992/info" rel="noopener" target="_blank">Ver en VRChat</a>
+<a class="btn alt" href="vr.html">Volver a Proyectos VR</a>
+<a class="btn" href="index.html#contacto">Contactar</a></div>
+</div>
+</section>
+<section aria-label="Detalle con carrusel">
+<div class="wrap detail-grid">
+<div>
+<div class="carousel" data-carousel="">
+<div class="carousel-main">
+<img alt="Shrink Room — imagen principal" data-carousel-main="" src="assets/img/ph/shrink-room-01.svg"/>
+<div aria-label="Controles de carrusel" class="carousel-controls">
+<button aria-label="Imagen anterior" data-carousel-prev="" type="button">←</button>
+<button aria-label="Imagen siguiente" data-carousel-next="" type="button">→</button>
+</div>
+</div>
+<div aria-label="Miniaturas" class="carousel-thumbs">
+<button aria-current="true" aria-label="Ver imagen 1" data-alt="Shrink Room — imagen 1" data-carousel-thumb="" data-src="assets/img/ph/shrink-room-01.svg" type="button">
+<img alt="Shrink Room — imagen 1" loading="lazy" src="assets/img/ph/shrink-room-01.svg"/>
+</button>
+<button aria-current="false" aria-label="Ver imagen 2" data-alt="Shrink Room — imagen 2" data-carousel-thumb="" data-src="assets/img/ph/shrink-room-02.svg" type="button">
+<img alt="Shrink Room — imagen 2" loading="lazy" src="assets/img/ph/shrink-room-02.svg"/>
+</button>
+<button aria-current="false" aria-label="Ver imagen 3" data-alt="Shrink Room — imagen 3" data-carousel-thumb="" data-src="assets/img/ph/shrink-room-03.svg" type="button">
+<img alt="Shrink Room — imagen 3" loading="lazy" src="assets/img/ph/shrink-room-03.svg"/>
+</button>
+<button aria-current="false" aria-label="Ver imagen 4" data-alt="Shrink Room — imagen 4" data-carousel-thumb="" data-src="assets/img/ph/shrink-room-04.svg" type="button">
+<img alt="Shrink Room — imagen 4" loading="lazy" src="assets/img/ph/shrink-room-04.svg"/>
+</button>
+</div>
+</div>
+<div class="detail-sections">
+<div class="card"><div class="card-in">
+<h2 style="margin:0 0 10px">Aportes y responsabilidades</h2>
+<ul class="bullets"><li>Diseño del “micro/macro loop”: lectura de escala, puntos de interés y confort VR.</li>
+<li>Implementación del escalado gestual y control de límites para estabilidad/consistencia.</li>
+<li>Sistema de activación por escala: colliders/props/funciones diferenciadas para usuarios pequeños vs gigantes.</li>
+<li>Prototipo de nado (primer mapa donde se implementó) y pruebas de confort.</li>
+<li>Set dressing con props interactivos (paletas, copas, sillas) y teleports visuales.</li>
+</ul>
+</div></div>
+<div class="card"><div class="card-in">
+<h2 style="margin:0 0 10px">Notas / enlaces</h2>
+
+
+
+
+
+
+
+</div></div>
+<section aria-label="Sistemas y código" style="padding-top:18px">
+<div class="detail-sections">
+<div class="card"><div class="card-in">
+<h2 style="margin:0 0 10px">Sistemas y código desarrollados</h2>
+<p><strong>Introducido aquí:</strong></p>
+</div></div>
+<ul class="list-grid" style="list-style:none; padding:0; margin:0"><li class="card"><div class="card-in"><h3 style="margin:0 0 6px; font-size:1.05rem">Escalado gestual (micro/macro)</h3>
+<p style="margin:0; color:var(--muted)">Cambio de tamaño juntando/separando manos, con estabilidad y confort VR.</p></div></li>
+<li class="card"><div class="card-in"><h3 style="margin:0 0 6px; font-size:1.05rem">Interacción por capas según escala</h3>
+<p style="margin:0; color:var(--muted)">Activa/desactiva colliders, props y funciones para evitar interferencias en tamaños extremos.</p></div></li>
+<li class="card"><div class="card-in"><h3 style="margin:0 0 6px; font-size:1.05rem">Sistema de nado (prototipo)</h3>
+<p style="margin:0; color:var(--muted)">Primer mapa donde se implementó; prioriza control suave y previsibilidad.</p></div></li>
+<li class="card"><div class="card-in"><h3 style="margin:0 0 6px; font-size:1.05rem">Props interactivos &amp; seating</h3>
+<p style="margin:0; color:var(--muted)">Paletas, copas, sillas personalizadas y elementos de interacción de habitación.</p></div></li>
+<li class="card"><div class="card-in"><h3 style="margin:0 0 6px; font-size:1.05rem">Teleports visuales</h3>
+<p style="margin:0; color:var(--muted)">Teletransporte con feedback visual para navegación rápida.</p></div></li>
+<li class="card"><div class="card-in"><h3 style="margin:0 0 6px; font-size:1.05rem">Composición a escala 50:1</h3>
+<p style="margin:0; color:var(--muted)">Habitación/hotel (cuarto, baño, balcón) + ciudad miniatura para exploración.</p></div></li>
+</ul>
+</div>
+</section>
+</div>
+</div>
+<aside class="card sideblock">
+<div class="card-in">
+<div class="mini">Rol</div>
+<div style="font-weight:900; margin-bottom:10px">Creador / World Builder / UdonSharp Dev</div>
+<div class="mini">Stack</div>
+<div class="pill-row" style="margin-bottom:14px"><span class="pill">VRChat</span><span class="pill">Unity</span><span class="pill">UdonSharp</span><span class="pill">VR UX</span><span class="pill">World Design</span></div>
+<div class="mini">Métricas / foco</div>
+<div class="kv"><div class="row"><div class="k">Feature clave</div><div class="v">Escalado gestual + mundo 50:1</div></div>
+<div class="row"><div class="k">Interacción</div><div class="v">Capas por tamaño (&lt; 8 m / &gt; 8 m)</div></div>
+<div class="row"><div class="k">Visitas</div><div class="v">155,518</div></div>
+<div class="row"><div class="k">Favoritos</div><div class="v">6,797</div></div>
+<div class="row"><div class="k">Capacidad</div><div class="v">80</div></div>
+<div class="row"><div class="k">Publicado</div><div class="v">Feb 23, 2024</div></div>
+<div class="row"><div class="k">Actualizado</div><div class="v">Jun 02, 2025</div></div>
+</div>
+<div class="cta" style="margin-top:14px">
+<a class="chip" href="vr.html">Más proyectos VR</a>
+<a class="chip" href="index.html">CV</a>
+</div>
+</div>
+</aside>
+</div>
+</section>
+<footer>
+<div class="wrap foot-grid">
+<small>© <span id="year"></span> Jesús Gonzalo Márquez Gaytán — CV/Portafolio</small>
+<div class="foot-links">
+<a class="chip" href="#top">Volver arriba</a>
+<a class="chip" href="vr.html">Proyectos VR</a>
+<a class="chip" href="index.html#contacto">Contacto</a>
+</div>
+</div>
+</footer>
+</main>
+<script src="site.js"></script>
+</body>
+</html>
