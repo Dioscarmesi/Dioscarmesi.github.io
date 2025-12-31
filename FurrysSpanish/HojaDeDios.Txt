@@ -113,7 +113,8 @@ URL Ranks by DiscoPeligro.
         "Drëyk",
         "JhonSalshyshon",
         "MuraNuit",
-        "Lux Morningstar"
+        "Lux Morningstar",
+        "StarWerewolf"
     ],
     "Partner": [
         "Hertzo",
