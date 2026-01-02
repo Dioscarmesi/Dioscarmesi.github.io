@@ -114,7 +114,8 @@ URL Ranks by DiscoPeligro.
         "JhonSalshyshon",
         "MuraNuit",
         "Lux Morningstar",
-        "StarWerewolf"
+        "StarWerewolf",
+        "Tackechy"
     ],
     "Partner": [
         "Hertzo",
