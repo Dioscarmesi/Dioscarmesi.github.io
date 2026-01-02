@@ -27,7 +27,6 @@ URL Ranks by DiscoPeligro.
         "Shirou1711"
     ],
     "Friends": [
-        "PandoraBarks",
         "バツMakiバツ",
         "『ϟsxϟ』ツ"
     ],
