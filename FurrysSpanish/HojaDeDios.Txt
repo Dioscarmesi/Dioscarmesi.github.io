@@ -85,7 +85,6 @@ URL Ranks by DiscoPeligro.
         "Sniffy006",
         "Diernaa",
         "Celeno",
-        "ikerreki231",
         "IamHusk",
         "Chorkijaime",
         "LynceUwU",
@@ -93,8 +92,6 @@ URL Ranks by DiscoPeligro.
         "RammsWolf",
         "Laulett",
         "Mizael Sama",
-        "ɢᴀɴᴅᴏʀᴀ x",
-        "D4ncr0chXD",
         "DeadlierPoem464",
         "Mark_Mn",
         "Frijoles4",
@@ -148,6 +145,7 @@ URL Ranks by DiscoPeligro.
         "I Kali",
         "goticwolf",
         "TricksterJoker0",
-        "RoZ7890"
+        "RoZ7890",
+        "Nifall Moonrise"
     ]
 }
