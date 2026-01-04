@@ -110,8 +110,7 @@ URL Ranks by DiscoPeligro.
         "MuraNuit",
         "Lux Morningstar",
         "StarWerewolf",
-        "Tackechy",
-        "Salamandra29"
+        "Tackechy"
     ],
     "Partner": [
         "Hertzo",
@@ -145,6 +144,8 @@ URL Ranks by DiscoPeligro.
         "goticwolf",
         "TricksterJoker0",
         "RoZ7890",
-        "Jibablack"
+        "Jibablack",
+        "Salamandra29",
+        "Salamandra29"
     ]
 }
