@@ -84,7 +84,6 @@ URL Ranks by DiscoPeligro.
         "aguadecate",
         "Sniffy006",
         "Diernaa",
-        "Celeno",
         "ikerreki231",
         "IamHusk",
         "Chorkijaime",
@@ -93,8 +92,6 @@ URL Ranks by DiscoPeligro.
         "RammsWolf",
         "Laulett",
         "Mizael Sama",
-        "DeadlierPoem464",
-        "Mark_Mn",
         "Frijoles4",
         "Felb_05 104c",
         "kuver11",
@@ -113,7 +110,8 @@ URL Ranks by DiscoPeligro.
         "MuraNuit",
         "Lux Morningstar",
         "StarWerewolf",
-        "Tackechy"
+        "Tackechy",
+        "Salamandra29"
     ],
     "Partner": [
         "Hertzo",
