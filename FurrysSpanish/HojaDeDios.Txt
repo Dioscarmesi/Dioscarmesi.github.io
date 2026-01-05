@@ -67,13 +67,10 @@ URL Ranks by DiscoPeligro.
         "Underharley"
     ],
     "VIPFurrys": [
-        "ZeroNinetales",
-        "Bludrian",
         "N y x ღ",
         "SilverFenris",
         "Drech301",
         "ShadyBelca",
-        "Sanssha",
         "mudoXqX",
         "Scp 956",
         "Mikunita",
@@ -92,8 +89,6 @@ URL Ranks by DiscoPeligro.
         "RammsWolf",
         "Laulett",
         "Mizael Sama",
-        "Frijoles4",
-        "Felb_05 104c",
         "kuver11",
         "ᴵᴬᴹ F e r u ღ",
         "CAROL_RM",
@@ -145,6 +140,11 @@ URL Ranks by DiscoPeligro.
         "TricksterJoker0",
         "RoZ7890",
         "Jibablack",
-        "Salamandra29"
+        "Salamandra29",
+        "LionBuster",
+        "Asileth",
+        "sr_demon666",
+        "ThisIsJake",
+        "Elnova_27"
     ]
 }
