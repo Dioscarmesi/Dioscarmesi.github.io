@@ -28,7 +28,10 @@ URL Ranks by DiscoPeligro.
     ],
     "Friends": [
         "バツMakiバツ",
-        "『ϟsxϟ』ツ"
+        "『ϟsxϟ』ツ",
+        "NΛΣŁ",
+        "marixxa",
+        "ᴇᴛᴀᴅɪʟᴀᴠ4500-"
     ],
     "JefeDeSeguridad": [
         "Strikkеrz",
