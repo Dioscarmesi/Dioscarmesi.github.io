@@ -116,11 +116,6 @@ URL Ranks by DiscoPeligro.
         "Tackechy"
     ],
     "Partner": [
-        "Hertzo",
-        "Culan",
-        "KatStar",
-        "ahnaae",
-        "Wolfsmash",
         "ᴜѕᴀɢɪᴠʀ",
         "innari",
         "Ｓｈｎａｐｉｉ",
@@ -129,11 +124,6 @@ URL Ranks by DiscoPeligro.
         "8---Panchi---D",
         "tynx vex",
         "KuronoApi",
-        "TioGonza",
-        "MaxFoxz",
-        "mishi_",
-        "Difi_",
-        "ElOsviii",
         "ItzJustMao",
         "VicLxrd",
         "Rysokah",
