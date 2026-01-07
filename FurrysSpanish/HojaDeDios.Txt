@@ -17,7 +17,8 @@ URL Ranks by DiscoPeligro.
         "нσѕнι",
         "GUILEAS",
         "Strikkеrz",
-        "ReikoSaori"
+        "ReikoSaori",
+        "Lyziral"
     ],
     "DJ": [
         "VACIO"
@@ -28,7 +29,10 @@ URL Ranks by DiscoPeligro.
     ],
     "Friends": [
         "バツMakiバツ",
-        "『ϟsxϟ』ツ"
+        "『ϟsxϟ』ツ",
+        "NΛΣŁ",
+        "marixxa",
+        "ᴇᴛᴀᴅɪʟᴀᴠ4500-"
     ],
     "JefeDeSeguridad": [
         "Strikkеrz",
@@ -71,14 +75,10 @@ URL Ranks by DiscoPeligro.
         "SilverFenris",
         "Drech301",
         "ShadyBelca",
-        "mudoXqX",
-        "Scp 956",
         "Mikunita",
         "Andrömeda",
         "_Viscochin_",
         "Roxytooty",
-        "Achiu",
-        "aguadecate",
         "Sniffy006",
         "Diernaa",
         "ikerreki231",
@@ -89,8 +89,6 @@ URL Ranks by DiscoPeligro.
         "RammsWolf",
         "Laulett",
         "Mizael Sama",
-        "kuver11",
-        "ᴵᴬᴹ F e r u ღ",
         "CAROL_RM",
         "GUILEAS",
         "Majestad",
