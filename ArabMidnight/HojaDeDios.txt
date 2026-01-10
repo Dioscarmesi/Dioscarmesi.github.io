@@ -1,6 +1,9 @@
 URL Ranks by DiscoPeligro.
 {
-  "Co-Owner":["WolfDaver", "нσѕнι", "ikerreki231", "Yutaura", "Underharley"],
+	"Owner-Oasis":["Underharley"],
+	"Owner-DarkSand":["WolfDaver"],
+	"Owner-NightOftheHeard":["нσѕнι"],
+  "Co-Owner":["Yutaura"],
 	"Mod": ["Vacio"],
 	"DJ": ["Vacio"],
 	"Dancer": ["Vacio"],
