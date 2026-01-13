@@ -100,8 +100,6 @@ URL Ranks by DiscoPeligro.
         "ᴵᴬᴹ F e r u ღ",
         "CAROL_RM",
         "GUILEAS",
-        "Majestad",
-        "jc_jaime f84f",
         "Lyziral",
         "Oliver_Agustus",
         "goticwolf",
