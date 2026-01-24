@@ -1,8 +1,5 @@
 URL Ranks by DiscoPeligro.
 {
-    "VipManager": [
-        "Andrömeda"
-    ],
     "Angelika": [
         "Alegnamon"
     ],
@@ -79,8 +76,6 @@ URL Ranks by DiscoPeligro.
         "ShadyBelca",
         "mudoXqX",
         "Scp 956",
-        "Mikunita",
-        "Andrömeda",
         "_Viscochin_",
         "Roxytooty",
         "Achiu",
