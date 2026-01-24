@@ -96,6 +96,7 @@ URL Ranks by DiscoPeligro.
         "JhonSalshyshon",
         "MuraNuit",
         "Lux Morningstar",
+        "Agony Nightstar",
         "StarWerewolf",
         "Tackechy"
     ],
