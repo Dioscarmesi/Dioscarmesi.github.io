@@ -1,8 +1,5 @@
 URL Ranks by DiscoPeligro.
 {
-    "VipManager": [
-        "Andrömeda"
-    ],
     "Angelika": [
         "Alegnamon"
     ],
