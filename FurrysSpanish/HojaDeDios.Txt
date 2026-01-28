@@ -87,9 +87,12 @@ URL Ranks by DiscoPeligro.
         "Felb_05 104c",
         "kuver11",
         "ᴵᴬᴹ F e r u ღ",
+        "goticwolf",
+        "･Mura･",
         "Lux Morningstar",
         "Agony Nightstar",
-        "StarWerewolf"
+        "StarWerewolf",
+        "_Viscochin_"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
