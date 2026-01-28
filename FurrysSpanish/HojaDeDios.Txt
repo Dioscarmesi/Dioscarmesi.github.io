@@ -120,7 +120,6 @@ URL Ranks by DiscoPeligro.
         "Elnova_27",
         "Joshy ˃̵ᴗ˂̵ ఌ",
         "AftPancakes",
-        "8---Panchi---D",
         "tynx vex",
         "KuronoApi"
     ]
