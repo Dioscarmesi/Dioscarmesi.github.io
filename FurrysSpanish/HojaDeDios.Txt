@@ -76,8 +76,6 @@ URL Ranks by DiscoPeligro.
         "ShadyBelca",
         "mudoXqX",
         "Scp 956",
-        "_Viscochin_",
-        "Roxytooty",
         "Achiu",
         "aguadecate",
         "ikerreki231",
@@ -89,16 +87,9 @@ URL Ranks by DiscoPeligro.
         "Felb_05 104c",
         "kuver11",
         "ᴵᴬᴹ F e r u ღ",
-        "goticwolf",
-        "EmiLucky",
-        "ওStarkyuও",
-        "Drëyk",
-        "JhonSalshyshon",
-        "MuraNuit",
         "Lux Morningstar",
         "Agony Nightstar",
-        "StarWerewolf",
-        "Tackechy"
+        "StarWerewolf"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
