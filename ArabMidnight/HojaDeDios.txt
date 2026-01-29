@@ -8,5 +8,5 @@ URL Ranks by DiscoPeligro.
 	"DJ": ["Vacio"],
 	"Dancer": ["Vacio"],
 	"Exclusive": ["Vacio"],
-	"VIP": ["༺ ᴠᴏʟᴋɪɪ ༻","Vacio"]
+	"VIP": ["༺ ᴠᴏʟᴋɪɪ ༻", "Vacio", "༒ღঔৣMalplaঔৣ ღ༒", "˚ʚ sᴛᴀʀ ɞ˚", "otro ejemplo"]
 }
