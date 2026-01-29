@@ -89,8 +89,6 @@ URL Ranks by DiscoPeligro.
         "ᴵᴬᴹ F e r u ღ",
         "goticwolf",
         "･Mura･",
-        "Lux Morningstar",
-        "Agony Nightstar",
         "StarWerewolf",
         "_Viscochin_"
     ],
