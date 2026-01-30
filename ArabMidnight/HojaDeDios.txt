@@ -2,11 +2,11 @@ URL Ranks by DiscoPeligro.
 {
 	"Owner-Oasis":["Underharley"],
 	"Owner-DarkSand":["WolfDaver"],
-	"Owner-NightOftheHeard":["нσѕнι"],
+	"Owner-NightOftheHeard":["нσѕнι", "Kunniin"],
   "Co-Owner":["Yutaura"],
 	"Mod": ["Vacio"],
 	"DJ": ["Vacio"],
 	"Dancer": ["Vacio"],
 	"Exclusive": ["Vacio"],
-	"VIP": ["༺ ᴠᴏʟᴋɪɪ ༻", "Vacio", "༒ღঔৣMalplaঔৣ ღ༒", "˚ʚ sᴛᴀʀ ɞ˚", "otro ejemplo"]
+	"VIP": ["༺ ᴠᴏʟᴋɪɪ ༻", "Vacio", "༒ღঔৣMalplaঔৣ ღ༒", "˚ʚ sᴛᴀʀ ɞ˚", "Phantom Reizack", "otro ejemplo"]
 }
