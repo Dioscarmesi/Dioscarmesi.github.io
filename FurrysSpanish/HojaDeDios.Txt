@@ -79,8 +79,6 @@ URL Ranks by DiscoPeligro.
         "Achiu",
         "aguadecate",
         "ikerreki231",
-        "Chorkijaime",
-        "LynceUwU",
         "Laulett",
         "Mizael Sama",
         "Frijoles4",
@@ -89,10 +87,10 @@ URL Ranks by DiscoPeligro.
         "ᴵᴬᴹ F e r u ღ",
         "goticwolf",
         "･Mura･",
-        "Lux Morningstar",
-        "Agony Nightstar",
         "StarWerewolf",
-        "_Viscochin_"
+        "_Viscochin_",
+        "Caribbean_Dobie",
+        "RammsWolf"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
@@ -106,7 +104,7 @@ URL Ranks by DiscoPeligro.
         "VickyNC139",
         "Riverkarma",
         "LoNdA1",
-        "_shad0ww",
+        "「Nicolas」",
         "I Kali",
         "goticwolf",
         "TricksterJoker0",
