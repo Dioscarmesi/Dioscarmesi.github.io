@@ -88,7 +88,9 @@ URL Ranks by DiscoPeligro.
         "goticwolf",
         "･Mura･",
         "StarWerewolf",
-        "_Viscochin_"
+        "_Viscochin_",
+        "Caribbean_Dobie",
+        "RammsWolf"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
