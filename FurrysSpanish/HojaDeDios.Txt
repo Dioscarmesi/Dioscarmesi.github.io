@@ -68,6 +68,8 @@ URL Ranks by DiscoPeligro.
         "Underharley"
     ],
     "VIPFurrys": [
+        "ZeroNinetales",
+        "Bludrian",
         "N y x ღ",
         "SilverFenris",
         "Drech301",
