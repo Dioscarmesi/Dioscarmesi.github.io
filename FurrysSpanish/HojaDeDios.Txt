@@ -68,8 +68,6 @@ URL Ranks by DiscoPeligro.
         "Underharley"
     ],
     "VIPFurrys": [
-        "ZeroNinetales",
-        "Bludrian",
         "N y x ღ",
         "SilverFenris",
         "Drech301",
@@ -78,11 +76,8 @@ URL Ranks by DiscoPeligro.
         "Scp 956",
         "Achiu",
         "aguadecate",
-        "ikerreki231",
         "Laulett",
         "Mizael Sama",
-        "Frijoles4",
-        "Felb_05 104c",
         "kuver11",
         "ᴵᴬᴹ F e r u ღ",
         "goticwolf",
@@ -91,7 +86,8 @@ URL Ranks by DiscoPeligro.
         "Agony Nightstar",
         "_Viscochin_",
         "Caribbean_Dobie",
-        "RammsWolf"
+        "RammsWolf",
+        "Sanssha"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
