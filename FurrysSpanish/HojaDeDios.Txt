@@ -89,7 +89,8 @@ URL Ranks by DiscoPeligro.
         "_Viscochin_",
         "Caribbean_Dobie",
         "RammsWolf",
-        "Sanssha"
+        "Sanssha",
+        "ikerreki231"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
