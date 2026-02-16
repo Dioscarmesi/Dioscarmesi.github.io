@@ -87,10 +87,10 @@ URL Ranks by DiscoPeligro.
         "Lux Morningstar",
         "Agony Nightstar",
         "_Viscochin_",
-        "Caribbean_Dobie",
-        "RammsWolf",
         "Sanssha",
-        "ikerreki231"
+        "ikerreki231",
+        "Majestad",
+        "jc_jaime f84f"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
