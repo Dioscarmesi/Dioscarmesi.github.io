@@ -72,8 +72,6 @@ URL Ranks by DiscoPeligro.
         "Bludrian",
         "N y x ღ",
         "SilverFenris",
-        "Drech301",
-        "ShadyBelca",
         "mudoXqX",
         "Scp 956",
         "Achiu",
@@ -107,6 +105,11 @@ URL Ranks by DiscoPeligro.
         "Joshy ˃̵ᴗ˂̵ ఌ",
         "AftPancakes",
         "Zora Vex uwu",
-        "KuronoApi"
+        "KuronoApi",
+        "lolensic",
+        "kishi27",
+        "SIRIUX",
+        "quesito_34",
+        "-Cosmi"
     ]
 }
