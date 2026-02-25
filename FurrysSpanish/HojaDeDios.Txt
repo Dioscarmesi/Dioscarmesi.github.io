@@ -110,6 +110,11 @@ URL Ranks by DiscoPeligro.
         "kishi27",
         "SIRIUX",
         "quesito_34",
-        "-Cosmi"
+        "-Cosmi",
+        "senkosanvt",
+        "VickyNC139",
+        "Riverkarma",
+        "LoNdA1",
+        "「Nicolas」"
     ]
 }
