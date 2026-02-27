@@ -15,6 +15,7 @@ URL Ranks by DiscoPeligro.
         "GUILEAS",
         "Strikkеrz",
         "ReikoSaori",
+        "Tostadita_Azul",
         "Lyziral"
     ],
     "DJ": [
