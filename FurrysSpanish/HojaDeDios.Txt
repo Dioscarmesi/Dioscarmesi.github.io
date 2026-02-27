@@ -86,6 +86,7 @@ URL Ranks by DiscoPeligro.
         "･Mura･",
         "Lux Morningstar",
         "Agony Nightstar",
+        "_Viscochin_",
         "Caribbean_Dobie",
         "RammsWolf",
         "Sanssha",
