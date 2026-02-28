@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Commissions | ArtCarmesi</title>
+  <meta name="description" content="Informative commissions page for ArtCarmesi." />
+  <style>
+    :root {
+      --bg: #101116;
+      --bg-soft: #171922;
+      --panel: #1d2030;
+      --panel-2: #23273a;
+      --text: #f5f7fb;
+      --muted: #bac0d2;
+      --purple: #8b5cf6;
+      --purple-2: #a855f7;
+      --green: #22c55e;
+      --white: #ffffff;
+      --border: rgba(255,255,255,0.08);
+      --shadow: 0 20px 50px rgba(0,0,0,0.35);
+      --radius: 22px;
+      --radius-sm: 16px;
+      --max: 1180px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(139, 92, 246, 0.2), transparent 25%),
+        radial-gradient(circle at top right, rgba(34, 197, 94, 0.12), transparent 18%),
+        linear-gradient(180deg, #0d0f14 0%, #101116 100%);
+      color: var(--text);
+      line-height: 1.65;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .container {
+      width: min(var(--max), calc(100% - 2rem));
+      margin: 0 auto;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      backdrop-filter: blur(14px);
+      background: rgba(12, 14, 20, 0.72);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .nav {
+      min-height: 76px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.85rem;
+      font-weight: 800;
+    }
+
+    .brand-mark {
+      width: 42px;
+      height: 42px;
+      border-radius: 12px;
+      background: linear-gradient(135deg, var(--purple), var(--green));
+      box-shadow: 0 12px 24px rgba(139, 92, 246, 0.28);
+    }
+
+    .nav-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
+    }
+
+    .nav-links a {
+      color: var(--muted);
+      font-size: 0.95rem;
+      transition: 0.2s ease;
+    }
+
+    .nav-links a:hover { color: var(--white); }
+
+    .hero {
+      padding: 5.2rem 0 2.4rem;
+    }
+
+    .hero-box {
+      background:
+        radial-gradient(circle at top right, rgba(34,197,94,0.12), transparent 20%),
+        radial-gradient(circle at left, rgba(139,92,246,0.22), transparent 28%),
+        linear-gradient(180deg, #171a24, #111318);
+      border: 1px solid var(--border);
+      border-radius: 30px;
+      box-shadow: var(--shadow);
+      padding: 2rem;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.55rem;
+      padding: 0.5rem 0.9rem;
+      border: 1px solid rgba(139, 92, 246, 0.25);
+      background: rgba(139, 92, 246, 0.08);
+      color: #dacfff;
+      border-radius: 999px;
+      font-size: 0.88rem;
+      margin-bottom: 1rem;
+    }
+
+    h1 {
+      font-size: clamp(2.2rem, 5vw, 4.5rem);
+      line-height: 1.02;
+      letter-spacing: -1.5px;
+      margin-bottom: 1rem;
+    }
+
+    h1 span {
+      background: linear-gradient(135deg, var(--purple), var(--green));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+
+    .hero p {
+      max-width: 760px;
+      color: var(--muted);
+      font-size: 1.06rem;
+    }
+
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.8rem;
+      margin-top: 1.4rem;
+    }
+
+    .pill {
+      padding: 0.72rem 1rem;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    section {
+      padding: 1.2rem 0 2rem;
+    }
+
+    .section-head {
+      margin-bottom: 1.2rem;
+    }
+
+    .section-head h2 {
+      font-size: clamp(1.6rem, 3vw, 2.6rem);
+      line-height: 1.08;
+      margin-bottom: 0.4rem;
+    }
+
+    .section-head p {
+      color: var(--muted);
+      max-width: 760px;
+    }
+
+    .grid-2,
+    .grid-3 {
+      display: grid;
+      gap: 1.2rem;
+    }
+
+    .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+
+    .card {
+      background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.02));
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 1.4rem;
+    }
+
+    .card h3 {
+      font-size: 1.16rem;
+      margin-bottom: 0.55rem;
+    }
+
+    .card p,
+    .card li,
+    .card strong,
+    .card span {
+      color: var(--muted);
+    }
+
+    .price {
+      font-size: 1.5rem;
+      font-weight: 900;
+      color: var(--white);
+      margin: 0.5rem 0 0.85rem;
+    }
+
+    .tag {
+      display: inline-block;
+      margin-bottom: 0.8rem;
+      font-size: 0.82rem;
+      color: #e0d7ff;
+      padding: 0.38rem 0.72rem;
+      border-radius: 999px;
+      border: 1px solid rgba(139,92,246,0.3);
+      background: rgba(139,92,246,0.1);
+    }
+
+    ul {
+      padding-left: 1.1rem;
+    }
+
+    li + li {
+      margin-top: 0.42rem;
+    }
+
+    .info-list {
+      list-style: none;
+      padding-left: 0;
+      display: grid;
+      gap: 0.8rem;
+    }
+
+    .info-list li {
+      padding: 0.9rem 1rem;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+    }
+
+    .worlds {
+      display: grid;
+      gap: 0.8rem;
+    }
+
+    .world-link {
+      display: block;
+      padding: 1rem 1.1rem;
+      border-radius: 16px;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid var(--border);
+      color: var(--text);
+      transition: 0.2s ease;
+      word-break: break-word;
+    }
+
+    .world-link:hover {
+      transform: translateY(-2px);
+      border-color: rgba(139,92,246,0.35);
+    }
+
+    .world-link strong {
+      display: block;
+      margin-bottom: 0.25rem;
+      color: var(--white);
+    }
+
+    .note {
+      margin-top: 1rem;
+      padding: 1rem 1.1rem;
+      border-radius: 16px;
+      background: rgba(34, 197, 94, 0.12);
+      border: 1px solid rgba(34, 197, 94, 0.18);
+      color: #d9ffe5;
+    }
+
+    .out {
+      border-color: rgba(255,255,255,0.12);
+    }
+
+    .footer {
+      border-top: 1px solid var(--border);
+      padding: 1.4rem 0 2.2rem;
+      color: var(--muted);
+      margin-top: 1rem;
+    }
+
+    @media (max-width: 920px) {
+      .grid-2,
+      .grid-3 {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 760px) {
+      .nav {
+        padding: 0.9rem 0;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .hero {
+        padding-top: 3rem;
+      }
+
+      .hero-box {
+        padding: 1.4rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="container nav">
+      <a href="#top" class="brand">
+        <div class="brand-mark"></div>
+        <span>ArtCarmesi</span>
+      </a>
+      <nav class="nav-links">
+        <a href="#contact">Contact</a>
+        <a href="#services">Services</a>
+        <a href="#worlds">Worlds</a>
+        <a href="#avatar">Avatar</a>
+        <a href="#vore">Vore System</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="container">
+        <div class="hero-box">
+          <div class="eyebrow">Commissions Page</div>
+          <h1><span>ArtCarmesi</span> VRChat Commissions</h1>
+          <p>
+            Informative commissions page with contact info, services, prices, worlds made by me, quick examples, and currently unavailable full avatar options.
+          </p>
+          <div class="meta">
+            <span class="pill">X (Twitter): @ArtCarmesi</span>
+            <span class="pill">VRChat ID: Dios Carmesi</span>
+            <span class="pill">Euros (€) / US Dollars (USD)</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact">
+      <div class="container">
+        <div class="section-head">
+          <h2>📌 Contact / Info</h2>
+        </div>
+        <div class="card">
+          <ul class="info-list">
+            <li><strong>X (Twitter):</strong> @ArtCarmesi</li>
+            <li><strong>VRChat ID:</strong> Dios Carmesi</li>
+            <li><strong>Discord:</strong> carmesi115</li>
+            <li>📩 You can contact me via <strong>DM on X</strong>, <strong>Discord</strong> (<strong>carmesi115</strong>), or <strong>Fiverr</strong>.</li>
+            <li>💱 I charge in <strong>Euros (€)</strong> or <strong>US Dollars (USD)</strong> (as agreed).</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="services">
+      <div class="container">
+        <div class="section-head">
+          <h2>Services</h2>
+        </div>
+
+        <div class="grid-2">
+          <article class="card">
+            <span class="tag">🎨 AVATAR RECOLOR</span>
+            <p>I can recolor your avatar to match your fursona.</p>
+            <div class="price">15€ – 80€</div>
+            <ul>
+              <li><strong>15€:</strong> simple recolor (few materials, no gradients)</li>
+              <li><strong>30€–50€:</strong> medium detail / multiple materials</li>
+              <li><strong>80€:</strong> heavy detail, patterns, or complex gradients</li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <span class="tag">😄 NEW BLENDSHAPES</span>
+            <p>I can create new blendshapes (blend keys) for your avatar.</p>
+            <ul>
+              <li><strong>Facial blendshape:</strong> 15€ / $</li>
+              <li><strong>Body blendshape:</strong> 30€ / $</li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <span class="tag">🧩 ASSET INSTALLATION (ON AVATAR)</span>
+            <p>I install assets on your avatar and set them up properly.</p>
+            <p>📦 Delivery in <strong>UnityPackage (.unitypackage)</strong></p>
+            <p><strong>(Each asset individually):</strong></p>
+            <ul>
+              <li><strong>Intermediate (clothes / non-animated objects):</strong> 5€ / $</li>
+              <li><strong>Advanced (animations, physbones, complex setups):</strong> 15€ / $</li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <span class="tag">🔁 MODEL PORT → VRCHAT AVATAR (SFM / FBX / BLEND / OTHERS)</span>
+            <p>I can convert your model into a <strong>fully working VRChat avatar</strong>.</p>
+            <p>✅ Includes (depending on the model):</p>
+            <ul>
+              <li>VRChat-ready setup</li>
+              <li><strong>Visemes</strong></li>
+              <li><strong>Facial expressions</strong> (basic/standard)</li>
+              <li>📦 Delivery as <strong>UnityPackage</strong>, ready to import (and upload if applicable)</li>
+            </ul>
+            <p><strong>Prices:</strong></p>
+            <ul>
+              <li><strong>Simple port:</strong> $80 (low complexity model)</li>
+              <li><strong>Standard port:</strong> $150 (typical port with visemes + facial expressions)</li>
+            </ul>
+            <div class="note">⚠️ If the model is messy (bad rig/weights/materials/textures), it may require an extra quote.</div>
+          </article>
+
+          <article class="card">
+            <span class="tag">🏗️ VRCHAT WORLD CREATION (PC + QUEST) + PROGRAMMING</span>
+            <p>3D creation of your VRChat world with lighting and optimization.</p>
+            <p>✅ <strong>Programming (Udon) is INCLUDED</strong>, such as:</p>
+            <ul>
+              <li><strong>Role System (via GitHub)</strong></li>
+              <li><strong>Private rooms</strong></li>
+              <li><strong>Teleports (TP)</strong></li>
+              <li><strong>Voice amplifier + soundproof zones</strong></li>
+              <li><strong>Video player</strong></li>
+              <li><strong>Mirrors</strong></li>
+            </ul>
+            <p><strong>Size-based pricing (reference):</strong></p>
+            <ul>
+              <li><strong>Small room (6m x 6m):</strong> 300€ / $</li>
+              <li><strong>Apartment-style (12m x 12m):</strong> 600€ / $</li>
+              <li><strong>Event hall / Club / Chill World (25m x 25m):</strong> 1500€ / $</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="worlds">
+      <div class="container">
+        <div class="section-head">
+          <h2>🌍 Worlds Made by Me</h2>
+        </div>
+        <div class="card worlds">
+          <a class="world-link" href="https://vrchat.com/home/world/wrld_1e719674-9a99-4a49-a2b6-edc93e22dc5b" target="_blank" rel="noopener noreferrer"><strong>Furry Spanish</strong>https://vrchat.com/home/world/wrld_1e719674-9a99-4a49-a2b6-edc93e22dc5b</a>
+          <a class="world-link" href="https://vrchat.com/home/world/wrld_0218cc70-781e-407f-a930-59119899d6b2" target="_blank" rel="noopener noreferrer"><strong>Departamento Spanish</strong>https://vrchat.com/home/world/wrld_0218cc70-781e-407f-a930-59119899d6b2</a>
+          <a class="world-link" href="https://vrchat.com/home/world/wrld_19e4bb5a-9d4a-478b-8264-2d70e8c9780d" target="_blank" rel="noopener noreferrer"><strong>Golden Fox</strong>https://vrchat.com/home/world/wrld_19e4bb5a-9d4a-478b-8264-2d70e8c9780d</a>
+          <a class="world-link" href="https://vrchat.com/home/world/wrld_8ed97e91-047b-4c24-8028-4575c9a8d8e5" target="_blank" rel="noopener noreferrer"><strong>Las Cariñosas Spanish</strong>https://vrchat.com/home/world/wrld_8ed97e91-047b-4c24-8028-4575c9a8d8e5</a>
+          <a class="world-link" href="https://vrchat.com/home/world/wrld_5da32f3b-54c5-4f4e-9d3e-8172fdeac668/info" target="_blank" rel="noopener noreferrer"><strong>Arab Midnight</strong>https://vrchat.com/home/world/wrld_5da32f3b-54c5-4f4e-9d3e-8172fdeac668/info</a>
+          <a class="world-link" href="https://vrchat.com/home/world/wrld_1d48270b-ac70-4a56-b4b9-f3bda8e1910e/info" target="_blank" rel="noopener noreferrer"><strong>Furry Heaven</strong>https://vrchat.com/home/world/wrld_1d48270b-ac70-4a56-b4b9-f3bda8e1910e/info</a>
+          <a class="world-link" href="https://vrchat.com/home/world/wrld_808003e1-4c5b-4046-ba67-0211f0bca119/info" target="_blank" rel="noopener noreferrer"><strong>Midnight FBT</strong>https://vrchat.com/home/world/wrld_808003e1-4c5b-4046-ba67-0211f0bca119/info</a>
+          <a class="world-link" href="https://vrchat.com/home/world/wrld_7f8a6461-ccb9-4737-be4a-43e7d3acc0ca/info" target="_blank" rel="noopener noreferrer"><strong>Chill Midnight Luxury</strong>https://vrchat.com/home/world/wrld_7f8a6461-ccb9-4737-be4a-43e7d3acc0ca/info</a>
+          <a class="world-link" href="https://vrchat.com/home/world/wrld_73980c9f-3d48-46a7-a79d-cbab3ca72992/info" target="_blank" rel="noopener noreferrer"><strong>Shrink Room</strong>https://vrchat.com/home/world/wrld_73980c9f-3d48-46a7-a79d-cbab3ca72992/info</a>
+          <a class="world-link" href="https://vrchat.com/home/world/wrld_a2341f92-3e0a-43f7-8ea4-afa100b49732/info" target="_blank" rel="noopener noreferrer"><strong>Spanish Vibes Club</strong>https://vrchat.com/home/world/wrld_a2341f92-3e0a-43f7-8ea4-afa100b49732/info</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="avatar">
+      <div class="container">
+        <div class="section-head">
+          <h2>🧬 Full VRChat Avatar</h2>
+          <p>Currently out of service</p>
+        </div>
+
+        <div class="card out" style="margin-bottom: 1.2rem;">
+          <p>Delivery in <strong>.FBX</strong> / <strong>.blend</strong> (optional: <strong>UnityPackage</strong> ready to import)</p>
+        </div>
+
+        <div class="grid-3">
+          <article class="card out">
+            <span class="tag">🟦 Furry Basic</span>
+            <div class="price">$150</div>
+            <ul>
+              <li>3D character model</li>
+              <li>Rig (standard)</li>
+              <li>Basic visemes</li>
+              <li>4K texture</li>
+            </ul>
+          </article>
+
+          <article class="card out">
+            <span class="tag">🟪 Furry Standard</span>
+            <div class="price">$400</div>
+            <ul>
+              <li>3D character model</li>
+              <li>Advanced rigging</li>
+              <li>Visemes</li>
+              <li>Facial expressions (max: 7)</li>
+              <li>4K texture</li>
+              <li>Clothing</li>
+              <li>✅ <strong>Quest version included</strong></li>
+            </ul>
+          </article>
+
+          <article class="card out">
+            <span class="tag">🟥 Furry Premium</span>
+            <div class="price">$1000</div>
+            <ul>
+              <li>3D character model</li>
+              <li>Full rig</li>
+              <li>Passive animations (breathing + tail movement)</li>
+              <li>Visemes</li>
+              <li>Facial expressions (max: 14)</li>
+              <li>4K texture + 8K color texture</li>
+              <li>Clothing</li>
+              <li>✅ <strong>Quest version included</strong></li>
+            </ul>
+          </article>
+        </div>
+
+        <div class="card out" style="margin-top: 1.2rem;">
+          <p><strong>Extras:</strong></p>
+          <ul>
+            <li>Export for VTuber: <strong>$75</strong> (VSeeFace / VRM compatible)</li>
+          </ul>
+          <p style="margin-top: 1rem;"><strong>License:</strong> <em>Attribution-NonCommercial-ShareAlike 4.0 International</em></p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <div class="section-head">
+          <h2>✅ Quick Examples (for clients)</h2>
+        </div>
+        <div class="card">
+          <ul>
+            <li>“I only want recolor” → <strong>Recolor: 15€–80€</strong></li>
+            <li>“I want 1 new expression” → <strong>Facial blendshape: 15€ / $</strong></li>
+            <li>“I want a body modification blendshape” → <strong>Body blendshape: 30€ / $</strong></li>
+            <li>“I have an SFM model and I want it in VRChat” → <strong>Port: $80 / $150</strong></li>
+            <li>“Install clothes on my avatar” → <strong>5€ / $</strong> (if animated/physbones: <strong>15€ / $</strong>)</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="vore">
+      <div class="container">
+        <div class="section-head">
+          <h2>🫦 Vore System (Macro/Vore) — Immersive Avatar Interior</h2>
+          <p>High-detail “swallowing” experience built into your avatar.</p>
+        </div>
+
+        <div class="grid-2">
+          <article class="card">
+            <p>
+              I will create a <strong>fully modeled and textured internal route</strong> so the “swallowed” user can <strong>see and experience a complete journey</strong> inside your avatar, designed specifically for <strong>Macro/Vore</strong> audiences.
+            </p>
+            <p style="margin-top: 1rem;"><strong>✨ What’s Included</strong></p>
+            <ul>
+              <li>✅ <strong>3D Modeling</strong> (mouth interior, esophagus, stomach)</li>
+              <li>✅ <strong>Texturing / Materials</strong> (clean, immersive visuals)</li>
+              <li>✅ <strong>Full Unity Installation</strong> for <strong>any avatar type</strong></li>
+              <li>✅ <strong>Seat System (Mag or Jackal)</strong> for an exploration-style ride <em>(license required)</em></li>
+              <li>✅ <strong>Blendshapes + Animations</strong> (includes idle animations)</li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <p><strong>🪑 Seat System Info</strong></p>
+            <ul>
+              <li>Uses a <strong>Mag or Jackal seat</strong> to simulate the “being swallowed” exploration.</li>
+              <li><strong>You must already own the seat system license.</strong></li>
+            </ul>
+
+            <p style="margin-top: 1rem;"><strong>💵 Pricing</strong></p>
+            <ul>
+              <li>⭐ <strong>Standard:</strong> <strong>$150 USD</strong></li>
+              <li>👁️ <strong>Face Tracking Compatible:</strong> <strong>$250 USD</strong></li>
+            </ul>
+
+            <div class="note">
+              <p><strong>Note:</strong> Face tracking compatibility costs more because the mouth interior must be adapted to <strong>all facial shapekeys</strong> to prevent <strong>mesh overlap / clipping / deformation</strong>.</p>
+              <p>This <strong>does not add extra features</strong>—it’s purely for clean face tracking support.</p>
+            </div>
+          </article>
+        </div>
+
+        <div class="card" style="margin-top: 1.2rem;">
+          <p><strong>🔁 Other Vore Systems / Frameworks</strong></p>
+          <p>✅ Same pricing applies for other vore frameworks/systems, assuming the <strong>same scope and complexity</strong>.</p>
+
+          <p style="margin-top: 1rem;"><strong>📩 Interested?</strong></p>
+          <ul>
+            <li>Your avatar file/setup info (Unity version + VRChat SDK)</li>
+            <li>Any references for style (realistic / stylized / organic / etc.)</li>
+            <li>Whether you need <strong>Face Tracking support</strong></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>ArtCarmesi — Informative commissions page</p>
+    </div>
+  </footer>
+</body>
+</html>
