@@ -15,7 +15,6 @@ URL Ranks by DiscoPeligro.
         "GUILEAS",
         "Strikkеrz",
         "ReikoSaori",
-        "Tostadita_Azul",
         "Lyziral"
     ],
     "DJ": [
@@ -84,10 +83,6 @@ URL Ranks by DiscoPeligro.
         "kuver11",
         "ᴵᴬᴹ F e r u ღ",
         "goticwolf",
-        "･Mura･",
-        "Lux Morningstar",
-        "Agony Nightstar",
-        "_Viscochin_",
         "Caribbean_Dobie",
         "RammsWolf",
         "Sanssha",
@@ -116,6 +111,9 @@ URL Ranks by DiscoPeligro.
         "VickyNC139",
         "Riverkarma",
         "LoNdA1",
-        "「Nicolas」"
+        "「Nicolas」",
+        "Joshy ˃̵ᴗ˂̵ ఌ",
+        "AftPancakes",
+        "yoina6266"
     ]
 }
