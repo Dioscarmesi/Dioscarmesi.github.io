@@ -87,9 +87,9 @@ URL Ranks by DiscoPeligro.
         "Caribbean_Dobie",
         "RammsWolf",
         "Sanssha",
-        "ikerreki231",
         "Majestad",
-        "jc_jaime f84f"
+        "jc_jaime f84f",
+        "Farra_v18"
     ],
     "Partner": [
         "ᴜѕᴀɢɪᴠʀ",
