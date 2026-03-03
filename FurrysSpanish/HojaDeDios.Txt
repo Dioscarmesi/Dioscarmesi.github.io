@@ -67,6 +67,9 @@ URL Ranks by DiscoPeligro.
         "Lettersmood 5358",
         "Underharley"
     ],
+    "VipManager": [
+        "Tostadita_Azul"
+    ],
     "VIPFurrys": [
         "ZeroNinetales",
         "Bludrian",
