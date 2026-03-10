@@ -1,127 +1,211 @@
 URL Ranks by DiscoPeligro.
-{
-    "Angelika": [
-        "Alegnamon"
-    ],
-    "Mod": [
-        "ShadyBelca",
-        "leitoxs",
-        "mudoXqX",
-        "DenkiKitsune",
-        "N y x ღ",
-        "TerryArtica",
-        "Frezzco",
-        "нσѕнι",
-        "GUILEAS",
-        "Strikkеrz",
-        "ReikoSaori",
-        "Lyziral"
-    ],
-    "DJ": [
-        "VACIO"
-    ],
-    "Guest Dancer": [
-        "RensellaVT",
-        "Shirou1711"
-    ],
-    "Friends": [
-        "バツMakiバツ",
-        "『ϟsxϟ』ツ",
-        "NΛΣŁ",
-        "marixxa",
-        "ᴇᴛᴀᴅɪʟᴀᴠ4500-"
-    ],
-    "JefeDeSeguridad": [
-        "Strikkеrz",
-        "GUILEAS"
-    ],
-    "Entity": [
-        "Nath Kohai",
-        "Nyxphiel",
-        "Miizuho-",
-        "Chaos Spectrum",
-        "MotherAsmodeus",
-        "WolfDaver",
-        "S K Ÿ E",
-        "VaKass",
-        "izayoiiiisan",
-        "Zoraft",
-        "ღFLAREBEASTღ"
-    ],
-    "SinBanner": [
-        "Akzara"
-    ],
-    "Co-Fundador": [
-        "RuzuChan"
-    ],
-    "ELIXIR": [
-        "Phantom Reizack",
-        "poisonliz",
-        "GideonToffu",
-        "nyxntx",
-        "tori_cole",
-        "ºALEXIS---XD-º",
-        "Kunniin",
-        "Yutaura",
-        "GALEON10 d7d9",
-        "Lettersmood 5358",
-        "Underharley"
-    ],
-    "VipManager": [
-        "Tostadita_Azul"
-    ],
-    "VIPFurrys": [
-        "ZeroNinetales",
-        "Bludrian",
-        "N y x ღ",
-        "SilverFenris",
-        "Drech301",
-        "ShadyBelca",
-        "mudoXqX",
-        "Scp 956",
-        "Achiu",
-        "aguadecate",
-        "Laulett",
-        "Mizael Sama",
-        "kuver11",
-        "ᴵᴬᴹ F e r u ღ",
-        "goticwolf",
-        "･Mura･",
-        "Caribbean_Dobie",
-        "RammsWolf",
-        "ikerreki231",
-        "Majestad",
-        "Akita Neru〆",
-        "josyelin",
-        "dequer12",
-        "jc_jaime f84f",
-        "Farra_v18"
-    ],
-    "Partner": [
-        "ᴜѕᴀɢɪᴠʀ",
-        "innari",
-        "Ｓｈｎａｐｉｉ",
-        "ItzJustMao",
-        "VicLxrd",
-        "Rysokah",
-        "Javihhh",
-        "Salamandra29",
-        "Azazel1234",
-        "༺ Stacie ༻",
-        "psicopatología",
-        "lolensic",
-        "kishi27",
-        "SIRIUX",
-        "quesito_34",
-        "-Cosmi",
-        "senkosanvt",
-        "VickyNC139",
-        "Riverkarma",
-        "LoNdA1",
-        "「Nicolas」",
-        "Joshy ˃̵ᴗ˂̵ ఌ",
-        "AftPancakes",
-        "Eco-Scion",
-        "yoina6266"
-    ]
-}
+[
+    {
+        "ranks": [
+            "Angelika"
+        ],
+        "users": [
+            "Alegnamon"
+        ],
+        "groups": [
+            "Angelika"
+        ]
+    },
+    {
+        "ranks": [
+            "Mod"
+        ],
+        "users": [
+            "Lyziral",
+            "нσѕнι",
+            "TerryArtica",
+            "ReikoSaori",
+            "GUILEAS",
+            "ShadyBelca",
+            "Frezzco",
+            "N y x ღ",
+            "Strikkеrz",
+            "leitoxs",
+            "DenkiKitsune",
+            "mudoXqX"
+        ],
+        "groups": [
+            "Mod"
+        ]
+    },
+    {
+        "ranks": [
+            "DJ"
+        ],
+        "users": [
+            "VACIO"
+        ],
+        "groups": [
+            "DJ"
+        ]
+    },
+    {
+        "ranks": [
+            "Guest Dancer"
+        ],
+        "users": [
+            "Shirou1711",
+            "RensellaVT"
+        ],
+        "groups": [
+            "Guest Dancer"
+        ]
+    },
+    {
+        "ranks": [
+            "Friends"
+        ],
+        "users": [
+            "NΛΣŁ",
+            "『ϟsxϟ』ツ",
+            "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
+            "バツMakiバツ",
+            "marixxa"
+        ],
+        "groups": [
+            "Friends"
+        ]
+    },
+    {
+        "ranks": [
+            "JefeDeSeguridad"
+        ],
+        "users": [
+            "GUILEAS",
+            "Strikkеrz"
+        ],
+        "groups": [
+            "JefeDeSeguridad"
+        ]
+    },
+    {
+        "ranks": [
+            "Entity"
+        ],
+        "users": [
+            "MotherAsmodeus",
+            "izayoiiiisan",
+            "ღFLAREBEASTღ",
+            "WolfDaver",
+            "S K Ÿ E",
+            "VaKass",
+            "Zoraft",
+            "Chaos Spectrum",
+            "Miizuho-",
+            "Nath Kohai",
+            "Nyxphiel"
+        ],
+        "groups": [
+            "Entity"
+        ]
+    },
+    {
+        "ranks": [
+            "SinBanner"
+        ],
+        "users": [
+            "Akzara"
+        ],
+        "groups": [
+            "SinBanner"
+        ]
+    },
+    {
+        "ranks": [
+            "Co-Fundador"
+        ],
+        "users": [
+            "RuzuChan"
+        ],
+        "groups": [
+            "Co-Fundador"
+        ]
+    },
+    {
+        "ranks": [
+            "ELIXIR"
+        ],
+        "users": [
+            "Phantom Reizack",
+            "Yutaura",
+            "poisonliz",
+            "Lettersmood 5358",
+            "tori_cole",
+            "GALEON10 d7d9",
+            "GideonToffu",
+            "ºALEXIS---XD-º",
+            "Kunniin",
+            "nyxntx",
+            "Underharley"
+        ],
+        "groups": [
+            "ELIXIR"
+        ]
+    },
+    {
+        "ranks": [
+            "VIPFurrys"
+        ],
+        "users": [
+            "Mizael Sama",
+            "RammsWolf",
+            "kuver11",
+            "Majestad",
+            "jc_jaime f84f",
+            "dequer12",
+            "Achiu",
+            "Akita Neru〆",
+            "ShadyBelca",
+            "Laulett",
+            "josyelin",
+            "ᴵᴬᴹ F e r u ღ",
+            "Drech301",
+            "･Mura･",
+            "ikerreki231",
+            "Caribbean_Dobie",
+            "Bludrian",
+            "N y x ღ",
+            "aguadecate",
+            "SilverFenris",
+            "ZeroNinetales",
+            "goticwolf",
+            "Scp 956",
+            "mudoXqX"
+        ],
+        "groups": [
+            "VIPFurrys"
+        ]
+    },
+    {
+        "ranks": [
+            "Partner"
+        ],
+        "users": [
+            "lolensic",
+            "yoina6266",
+            "-Cosmi",
+            "senkosanvt",
+            "VickyNC139",
+            "AftPancakes",
+            "Ｓｈｎａｐｉｉ",
+            "SIRIUX",
+            "Riverkarma",
+            "「Nicolas」",
+            "Eco-Scion",
+            "innari",
+            "ᴜѕᴀɢɪᴠʀ",
+            "quesito_34",
+            "Joshy ˃̵ᴗ˂̵ ఌ",
+            "LoNdA1",
+            "kishi27"
+        ],
+        "groups": [
+            "Partner"
+        ]
+    }
+]
