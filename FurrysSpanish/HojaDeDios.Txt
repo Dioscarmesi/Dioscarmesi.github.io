@@ -121,6 +121,7 @@ URL Ranks by DiscoPeligro.
         "「Nicolas」",
         "Joshy ˃̵ᴗ˂̵ ఌ",
         "AftPancakes",
+        "Eco-Scion",
         "yoina6266"
     ]
 }
