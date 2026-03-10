@@ -91,6 +91,9 @@ URL Ranks by DiscoPeligro.
         "RammsWolf",
         "ikerreki231",
         "Majestad",
+        "Akita Neru〆",
+        "josyelin",
+        "dequer12",
         "jc_jaime f84f",
         "Farra_v18"
     ],
