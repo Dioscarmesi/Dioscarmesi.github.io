@@ -94,6 +94,9 @@ URL Ranks by DiscoPeligro.
         "Akita Neru〆",
         "josyelin",
         "dequer12",
+        "duckis",
+        "ＴＯＫＡＹＯ",
+        "ო Y A M I ო",
         "jc_jaime f84f",
         "Farra_v18"
     ],
