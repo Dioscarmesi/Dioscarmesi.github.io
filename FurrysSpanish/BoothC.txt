@@ -1,0 +1,6 @@
+{
+  "Nombre": "BoothC",
+  "InfoA": "",
+  "InfoB": "",
+  "InfoC": ""
+}
