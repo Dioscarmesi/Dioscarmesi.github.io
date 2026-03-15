@@ -125,6 +125,7 @@ URL Ranks by DiscoPeligro.
         "Joshy ˃̵ᴗ˂̵ ఌ",
         "AftPancakes",
         "Eco-Scion",
+        "Kashiko Kimura",
         "yoina6266"
     ]
 }
