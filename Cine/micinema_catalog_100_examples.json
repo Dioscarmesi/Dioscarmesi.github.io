@@ -1,6 +1,6 @@
 {
   "catalogName": "MiCinema Demo 100 Items",
-  "version": 1,
+  "version": 2,
   "movies": [
     {
       "id": "movie_001",
@@ -19,7 +19,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_001.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_001.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_001.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_001.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_001.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_001.jpg",
+      "atlasKey": "A",
+      "atlasCell": 0,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 0,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 0,
+      "atlasColumn": 0,
+      "atlasRow": 0
     },
     {
       "id": "movie_002",
@@ -40,7 +52,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_002.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_002.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_002.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_002.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_002.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_002.jpg",
+      "atlasKey": "A",
+      "atlasCell": 1,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 1,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 1,
+      "atlasColumn": 1,
+      "atlasRow": 0
     },
     {
       "id": "movie_003",
@@ -61,7 +85,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_003.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_003.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_003.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_003.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_003.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_003.jpg",
+      "atlasKey": "A",
+      "atlasCell": 2,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 2,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 2,
+      "atlasColumn": 2,
+      "atlasRow": 0
     },
     {
       "id": "movie_004",
@@ -80,7 +116,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_004.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_004.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_004.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_004.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_004.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_004.jpg",
+      "atlasKey": "A",
+      "atlasCell": 3,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 3,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 3,
+      "atlasColumn": 3,
+      "atlasRow": 0
     },
     {
       "id": "movie_005",
@@ -100,7 +148,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_005.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_005.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_005.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_005.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_005.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_005.jpg",
+      "atlasKey": "A",
+      "atlasCell": 4,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 4,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 4,
+      "atlasColumn": 4,
+      "atlasRow": 0
     },
     {
       "id": "movie_006",
@@ -120,7 +180,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_006.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_006.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_006.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_006.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_006.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_006.jpg",
+      "atlasKey": "A",
+      "atlasCell": 5,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 5,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 5,
+      "atlasColumn": 5,
+      "atlasRow": 0
     },
     {
       "id": "movie_007",
@@ -141,7 +213,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_007.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_007.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_007.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_007.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_007.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_007.jpg",
+      "atlasKey": "A",
+      "atlasCell": 6,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 6,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 6,
+      "atlasColumn": 6,
+      "atlasRow": 0
     },
     {
       "id": "movie_008",
@@ -160,7 +244,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_008.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_008.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_008.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_008.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_008.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_008.jpg",
+      "atlasKey": "A",
+      "atlasCell": 7,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 7,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 7,
+      "atlasColumn": 7,
+      "atlasRow": 0
     },
     {
       "id": "movie_009",
@@ -180,7 +276,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_009.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_009.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_009.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_009.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_009.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_009.jpg",
+      "atlasKey": "A",
+      "atlasCell": 8,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 8,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 8,
+      "atlasColumn": 8,
+      "atlasRow": 0
     },
     {
       "id": "movie_010",
@@ -201,7 +309,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_010.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_010.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_010.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_010.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_010.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_010.jpg",
+      "atlasKey": "A",
+      "atlasCell": 9,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 9,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 9,
+      "atlasColumn": 9,
+      "atlasRow": 0
     },
     {
       "id": "movie_011",
@@ -220,7 +340,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_011.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_011.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_011.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_011.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_011.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_011.jpg",
+      "atlasKey": "A",
+      "atlasCell": 10,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 10,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 10,
+      "atlasColumn": 10,
+      "atlasRow": 0
     },
     {
       "id": "movie_012",
@@ -241,7 +373,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_012.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_012.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_012.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_012.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_012.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_012.jpg",
+      "atlasKey": "A",
+      "atlasCell": 11,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 11,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 11,
+      "atlasColumn": 11,
+      "atlasRow": 0
     },
     {
       "id": "movie_013",
@@ -260,7 +404,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_013.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_013.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_013.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_013.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_013.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_013.jpg",
+      "atlasKey": "A",
+      "atlasCell": 12,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 12,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 12,
+      "atlasColumn": 12,
+      "atlasRow": 0
     },
     {
       "id": "movie_014",
@@ -279,7 +435,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_014.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_014.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_014.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_014.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_014.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_014.jpg",
+      "atlasKey": "A",
+      "atlasCell": 13,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 13,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 13,
+      "atlasColumn": 13,
+      "atlasRow": 0
     },
     {
       "id": "movie_015",
@@ -298,7 +466,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_015.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_015.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_015.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_015.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_015.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_015.jpg",
+      "atlasKey": "A",
+      "atlasCell": 14,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 14,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 14,
+      "atlasColumn": 14,
+      "atlasRow": 0
     },
     {
       "id": "movie_016",
@@ -318,7 +498,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_016.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_016.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_016.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_016.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_016.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_016.jpg",
+      "atlasKey": "A",
+      "atlasCell": 15,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 15,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 15,
+      "atlasColumn": 15,
+      "atlasRow": 0
     },
     {
       "id": "movie_017",
@@ -339,7 +531,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_017.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_017.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_017.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_017.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_017.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_017.jpg",
+      "atlasKey": "A",
+      "atlasCell": 16,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 16,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 16,
+      "atlasColumn": 0,
+      "atlasRow": 1
     },
     {
       "id": "movie_018",
@@ -360,7 +564,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_018.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_018.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_018.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_018.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_018.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_018.jpg",
+      "atlasKey": "A",
+      "atlasCell": 17,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 17,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 17,
+      "atlasColumn": 1,
+      "atlasRow": 1
     },
     {
       "id": "movie_019",
@@ -381,7 +597,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_019.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_019.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_019.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_019.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_019.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_019.jpg",
+      "atlasKey": "A",
+      "atlasCell": 18,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 18,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 18,
+      "atlasColumn": 2,
+      "atlasRow": 1
     },
     {
       "id": "movie_020",
@@ -400,7 +628,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_020.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_020.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_020.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_020.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_020.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_020.jpg",
+      "atlasKey": "A",
+      "atlasCell": 19,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 19,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 19,
+      "atlasColumn": 3,
+      "atlasRow": 1
     },
     {
       "id": "movie_021",
@@ -421,7 +661,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_021.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_021.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_021.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_021.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_021.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_021.jpg",
+      "atlasKey": "A",
+      "atlasCell": 20,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 20,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 20,
+      "atlasColumn": 4,
+      "atlasRow": 1
     },
     {
       "id": "movie_022",
@@ -442,7 +694,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_022.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_022.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_022.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_022.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_022.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_022.jpg",
+      "atlasKey": "A",
+      "atlasCell": 21,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 21,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 21,
+      "atlasColumn": 5,
+      "atlasRow": 1
     },
     {
       "id": "movie_023",
@@ -463,7 +727,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_023.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_023.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_023.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_023.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_023.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_023.jpg",
+      "atlasKey": "A",
+      "atlasCell": 22,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 22,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 22,
+      "atlasColumn": 6,
+      "atlasRow": 1
     },
     {
       "id": "movie_024",
@@ -482,7 +758,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_024.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_024.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_024.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_024.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_024.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_024.jpg",
+      "atlasKey": "A",
+      "atlasCell": 23,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 23,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 23,
+      "atlasColumn": 7,
+      "atlasRow": 1
     },
     {
       "id": "movie_025",
@@ -503,7 +791,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_025.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_025.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_025.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_025.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_025.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_025.jpg",
+      "atlasKey": "A",
+      "atlasCell": 24,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 24,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 24,
+      "atlasColumn": 8,
+      "atlasRow": 1
     },
     {
       "id": "movie_026",
@@ -524,7 +824,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_026.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_026.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_026.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_026.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_026.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_026.jpg",
+      "atlasKey": "A",
+      "atlasCell": 25,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 25,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 25,
+      "atlasColumn": 9,
+      "atlasRow": 1
     },
     {
       "id": "movie_027",
@@ -544,7 +856,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_027.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_027.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_027.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_027.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_027.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_027.jpg",
+      "atlasKey": "A",
+      "atlasCell": 26,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 26,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 26,
+      "atlasColumn": 10,
+      "atlasRow": 1
     },
     {
       "id": "movie_028",
@@ -564,7 +888,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_028.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_028.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_028.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_028.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_028.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_028.jpg",
+      "atlasKey": "A",
+      "atlasCell": 27,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 27,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 27,
+      "atlasColumn": 11,
+      "atlasRow": 1
     },
     {
       "id": "movie_029",
@@ -583,7 +919,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_029.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_029.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_029.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_029.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_029.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_029.jpg",
+      "atlasKey": "A",
+      "atlasCell": 28,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 28,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 28,
+      "atlasColumn": 12,
+      "atlasRow": 1
     },
     {
       "id": "movie_030",
@@ -603,7 +951,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_030.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_030.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_030.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_030.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_030.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_030.jpg",
+      "atlasKey": "A",
+      "atlasCell": 29,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 29,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 29,
+      "atlasColumn": 13,
+      "atlasRow": 1
     },
     {
       "id": "movie_031",
@@ -622,7 +982,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_031.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_031.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_031.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_031.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_031.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_031.jpg",
+      "atlasKey": "A",
+      "atlasCell": 30,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 30,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 30,
+      "atlasColumn": 14,
+      "atlasRow": 1
     },
     {
       "id": "movie_032",
@@ -642,7 +1014,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_032.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_032.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_032.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_032.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_032.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_032.jpg",
+      "atlasKey": "A",
+      "atlasCell": 31,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 31,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 31,
+      "atlasColumn": 15,
+      "atlasRow": 1
     },
     {
       "id": "movie_033",
@@ -662,7 +1046,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_033.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_033.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_033.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_033.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_033.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_033.jpg",
+      "atlasKey": "A",
+      "atlasCell": 32,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 32,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 32,
+      "atlasColumn": 0,
+      "atlasRow": 2
     },
     {
       "id": "movie_034",
@@ -683,7 +1079,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_034.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_034.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_034.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_034.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_034.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_034.jpg",
+      "atlasKey": "A",
+      "atlasCell": 33,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 33,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 33,
+      "atlasColumn": 1,
+      "atlasRow": 2
     },
     {
       "id": "movie_035",
@@ -702,7 +1110,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_035.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_035.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_035.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_035.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_035.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_035.jpg",
+      "atlasKey": "A",
+      "atlasCell": 34,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 34,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 34,
+      "atlasColumn": 2,
+      "atlasRow": 2
     },
     {
       "id": "movie_036",
@@ -721,7 +1141,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_036.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_036.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_036.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_036.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_036.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_036.jpg",
+      "atlasKey": "A",
+      "atlasCell": 35,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 35,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 35,
+      "atlasColumn": 3,
+      "atlasRow": 2
     },
     {
       "id": "movie_037",
@@ -742,7 +1174,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_037.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_037.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_037.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_037.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_037.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_037.jpg",
+      "atlasKey": "A",
+      "atlasCell": 36,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 36,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 36,
+      "atlasColumn": 4,
+      "atlasRow": 2
     },
     {
       "id": "movie_038",
@@ -761,7 +1205,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_038.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_038.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_038.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_038.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_038.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_038.jpg",
+      "atlasKey": "A",
+      "atlasCell": 37,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 37,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 37,
+      "atlasColumn": 5,
+      "atlasRow": 2
     },
     {
       "id": "movie_039",
@@ -780,7 +1236,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_039.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_039.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_039.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_039.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_039.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_039.jpg",
+      "atlasKey": "A",
+      "atlasCell": 38,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 38,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 38,
+      "atlasColumn": 6,
+      "atlasRow": 2
     },
     {
       "id": "movie_040",
@@ -801,7 +1269,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_040.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_040.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_040.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_040.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_040.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_040.jpg",
+      "atlasKey": "A",
+      "atlasCell": 39,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 39,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 39,
+      "atlasColumn": 7,
+      "atlasRow": 2
     },
     {
       "id": "movie_041",
@@ -822,7 +1302,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_041.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_041.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_041.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_041.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_041.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_041.jpg",
+      "atlasKey": "A",
+      "atlasCell": 40,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 40,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 40,
+      "atlasColumn": 8,
+      "atlasRow": 2
     },
     {
       "id": "movie_042",
@@ -841,7 +1333,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_042.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_042.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_042.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_042.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_042.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_042.jpg",
+      "atlasKey": "A",
+      "atlasCell": 41,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 41,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 41,
+      "atlasColumn": 9,
+      "atlasRow": 2
     },
     {
       "id": "movie_043",
@@ -861,7 +1365,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_043.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_043.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_043.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_043.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_043.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_043.jpg",
+      "atlasKey": "A",
+      "atlasCell": 42,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 42,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 42,
+      "atlasColumn": 10,
+      "atlasRow": 2
     },
     {
       "id": "movie_044",
@@ -882,7 +1398,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_044.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_044.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_044.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_044.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_044.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_044.jpg",
+      "atlasKey": "A",
+      "atlasCell": 43,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 43,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 43,
+      "atlasColumn": 11,
+      "atlasRow": 2
     },
     {
       "id": "movie_045",
@@ -903,7 +1431,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_045.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_045.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_045.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_045.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_045.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_045.jpg",
+      "atlasKey": "A",
+      "atlasCell": 44,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 44,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 44,
+      "atlasColumn": 12,
+      "atlasRow": 2
     },
     {
       "id": "movie_046",
@@ -922,7 +1462,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_046.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_046.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_046.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_046.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_046.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_046.jpg",
+      "atlasKey": "A",
+      "atlasCell": 45,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 45,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 45,
+      "atlasColumn": 13,
+      "atlasRow": 2
     },
     {
       "id": "movie_047",
@@ -942,7 +1494,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_047.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_047.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_047.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_047.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_047.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_047.jpg",
+      "atlasKey": "A",
+      "atlasCell": 46,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 46,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 46,
+      "atlasColumn": 14,
+      "atlasRow": 2
     },
     {
       "id": "movie_048",
@@ -963,7 +1527,19 @@
       "section": "new_releases",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_048.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_048.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_048.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_048.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_048.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_048.jpg",
+      "atlasKey": "A",
+      "atlasCell": 47,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 47,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 47,
+      "atlasColumn": 15,
+      "atlasRow": 2
     },
     {
       "id": "movie_049",
@@ -983,7 +1559,19 @@
       "section": "recently_added",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_049.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_049.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_049.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_049.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_049.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_049.jpg",
+      "atlasKey": "A",
+      "atlasCell": 48,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 48,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 48,
+      "atlasColumn": 0,
+      "atlasRow": 3
     },
     {
       "id": "movie_050",
@@ -1003,7 +1591,19 @@
       "section": "catalog",
       "posterUrl": "https://cdn.example.com/micinema/posters/movie_050.jpg",
       "heroUrl": "https://cdn.example.com/micinema/heroes/movie_050.jpg",
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/movie_050.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/movie_050.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/movie_050.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/movie_050.jpg",
+      "atlasKey": "A",
+      "atlasCell": 49,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 49,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 49,
+      "atlasColumn": 1,
+      "atlasRow": 3
     },
     {
       "id": "series_001",
@@ -1260,7 +1860,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_001.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_001.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_001.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_001.jpg",
+      "atlasKey": "A",
+      "atlasCell": 50,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 50,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 50,
+      "atlasColumn": 2,
+      "atlasRow": 3
     },
     {
       "id": "series_002",
@@ -1538,7 +2150,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_002.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_002.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_002.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_002.jpg",
+      "atlasKey": "A",
+      "atlasCell": 51,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 51,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 51,
+      "atlasColumn": 3,
+      "atlasRow": 3
     },
     {
       "id": "series_003",
@@ -1921,7 +2545,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_003.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_003.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_003.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_003.jpg",
+      "atlasKey": "A",
+      "atlasCell": 52,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 52,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 52,
+      "atlasColumn": 4,
+      "atlasRow": 3
     },
     {
       "id": "series_004",
@@ -2155,7 +2791,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_004.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_004.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_004.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_004.jpg",
+      "atlasKey": "A",
+      "atlasCell": 53,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 53,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 53,
+      "atlasColumn": 5,
+      "atlasRow": 3
     },
     {
       "id": "series_005",
@@ -2254,7 +2902,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_005.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_005.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_005.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_005.jpg",
+      "atlasKey": "A",
+      "atlasCell": 54,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 54,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 54,
+      "atlasColumn": 6,
+      "atlasRow": 3
     },
     {
       "id": "series_006",
@@ -2503,7 +3163,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_006.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_006.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_006.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_006.jpg",
+      "atlasKey": "A",
+      "atlasCell": 55,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 55,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 55,
+      "atlasColumn": 7,
+      "atlasRow": 3
     },
     {
       "id": "series_007",
@@ -2782,7 +3454,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_007.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_007.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_007.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_007.jpg",
+      "atlasKey": "A",
+      "atlasCell": 56,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 56,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 56,
+      "atlasColumn": 8,
+      "atlasRow": 3
     },
     {
       "id": "series_008",
@@ -3240,7 +3924,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_008.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_008.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_008.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_008.jpg",
+      "atlasKey": "A",
+      "atlasCell": 57,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 57,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 57,
+      "atlasColumn": 9,
+      "atlasRow": 3
     },
     {
       "id": "series_009",
@@ -3702,7 +4398,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_009.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_009.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_009.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_009.jpg",
+      "atlasKey": "A",
+      "atlasCell": 58,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 58,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 58,
+      "atlasColumn": 10,
+      "atlasRow": 3
     },
     {
       "id": "series_010",
@@ -4086,7 +4794,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_010.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_010.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_010.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_010.jpg",
+      "atlasKey": "A",
+      "atlasCell": 59,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 59,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 59,
+      "atlasColumn": 11,
+      "atlasRow": 3
     },
     {
       "id": "series_011",
@@ -4343,7 +5063,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_011.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_011.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_011.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_011.jpg",
+      "atlasKey": "A",
+      "atlasCell": 60,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 60,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 60,
+      "atlasColumn": 12,
+      "atlasRow": 3
     },
     {
       "id": "series_012",
@@ -4706,7 +5438,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_012.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_012.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_012.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_012.jpg",
+      "atlasKey": "A",
+      "atlasCell": 61,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 61,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 61,
+      "atlasColumn": 13,
+      "atlasRow": 3
     },
     {
       "id": "series_013",
@@ -4940,7 +5684,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_013.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_013.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_013.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_013.jpg",
+      "atlasKey": "A",
+      "atlasCell": 62,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 62,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 62,
+      "atlasColumn": 14,
+      "atlasRow": 3
     },
     {
       "id": "series_014",
@@ -5363,7 +6119,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_014.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_014.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_014.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_014.jpg",
+      "atlasKey": "A",
+      "atlasCell": 63,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 63,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 63,
+      "atlasColumn": 15,
+      "atlasRow": 3
     },
     {
       "id": "series_015",
@@ -5511,7 +6279,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_015.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_015.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_015.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_015.jpg",
+      "atlasKey": "A",
+      "atlasCell": 64,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 64,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 64,
+      "atlasColumn": 0,
+      "atlasRow": 4
     },
     {
       "id": "series_016",
@@ -5753,7 +6533,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_016.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_016.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_016.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_016.jpg",
+      "atlasKey": "A",
+      "atlasCell": 65,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 65,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 65,
+      "atlasColumn": 1,
+      "atlasRow": 4
     },
     {
       "id": "series_017",
@@ -6085,7 +6877,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_017.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_017.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_017.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_017.jpg",
+      "atlasKey": "A",
+      "atlasCell": 66,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 66,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 66,
+      "atlasColumn": 2,
+      "atlasRow": 4
     },
     {
       "id": "series_018",
@@ -6303,7 +7107,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_018.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_018.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_018.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_018.jpg",
+      "atlasKey": "A",
+      "atlasCell": 67,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 67,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 67,
+      "atlasColumn": 3,
+      "atlasRow": 4
     },
     {
       "id": "series_019",
@@ -6475,7 +7291,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_019.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_019.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_019.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_019.jpg",
+      "atlasKey": "A",
+      "atlasCell": 68,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 68,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 68,
+      "atlasColumn": 4,
+      "atlasRow": 4
     },
     {
       "id": "series_020",
@@ -6889,7 +7717,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_020.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_020.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_020.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_020.jpg",
+      "atlasKey": "A",
+      "atlasCell": 69,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 69,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 69,
+      "atlasColumn": 5,
+      "atlasRow": 4
     },
     {
       "id": "series_021",
@@ -7183,7 +8023,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_021.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_021.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_021.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_021.jpg",
+      "atlasKey": "A",
+      "atlasCell": 70,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 70,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 70,
+      "atlasColumn": 6,
+      "atlasRow": 4
     },
     {
       "id": "series_022",
@@ -7306,7 +8158,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_022.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_022.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_022.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_022.jpg",
+      "atlasKey": "A",
+      "atlasCell": 71,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 71,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 71,
+      "atlasColumn": 7,
+      "atlasRow": 4
     },
     {
       "id": "series_023",
@@ -7668,7 +8532,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_023.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_023.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_023.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_023.jpg",
+      "atlasKey": "A",
+      "atlasCell": 72,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 72,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 72,
+      "atlasColumn": 8,
+      "atlasRow": 4
     },
     {
       "id": "series_024",
@@ -8040,7 +8916,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_024.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_024.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_024.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_024.jpg",
+      "atlasKey": "A",
+      "atlasCell": 73,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 73,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 73,
+      "atlasColumn": 9,
+      "atlasRow": 4
     },
     {
       "id": "series_025",
@@ -8318,7 +9206,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_025.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_025.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_025.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_025.jpg",
+      "atlasKey": "A",
+      "atlasCell": 74,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 74,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 74,
+      "atlasColumn": 10,
+      "atlasRow": 4
     },
     {
       "id": "series_026",
@@ -8615,7 +9515,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_026.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_026.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_026.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_026.jpg",
+      "atlasKey": "A",
+      "atlasCell": 75,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 75,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 75,
+      "atlasColumn": 11,
+      "atlasRow": 4
     },
     {
       "id": "series_027",
@@ -9007,7 +9919,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_027.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_027.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_027.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_027.jpg",
+      "atlasKey": "A",
+      "atlasCell": 76,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 76,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 76,
+      "atlasColumn": 12,
+      "atlasRow": 4
     },
     {
       "id": "series_028",
@@ -9419,7 +10343,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_028.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_028.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_028.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_028.jpg",
+      "atlasKey": "A",
+      "atlasCell": 77,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 77,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 77,
+      "atlasColumn": 13,
+      "atlasRow": 4
     },
     {
       "id": "series_029",
@@ -9866,7 +10802,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_029.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_029.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_029.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_029.jpg",
+      "atlasKey": "A",
+      "atlasCell": 78,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 78,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 78,
+      "atlasColumn": 14,
+      "atlasRow": 4
     },
     {
       "id": "series_030",
@@ -10158,7 +11106,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_030.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_030.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_030.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_030.jpg",
+      "atlasKey": "A",
+      "atlasCell": 79,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 79,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 79,
+      "atlasColumn": 15,
+      "atlasRow": 4
     },
     {
       "id": "series_031",
@@ -10340,7 +11300,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_031.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_031.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_031.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_031.jpg",
+      "atlasKey": "A",
+      "atlasCell": 80,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 80,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 80,
+      "atlasColumn": 0,
+      "atlasRow": 5
     },
     {
       "id": "series_032",
@@ -10777,7 +11749,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_032.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_032.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_032.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_032.jpg",
+      "atlasKey": "A",
+      "atlasCell": 81,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 81,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 81,
+      "atlasColumn": 1,
+      "atlasRow": 5
     },
     {
       "id": "series_033",
@@ -10896,7 +11880,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_033.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_033.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_033.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_033.jpg",
+      "atlasKey": "A",
+      "atlasCell": 82,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 82,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 82,
+      "atlasColumn": 2,
+      "atlasRow": 5
     },
     {
       "id": "series_034",
@@ -11350,7 +12346,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_034.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_034.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_034.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_034.jpg",
+      "atlasKey": "A",
+      "atlasCell": 83,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 83,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 83,
+      "atlasColumn": 3,
+      "atlasRow": 5
     },
     {
       "id": "series_035",
@@ -11728,7 +12736,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_035.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_035.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_035.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_035.jpg",
+      "atlasKey": "A",
+      "atlasCell": 84,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 84,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 84,
+      "atlasColumn": 4,
+      "atlasRow": 5
     },
     {
       "id": "series_036",
@@ -12140,7 +13160,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_036.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_036.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_036.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_036.jpg",
+      "atlasKey": "A",
+      "atlasCell": 85,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 85,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 85,
+      "atlasColumn": 5,
+      "atlasRow": 5
     },
     {
       "id": "series_037",
@@ -12429,7 +13461,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_037.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_037.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_037.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_037.jpg",
+      "atlasKey": "A",
+      "atlasCell": 86,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 86,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 86,
+      "atlasColumn": 6,
+      "atlasRow": 5
     },
     {
       "id": "series_038",
@@ -12731,7 +13775,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_038.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_038.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_038.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_038.jpg",
+      "atlasKey": "A",
+      "atlasCell": 87,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 87,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 87,
+      "atlasColumn": 7,
+      "atlasRow": 5
     },
     {
       "id": "series_039",
@@ -12835,7 +13891,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_039.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_039.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_039.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_039.jpg",
+      "atlasKey": "A",
+      "atlasCell": 88,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 88,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 88,
+      "atlasColumn": 8,
+      "atlasRow": 5
     },
     {
       "id": "series_040",
@@ -13213,7 +14281,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_040.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_040.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_040.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_040.jpg",
+      "atlasKey": "A",
+      "atlasCell": 89,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 89,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 89,
+      "atlasColumn": 9,
+      "atlasRow": 5
     },
     {
       "id": "series_041",
@@ -13380,7 +14460,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_041.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_041.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_041.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_041.jpg",
+      "atlasKey": "A",
+      "atlasCell": 90,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 90,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 90,
+      "atlasColumn": 10,
+      "atlasRow": 5
     },
     {
       "id": "series_042",
@@ -13802,7 +14894,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_042.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_042.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_042.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_042.jpg",
+      "atlasKey": "A",
+      "atlasCell": 91,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 91,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 91,
+      "atlasColumn": 11,
+      "atlasRow": 5
     },
     {
       "id": "series_043",
@@ -14076,7 +15180,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_043.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_043.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_043.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_043.jpg",
+      "atlasKey": "A",
+      "atlasCell": 92,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 92,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 92,
+      "atlasColumn": 12,
+      "atlasRow": 5
     },
     {
       "id": "series_044",
@@ -14490,7 +15606,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_044.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_044.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_044.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_044.jpg",
+      "atlasKey": "A",
+      "atlasCell": 93,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 93,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 93,
+      "atlasColumn": 13,
+      "atlasRow": 5
     },
     {
       "id": "series_045",
@@ -14648,7 +15776,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_045.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_045.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_045.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_045.jpg",
+      "atlasKey": "A",
+      "atlasCell": 94,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 94,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 94,
+      "atlasColumn": 14,
+      "atlasRow": 5
     },
     {
       "id": "series_046",
@@ -14871,7 +16011,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_046.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_046.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_046.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_046.jpg",
+      "atlasKey": "A",
+      "atlasCell": 95,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 95,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 95,
+      "atlasColumn": 15,
+      "atlasRow": 5
     },
     {
       "id": "series_047",
@@ -15215,7 +16367,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_047.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_047.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_047.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_047.jpg",
+      "atlasKey": "A",
+      "atlasCell": 96,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 96,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 96,
+      "atlasColumn": 0,
+      "atlasRow": 6
     },
     {
       "id": "series_048",
@@ -15599,7 +16763,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_048.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_048.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_048.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_048.jpg",
+      "atlasKey": "A",
+      "atlasCell": 97,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 97,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 97,
+      "atlasColumn": 1,
+      "atlasRow": 6
     },
     {
       "id": "series_049",
@@ -15898,7 +17074,19 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_049.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_049.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_049.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_049.jpg",
+      "atlasKey": "A",
+      "atlasCell": 98,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 98,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 98,
+      "atlasColumn": 2,
+      "atlasRow": 6
     },
     {
       "id": "series_050",
@@ -16037,7 +17225,45 @@
           "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
         }
       ],
-      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU"
+      "videoUrl": "https://youtu.be/620KfrEkWZ0?si=Fv3spGxPdLV3yhmU",
+      "url": "https://cdn.example.com/micinema/posters/series_050.jpg",
+      "imageUrl": "https://cdn.example.com/micinema/posters/series_050.jpg",
+      "posterImageUrl": "https://cdn.example.com/micinema/posters/series_050.jpg",
+      "heroImageUrl": "https://cdn.example.com/micinema/heroes/series_050.jpg",
+      "atlasKey": "A",
+      "atlasCell": 99,
+      "posterAtlasKey": "A",
+      "posterAtlasCell": 99,
+      "heroAtlasKey": "A",
+      "heroAtlasCell": 99,
+      "atlasColumn": 3,
+      "atlasRow": 6
+    }
+  ],
+  "schema": "micinema.catalog.compat.v2",
+  "imageMode": "direct_url_and_atlas",
+  "atlasInfo": {
+    "columns": 16,
+    "rows": 8,
+    "cellCount": 128,
+    "notes": "Replace atlas URLs with your real atlas files if your Udon code resolves images by atlasKey/atlasCell."
+  },
+  "posterAtlases": [
+    {
+      "key": "A",
+      "urlPc": "https://REPLACE_WITH_YOUR_REAL_POSTER_ATLAS_PC.png",
+      "urlQuest": "https://REPLACE_WITH_YOUR_REAL_POSTER_ATLAS_QUEST.png",
+      "columns": 16,
+      "rows": 8
+    }
+  ],
+  "heroAtlases": [
+    {
+      "key": "A",
+      "urlPc": "https://REPLACE_WITH_YOUR_REAL_HERO_ATLAS_PC.png",
+      "urlQuest": "https://REPLACE_WITH_YOUR_REAL_HERO_ATLAS_QUEST.png",
+      "columns": 16,
+      "rows": 8
     }
   ]
 }
