@@ -1,6 +1,6 @@
 {
-  "Nombre": "BoothB",
-  "InfoA": "",
-  "InfoB": "",
+  "Nombre": "SkateJapoSkateJapo",
+  "InfoA": "¡Hola! Soy SkateJapo.",
+  "InfoB": "Ropita para avatares desde 0, texturas personalizadas y comisiones de avatares.",
   "InfoC": ""
 }
