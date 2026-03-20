@@ -1,6 +1,6 @@
 {
   "Nombre": "SkateJapo",
   "InfoA": "¡Hola! Soy SkateJapo.",
-  "InfoB": "IG: @SkateJapoShop: jinxxy.com/SkateJapo",
+  "InfoB": "IG: @SkateJapo: jinxxy.com/SkateJapo",
   "InfoC": "Ropita para avatares desde 0, texturas personalizadas y comisiones de avatares."
 }

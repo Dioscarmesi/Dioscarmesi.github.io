@@ -1,6 +1,15 @@
 {
-  "Nombre": "BoothC",
-  "InfoA": "",
-  "InfoB": "",
-  "InfoC": ""
+  "Nombre": "korzix",
+  "InfoA": "Me presento, me llamo KorZix.
+Soy un joven que está estudiando y dedicando constantemente su tiempo a estudiar diseño 3D a nivel profesional.
+Mi especialidad principal es la creación de modelos desde 0 en Blender y Adobe Substance.",
+  "InfoB": "-Crear un Avatar nuevo, es decir, crear todo el personaje completo que se me asigne usando mis habilidades.
+-Efectos especiales con partículas y/o materiales personalizados.
+-Todas mis comisiones tienen menús estilizados y cómodos para el usuario.
+-Mis servicios suelen venir con un regalo aleatorio :3",
+  "InfoC": "Instagram: korzix42
+
+Discord: korzix
+
+X/Twitter: @KorZixVR"
 }
