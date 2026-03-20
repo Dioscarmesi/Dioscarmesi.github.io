@@ -14,7 +14,10 @@ URL Ranks by DiscoPeligro.
     "StivenHoshi",
     ".Nugetsu",
     "Roxytooty",
-    "YAP."
+    "YAP.",
+    "aleon1001",
+    "Rubeko",
+    "DEVILZOO_"
   ],
   "Mod": ["Vacio"],
   "DJ": ["Vacio"],
