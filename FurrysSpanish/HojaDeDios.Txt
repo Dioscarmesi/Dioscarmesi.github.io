@@ -32,7 +32,7 @@ URL Ranks by DiscoPeligro.
         "ᴇᴛᴀᴅɪʟᴀᴠ4500-"
     ],
     "JefeDeSeguridad": [
-        "Strikkеrz",
+        "Strikkerz'",
         "GUILEAS"
     ],
     "Entity": [
