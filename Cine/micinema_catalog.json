@@ -13,72 +13,278 @@
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
-    { "key": "A", "url": "A.png" },
-    { "key": "B", "url": "B.png" },
-    { "key": "C", "url": "C.png" },
-    { "key": "D", "url": "D.png" },
-    { "key": "E", "url": "E.png" },
-    { "key": "F", "url": "F.png" },
-    { "key": "G", "url": "G.png" }
+    {
+      "key": "A",
+      "url": "A.png"
+    },
+    {
+      "key": "B",
+      "url": "B.png"
+    },
+    {
+      "key": "C",
+      "url": "C.png"
+    },
+    {
+      "key": "D",
+      "url": "D.png"
+    },
+    {
+      "key": "E",
+      "url": "E.png"
+    },
+    {
+      "key": "F",
+      "url": "F.png"
+    },
+    {
+      "key": "G",
+      "url": "G.png"
+    }
   ],
   "heroAtlases": [
-    { "key": "A", "url": "A.png" },
-    { "key": "B", "url": "B.png" },
-    { "key": "C", "url": "C.png" },
-    { "key": "D", "url": "D.png" },
-    { "key": "E", "url": "E.png" },
-    { "key": "F", "url": "F.png" },
-    { "key": "G", "url": "G.png" }
+    {
+      "key": "A",
+      "url": "A.png"
+    },
+    {
+      "key": "B",
+      "url": "B.png"
+    },
+    {
+      "key": "C",
+      "url": "C.png"
+    },
+    {
+      "key": "D",
+      "url": "D.png"
+    },
+    {
+      "key": "E",
+      "url": "E.png"
+    },
+    {
+      "key": "F",
+      "url": "F.png"
+    },
+    {
+      "key": "G",
+      "url": "G.png"
+    }
   ],
   "movies": [
     {
       "type": "movie",
-      "title": "Alita",
-      "description": "Alita es un cyborg que se despierta en la clínica de un médico sin recordar quién es...",
-      "duration": "",
+      "title": "Battle Angel: la última guerrera",
+      "description": "Alita es un cyborg que se despierta en la clínica de un médico sin recordar quién es. La cyborg deberá usar sus extraordinarias habilidades para combatir contra enemigos terribles, mientras trata de descubrir la verdad sobre su pasado.",
+      "duration": "2H 2m",
       "rating": "PG-13",
       "section": "catalog",
       "year": 2019,
-      "releaseDate": "2026-03-27",
-      "genres": ["Action", "Cyberpunk", "Sci-Fi"],
-      "languages": ["Spanish", "English", "Japanese", "Korean"],
-      "videoUrl": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19",
-      "episodes": [
-        { "title": "English", "url": "https://www.youtube.com/watch?v=mp_t-oMycyE&list=LL&index=18" },
-        { "title": "Japanese", "url": "https://www.youtube.com/watch?v=qveCkmte2DQ&list=LL&index=20" },
-        { "title": "Korean", "url": "https://www.youtube.com/watch?v=EfC4j3-yoc4&list=LL&index=19" }
+      "releaseDate": "2026-03-28",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Cyberpunk"
+      ],
+      "languages": [
+        "Spanish"
       ],
       "links": {
-        "default": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19",
-        "language_English": "https://www.youtube.com/watch?v=mp_t-oMycyE&list=LL&index=18",
-        "language_Japanese": "https://www.youtube.com/watch?v=qveCkmte2DQ&list=LL&index=20",
-        "language_Korean": "https://www.youtube.com/watch?v=EfC4j3-yoc4&list=LL&index=19"
+        "default": "as",
+        "language_English": "as"
       },
       "enabled": true,
       "id": "movie_001",
+      "addedAt": "2026-03-28T08:30:11.623Z",
+      "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 0
-    }
-  ],
-  "series": [
+    },
     {
-      "type": "series",
-      "title": "Arcane",
-      "languages": ["Spanish"],
-      "videoUrl": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19",
-      "episodes": [
-        { "id": "series_001_language_Spanish_Cap_2", "title": "Capítulo 2", "url": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19" },
-        { "id": "series_001_language_Spanish_Cap_3", "title": "Capítulo 3", "url": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19" }
+      "type": "movie",
+      "title": "Baby: el aprendiz del crimen",
+      "description": "",
+      "duration": "1h 55m",
+      "rating": "PG-13",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2026-03-28",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
       ],
       "links": {
-        "default": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19",
-        "language_Spanish_Cap_2": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19",
-        "language_Spanish_Cap_3": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19"
+        "default": "s",
+        "language_English": "sd"
       },
       "enabled": true,
-      "id": "series_001",
+      "id": "movie_002",
+      "addedAt": "2026-03-28T08:31:30.730Z",
+      "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 1
+    },
+    {
+      "type": "movie",
+      "title": "Batman inicia",
+      "description": "Después de la muerte de sus padres, el joven heredero Bruce Wayne se convierte en un vengador enmascarado que lucha contra las fuerzas del mal en Ciudad Gótica.",
+      "duration": "2h 20m",
+      "rating": "PG-13",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2026-03-28",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "sddf"
+      },
+      "enabled": true,
+      "id": "movie_003",
+      "addedAt": "2026-03-28T08:32:56.558Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 2
+    },
+    {
+      "type": "movie",
+      "title": "Deadpool",
+      "description": "Un ex mercenario quien, tras haber sido sometido a un cruel experimento, adquiere el superpoder de sanar rápidamente y pretende vengarse del hombre que destrozó su vida.",
+      "duration": "1h 48m",
+      "rating": "PG-13",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2026-03-28",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "sdf"
+      },
+      "enabled": true,
+      "id": "movie_004",
+      "addedAt": "2026-03-28T08:34:14.627Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 3
+    },
+    {
+      "type": "movie",
+      "title": "Deadpool 2",
+      "description": "Deadpool debe proteger a Russell, un adolescente mutante, de Cable, un soldado del futuro genéticamente modificado. Deadpool se alía con otros superhéroes para poder derrotar al poderoso Cable.",
+      "duration": "",
+      "rating": "PG-13",
+      "section": "catalog",
+      "year": 2,
+      "releaseDate": "2026-03-28",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asd"
+      },
+      "enabled": true,
+      "id": "movie_005",
+      "addedAt": "2026-03-28T08:36:07.936Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 4
+    },
+    {
+      "type": "movie",
+      "title": "Drive",
+      "description": "Un doble de cine de Hollywood que trabaja como conductor para criminales empieza a recibir amenazas de muerte después de un robo fallido.",
+      "duration": "1h 40m",
+      "rating": "PG-13",
+      "section": "catalog",
+      "year": 140,
+      "releaseDate": "2026-03-28",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "dsf"
+      },
+      "enabled": true,
+      "id": "movie_006",
+      "addedAt": "2026-03-28T08:37:58.970Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 5
+    },
+    {
+      "type": "movie",
+      "title": "Army of Thieves",
+      "description": "Una misteriosa mujer recluta a un cajero de banco para abrir las cajas fuertes más legendarias en Europa.",
+      "duration": "2h 10m",
+      "rating": "PG-13",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2026-03-28",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdad"
+      },
+      "enabled": true,
+      "id": "movie_007",
+      "addedAt": "2026-03-28T08:39:43.417Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 6
+    },
+    {
+      "type": "movie",
+      "title": "Batman: el caballero de la noche asciende",
+      "description": "Ocho años después de asumir la culpa por la muerte de Harvey Dent y desaparecer en la noche, Batman se ve obligado a salir del exilio autoimpuesto gracias a una ladrona astuta y a un terrorista despiadado.",
+      "duration": "2h 44m",
+      "rating": "PG-13",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-03-28",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asds"
+      },
+      "enabled": true,
+      "id": "movie_008",
+      "addedAt": "2026-03-28T08:41:11.442Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 7
     }
-  ]
+  ],
+  "series": []
 }
