@@ -1,0 +1,84 @@
+{
+  "catalogName": "MiCinema New Catalog",
+  "version": 2,
+  "schema": "micinema.catalog.compat.v2",
+  "atlasInfo": {
+    "columns": 16,
+    "rows": 8,
+    "cellCount": 128,
+    "atlasCount": 7,
+    "itemsPerAtlas": 128,
+    "notes": "Reset for new entry.",
+    "catalogCount": 0
+  },
+  "imageMode": "atlas_registry_only",
+  "posterAtlases": [
+    { "key": "A", "url": "A.png" },
+    { "key": "B", "url": "B.png" },
+    { "key": "C", "url": "C.png" },
+    { "key": "D", "url": "D.png" },
+    { "key": "E", "url": "E.png" },
+    { "key": "F", "url": "F.png" },
+    { "key": "G", "url": "G.png" }
+  ],
+  "heroAtlases": [
+    { "key": "A", "url": "A.png" },
+    { "key": "B", "url": "B.png" },
+    { "key": "C", "url": "C.png" },
+    { "key": "D", "url": "D.png" },
+    { "key": "E", "url": "E.png" },
+    { "key": "F", "url": "F.png" },
+    { "key": "G", "url": "G.png" }
+  ],
+  "movies": [
+    {
+      "type": "movie",
+      "title": "Alita",
+      "description": "Alita es un cyborg que se despierta en la clínica de un médico sin recordar quién es...",
+      "duration": "",
+      "rating": "PG-13",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2026-03-27",
+      "genres": ["Action", "Cyberpunk", "Sci-Fi"],
+      "languages": ["Spanish", "English", "Japanese", "Korean"],
+      "videoUrl": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19",
+      "episodes": [
+        { "title": "English", "url": "https://www.youtube.com/watch?v=mp_t-oMycyE&list=LL&index=18" },
+        { "title": "Japanese", "url": "https://www.youtube.com/watch?v=qveCkmte2DQ&list=LL&index=20" },
+        { "title": "Korean", "url": "https://www.youtube.com/watch?v=EfC4j3-yoc4&list=LL&index=19" }
+      ],
+      "links": {
+        "default": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19",
+        "language_English": "https://www.youtube.com/watch?v=mp_t-oMycyE&list=LL&index=18",
+        "language_Japanese": "https://www.youtube.com/watch?v=qveCkmte2DQ&list=LL&index=20",
+        "language_Korean": "https://www.youtube.com/watch?v=EfC4j3-yoc4&list=LL&index=19"
+      },
+      "enabled": true,
+      "id": "movie_001",
+      "atlas": "A",
+      "gridIndex": 0
+    }
+  ],
+  "series": [
+    {
+      "type": "series",
+      "title": "Arcane",
+      "languages": ["Spanish"],
+      "videoUrl": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19",
+      "episodes": [
+        { "id": "series_001_language_Spanish_Cap_2", "title": "Capítulo 2", "url": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19" },
+        { "id": "series_001_language_Spanish_Cap_3", "title": "Capítulo 3", "url": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19" }
+      ],
+      "links": {
+        "default": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19",
+        "language_Spanish_Cap_2": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19",
+        "language_Spanish_Cap_3": "https://www.youtube.com/watch?v=SGb9mvS_994&list=LL&index=19"
+      },
+      "enabled": true,
+      "id": "series_001",
+      "atlas": "A",
+      "gridIndex": 1
+    }
+  ]
+}
