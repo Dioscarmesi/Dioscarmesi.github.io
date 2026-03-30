@@ -1,6 +1,22 @@
 [
     {
         "ranks": [
+            "Banner1"
+        ],
+        "users": [
+            "Dios Carmesi"
+        ],
+        "groups": [
+            "Banner1"
+        ],
+        "custom_indexes": {
+            "1": [
+                "Dios Carmesi"
+            ]
+        }
+    },
+    {
+        "ranks": [
             "Angelika"
         ],
         "users": [
@@ -145,6 +161,17 @@
         ],
         "groups": [
             "ELIXIR"
+        ]
+    },
+    {
+        "ranks": [
+            "Owner"
+        ],
+        "users": [
+            "Dios Carmesi"
+        ],
+        "groups": [
+            "Owner"
         ]
     },
     {
