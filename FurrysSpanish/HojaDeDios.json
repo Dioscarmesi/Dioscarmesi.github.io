@@ -226,7 +226,8 @@
             "Angelika"
         ],
         "users": [
-            "Alegnamon"
+            "Alegnamon",
+            "Dios Carmesi"
         ],
         "groups": [
             "Angelika"
@@ -368,17 +369,6 @@
         ],
         "groups": [
             "ELIXIR"
-        ]
-    },
-    {
-        "ranks": [
-            "Owner"
-        ],
-        "users": [
-            "Dios Carmesi"
-        ],
-        "groups": [
-            "Owner"
         ]
     },
     {
