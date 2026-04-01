@@ -79,7 +79,7 @@
       "description": "Alita es un cyborg que se despierta en la clínica de un médico sin recordar quién es. La cyborg deberá usar sus extraordinarias habilidades para combatir contra enemigos terribles, mientras trata de descubrir la verdad sobre su pasado.",
       "duration": "2H 2m",
       "rating": "PG-13",
-      "quality": "None",
+      "quality": "HD",
       "section": "catalog",
       "year": 2019,
       "releaseDate": "2026-03-28",
@@ -94,7 +94,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "as",
+        "default": "https://youtu.be/Q3s7ZNXoQpM?si=E0c0fny6qJJ43w8s",
         "language_English": "as"
       },
       "enabled": true,
@@ -245,7 +245,7 @@
       "description": "Una misteriosa mujer recluta a un cajero de banco para abrir las cajas fuertes más legendarias en Europa.",
       "duration": "2h 10m",
       "rating": "PG-13",
-      "quality": "None",
+      "quality": "LQ",
       "section": "catalog",
       "year": 2021,
       "releaseDate": "2026-03-28",
@@ -273,7 +273,7 @@
       "description": "Ocho años después de asumir la culpa por la muerte de Harvey Dent y desaparecer en la noche, Batman se ve obligado a salir del exilio autoimpuesto gracias a una ladrona astuta y a un terrorista despiadado.",
       "duration": "2h 44m",
       "rating": "PG-13",
-      "quality": "None",
+      "quality": "HD",
       "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-03-28",
@@ -294,5 +294,1497 @@
       "gridIndex": 7
     }
   ],
-  "series": []
+  "series": [
+    {
+      "type": "series",
+      "title": "Loky",
+      "description": "Loki se aleja de la sombra de su hermano para embarcarse en una aventura que se desarrolla tras los acontecimientos de \"Avengers: Endgame\".",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2026-03-31",
+      "genres": [
+        "Action",
+        "Crime",
+        "Adventure",
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_009",
+      "addedAt": "2026-04-01T00:03:43.617Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 8,
+      "episodes": [
+        {
+          "id": "series_009_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "dsasd"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asdasda"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "asdasd"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "asdasd"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "asdasd"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Loky Temporada 2",
+      "description": "",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_010",
+      "addedAt": "2026-04-01T02:28:47.687Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 9,
+      "episodes": [
+        {
+          "id": "series_010_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asdad"
+        },
+        {
+          "id": "series_010_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asdad"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T1",
+      "description": "Introduce a Malcolm, un niño superdotado atrapado en una familia caótica. Se muestra su traslado a la clase de “genios” (Krelboynes) y el contraste entre su inteligencia y su vida familiar disfuncional. El humor se basa en situaciones absurdas y la ruptura de la cuarta pared.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2000,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_011",
+      "addedAt": "2026-04-01T02:58:42.907Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 10,
+      "episodes": [
+        {
+          "id": "series_011_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "asd"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "asd"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "asd"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "asd"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "asd"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "asd"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "asd"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "asd"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "asd"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "asd"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "asd"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "sdf"
+        },
+        {
+          "id": "series_011_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "sdf"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T2",
+      "description": "Se profundiza en los personajes secundarios (Dewey, Reese, Francis). Malcolm empieza a lidiar más con su ego e inseguridades. Francis entra a la academia militar, lo que añade tramas paralelas.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2000,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_012",
+      "addedAt": "2026-04-01T02:58:55.742Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 11,
+      "episodes": [
+        {
+          "id": "series_012_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "asd"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "asd"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "asd"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "asd"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "asd"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "asd"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "asd"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "asd"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "asd"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "asd"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "asd"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "sdf"
+        },
+        {
+          "id": "series_012_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "sdf"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T3",
+      "description": "La serie madura ligeramente: Malcolm enfrenta dilemas sociales y románticos. Reese se vuelve más problemático, y Francis empieza a independizarse. Se refuerza el equilibrio entre comedia absurda y momentos emocionales.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_013",
+      "addedAt": "2026-04-01T02:58:56.862Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 12,
+      "episodes": [
+        {
+          "id": "series_013_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "asd"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "asd"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "asd"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "asd"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "asd"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "asd"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "asd"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "asd"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "asd"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "asd"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "asd"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "sdf"
+        },
+        {
+          "id": "series_013_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "sdf"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T4",
+      "description": "Introduce cambios importantes: Francis trabaja en Alaska. Malcolm enfrenta problemas más complejos en la escuela. La dinámica familiar se vuelve más intensa, con Lois mostrando un control aún más fuerte.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_014",
+      "addedAt": "2026-04-01T02:59:13.029Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 13,
+      "episodes": [
+        {
+          "id": "series_014_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "asd"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "asd"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "asd"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "asd"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "asd"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "asd"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "asd"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "asd"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "asd"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "asd"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "asd"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "sdf"
+        },
+        {
+          "id": "series_014_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "sdf"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T5",
+      "description": "Se enfatiza la sátira sobre la clase media y la vida laboral. Hal y Lois tienen más protagonismo. Malcolm empieza a cuestionar su futuro y su identidad más seriamente.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_015",
+      "addedAt": "2026-04-01T02:59:15.444Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 14,
+      "episodes": [
+        {
+          "id": "series_015_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "asd"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "asd"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "asd"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "asd"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "asd"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "asd"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "asd"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "asd"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "asd"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "asd"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "asd"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "sdf"
+        },
+        {
+          "id": "series_015_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "sdf"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T6",
+      "description": "Malcolm entra en la adolescencia tardía. Los conflictos son más realistas (trabajo, relaciones, responsabilidad). Reese y Dewey también evolucionan bastante.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_016",
+      "addedAt": "2026-04-01T02:59:16.481Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 15,
+      "episodes": [
+        {
+          "id": "series_016_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "asd"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "asd"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "asd"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "asd"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "asd"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "asd"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "asd"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "asd"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "asd"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "asd"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "asd"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "sdf"
+        },
+        {
+          "id": "series_016_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "sdf"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T7",
+      "description": "Temporada final. Malcolm se prepara para su futuro (universidad y vida adulta). La serie cierra con un mensaje claro sobre esfuerzo, sacrificio y destino, manteniendo su estilo cómico característico.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2006,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_017",
+      "addedAt": "2026-04-01T02:59:17.767Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 16,
+      "episodes": [
+        {
+          "id": "series_017_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "asd"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "asd"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "asd"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "asd"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "asd"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "asd"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "asd"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "asd"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "asd"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "asd"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "asd"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "sdf"
+        },
+        {
+          "id": "series_017_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "sdf"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Merlina",
+      "description": "Mientras asiste a la Academia Nevermore, Merlina Addams intenta dominar su incipiente habilidad psíquica, frustrar una ola de asesinatos y resolver el misterio que involucró a sus padres 25 años atrás.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Mystery",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_018",
+      "addedAt": "2026-04-01T03:09:04.139Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 17,
+      "episodes": [
+        {
+          "id": "series_018_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asda"
+        },
+        {
+          "id": "series_018_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        },
+        {
+          "id": "series_018_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "asd"
+        },
+        {
+          "id": "series_018_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "asd"
+        },
+        {
+          "id": "series_018_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "asd"
+        },
+        {
+          "id": "series_018_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "asd"
+        },
+        {
+          "id": "series_018_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "asd"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T3",
+      "description": "Centrada en Cyborg. Introduce a Brother Blood y la academia de titanes. Se exploran temas de identidad, tecnología y humanidad, mientras Cyborg enfrenta su pasado.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_019",
+      "addedAt": "2026-04-01T03:13:34.985Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 18,
+      "episodes": [
+        {
+          "id": "series_019_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T5",
+      "description": "Expande el universo con múltiples equipos de titanes. La Hermandad del Mal es la principal amenaza. Beast Boy toma un rol más protagónico, mostrando crecimiento como líder.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2006,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_020",
+      "addedAt": "2026-04-01T03:13:49.559Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 19,
+      "episodes": [
+        {
+          "id": "series_020_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T1",
+      "description": "Introduce al equipo: Robin, Starfire, Raven, Beast Boy y Cyborg. La temporada se centra principalmente en la amenaza de Slade, quien manipula a Robin psicológicamente. Predomina el enfoque de equipo y el inicio de sus dinámicas.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_021",
+      "addedAt": "2026-04-01T03:13:50.760Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 20,
+      "episodes": [
+        {
+          "id": "series_021_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T2",
+      "description": "Se enfoca en Terra, una chica con poderes geocinéticos. Su relación con Beast Boy y su conflicto interno la convierten en una de las tramas más emocionales. Slade regresa como antagonista clave.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_022",
+      "addedAt": "2026-04-01T03:13:51.737Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 21,
+      "episodes": [
+        {
+          "id": "series_022_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T4",
+      "description": "Se enfoca en Raven y su origen demoníaco como hija de Trigon. Es la temporada más oscura de la serie, con un tono más serio y apocalíptico.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_023",
+      "addedAt": "2026-04-01T03:13:53.891Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 22,
+      "episodes": [
+        {
+          "id": "series_023_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Kimetsu no Yaiba T1",
+      "description": "Introduce a Tanjiro Kamado, cuya familia es asesinada por demonios y su hermana Nezuko es convertida en uno. Tanjiro se une al Cuerpo de Exterminio de Demonios para encontrar una cura y vengar a su familia. Se presentan personajes clave como Zenitsu e Inosuke.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "enabled": true,
+      "id": "series_024",
+      "addedAt": "2026-04-01T03:23:03.032Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 23,
+      "episodes": [
+        {
+          "id": "series_024_language_Japanese_Cap_2",
+          "title": "Japanese Cap 2",
+          "url": "asda"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Kimetsu no Yaiba T1.5",
+      "description": "Continúa directamente después de la temporada 1. Tanjiro y sus compañeros acompañan al Pilar de la Llama, Kyojuro Rengoku, en una misión dentro de un tren poseído por demonios. Es uno de los arcos más emocionales.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2020,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "enabled": true,
+      "id": "series_025",
+      "addedAt": "2026-04-01T03:23:23.457Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 24,
+      "episodes": [
+        {
+          "id": "series_025_language_Japanese_Cap_2",
+          "title": "Japanese Cap 2",
+          "url": "asda"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Kimetsu no Yaiba T2",
+      "description": "El equipo acompaña al Pilar del Sonido, Tengen Uzui, en una misión dentro del distrito rojo. Se enfrentan a demonios de alto rango (Lunas Superiores). Destaca por su animación y batallas intensas.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "enabled": true,
+      "id": "series_026",
+      "addedAt": "2026-04-01T03:23:26.102Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 25,
+      "episodes": [
+        {
+          "id": "series_026_language_Japanese_Cap_2",
+          "title": "Japanese Cap 2",
+          "url": "asda"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Kimetsu no Yaiba T3",
+      "description": "Tanjiro viaja a la aldea donde se forjan las espadas. Aparecen nuevos Pilares (Mitsuri y Muichiro) y enemigos poderosos. Se profundiza en habilidades y pasado de los personajes.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "enabled": true,
+      "id": "series_027",
+      "addedAt": "2026-04-01T03:23:26.936Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 26,
+      "episodes": [
+        {
+          "id": "series_027_language_Japanese_Cap_2",
+          "title": "Japanese Cap 2",
+          "url": "asda"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "kick buttowski T1",
+      "description": "Introduce a Kick, un niño obsesionado con convertirse en el mejor doble de riesgo del mundo. Vive en un suburbio aburrido, pero convierte cualquier situación cotidiana en una acrobacia extrema. Su mejor amigo, Gunther, lo acompaña en sus locuras. Se establecen sus conflictos con su hermano Brad y su rival Kendall.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2010,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_028",
+      "addedAt": "2026-04-01T03:30:15.960Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 27,
+      "episodes": [
+        {
+          "id": "series_028_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asda"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asd"
+    },
+    {
+      "type": "series",
+      "title": "kick buttowski T2",
+      "description": "Expande las situaciones y retos de Kick con desafíos más exagerados. Se desarrollan más los personajes secundarios y las rivalidades. El tono se vuelve aún más dinámico y absurdo, manteniendo el enfoque en riesgos extremos y humor físico.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_029",
+      "addedAt": "2026-04-01T03:30:31.942Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 28,
+      "episodes": [
+        {
+          "id": "series_029_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asda"
+        },
+        {
+          "id": "series_029_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asd"
+    },
+    {
+      "type": "series",
+      "title": "Kenan & Kel",
+      "description": "Introduce a Kenan, un chico inteligente pero algo tramposo, y Kel, su mejor amigo torpe pero muy carismático. La mayoría de los episodios giran en torno a los planes de Kenan que terminan saliendo mal por culpa de Kel. Se establece el icónico amor de Kel por la soda de naranja.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1996,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_030",
+      "addedAt": "2026-04-01T03:32:26.792Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 29,
+      "episodes": [],
+      "videoUrl": "aaa"
+    },
+    {
+      "type": "series",
+      "title": "Jujutsu Kaisen T1",
+      "description": "Sigue a Yuji Itadori, un estudiante que termina poseído por una poderosa maldición (Sukuna). Es reclutado por la escuela de hechicería para combatir maldiciones.\nIntroduce personajes clave como Megumi Fushiguro, Nobara Kugisaki y Satoru Gojo.\nCombina acción intensa con humor y desarrollo de mundo.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Mystery",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_031",
+      "addedAt": "2026-04-01T03:34:35.729Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 30,
+      "episodes": [
+        {
+          "id": "series_031_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "ada"
+        }
+      ],
+      "videoUrl": "asd"
+    },
+    {
+      "type": "series",
+      "title": "Jujutsu Kaisen T2",
+      "description": "Sigue a Yuji Itadori, un estudiante que termina poseído por una poderosa maldición (Sukuna). Es reclutado por la escuela de hechicería para combatir maldiciones.\nIntroduce personajes clave como Megumi Fushiguro, Nobara Kugisaki y Satoru Gojo.\nCombina acción intensa con humor y desarrollo de mundo.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Mystery",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_032",
+      "addedAt": "2026-04-01T03:34:47.279Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 31,
+      "episodes": [
+        {
+          "id": "series_032_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "ada"
+        }
+      ],
+      "videoUrl": "asd"
+    },
+    {
+      "type": "series",
+      "title": "Jimmy Neutron T1",
+      "description": "Introduce a Jimmy Neutron, un niño genio que crea inventos avanzados que casi siempre salen mal. Vive en Retroville junto a sus amigos Carl y Sheen.\nLos episodios giran en torno a experimentos fallidos que provocan caos, desde invasiones alienígenas hasta problemas domésticos.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_033",
+      "addedAt": "2026-04-01T03:37:21.231Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 32,
+      "episodes": [
+        {
+          "id": "series_033_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asda"
+    },
+    {
+      "type": "series",
+      "title": "Jimmy Neutron T2",
+      "description": "Se expande el universo con más inventos, enemigos y aventuras espaciales. Los personajes secundarios tienen más protagonismo.\nSe introducen conceptos más complejos, pero manteniendo el humor.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_034",
+      "addedAt": "2026-04-01T03:37:50.167Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 33,
+      "episodes": [
+        {
+          "id": "series_034_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asda"
+    },
+    {
+      "type": "series",
+      "title": "Jimmy Neutron T3",
+      "description": "Introduce a Jimmy Neutron, un niño genio que crea inventos avanzados que casi siempre salen mal. Vive en Retroville junto a sus amigos Carl y Sheen.\nLos episodios giran en torno a experimentos fallidos que provocan caos, desde invasiones alienígenas hasta problemas domésticos.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_035",
+      "addedAt": "2026-04-01T03:37:52.173Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 34,
+      "episodes": [
+        {
+          "id": "series_035_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asda"
+    }
+  ]
 }
