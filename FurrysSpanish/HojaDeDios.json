@@ -6,9 +6,7 @@
         "users": [
             "ALEX ×͜×",
             "Achiu",
-            "AftPancakes",
             "Akita Neru〆",
-            "Alegnamon",
             "Azazel1234",
             "Bludrian",
             "Caribbean_Dobie",
@@ -16,7 +14,6 @@
             "DenkiKitsune",
             "Dios Carmesi",
             "Drech301",
-            "Eco-Scion",
             "Ezio auditore_",
             "FIRE_THE_F0X",
             "Farra_v18",
@@ -24,7 +21,6 @@
             "GALEON10 d7d9",
             "GUILEAS",
             "GideonToffu",
-            "Joshy ˃̵ᴗ˂̵ ఌ",
             "Kashiko Kimura",
             "Kunniin",
             "Laulett",
@@ -79,7 +75,6 @@
             "psicopatología",
             "tori_cole",
             "y4ku03",
-            "yoina6266",
             "ºALEXIS---XD-º",
             "ɪᴛᴢᴜɴʏ ®",
             "нσѕнι",
@@ -100,15 +95,11 @@
             "Banner1"
         ],
         "custom_indexes": {
-            "6": [
-                "Alegnamon"
-            ],
             "7": [
                 "ShadyBelca",
                 "leitoxs",
                 "mudoXqX",
                 "DenkiKitsune",
-                "N y x ღ",
                 "TerryArtica",
                 "Frezzco",
                 "Strikkеrz",
@@ -159,6 +150,9 @@
                 "ALEX ×͜×",
                 "Patacalida"
             ],
+            "6": [
+                "N y x ღ"
+            ],
             "5": [
                 "Nath Kohai",
                 "Nyxphiel",
@@ -202,26 +196,10 @@
                 "Azazel1234",
                 "༺ Stacie ༻",
                 "psicopatología",
-                "Joshy ˃̵ᴗ˂̵ ఌ",
-                "AftPancakes",
-                "yoina6266",
-                "Eco-Scion",
                 "Kashiko Kimura",
                 "FIRE_THE_F0X"
             ]
         }
-    },
-    {
-        "ranks": [
-            "Angelika"
-        ],
-        "users": [
-            "Alegnamon",
-            "Dios Carmesi"
-        ],
-        "groups": [
-            "Angelika"
-        ]
     },
     {
         "ranks": [
@@ -232,7 +210,6 @@
             "Frezzco",
             "GUILEAS",
             "Lyziral",
-            "N y x ღ",
             "ReikoSaori",
             "ShadyBelca",
             "Strikkеrz",
@@ -282,6 +259,18 @@
         ],
         "groups": [
             "Friends"
+        ]
+    },
+    {
+        "ranks": [
+            "Angelika"
+        ],
+        "users": [
+            "Dios Carmesi",
+            "N y x ღ"
+        ],
+        "groups": [
+            "Angelika"
         ]
     },
     {
@@ -410,16 +399,12 @@
             "Partner"
         ],
         "users": [
-            "AftPancakes",
             "Azazel1234",
-            "Eco-Scion",
             "FIRE_THE_F0X",
-            "Joshy ˃̵ᴗ˂̵ ఌ",
             "Kashiko Kimura",
             "Salamandra29",
             "innari",
             "psicopatología",
-            "yoina6266",
             "༺ Stacie ༻",
             "ᴜѕᴀɢɪᴠʀ",
             "Ｓｈｎａｐｉｉ"
