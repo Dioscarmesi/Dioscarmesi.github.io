@@ -6,31 +6,21 @@
         "users": [
             "ALEX ×͜×",
             "Achiu",
-            "AftPancakes",
             "Akita Neru〆",
-            "Alegnamon",
-            "Azazel1234",
-            "Bludrian",
             "Caribbean_Dobie",
             "Chaos Spectrum",
-            "DenkiKitsune",
             "Dios Carmesi",
             "Drech301",
-            "Eco-Scion",
             "Ezio auditore_",
             "FIRE_THE_F0X",
-            "Farra_v18",
-            "Frezzco",
             "GALEON10 d7d9",
             "GUILEAS",
             "GideonToffu",
-            "Joshy ˃̵ᴗ˂̵ ఌ",
             "Kashiko Kimura",
             "Kunniin",
             "Laulett",
             "Lettersmood 5358",
             "Lucky387",
-            "Lyziral",
             "Majestad",
             "MarlonQC",
             "Miizuho-",
@@ -43,47 +33,34 @@
             "Patacalida",
             "Phantom Reizack",
             "RammsWolf",
-            "ReikoSaori",
             "RuzuChan",
             "S K Ÿ E",
-            "Salamandra29",
             "Scp 956",
-            "ShadyBelca",
             "Shank Tamashii",
             "SilverFenris",
             "StreetLove?",
-            "Strikkеrz",
-            "TerryArtica",
             "Underharley",
             "VaKass",
             "Warm®",
             "WolfDaver",
             "Yukι-Nαgαto",
             "Yutaura",
-            "ZeroNinetales",
             "Zoraft",
             "aguadecate",
             "dequer12",
             "duckis",
-            "ikerreki231",
             "innari",
             "izayoiiiisan",
             "jc_jaime f84f",
             "josyelin",
             "kuver11",
-            "leitoxs",
             "marixxa",
-            "mudoXqX",
             "nyxntx",
             "poisonliz",
-            "psicopatología",
             "tori_cole",
             "y4ku03",
-            "yoina6266",
             "ºALEXIS---XD-º",
             "ɪᴛᴢᴜɴʏ ®",
-            "нσѕнι",
-            "༺ Stacie ༻",
             "ო Y A M I ო",
             "ღFLAREBEASTღ",
             "ᴇᴛᴀᴅɪʟᴀᴠ",
@@ -100,23 +77,6 @@
             "Banner1"
         ],
         "custom_indexes": {
-            "6": [
-                "Alegnamon"
-            ],
-            "7": [
-                "ShadyBelca",
-                "leitoxs",
-                "mudoXqX",
-                "DenkiKitsune",
-                "N y x ღ",
-                "TerryArtica",
-                "Frezzco",
-                "Strikkеrz",
-                "GUILEAS",
-                "нσѕнι",
-                "ReikoSaori",
-                "Lyziral"
-            ],
             "3": [
                 "バツMakiバツ",
                 "『ϟsxϟ』ツ",
@@ -124,8 +84,6 @@
                 "marixxa",
                 "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
                 "MarlonQC",
-                "ZeroNinetales",
-                "Bludrian",
                 "SilverFenris",
                 "Drech301",
                 "Scp 956",
@@ -138,7 +96,6 @@
                 "･Mura･",
                 "Caribbean_Dobie",
                 "RammsWolf",
-                "ikerreki231",
                 "Majestad",
                 "jc_jaime f84f",
                 "Akita Neru〆",
@@ -149,7 +106,6 @@
                 "ɪᴛᴢᴜɴʏ ®",
                 "StreetLove?",
                 "y4ku03",
-                "Farra_v18",
                 "ＴＯＫＡＹＯ",
                 "duckis",
                 "ო Y A M I ო",
@@ -158,6 +114,12 @@
                 "Lucky387",
                 "ALEX ×͜×",
                 "Patacalida"
+            ],
+            "6": [
+                "N y x ღ"
+            ],
+            "7": [
+                "GUILEAS"
             ],
             "5": [
                 "Nath Kohai",
@@ -172,7 +134,7 @@
                 "Zoraft",
                 "ღFLAREBEASTღ"
             ],
-            "2": [
+            "16": [
                 "RuzuChan"
             ],
             "9": [
@@ -198,30 +160,10 @@
                 "ᴜѕᴀɢɪᴠʀ",
                 "innari",
                 "Ｓｈｎａｐｉｉ",
-                "Salamandra29",
-                "Azazel1234",
-                "༺ Stacie ༻",
-                "psicopatología",
-                "Joshy ˃̵ᴗ˂̵ ఌ",
-                "AftPancakes",
-                "yoina6266",
-                "Eco-Scion",
                 "Kashiko Kimura",
                 "FIRE_THE_F0X"
             ]
         }
-    },
-    {
-        "ranks": [
-            "Angelika"
-        ],
-        "users": [
-            "Alegnamon",
-            "Dios Carmesi"
-        ],
-        "groups": [
-            "Angelika"
-        ]
     },
     {
         "ranks": [
@@ -230,12 +172,10 @@
         "users": [
             "DenkiKitsune",
             "Frezzco",
-            "GUILEAS",
             "Lyziral",
-            "N y x ღ",
             "ReikoSaori",
             "ShadyBelca",
-            "Strikkеrz",
+            "Strikkerz'",
             "TerryArtica",
             "leitoxs",
             "mudoXqX",
@@ -282,6 +222,18 @@
         ],
         "groups": [
             "Friends"
+        ]
+    },
+    {
+        "ranks": [
+            "Angelika"
+        ],
+        "users": [
+            "Dios Carmesi",
+            "N y x ღ"
+        ],
+        "groups": [
+            "Angelika"
         ]
     },
     {
@@ -369,11 +321,9 @@
             "ALEX ×͜×",
             "Achiu",
             "Akita Neru〆",
-            "Bludrian",
             "Caribbean_Dobie",
             "Drech301",
             "Ezio auditore_",
-            "Farra_v18",
             "Laulett",
             "Lucky387",
             "Majestad",
@@ -385,11 +335,9 @@
             "SilverFenris",
             "StreetLove?",
             "Warm®",
-            "ZeroNinetales",
             "aguadecate",
             "dequer12",
             "duckis",
-            "ikerreki231",
             "jc_jaime f84f",
             "josyelin",
             "kuver11",
@@ -410,17 +358,9 @@
             "Partner"
         ],
         "users": [
-            "AftPancakes",
-            "Azazel1234",
-            "Eco-Scion",
             "FIRE_THE_F0X",
-            "Joshy ˃̵ᴗ˂̵ ఌ",
             "Kashiko Kimura",
-            "Salamandra29",
             "innari",
-            "psicopatología",
-            "yoina6266",
-            "༺ Stacie ༻",
             "ᴜѕᴀɢɪᴠʀ",
             "Ｓｈｎａｐｉｉ"
         ],
