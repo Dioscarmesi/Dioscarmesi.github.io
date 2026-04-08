@@ -5,7 +5,6 @@
         ],
         "users": [
             "ALEX ×͜×",
-            "Achiu",
             "Akita Neru〆",
             "Caribbean_Dobie",
             "Chaos Spectrum",
@@ -26,7 +25,6 @@
             "Miizuho-",
             "Mizael Sama",
             "MotherAsmodeus",
-            "N y x ღ",
             "Nath Kohai",
             "Nyxphiel",
             "NΛΣŁ",
@@ -35,10 +33,11 @@
             "RammsWolf",
             "RuzuChan",
             "S K Ÿ E",
-            "Scp 956",
             "Shank Tamashii",
             "SilverFenris",
+            "SkateJapo",
             "StreetLove?",
+            "Tostadita_Azul",
             "Underharley",
             "VaKass",
             "Warm®",
@@ -46,14 +45,12 @@
             "Yukι-Nαgαto",
             "Yutaura",
             "Zoraft",
-            "aguadecate",
             "dequer12",
             "duckis",
             "innari",
             "izayoiiiisan",
             "jc_jaime f84f",
             "josyelin",
-            "kuver11",
             "marixxa",
             "nyxntx",
             "poisonliz",
@@ -66,7 +63,6 @@
             "ᴇᴛᴀᴅɪʟᴀᴠ",
             "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
             "ᴜѕᴀɢɪᴠʀ",
-            "ᴵᴬᴹ F e r u ღ",
             "『ϟsxϟ』ツ",
             "バツMakiバツ",
             "Ｓｈｎａｐｉｉ",
@@ -86,13 +82,8 @@
                 "MarlonQC",
                 "SilverFenris",
                 "Drech301",
-                "Scp 956",
-                "Achiu",
-                "aguadecate",
                 "Laulett",
                 "Mizael Sama",
-                "kuver11",
-                "ᴵᴬᴹ F e r u ღ",
                 "･Mura･",
                 "Caribbean_Dobie",
                 "RammsWolf",
@@ -113,10 +104,8 @@
                 "Shank Tamashii",
                 "Lucky387",
                 "ALEX ×͜×",
-                "Patacalida"
-            ],
-            "6": [
-                "N y x ღ"
+                "Patacalida",
+                "SkateJapo"
             ],
             "7": [
                 "GUILEAS"
@@ -156,6 +145,9 @@
             "10": [
                 "Yukι-Nαgαto"
             ],
+            "8": [
+                "Tostadita_Azul"
+            ],
             "4": [
                 "ᴜѕᴀɢɪᴠʀ",
                 "innari",
@@ -175,10 +167,13 @@
             "Lyziral",
             "ReikoSaori",
             "ShadyBelca",
+            "Shumaru",
             "Strikkerz'",
             "TerryArtica",
+            "Venator Prime",
             "leitoxs",
             "mudoXqX",
+            "Κarurosu",
             "нσѕнι"
         ],
         "groups": [
@@ -315,11 +310,21 @@
     },
     {
         "ranks": [
+            "VipManager"
+        ],
+        "users": [
+            "Tostadita_Azul"
+        ],
+        "groups": [
+            "VipManager"
+        ]
+    },
+    {
+        "ranks": [
             "VIPFurrys"
         ],
         "users": [
             "ALEX ×͜×",
-            "Achiu",
             "Akita Neru〆",
             "Caribbean_Dobie",
             "Drech301",
@@ -330,22 +335,19 @@
             "Mizael Sama",
             "Patacalida",
             "RammsWolf",
-            "Scp 956",
             "Shank Tamashii",
             "SilverFenris",
+            "SkateJapo",
             "StreetLove?",
             "Warm®",
-            "aguadecate",
             "dequer12",
             "duckis",
             "jc_jaime f84f",
             "josyelin",
-            "kuver11",
             "y4ku03",
             "ɪᴛᴢᴜɴʏ ®",
             "ო Y A M I ო",
             "ᴇᴛᴀᴅɪʟᴀᴠ",
-            "ᴵᴬᴹ F e r u ღ",
             "ＴＯＫＡＹＯ",
             "･Mura･"
         ],
