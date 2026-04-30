@@ -1,6 +1,6 @@
 URL Ranks by DiscoPeligro.
 {
-  "Dancer": ["Vacio"],
+  "Dancer": ["Fulanita"],
   "Elixir": [
     "shadyx28x",
     "Kunniin",
@@ -19,7 +19,7 @@ URL Ranks by DiscoPeligro.
     "Rubeko",
     "DEVILZOO_"
   ],
-  "Mod": ["Vacio"],
+  "Mod": ["javier"],
   "DJ": ["Vacio"],
   "Exclusive": ["Vacio"],
   "VIP": ["Vacio"]
