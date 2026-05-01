@@ -133,6 +133,24 @@
     },
     {
         "ranks": [
+            "Banner2"
+        ],
+        "users": [
+            "DeliS♪",
+            "alexǃ"
+        ],
+        "groups": [
+            "Banner2"
+        ],
+        "custom_indexes": {
+            "16": [
+                "alexǃ",
+                "DeliS♪"
+            ]
+        }
+    },
+    {
+        "ranks": [
             "Mod"
         ],
         "users": [
@@ -319,10 +337,12 @@
         ],
         "users": [
             "Danny_504",
+            "DeliS♪",
             "FIRE_THE_F0X",
             "Kashiko Kimura",
             "Neon Brain",
             "Seiluzz",
+            "alexǃ",
             "innari",
             "ᴜѕᴀɢɪᴠʀ",
             "Ｓｈｎａｐｉｉ"
