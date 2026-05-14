@@ -5,40 +5,37 @@
         ],
         "users": [
             "ALEX ×͜×",
-            "Achiu",
-            "Akita Neru〆",
-            "Caribbean_Dobie",
+            "AftPancakes",
             "Chaos Spectrum",
+            "Danny_504",
             "Dios Carmesi",
-            "Drech301",
-            "Ezio auditore_",
             "FIRE_THE_F0X",
             "GALEON10 d7d9",
-            "GUILEAS",
             "GideonToffu",
+            "Joshy ˃̵ᴗ˂̵ ఌ",
             "Kashiko Kimura",
             "Kunniin",
-            "Laulett",
             "Lettersmood 5358",
             "Lucky387",
-            "Majestad",
             "MarlonQC",
+            "Melixiana_meow",
             "Miizuho-",
-            "Mizael Sama",
+            "Morgan05",
             "MotherAsmodeus",
-            "N y x ღ",
             "Nath Kohai",
+            "Neon Brain",
+            "NicaGhost",
             "Nyxphiel",
             "NΛΣŁ",
-            "Patacalida",
             "Phantom Reizack",
-            "RammsWolf",
+            "RoOaN_MaStEr",
             "RuzuChan",
             "S K Ÿ E",
-            "Scp 956",
-            "Shank Tamashii",
             "SilverFenris",
+            "SkateJapo",
             "StreetLove?",
+            "TheTrueError",
+            "Tostadita_Azul",
             "Underharley",
             "VaKass",
             "Warm®",
@@ -46,31 +43,21 @@
             "Yukι-Nαgαto",
             "Yutaura",
             "Zoraft",
-            "aguadecate",
-            "dequer12",
-            "duckis",
             "innari",
             "izayoiiiisan",
-            "jc_jaime f84f",
-            "josyelin",
-            "kuver11",
             "marixxa",
             "nyxntx",
             "poisonliz",
+            "spard_",
             "tori_cole",
-            "y4ku03",
             "ºALEXIS---XD-º",
-            "ɪᴛᴢᴜɴʏ ®",
-            "ო Y A M I ო",
             "ღFLAREBEASTღ",
             "ᴇᴛᴀᴅɪʟᴀᴠ",
             "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
             "ᴜѕᴀɢɪᴠʀ",
-            "ᴵᴬᴹ F e r u ღ",
             "『ϟsxϟ』ツ",
             "バツMakiバツ",
             "Ｓｈｎａｐｉｉ",
-            "ＴＯＫＡＹＯ",
             "･Mura･"
         ],
         "groups": [
@@ -85,41 +72,16 @@
                 "ᴇᴛᴀᴅɪʟᴀᴠ4500-",
                 "MarlonQC",
                 "SilverFenris",
-                "Drech301",
-                "Scp 956",
-                "Achiu",
-                "aguadecate",
-                "Laulett",
-                "Mizael Sama",
-                "kuver11",
-                "ᴵᴬᴹ F e r u ღ",
                 "･Mura･",
-                "Caribbean_Dobie",
-                "RammsWolf",
-                "Majestad",
-                "jc_jaime f84f",
-                "Akita Neru〆",
-                "josyelin",
-                "dequer12",
                 "ᴇᴛᴀᴅɪʟᴀᴠ",
                 "Warm®",
-                "ɪᴛᴢᴜɴʏ ®",
                 "StreetLove?",
-                "y4ku03",
-                "ＴＯＫＡＹＯ",
-                "duckis",
-                "ო Y A M I ო",
-                "Ezio auditore_",
-                "Shank Tamashii",
-                "Lucky387",
+                "SkateJapo",
+                "Morgan05",
+                "NicaGhost",
+                "RoOaN_MaStEr",
                 "ALEX ×͜×",
-                "Patacalida"
-            ],
-            "6": [
-                "N y x ღ"
-            ],
-            "7": [
-                "GUILEAS"
+                "Lucky387"
             ],
             "5": [
                 "Nath Kohai",
@@ -156,12 +118,40 @@
             "10": [
                 "Yukι-Nαgαto"
             ],
+            "8": [
+                "Tostadita_Azul"
+            ],
             "4": [
                 "ᴜѕᴀɢɪᴠʀ",
                 "innari",
                 "Ｓｈｎａｐｉｉ",
+                "Danny_504",
                 "Kashiko Kimura",
-                "FIRE_THE_F0X"
+                "spard_",
+                "Neon Brain",
+                "FIRE_THE_F0X",
+                "TheTrueError",
+                "Joshy ˃̵ᴗ˂̵ ఌ",
+                "AftPancakes",
+                "Melixiana_meow"
+            ]
+        }
+    },
+    {
+        "ranks": [
+            "Banner2"
+        ],
+        "users": [
+            "DeliS♪",
+            "alexǃ"
+        ],
+        "groups": [
+            "Banner2"
+        ],
+        "custom_indexes": {
+            "16": [
+                "alexǃ",
+                "DeliS♪"
             ]
         }
     },
@@ -175,10 +165,13 @@
             "Lyziral",
             "ReikoSaori",
             "ShadyBelca",
+            "Shumaru",
             "Strikkerz'",
             "TerryArtica",
+            "Venator Prime",
             "leitoxs",
             "mudoXqX",
+            "Κarurosu",
             "нσѕнι"
         ],
         "groups": [
@@ -315,38 +308,30 @@
     },
     {
         "ranks": [
+            "VipManager"
+        ],
+        "users": [
+            "Tostadita_Azul"
+        ],
+        "groups": [
+            "VipManager"
+        ]
+    },
+    {
+        "ranks": [
             "VIPFurrys"
         ],
         "users": [
             "ALEX ×͜×",
-            "Achiu",
-            "Akita Neru〆",
-            "Caribbean_Dobie",
-            "Drech301",
-            "Ezio auditore_",
-            "Laulett",
             "Lucky387",
-            "Majestad",
-            "Mizael Sama",
-            "Patacalida",
-            "RammsWolf",
-            "Scp 956",
-            "Shank Tamashii",
+            "Morgan05",
+            "NicaGhost",
+            "RoOaN_MaStEr",
             "SilverFenris",
+            "SkateJapo",
             "StreetLove?",
             "Warm®",
-            "aguadecate",
-            "dequer12",
-            "duckis",
-            "jc_jaime f84f",
-            "josyelin",
-            "kuver11",
-            "y4ku03",
-            "ɪᴛᴢᴜɴʏ ®",
-            "ო Y A M I ო",
             "ᴇᴛᴀᴅɪʟᴀᴠ",
-            "ᴵᴬᴹ F e r u ღ",
-            "ＴＯＫＡＹＯ",
             "･Mura･"
         ],
         "groups": [
@@ -358,9 +343,18 @@
             "Partner"
         ],
         "users": [
+            "AftPancakes",
+            "Danny_504",
+            "DeliS♪",
             "FIRE_THE_F0X",
+            "Joshy ˃̵ᴗ˂̵ ఌ",
             "Kashiko Kimura",
+            "Melixiana_meow",
+            "Neon Brain",
+            "TheTrueError",
+            "alexǃ",
             "innari",
+            "spard_",
             "ᴜѕᴀɢɪᴠʀ",
             "Ｓｈｎａｐｉｉ"
         ],
