@@ -1,6 +1,6 @@
 {
-  "Nombre": "BoothD",
-  "InfoA": "",
-  "InfoB": "",
-  "InfoC": ""
+  "Nombre": "YamikaDesu",
+  "InfoA": "Soy YamikaDesu! Un placer!",
+  "InfoB": "Me dedico a hacer música",
+  "InfoC": "YamikaDesu"
 }
