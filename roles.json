@@ -1,0 +1,29 @@
+[
+  {
+    "rank": "Owner",
+    "banner_id": 1,
+    "users": [
+      "TuNombreDeVRChat"
+    ]
+  },
+  {
+    "rank": "Security",
+    "banner_id": 2,
+    "users": []
+  },
+  {
+    "rank": "Staff",
+    "banner_id": 3,
+    "users": []
+  },
+  {
+    "rank": "Inversores",
+    "banner_id": 4,
+    "users": []
+  },
+  {
+    "rank": "VIP",
+    "banner_id": 5,
+    "users": []
+  }
+]
