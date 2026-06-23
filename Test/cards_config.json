@@ -1,42 +1,41 @@
-﻿{
-    "atlases":  [
-
-                ],
-    "card_cols":  4,
-    "card_rows":  8,
-    "banner_cols":  4,
-    "banner_rows":  4,
-    "card_filler":  "",
-    "banner_filler":  "",
-    "groups":  [
-                   "Entity",
-                   "ELIXIR"
-               ],
-    "banner_names":  [
-                         "Sin banner",
-                         "El Creador",
-                         "Co-Fundadora",
-                         "VIP",
-                         "Partner",
-                         "Entity",
-                         "Owner",
-                         "Seguridad",
-                         "",
-                         "VipManager",
-                         "Elixir",
-                         "YukÎ¹-NÎ±gÎ±to"
-                     ],
-    "banner_file_order":  [
-                              "El_Creador.png",
-                              "Co-Fundadora.png",
-                              "VIP.png",
-                              "Partner.png",
-                              "Entity.png",
-                              "Owner.png",
-                              "Seguridad.png",
-                              "VipManager.png",
-                              "",
-                              "Elixir.png",
-                              "AdminManager.png"
-                          ]
+{
+  "atlases": [],
+  "card_cols": 4,
+  "card_rows": 8,
+  "banner_cols": 4,
+  "banner_rows": 3,
+  "card_filler": "",
+  "banner_filler": "",
+  "groups": [
+    "Entity",
+    "ELIXIR"
+  ],
+  "banner_names": [
+    "Sin banner",
+    "El Creador",
+    "Co-Fundadora",
+    "VIP",
+    "Partner",
+    "Entity",
+    "Owner",
+    "Seguridad",
+    "",
+    "VipManager",
+    "Elixir",
+    "Yukι-Nαgαto"
+  ],
+  "banner_file_order": [
+    "El_Creador.png",
+    "Co-Fundadora.png",
+    "VIP.png",
+    "Partner.png",
+    "Entity.png",
+    "Owner.png",
+    "Seguridad.png",
+    "VipManager.png",
+    "Elixir.png",
+    "AdminManager.png",
+    "",
+    ""
+  ]
 }
