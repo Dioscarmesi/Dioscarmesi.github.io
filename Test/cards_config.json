@@ -1,7 +1,7 @@
 {
   "atlases": [],
-  "card_cols": 4,
-  "card_rows": 8,
+  "card_cols": 8,
+  "card_rows": 4,
   "banner_cols": 4,
   "banner_rows": 4,
   "card_filler": "",
@@ -41,5 +41,11 @@
     "",
     "",
     ""
+  ],
+  "card_atlases": [
+    {
+      "file": "card_atlas_2.png",
+      "cells": 7
+    }
   ]
 }
