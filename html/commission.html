@@ -369,6 +369,52 @@
       margin-bottom: 0.3rem;
     }
 
+    /* Only the leading strong acts as a title; inline bold inside prose stays inline. */
+    .legal-row p strong,
+    .legal-row li strong {
+      display: inline;
+      margin-bottom: 0;
+    }
+
+    .legal-row p + p,
+    .legal-row p + ul {
+      margin-top: 0.5rem;
+    }
+
+    .table-wrap {
+      margin-top: 1rem;
+      overflow-x: auto;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+    }
+
+    .rate-table {
+      width: 100%;
+      min-width: 540px;
+      border-collapse: collapse;
+      font-size: 0.94rem;
+    }
+
+    .rate-table th,
+    .rate-table td {
+      padding: 0.85rem 1rem;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .rate-table thead th {
+      background: rgba(139, 92, 246, 0.14);
+      color: var(--white);
+      font-size: 0.84rem;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+    }
+
+    .rate-table tbody td { color: var(--muted); }
+    .rate-table tbody td strong { color: var(--white); }
+    .rate-table tbody tr:last-child { background: rgba(34, 197, 94, 0.08); }
+    .rate-table tbody tr:last-child td { border-bottom: 0; }
+
     .adult-warning {
       margin: 2rem 0 1rem;
       padding: 1.4rem 1.5rem;
@@ -452,6 +498,7 @@
             <span class="pill">VRChat ID: Dios Carmesi</span>
             <span class="pill pill-accent">💵 All prices in USD</span>
             <span class="pill pill-accent">🌎 30% LATAM / Developing economies discount</span>
+            <span class="pill pill-accent">💳 Installment plans: 3, 6 & 12 months</span>
           </div>
         </div>
       </div>
@@ -985,10 +1032,10 @@
         </div>
         <div class="card">
           <ul>
-            <li>"I only want recolor" → <strong>Recolor: $20 – $120</strong></li>
+            <li>"I only want recolor" → <strong>Recolor: $40 – $140</strong></li>
             <li>"I want 1 new expression" → <strong>Facial blendshape: $25</strong></li>
             <li>"I want a body modification blendshape" → <strong>Body blendshape: $40 – $50</strong></li>
-            <li>"I have an SFM model and I want it in VRChat" → <strong>Port: $120 – $220</strong></li>
+            <li>"I have an SFM model and I want it in VRChat" → <strong>Port: $150 – $350+</strong></li>
             <li>"Install clothes on my avatar" → <strong>$15</strong> (with physbones / animated: <strong>$25 – $35</strong>)</li>
             <li>"I bought a world and want small changes" → <strong>World Mod: $30 – $60</strong></li>
             <li>"I want to learn how to do it myself" → <strong>Lessons: $20 – $45/hour</strong></li>
@@ -1115,6 +1162,80 @@
             </ul>
             <div class="note" style="margin-top: 0.8rem;">💡 Ko-fi and Dolar App are the recommended options if you want to avoid extra charges.</div>
             <p style="margin-top: 0.8rem;"><strong>Payment structure:</strong> 50% upfront to start, 50% upon delivery (negotiable for large projects like worlds).</p>
+            <p style="margin-top: 0.8rem;">💳 Want to split it into monthly payments instead? See <strong>Installment Plans</strong> below (3, 6 or 12 months, with a surcharge).</p>
+          </article>
+
+          <article class="card" id="installments" style="grid-column: 1 / -1;">
+            <span class="tag tag-green">💳 INSTALLMENT PLANS — PAGO A MESES</span>
+            <h3>Split Your Commission Into 3, 6 or 12 Monthly Payments</h3>
+            <p>Large commissions don't have to be paid in one go. Installment plans carry a <strong>financing surcharge</strong> applied to the base price — it covers the bank/processor commission and the extended schedule. You always see the exact total <strong>before</strong> paying anything.</p>
+
+            <div class="table-wrap">
+              <table class="rate-table">
+                <thead>
+                  <tr>
+                    <th>Plan</th>
+                    <th>Surcharge</th>
+                    <th>Minimum</th>
+                    <th>Example — $1,000 base</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><strong>3 months</strong></td>
+                    <td><strong>+6%</strong></td>
+                    <td>from $150</td>
+                    <td>$1,060 → 3 × $353.33</td>
+                  </tr>
+                  <tr>
+                    <td><strong>6 months</strong></td>
+                    <td><strong>+15%</strong></td>
+                    <td>from $500</td>
+                    <td>$1,150 → 6 × $191.67</td>
+                  </tr>
+                  <tr>
+                    <td><strong>12 months</strong></td>
+                    <td><strong>+30%</strong></td>
+                    <td>from $1,000</td>
+                    <td>$1,300 → 12 × $108.33</td>
+                  </tr>
+                  <tr>
+                    <td><strong>Pay in full</strong></td>
+                    <td><strong>No surcharge</strong></td>
+                    <td>—</td>
+                    <td>$1,000 — the cheapest option</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div class="grid-2" style="margin-top: 1.2rem;">
+              <div class="legal-row">
+                <strong>🇲🇽 PayPal Mensualidades — Mexico</strong>
+                <p>Pay with a credit card from a <strong>participating Mexican bank</strong> (BBVA, Banamex, Santander, Amex, Banorte, HSBC, Nu, Scotiabank, Inbursa and others) and PayPal splits the charge automatically at checkout. I receive the payment upfront, so <strong>work starts immediately</strong> and you get the files on the normal delivery schedule.</p>
+              </div>
+
+              <div class="legal-row">
+                <strong>🌎 Direct Payment Plan — everyone else</strong>
+                <p>PayPal's installment options only work with cards from certain countries, so everywhere else I offer a <strong>direct payment plan</strong> paid to me through PayPal, Ko-fi or Dolar App.</p>
+                <ul style="margin-top: 0.6rem;">
+                  <li>Work <strong>starts</strong> with the first payment.</li>
+                  <li>📦 <strong>Final files are delivered after the last payment.</strong> You get progress updates (screenshots / previews) throughout.</li>
+                </ul>
+              </div>
+            </div>
+
+            <p style="margin-top: 1.2rem;"><strong>📋 Terms:</strong></p>
+            <ul style="margin-top: 0.5rem;">
+              <li>🌎 The <strong>30% LATAM / developing economies discount is applied first</strong>, and the surcharge is calculated on the already-discounted total.<br />
+                <em>Example — $2,000 world, client in Argentina:</em> $2,000 − 30% = <strong>$1,400</strong> → 12-month plan +30% = <strong>$1,820</strong> → 12 × <strong>$151.67</strong>.</li>
+              <li>💵 <strong>Paying in full has no surcharge</strong> — the standard 50% upfront / 50% on delivery structure still applies and is always the cheapest route.</li>
+              <li>📅 Installments are due on the <strong>same day each month</strong>, agreed in writing when the commission is accepted.</li>
+              <li>⏸️ If an installment is <strong>more than 7 days late</strong>, work is paused until it's settled. Two consecutive missed payments cancel the commission and the <strong>refund policy</strong> above applies.</li>
+              <li>🛡️ The <strong>6-month warranty</strong> starts on final delivery, not on the first payment.</li>
+            </ul>
+
+            <div class="note" style="margin-top: 0.8rem;">💡 Not sure which option applies to you? Ask me before ordering and I'll send you the exact total and monthly amount for your country.</div>
           </article>
 
           <article class="card" style="grid-column: 1 / -1;">
