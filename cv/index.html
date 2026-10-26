@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang="es" class="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jesús Gonzalo Márquez Gaytán — CV</title>
+<meta name="description" content="Desarrollador Unity / XR y artista 3D en tiempo real. Mundos VRChat, UdonSharp, optimización PC/Quest. Cd. Juárez, México — remoto.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f5f2; --paper:#ffffff; --ink:#16161a; --muted:#5d5d66; --line:#e4e2dc;
+  --accent:#b3123a; --accent-soft:#fbe9ee; --chip:#f0eee9;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0e0e11; --paper:#16161b; --ink:#ecebef; --muted:#a3a2ad; --line:#2a2a32;
+    --accent:#ff4d73; --accent-soft:#2a1219; --chip:#22222a;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0e0e11; --paper:#16161b; --ink:#ecebef; --muted:#a3a2ad; --line:#2a2a32;
+  --accent:#ff4d73; --accent-soft:#2a1219; --chip:#22222a;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+html.es [lang="en"], html.en [lang="es"]{display:none}
+
+.bar{position:sticky;top:0;z-index:5;display:flex;justify-content:flex-end;gap:8px;padding:10px 16px;background:color-mix(in srgb,var(--bg) 85%,transparent);backdrop-filter:blur(8px)}
+.bar button{font:500 13px Inter,sans-serif;color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:6px 14px;cursor:pointer}
+.bar button:hover{border-color:var(--accent)}
+
+.cv{max-width:980px;margin:0 auto 48px;background:var(--paper);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+header{padding:40px 44px 28px;border-bottom:1px solid var(--line);position:relative}
+header::before{content:"";position:absolute;left:0;top:0;bottom:0;width:6px;background:var(--accent)}
+h1{font-size:34px;line-height:1.1;margin:0 0 6px;letter-spacing:-.02em}
+.role{font-size:17px;font-weight:600;color:var(--accent);margin:0 0 14px}
+.meta{display:flex;flex-wrap:wrap;gap:6px 18px;color:var(--muted);font-size:14px}
+.meta a{color:var(--ink)}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);border-bottom:1px solid var(--line)}
+.stat{padding:16px 20px;border-right:1px solid var(--line)}
+.stat:last-child{border-right:0}
+.stat b{display:block;font-size:22px;letter-spacing:-.01em}
+.stat span{font-size:12.5px;color:var(--muted)}
+
+.grid{display:grid;grid-template-columns:1fr 290px}
+main{padding:30px 40px 36px;border-right:1px solid var(--line)}
+aside{padding:30px 26px 36px;background:color-mix(in srgb,var(--chip) 45%,var(--paper))}
+h2{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 14px;padding-bottom:8px;border-bottom:1px solid var(--line)}
+section+section{margin-top:30px}
+p{margin:0 0 10px}
+
+.job{margin-bottom:20px}
+.job-h{display:flex;justify-content:space-between;gap:12px;align-items:baseline;flex-wrap:wrap}
+.job h3{font-size:15.5px;margin:0}
+.when{font:500 12.5px "JetBrains Mono",monospace;color:var(--muted);white-space:nowrap}
+.org{color:var(--muted);font-size:14px;margin:2px 0 6px}
+ul{margin:4px 0 0;padding-left:18px}
+li{margin:3px 0}
+li::marker{color:var(--accent)}
+
+.projects{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.proj{border:1px solid var(--line);border-radius:10px;padding:14px 16px;background:var(--paper)}
+.proj h3{font-size:14.5px;margin:0 0 4px}
+.proj p{font-size:13.5px;color:var(--muted);margin:0 0 8px}
+.tags{display:flex;flex-wrap:wrap;gap:5px}
+.tag{font:500 11.5px "JetBrains Mono",monospace;background:var(--chip);color:var(--ink);border-radius:5px;padding:2px 7px}
+
+.skill-group{margin-bottom:18px}
+.skill-group h3{font-size:13.5px;margin:0 0 7px}
+.skill{display:grid;grid-template-columns:1fr 34px;align-items:center;gap:8px;font-size:13px;margin:5px 0}
+.meter{grid-column:1/-1;height:4px;background:var(--line);border-radius:4px;overflow:hidden;margin-top:-2px}
+.meter i{display:block;height:100%;background:var(--accent);border-radius:4px}
+.pct{font:500 11.5px "JetBrains Mono",monospace;color:var(--muted);text-align:right}
+.edu{margin-bottom:12px;font-size:13.5px}
+.edu b{display:block}
+.edu span{color:var(--muted);font-size:12.5px}
+.links a{display:block;font-size:13.5px;margin:4px 0}
+.avail{background:var(--accent-soft);color:var(--ink);border-radius:8px;padding:10px 12px;font-size:13px}
+
+@media (max-width:820px){
+  .grid{grid-template-columns:1fr}
+  main{border-right:0;border-bottom:1px solid var(--line);padding:24px 16px}
+  aside{padding:24px 16px}
+  header{padding:28px 16px 22px 24px}
+  h1{font-size:27px}
+  .stats{grid-template-columns:1fr 1fr}
+  .stat:nth-child(2){border-right:0}
+  .stat:nth-child(-n+2){border-bottom:1px solid var(--line)}
+  .projects{grid-template-columns:1fr}
+  .cv{border-radius:0;border-left:0;border-right:0}
+}
+@media print{
+  @page{size:Letter;margin:12mm}
+  :root{--bg:#fff;--paper:#fff;--ink:#111;--muted:#555;--line:#ddd;--accent:#b3123a;--chip:#f1f1f1;--accent-soft:#fbe9ee}
+  body{font-size:12.5px;background:#fff}
+  .bar{display:none}
+  .cv{border:0;margin:0;max-width:none}
+  header{padding:0 0 14px 16px}
+  main{padding:16px 18px 0 0}
+  aside{padding:16px 0 0 16px;background:#fff}
+  .proj,.job{break-inside:avoid}
+  a{color:var(--ink)}
+}
+</style>
+</head>
+<body>
+<div class="bar">
+  <button id="lang" type="button" aria-label="Cambiar idioma / Switch language">EN</button>
+  <button id="theme" type="button" aria-label="Tema">◐</button>
+  <button type="button" onclick="window.print()"><span lang="es">Descargar PDF</span><span lang="en">Download PDF</span></button>
+</div>
+
+<article class="cv">
+<header>
+  <h1>Jesús Gonzalo Márquez Gaytán</h1>
+  <p class="role">
+    <span lang="es">Desarrollador Unity / XR · Artista 3D en tiempo real · Creador de mundos VRChat</span>
+    <span lang="en">Unity / XR Developer · Real-time 3D Artist · VRChat World Builder</span>
+  </p>
+  <div class="meta">
+    <span>📍 Cd. Juárez, Chihuahua, México</span>
+    <span lang="es">Remoto · Híbrido · Por proyecto</span><span lang="en">Remote · Hybrid · Contract</span>
+    <a href="mailto:shadowcarmesi@gmail.com">shadowcarmesi@gmail.com</a>
+    <a href="https://github.com/Dioscarmesi">github.com/Dioscarmesi</a>
+  </div>
+</header>
+
+<div class="stats">
+  <div class="stat"><b>4.9/5</b><span lang="es">Fiverr · 50+ ventas</span><span lang="en">Fiverr · 50+ orders</span></div>
+  <div class="stat"><b>USD 29.7k</b><span lang="es">Ventas de assets en Gumroad (5 años)</span><span lang="en">Gumroad asset sales (5 yrs)</span></div>
+  <div class="stat"><b>2022–hoy</b><span lang="es">Mundos VRChat publicados</span><span lang="en">Published VRChat worlds</span></div>
+  <div class="stat"><b>PC · Quest · iOS</b><span lang="es">Optimización multiplataforma</span><span lang="en">Cross-platform optimization</span></div>
+</div>
+
+<div class="grid">
+<main>
+  <section>
+    <h2><span lang="es">Perfil</span><span lang="en">Profile</span></h2>
+    <p lang="es">Licenciado en Diseño Digital de Multimedios Interactivos. Construyo experiencias en tiempo real de punta a punta: entornos 3D optimizados, sistemas multijugador en UdonSharp (sincronización, ownership, seguridad de red), interfaces en el mundo y las herramientas y servicios web que los sostienen. Trabajo con un pipeline 3D asistido por IA (Blender, Meshy, rig y animación) y con modelos locales para automatizar producción.</p>
+    <p lang="en">B.A. in Interactive Digital Multimedia Design. I build real-time experiences end to end: optimized 3D environments, multiplayer systems in UdonSharp (sync, ownership, network security), in-world UI, and the web tools and services behind them. I use an AI-assisted 3D pipeline (Blender, Meshy, rigging and animation) and local models to automate production.</p>
+  </section>
+
+  <section>
+    <h2><span lang="es">Experiencia</span><span lang="en">Experience</span></h2>
+
+    <div class="job">
+      <div class="job-h"><h3><span lang="es">Desarrollador independiente — Mundos VRChat y herramientas</span><span lang="en">Independent Developer — VRChat Worlds &amp; Tools</span></h3><span class="when">2022 – <span lang="es">hoy</span><span lang="en">present</span></span></div>
+      <p class="org">Unity · UdonSharp · Blender · Electron · Node/PHP</p>
+      <ul lang="es">
+        <li>Diseño y desarrollo de mundos sociales y de eventos (Furry Spanish, OASIS, Shrink Room, Golden Fox, Midnight), con lightmaps, presupuestos de draw calls y versiones PC/Quest.</li>
+        <li>Sistema de cine en VRChat: menú tipo streaming, búsqueda nativa de YouTube, atlas dinámico de carteles y telemetría con consentimiento del jugador.</li>
+        <li>Juegos multijugador en UdonSharp con turnos, autoridad del master y estado sincronizado: UNO, Buckshot Roulette 1v1, un Monopoly de dos tableros y un idle cooperativo con Persistence.</li>
+        <li>Herramientas de comunidad: roles, reputación, listas protegidas y mitigación de abuso (auditoría contra clientes modificados).</li>
+      </ul>
+      <ul lang="en">
+        <li>Designed and built social and event worlds (Furry Spanish, OASIS, Shrink Room, Golden Fox, Midnight) with lightmapping, draw-call budgets and PC/Quest builds.</li>
+        <li>VRChat cinema system: streaming-style menu, native YouTube search, dynamic poster atlas and consent-based player telemetry.</li>
+        <li>Multiplayer games in UdonSharp with turns, master authority and synced state: UNO, 1v1 Buckshot Roulette, a two-board Monopoly and a co-op idle game using Persistence.</li>
+        <li>Community tooling: roles, reputation, protected lists and abuse mitigation (audited against modified clients).</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-h"><h3>UACJ — IADA <span lang="es">(proyectos)</span><span lang="en">(projects)</span></h3><span class="when">2023 – 2025</span></div>
+      <ul lang="es">
+        <li>Props y escenarios para <i>Ciudades Hermanas</i>, <i>Postales de México AR</i> y <i>Postales de México VR</i>.</li>
+        <li>Capacitación y soporte a estudiantes y público con Meta Quest 3.</li>
+      </ul>
+      <ul lang="en">
+        <li>Props and environments for <i>Ciudades Hermanas</i>, <i>Postales de México AR</i> and <i>Postales de México VR</i>.</li>
+        <li>Training and support for students and visitors on Meta Quest 3.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-h"><h3><span lang="es">Centro Cultural de las Fronteras — Multimedia</span><span lang="en">Centro Cultural de las Fronteras — Multimedia</span></h3><span class="when">2024</span></div>
+      <ul><li lang="es">Contenido multimedia para videomapping.</li><li lang="en">Multimedia content for projection mapping.</li></ul>
+    </div>
+
+    <div class="job">
+      <div class="job-h"><h3><span lang="es">Artista 3D freelance — Fiverr y Gumroad</span><span lang="en">Freelance 3D Artist — Fiverr &amp; Gumroad</span></h3><span class="when">2018 – <span lang="es">hoy</span><span lang="en">present</span></span></div>
+      <ul lang="es">
+        <li>Assets listos para producción: modelado, UVs, baking, texturizado y optimización para tiempo real.</li>
+        <li>4.9/5 con 50+ órdenes (tickets de USD 300–1,000); USD 29.7k en ventas de avatares y mundos en Gumroad.</li>
+      </ul>
+      <ul lang="en">
+        <li>Production-ready assets: modeling, UVs, baking, texturing and real-time optimization.</li>
+        <li>4.9/5 over 50+ orders (USD 300–1,000 tickets); USD 29.7k in avatar and world sales on Gumroad.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2><span lang="es">Proyectos destacados</span><span lang="en">Selected projects</span></h2>
+    <div class="projects">
+      <div class="proj">
+        <h3>CineVR</h3>
+        <p lang="es">Cine para VRChat con catálogo tipo streaming, búsqueda de YouTube y telemetría consentida.</p>
+        <p lang="en">VRChat cinema with a streaming-style catalog, YouTube search and consent-based telemetry.</p>
+        <div class="tags"><span class="tag">UdonSharp</span><span class="tag">uGUI/TMP</span><span class="tag">Networking</span></div>
+      </div>
+      <div class="proj">
+        <h3>OSC Cine VR</h3>
+        <p lang="es">App de escritorio y backend de sesiones que da acceso al catálogo por Patreon con enlaces únicos.</p>
+        <p lang="en">Desktop app and session backend granting catalog access through Patreon with unique links.</p>
+        <div class="tags"><span class="tag">Electron</span><span class="tag">Node</span><span class="tag">OAuth</span></div>
+      </div>
+      <div class="proj">
+        <h3>WorldTool</h3>
+        <p lang="es">Herramienta para creadores de mundos con servidor de licencias en la nube y flujo de releases.</p>
+        <p lang="en">Tool for world creators with a cloud license server and release pipeline.</p>
+        <div class="tags"><span class="tag">Unity Editor</span><span class="tag">Backend</span><span class="tag">CI</span></div>
+      </div>
+      <div class="proj">
+        <h3>Exódromo</h3>
+        <p lang="es">Idle arcade cooperativo para PC y Quest: votación de vagones, economía y guardado persistente.</p>
+        <p lang="en">Co-op arcade idle for PC and Quest: wagon voting, economy and persistent saves.</p>
+        <div class="tags"><span class="tag">UdonSharp</span><span class="tag">Persistence</span><span class="tag">Quest</span></div>
+      </div>
+      <div class="proj">
+        <h3><span lang="es">Pipeline 3D con IA</span><span lang="en">AI 3D pipeline</span></h3>
+        <p lang="es">De concepto a malla, rig y animación: 16 criaturas marinas riggeadas y animadas para un mundo.</p>
+        <p lang="en">Concept to mesh, rig and animation: 16 sea creatures rigged and animated for one world.</p>
+        <div class="tags"><span class="tag">Blender</span><span class="tag">Meshy</span><span class="tag">Python</span></div>
+      </div>
+      <div class="proj">
+        <h3>Kazimir</h3>
+        <p lang="es">Doblaje automático japonés → español latino con modelos locales: separación de voz, traducción y TTS.</p>
+        <p lang="en">Automatic Japanese → Latin American Spanish dubbing with local models: vocal separation, translation, TTS.</p>
+        <div class="tags"><span class="tag">Python</span><span class="tag">Ollama</span><span class="tag">ffmpeg</span></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<aside>
+  <section>
+    <h2><span lang="es">Disponibilidad</span><span lang="en">Availability</span></h2>
+    <p class="avail" lang="es">Tiempo completo, por proyecto o freelance. Remoto (zona Montaña, UTC−7) o híbrido en Cd. Juárez.</p>
+    <p class="avail" lang="en">Full-time, contract or freelance. Remote (Mountain Time, UTC−7) or hybrid in Cd. Juárez.</p>
+  </section>
+
+  <section>
+    <h2><span lang="es">Habilidades</span><span lang="en">Skills</span></h2>
+    <div class="skill-group">
+      <h3>Unity / VRChat</h3>
+      <div class="skill">UdonSharp (sync, ownership)<span class="pct">90</span><div class="meter"><i style="width:90%"></i></div></div>
+      <div class="skill"><span lang="es">Optimización PC/Quest/iOS</span><span lang="en">PC/Quest/iOS optimization</span><span class="pct">90</span><div class="meter"><i style="width:90%"></i></div></div>
+      <div class="skill">Unity (lighting, profiling)<span class="pct">88</span><div class="meter"><i style="width:88%"></i></div></div>
+    </div>
+    <div class="skill-group">
+      <h3>3D</h3>
+      <div class="skill">Substance Painter<span class="pct">93</span><div class="meter"><i style="width:93%"></i></div></div>
+      <div class="skill">Blender<span class="pct">92</span><div class="meter"><i style="width:92%"></i></div></div>
+      <div class="skill">Retopo + UVs + Baking<span class="pct">90</span><div class="meter"><i style="width:90%"></i></div></div>
+    </div>
+    <div class="skill-group">
+      <h3>Web</h3>
+      <div class="skill">HTML + CSS<span class="pct">90</span><div class="meter"><i style="width:90%"></i></div></div>
+      <div class="skill">PHP + MySQL<span class="pct">78</span><div class="meter"><i style="width:78%"></i></div></div>
+      <div class="skill">JavaScript / Electron<span class="pct">65</span><div class="meter"><i style="width:65%"></i></div></div>
+    </div>
+    <div class="tags">
+      <span class="tag">C#</span><span class="tag">Python</span><span class="tag">Git</span><span class="tag">Photoshop</span><span class="tag">Meta Quest</span><span class="tag">ComfyUI</span>
+    </div>
+  </section>
+
+  <section>
+    <h2><span lang="es">Educación</span><span lang="en">Education</span></h2>
+    <div class="edu"><b lang="es">Lic. Diseño Digital de Multimedios Interactivos</b><b lang="en">B.A. Interactive Digital Multimedia Design</b><span>UACJ · 2018 – 2025</span></div>
+    <div class="edu"><b lang="es">Ing. en Sistemas Computacionales (trunca)</b><b lang="en">Computer Systems Engineering (incomplete)</b><span>2015 – 2017</span></div>
+  </section>
+
+  <section>
+    <h2><span lang="es">Reconocimientos</span><span lang="en">Recognition</span></h2>
+    <ul>
+      <li lang="es">Hackathon 2019 (UACJ–IADA): staff y guía.</li><li lang="en">Hackathon 2019 (UACJ–IADA): staff and mentor.</li>
+      <li lang="es">Postales de México (UACJ): soporte con Meta Quest 3.</li><li lang="en">Postales de México (UACJ): Meta Quest 3 support.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span lang="es">Idiomas</span><span lang="en">Languages</span></h2>
+    <p style="font-size:13.5px"><span lang="es">Español nativo · Inglés intermedio (lectura técnica fuerte)</span><span lang="en">Spanish (native) · English (intermediate, strong technical reading)</span></p>
+  </section>
+
+  <section>
+    <h2>Links</h2>
+    <div class="links">
+      <a href="../PortafolioWEB/index.html"><span lang="es">Portafolio completo</span><span lang="en">Full portfolio</span></a>
+      <a href="../PortafolioWEB/vr.html"><span lang="es">Proyectos VR</span><span lang="en">VR projects</span></a>
+      <a href="https://es.fiverr.com/sellers/dioscarmesi">Fiverr</a>
+      <a href="https://carmesi115.gumroad.com">Gumroad</a>
+      <a href="https://github.com/Dioscarmesi">GitHub</a>
+    </div>
+  </section>
+</aside>
+</div>
+</article>
+
+<script>
+(function(){
+  var root=document.documentElement, L=document.getElementById('lang'), T=document.getElementById('theme');
+  function get(k){try{return localStorage.getItem(k)}catch(e){return null}}
+  function set(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+  function setLang(l){root.className=l;root.lang=l;L.textContent=l==='es'?'EN':'ES';set('cv-lang',l)}
+  var q=new URLSearchParams(location.search).get('lang');
+  setLang(q==='en'||q==='es'?q:(get('cv-lang')||'es'));
+  L.onclick=function(){setLang(root.className==='es'?'en':'es')};
+  var t=get('cv-theme'); if(t) root.dataset.theme=t;
+  T.onclick=function(){var dark=root.dataset.theme?root.dataset.theme==='dark':matchMedia('(prefers-color-scheme: dark)').matches;root.dataset.theme=dark?'light':'dark';set('cv-theme',root.dataset.theme)};
+})();
+</script>
+</body>
+</html>
